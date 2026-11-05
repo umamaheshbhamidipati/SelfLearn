@@ -24,7 +24,7 @@ Add music in Instagram / YouTube's own audio library when posting.
 
 ## Instagram (post Sat 7 Nov, 6–8 PM IST)
 
-**Caption** (check the Telugu before posting):
+**Caption** (Telugu approved 2026-11-05):
 ```
 దీపావళి రోజు మనం దీపాలు ఎందుకు వెలిగిస్తాం? 🪔
 

@@ -3,7 +3,7 @@
 No voiceover. Telugu text on screen (burned in with `scripts/captions.sh` from `text.srt`).
 Text is added in the edit, never in the AI image (AI-generated Telugu letters come out garbled).
 
-**⚠️ Check every Telugu line yourself before posting** (spelling and how natural it sounds).
+**Telugu checked and approved by the owner on 2026-11-05.**
 
 | Time (s) | Shot | On-screen Telugu | Meaning |
 |---|---|---|---|
