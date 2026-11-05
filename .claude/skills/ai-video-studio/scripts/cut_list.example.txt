@@ -1,0 +1,12 @@
+# path|start|duration|transition_into_next
+# Reel rhythm: detail hook -> wides -> details -> hero (long) -> face late -> payoff
+clips/shot06_paw.mp4|2.6|2.4|fade
+clips/shot07_topdown.mp4|0.5|2.6|fade
+clips/shot02_wide.mp4|1.0|3.0|fade
+clips/shot05_lotus.mp4|1.0|2.0|fade
+clips/shot09_silhouette.mp4|3.0|2.6|fade
+clips/shot01_walk.mp4|2.0|2.6|fade
+clips/shot03_blessing.mp4|1.5|2.8|fadewhite
+clips/shot08_roar.mp4|1.2|5.8|fade
+clips/shot04_face.mp4|1.0|3.2|fade
+clips/shot10_finale.mp4|2.5|5.0|fade

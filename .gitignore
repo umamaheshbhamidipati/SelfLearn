@@ -1,0 +1,29 @@
+# Media never goes in git (too big). Keep it in projects/<slug>/media/ locally
+# and back it up to Drive: scripts/backup.sh  →  gdrive:SelfLearn/
+media/
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.psd
+
+# Allow small images that document the repo itself
+!docs/**/*.png
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+*.swp
+__pycache__/
