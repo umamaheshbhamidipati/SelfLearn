@@ -4,6 +4,7 @@
 
 | Date | Shot | Mode | Credits | Result | What I changed |
 |---|---|---|---|---|---|
+| 2026-11-05 | stills 00–10 | Gemini (Nano Banana) | 0 Flow | all usable | 08 re-rolled: footprints walking inward |
 
 **Credits used total:** 
 

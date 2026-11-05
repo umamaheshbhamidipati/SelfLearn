@@ -16,18 +16,23 @@ No text, no watermark, no extra fingers, no distorted face.
 
 | # | Used (s) | What happens | Mode | Status |
 |---|---|---|---|---|
-| 01 | 0–3 | **HOOK** face close-up, diya light, eyes to camera | Lite | todo |
-| 02 | 3–6 | Milk ocean churning at night, golden light rising | Lite | todo |
-| 03 | 6–9 | Pink lotus rising from the glowing waves and opening | Lite | todo |
-| 04 | 9–14 | **HERO** Lakshmi standing on the lotus, low angle, halo | Lite | todo |
-| 05 | 14–17 | Two white elephants raise trunks and shower water | Lite | todo |
-| 06 | 17–19 | Macro: gold coins falling from her palm | Lite | todo |
-| 07 | 19–22 | Village street at night, rows of diyas, muggulu (rangoli) | Lite | todo |
-| 08 | 22–24 | Lakshmi's red footprints on a doorstep, diyas glowing | Lite | todo |
-| 09 | 24–27 | Lakshmi steps through a lamp-lit doorway, blessing | Lite | todo |
-| 10 | 27–30 | Blessing to camera, fireworks behind (end card) | Lite | todo |
+| 01 | 0–3 | **HOOK** face close-up, diya light, eyes to camera | Lite | still ✅ |
+| 02 | 3–6 | Milk ocean churning at night, golden light rising | Lite | still ✅ |
+| 03 | 6–9 | Pink lotus rising from the glowing waves and opening | Lite | still ✅ |
+| 04 | 9–14 | **HERO** Lakshmi standing on the lotus, low angle, halo | Lite | still ✅ |
+| 05 | 14–17 | Two white elephants raise trunks and shower water | Lite | still ✅ |
+| 06 | 17–19 | Macro: gold coins falling from her palm | Lite | still ✅ |
+| 07 | 19–22 | Village street at night, rows of diyas, muggulu (rangoli) | Lite | still ✅ |
+| 08 | 22–24 | Lakshmi's red footprints on a doorstep, diyas glowing | Lite | still ✅ |
+| 09 | 24–27 | Lakshmi steps through a lamp-lit doorway, blessing | Lite | still ✅ |
+| 10 | 27–30 | Blessing to camera, fireworks behind (end card) | Lite | still ✅ |
 
 10 clips × 10 credits = 100, plus ~50 for re-rolls.
+
+Stills generated 2026-11-05 in one Gemini chat ("1980s Mythological Goddess Lakshmi Portrait"),
+1536×2752 PNG in `media/stills/` (00-master + 01–10). 08 re-rolled once: first version had the
+footprints walking out of the house (kept as `08-v1-outward.png`). Face consistent across
+00/01/04/09/10; four arms intact in 04/09/10. 06 came out palm-up (fine).
 Risk: four arms can morph in motion. If they do, re-roll once with "four arms stay still and
 complete"; if still bad, regenerate that still with only the blessing hand visible.
 
