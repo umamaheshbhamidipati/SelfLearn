@@ -1,0 +1,15 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 2048
+PlayResY: 1152
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Noto Serif,190,&H006AC8F5,&H006AC8F5,&H00000000,&H90000000,-1,0,0,0,100,100,2,0,1,0,5,5,0,0,0,1
+Style: Sub,Noto Sans Telugu,60,&H00C8E6F3,&H00C8E6F3,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,0,3,5,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,Title,,0,0,0,,{\pos(1024,545)}UmaAI Studio
+Dialogue: 0,0:00:00.00,0:00:10.00,Sub,,0,0,0,,{\pos(1024,690)}తెలుగు AI కథలు{\fnNoto Sans}  •  Telugu AI Short Stories
