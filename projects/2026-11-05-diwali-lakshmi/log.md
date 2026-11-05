@@ -10,8 +10,13 @@
 | 2026-11-05 | 02 ocean | Veo 3.1 Lite | 10 | ✅ first try | |
 | 2026-11-05 | 03 lotus | Veo 3.1 Lite | 10 | ✅ first try | |
 | 2026-11-05 | 05 elephants | Veo 3.1 Lite | 10 | ✅ first try | |
+| 2026-11-05 | 06 coins | Veo 3.1 Lite | 10 | ✅ first try | |
+| 2026-11-05 | 07 village | Veo 3.1 Lite | 10 | ✅ first try | she walks off after ~3.5 s: use 0.5–3.5 s |
+| 2026-11-05 | 08 footprints | Veo 3.1 Lite | 10 | ✅ first try | glow travels inward along the footprints |
+| 2026-11-05 | 09 doorway | Veo 3.1 Lite | 10 | ✅ first try | grounded steps, four arms intact |
+| 2026-11-05 | 10 blessing | Veo 3.1 Lite | 10 | ✅ first try | push-in crops right lotus; small sparkle artefacts |
 
-**Credits used total:** 50 (balance 230 → 180 on 2026-11-05; resets 15 Nov)
+**Credits used total:** 100 for 10 clips, 0 re-rolls (balance 230 → 130 on 2026-11-05; resets 15 Nov)
 
 ## After 7 days (Instagram Insights / YouTube Studio)
 

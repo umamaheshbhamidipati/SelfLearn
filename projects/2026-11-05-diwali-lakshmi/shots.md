@@ -21,11 +21,11 @@ No text, no watermark, no extra fingers, no distorted face.
 | 03 | 6–9 | Pink lotus rising from the glowing waves and opening | Lite | clip ✅ |
 | 04 | 9–14 | **HERO** Lakshmi standing on the lotus, low angle, halo | Lite | clip ✅ |
 | 05 | 14–17 | Two white elephants raise trunks and shower water | Lite | clip ✅ |
-| 06 | 17–19 | Macro: gold coins falling from her palm | Lite | still ✅ |
-| 07 | 19–22 | Village street at night, rows of diyas, muggulu (rangoli) | Lite | still ✅ |
-| 08 | 22–24 | Lakshmi's red footprints on a doorstep, diyas glowing | Lite | still ✅ |
-| 09 | 24–27 | Lakshmi steps through a lamp-lit doorway, blessing | Lite | still ✅ |
-| 10 | 27–30 | Blessing to camera, fireworks behind (end card) | Lite | still ✅ |
+| 06 | 17–19 | Macro: gold coins falling from her palm | Lite | clip ✅ |
+| 07 | 19–22 | Village street at night, rows of diyas, muggulu (rangoli) | Lite | clip ✅ |
+| 08 | 22–24 | Lakshmi's red footprints on a doorstep, diyas glowing | Lite | clip ✅ |
+| 09 | 24–27 | Lakshmi steps through a lamp-lit doorway, blessing | Lite | clip ✅ |
+| 10 | 27–30 | Blessing to camera, fireworks behind (end card) | Lite | clip ✅ |
 
 10 clips × 10 credits = 100, plus ~50 for re-rolls.
 
@@ -100,7 +100,8 @@ Suffix every one with: `Warm 1980s film look. Keep face, crown, jewellery and sa
 | 10 | She smiles and holds the blessing gesture; golden fireworks burst and fade in the sky behind her; flames flicker; slow push-in. |
 
 Clips 01–05 animated 2026-11-05 (Flow project "Nov 05 - 13:30", Veo 3.1 Lite, 9:16), all usable
-first try. 01: long blink (eyes closed ~1.5–3.5 s) → start the cut where her eyes are open.
+first try; 06–10 animated the same day, also all first try. 01: long blink (eyes closed ~1.5–3.5 s) → start the cut where her eyes are open. 07: she stands and walks off after ~3.5 s → use 0.5–3.5 s.
+10: push-in crops the right-hand lotus at the edge; a few gold sparkles drift past her face (minor).
 
 Download each at 720p as `media/clips/01.mp4` … `10.mp4`. Review with
 `bash .claude/skills/ai-video-studio/scripts/contact_sheet.sh <clip> <sheet.jpg>` before editing.
