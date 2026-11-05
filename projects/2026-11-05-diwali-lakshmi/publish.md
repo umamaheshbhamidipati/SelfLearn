@@ -8,7 +8,10 @@ bash ../../.claude/skills/ai-video-studio/scripts/roughcut.sh cut_list.txt media
 bash ../../scripts/captions.sh media/out/cut.mp4 text.srt media/out/final.mp4 22
 bash ../../.claude/skills/ai-video-studio/scripts/contact_sheet.sh media/out/final.mp4 media/out/final_sheet.jpg 12
 ```
-`final.mp4` is muted: add audio in Instagram / YouTube's own music library.
+Two versions, both silent (no clip audio, no voice, no music):
+- `media/out/diwali-lakshmi-clean.mp4`: no captions (copy of `cut.mp4`)
+- `media/out/final.mp4`: with the Telugu captions
+Add music in Instagram / YouTube's own audio library when posting.
 
 ## Hook check (before posting; the first AI reel lost viewers in 2 s)
 
