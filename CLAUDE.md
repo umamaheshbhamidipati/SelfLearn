@@ -17,11 +17,14 @@ ten perfect plans.
 
 ## Channel plan (decided 2026-11-05)
 
-- **Niche:** Telugu devotional / mythological AI Reels and short stories. Language: Telugu
-  (captions in Telugu; English title line optional).
+- **Channel:** **UmaAI**, AI-made Telugu short stories. Devotional / mythological is the first
+  series (Diwali Lakshmi, Nov 2026); other, non-devotional short stories come later. Keep each
+  series in its own YouTube playlist and give each a consistent look and title prefix, so viewers
+  of one series can find more of the same. Language: Telugu (captions in Telugu; English title
+  line optional).
 - **Primary: Instagram @umamaheshbhamidipati** (426 followers on 2026-11-05; Telugu audience that
   already watches its temple/devotional reels). 1–2 Reels a week, 20–30 s, 9:16.
-- **YouTube: a new brand channel** (to be created by the owner) for the same videos as Shorts.
+- **YouTube: brand channel "UmaAI"** (created by the owner) for the same videos as Shorts.
   The personal channel @UmaMaheshBhamidipati (332 subs; hit = a 139K-view repair how-to) stays
   tech/repair; Telugu "how I make AI videos" tutorials may go there later.
 - **Credits:** ~350/week free (50/day) + 200/month ≈ 400/week. One 30 s Reel ≈ 150–250 credits,
