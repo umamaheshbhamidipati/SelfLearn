@@ -24,7 +24,8 @@ ten perfect plans.
   line optional).
 - **Primary: Instagram @umamaheshbhamidipati** (426 followers on 2026-11-05; Telugu audience that
   already watches its temple/devotional reels). 1–2 Reels a week, 20–30 s, 9:16.
-- **YouTube: brand channel "UmaAI"** (created by the owner) for the same videos as Shorts.
+- **YouTube: brand channel "UmaAI Studio", @UmaAIVideoStudio** (created by the owner 2026-11-05,
+  youtube.com/@UmaAIVideoStudio) for the same videos as Shorts.
   The personal channel @UmaMaheshBhamidipati (332 subs; hit = a 139K-view repair how-to) stays
   tech/repair; Telugu "how I make AI videos" tutorials may go there later.
 - **Credits:** ~350/week free (50/day) + 200/month ≈ 400/week. One 30 s Reel ≈ 150–250 credits,
