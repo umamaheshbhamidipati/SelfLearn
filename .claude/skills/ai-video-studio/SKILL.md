@@ -72,8 +72,10 @@ palette matches, no morphing hands. Re-roll bad clips with a sharper prompt (see
 bash scripts/roughcut.sh cut_list.txt out.mp4          # crossfades, crop, optional warm grade
 ```
 `cut_list.txt` lines: `path|start|duration|transition` (transition = fade, fadewhite, fadeblack, …).
-Rhythm that performs on Instagram: hook detail shot first, 2–3 s cuts, one long hero shot (5–6 s),
-face withheld until ~2/3 through, end on the blessing/payoff shot. Mute the export — add licensed
+Rhythm: **open on the strongest image (face or hero shot) as the very first frame**, 2–3 s cuts,
+one long hero shot (5–6 s), end on the blessing/payoff shot. (Updated 2026-11-05: the first reel
+opened on a slow detail shot and kept viewers only 2 s on average. See `docs/lessons.md`.)
+No fade-in from black (`roughcut.sh` has none unless `--fade-in`). Set a cover frame when posting. Mute the export — add licensed
 music in Instagram's own audio library.
 
 ### 5b. YouTube versions

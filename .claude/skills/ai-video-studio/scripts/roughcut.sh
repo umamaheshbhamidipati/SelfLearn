@@ -2,17 +2,19 @@
 # Rough cut from a cut list: trims, centred 9:16 fill (keeps the AI watermark visible), crossfades,
 # optional warm film grade, muted output.
 #
-# Usage: roughcut.sh <cut_list.txt> <out.mp4> [--grade] [--xfade 0.3]
+# Usage: roughcut.sh <cut_list.txt> <out.mp4> [--grade] [--xfade 0.3] [--fade-in]
+# No fade-in by default: the first frame must be the hook (a black start lost viewers in 2 s).
 # cut_list.txt, one shot per line ('#' comments allowed):
 #   path/to/clip.mp4|start_seconds|duration_seconds|transition_into_next
 # transitions: fade fadeblack fadewhite dissolve wipeleft slideup circleopen ... (ffmpeg xfade names)
 set -e
 source "$(dirname "$0")/_ff.sh"
 LIST="$1"; OUT="$2"; shift 2 || true
-GRADE=0; XF=0.3
+GRADE=0; XF=0.3; FADEIN=0
 while [ $# -gt 0 ]; do
   case "$1" in
     --grade) GRADE=1 ;;
+    --fade-in) FADEIN=1 ;;
     --xfade) XF="$2"; shift ;;
   esac
   shift
@@ -46,7 +48,8 @@ if [ "$GRADE" = 1 ]; then
   # warm, slightly desaturated 1980s film look + light grain + vignette
   post="colorbalance=rs=0.04:gs=-0.01:bs=-0.06:rm=0.06:gm=-0.02:bm=-0.06:rh=0.05:gh=0.01:bh=-0.06,eq=saturation=0.92:contrast=1.04:gamma=0.98,vignette=angle=PI/5,noise=alls=4:allf=t,"
 fi
-filt+="[$prev]${post}fade=t=in:st=0:d=0.4,fade=t=out:st=$fo:d=0.8,format=yuv420p[out]"
+fin=""; [ "$FADEIN" = 1 ] && fin="fade=t=in:st=0:d=0.4,"
+filt+="[$prev]${post}${fin}fade=t=out:st=$fo:d=0.8,format=yuv420p[out]"
 
 "$FF" -v error -y "${inputs[@]}" -filter_complex "$filt" -map "[out]" -an \
   -c:v libx264 -preset medium -crf 22 -maxrate 8M -bufsize 16M -pix_fmt yuv420p -movflags +faststart "$OUT"
