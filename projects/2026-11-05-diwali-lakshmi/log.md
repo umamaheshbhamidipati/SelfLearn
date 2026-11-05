@@ -17,6 +17,7 @@
 | 2026-11-05 | 10 blessing | Veo 3.1 Lite | 10 | ✅ first try | push-in crops right lotus; small sparkle artefacts |
 
 | 2026-11-05 | edit | roughcut.sh --grade + captions.sh | 0 | ✅ | 15:36–15:40 IST (after market close); cut 29.3 s; clean + captioned |
+| 2026-11-05 | 10 replaced | ffmpeg push-in on still 10 | 0 | ✅ | owner: Veo clip 10 had coins + a flame streak over her face (26–29 s). Ken Burns on the clean still instead; last caption extended to the end |
 
 **Credits used total:** 100 for 10 clips, 0 re-rolls (balance 230 → 130 on 2026-11-05; resets 15 Nov)
 
