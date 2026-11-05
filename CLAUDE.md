@@ -15,7 +15,19 @@ ten perfect plans.
 | Editing | ffmpeg (`scripts/`), CapCut for hand edits | ffmpeg 8.0.1 installed 2026-11-05 |
 | YouTube SEO | vidIQ free extension, YouTube Studio analytics | |
 
-Not decided yet: channel niche and language. Ask before assuming.
+## Channel plan (decided 2026-11-05)
+
+- **Niche:** Telugu devotional / mythological AI Reels and short stories. Language: Telugu
+  (captions in Telugu; English title line optional).
+- **Primary: Instagram @umamaheshbhamidipati** (426 followers on 2026-11-05; Telugu audience that
+  already watches its temple/devotional reels). 1–2 Reels a week, 20–30 s, 9:16.
+- **YouTube: a new brand channel** (to be created by the owner) for the same videos as Shorts.
+  The personal channel @UmaMaheshBhamidipati (332 subs; hit = a 139K-view repair how-to) stays
+  tech/repair; Telugu "how I make AI videos" tutorials may go there later.
+- **Credits:** ~350/week free (50/day) + 200/month ≈ 400/week. One 30 s Reel ≈ 150–250 credits,
+  so 1–2 a week fits; reuse clips across videos.
+- **Success metric:** average watch time and shares/saves, not likes. Baseline (first AI reel,
+  15 Oct): 401 views, 0:02 average watch time, 0 shares/saves/follows. Next target: 5–8 s.
 
 ## Skill
 
@@ -33,12 +45,14 @@ usable clip, so a 30 s Reel ≈ 150–250 credits.
    `templates/flow-prompt.md`. Repeat the same character/style block in every prompt.
 4. Plan credits in `shots.md` before generating: test prompts on the cheaper/fast mode,
    spend quality credits only on final shots. Log what each shot cost in `log.md`.
-5. Generate in Flow by hand; download clips to `projects/<slug>/media/clips/` as `01.mp4`, `02.mp4`…
+5. Generate in Flow (by hand, or Claude via Chrome with your Approve per clip); download clips to `projects/<slug>/media/clips/` as `01.mp4`, `02.mp4`…
 6. Edit with `scripts/` (join, add audio, captions, Shorts crop). Final file in `media/out/`.
-7. Publish: title/description/tags from `publish.md`. Tick YouTube's
+7. Publish: run the hook check in `publish.md` first, then post (Instagram first, then the same
+   video as a YouTube Short). Tick YouTube's
    "altered or synthetic content" disclosure when the video shows realistic AI-made people,
    places or events.
-8. After 7 days, note views/CTR/retention in `log.md` and one lesson in `docs/lessons.md`.
+8. After 7 days, fill the metrics table in `log.md` (average watch time and shares first) and add
+   one lesson to `docs/lessons.md`.
 
 ## Rules
 

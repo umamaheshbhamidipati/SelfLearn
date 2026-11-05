@@ -7,10 +7,16 @@
 
 **Credits used total:** 
 
-## After 7 days
+## After 7 days (Instagram Insights / YouTube Studio)
 
-- Views:
-- Click-through rate (CTR):
-- Average view duration / retention:
-- Subscribers gained:
-- One lesson (also add to `docs/lessons.md`):
+| Metric | Instagram | YouTube Shorts |
+|---|---|---|
+| Views | | |
+| **Average watch time** (main metric; baseline 0:02) | | |
+| % views from non-followers | | |
+| **Shares** | | |
+| **Saves** | | |
+| Follows / subscribers gained | | |
+| Likes / comments | | |
+
+One lesson (also add to `docs/lessons.md`):
