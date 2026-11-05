@@ -1,6 +1,7 @@
 # path|start|duration|transition_into_next   (run from this project folder)
 # Shot 01 starts at 0.0 so the very first frame is her face (the hook). No fade-in.
-media/clips/01.mp4|0.0|3.3|fade   # check: eyes close ~1.5-3.5 s; maybe start ~3.8 instead
+# 01: her eyes close ~1.5-3.5 s; check, and maybe start ~3.8 instead
+media/clips/01.mp4|0.0|3.3|fade
 media/clips/02.mp4|1.5|3.0|fade
 media/clips/03.mp4|1.5|3.0|fade
 media/clips/04.mp4|1.0|5.3|fadewhite
