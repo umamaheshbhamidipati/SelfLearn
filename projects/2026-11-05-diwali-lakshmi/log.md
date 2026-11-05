@@ -5,8 +5,13 @@
 | Date | Shot | Mode | Credits | Result | What I changed |
 |---|---|---|---|---|---|
 | 2026-11-05 | stills 00–10 | Gemini (Nano Banana) | 0 Flow | all usable | 08 re-rolled: footprints walking inward |
+| 2026-11-05 | 01 face | Veo 3.1 Lite | 10 | ✅ first try | long blink: pick an eyes-open start in the edit |
+| 2026-11-05 | 04 hero | Veo 3.1 Lite | 10 | ✅ first try | four arms intact all clip |
+| 2026-11-05 | 02 ocean | Veo 3.1 Lite | 10 | ✅ first try | |
+| 2026-11-05 | 03 lotus | Veo 3.1 Lite | 10 | ✅ first try | |
+| 2026-11-05 | 05 elephants | Veo 3.1 Lite | 10 | ✅ first try | |
 
-**Credits used total:** 
+**Credits used total:** 50 (balance 230 → 180 on 2026-11-05; resets 15 Nov)
 
 ## After 7 days (Instagram Insights / YouTube Studio)
 

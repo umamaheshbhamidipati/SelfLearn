@@ -16,11 +16,11 @@ No text, no watermark, no extra fingers, no distorted face.
 
 | # | Used (s) | What happens | Mode | Status |
 |---|---|---|---|---|
-| 01 | 0–3 | **HOOK** face close-up, diya light, eyes to camera | Lite | still ✅ |
-| 02 | 3–6 | Milk ocean churning at night, golden light rising | Lite | still ✅ |
-| 03 | 6–9 | Pink lotus rising from the glowing waves and opening | Lite | still ✅ |
-| 04 | 9–14 | **HERO** Lakshmi standing on the lotus, low angle, halo | Lite | still ✅ |
-| 05 | 14–17 | Two white elephants raise trunks and shower water | Lite | still ✅ |
+| 01 | 0–3 | **HOOK** face close-up, diya light, eyes to camera | Lite | clip ✅ |
+| 02 | 3–6 | Milk ocean churning at night, golden light rising | Lite | clip ✅ |
+| 03 | 6–9 | Pink lotus rising from the glowing waves and opening | Lite | clip ✅ |
+| 04 | 9–14 | **HERO** Lakshmi standing on the lotus, low angle, halo | Lite | clip ✅ |
+| 05 | 14–17 | Two white elephants raise trunks and shower water | Lite | clip ✅ |
 | 06 | 17–19 | Macro: gold coins falling from her palm | Lite | still ✅ |
 | 07 | 19–22 | Village street at night, rows of diyas, muggulu (rangoli) | Lite | still ✅ |
 | 08 | 22–24 | Lakshmi's red footprints on a doorstep, diyas glowing | Lite | still ✅ |
@@ -98,6 +98,9 @@ Suffix every one with: `Warm 1980s film look. Keep face, crown, jewellery and sa
 | 08 | Diya flames flicker; a soft golden glow travels along the footprints into the house; leaves of the toran stir; slow push-in toward the door. |
 | 09 | She walks in through the doorway with clear natural steps, grounded, no floating; the diya light brightens as she enters; blessing hand stays raised; camera holds. |
 | 10 | She smiles and holds the blessing gesture; golden fireworks burst and fade in the sky behind her; flames flicker; slow push-in. |
+
+Clips 01–05 animated 2026-11-05 (Flow project "Nov 05 - 13:30", Veo 3.1 Lite, 9:16), all usable
+first try. 01: long blink (eyes closed ~1.5–3.5 s) → start the cut where her eyes are open.
 
 Download each at 720p as `media/clips/01.mp4` … `10.mp4`. Review with
 `bash .claude/skills/ai-video-studio/scripts/contact_sheet.sh <clip> <sheet.jpg>` before editing.
