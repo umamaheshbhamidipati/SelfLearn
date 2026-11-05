@@ -19,6 +19,7 @@
 | 2026-11-05 | edit | roughcut.sh --grade + captions.sh | 0 | ✅ | 15:36–15:40 IST (after market close); cut 29.3 s; clean + captioned |
 | 2026-11-05 | 10 replaced | ffmpeg push-in on still 10 | 0 | ✅ | owner: Veo clip 10 had coins + a flame streak over her face (26–29 s). Ken Burns on the clean still instead; last caption extended to the end |
 | 2026-11-05 | voice | owner's Telugu narration, 7 lines | 0 | ✅ | trimmed, highpass + light denoise + gentle compression, each line placed ~0.2 s after its caption; −14.7 LUFS, peak −1.2 dB |
+| 2026-11-05 | posted | Instagram (owner) + YouTube Short (Claude, owner-approved) | 0 | ✅ | https://youtube.com/shorts/ZiTBYewcgY8 |
 
 **Credits used total:** 100 for 10 clips, 0 re-rolls (balance 230 → 130 on 2026-11-05; resets 15 Nov)
 

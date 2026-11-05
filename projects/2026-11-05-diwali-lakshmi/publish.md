@@ -43,7 +43,7 @@ Why do we light diyas on Diwali? To welcome Lakshmi Devi home. Happy Diwali!
 #దీపావళి #Diwali2026 #LakshmiDevi #Deepavali #TeluguDevotional
 ```
 - **Audio:** 
-- **Posted:** date · URL
+- **Posted:** 2026-11-05 by the owner (voice, no captions)
 
 ## YouTube Shorts (brand channel, same evening)
 
@@ -55,4 +55,4 @@ Why do we light diyas on Diwali? To welcome Lakshmi Devi home. Happy Diwali!
 - **Hashtags:** #shorts #Diwali #LakshmiDevi
 - **Music source + licence:** YouTube Shorts audio library
 - **Made for kids?** no
-- **Posted:** date · URL
+- **Posted:** 2026-11-05 ~17:20 IST, public, on UmaAI Studio (@UmaAIVideoStudio), playlist "భక్తి కథలు | Devotional Stories", AI use = Yes, not made for kids · https://youtube.com/shorts/ZiTBYewcgY8
