@@ -13,6 +13,10 @@ Two versions, both silent (no clip audio, no voice, no music):
 - `media/out/final.mp4`: with the Telugu captions
 Add music in Instagram / YouTube's own audio library when posting.
 
+With the owner's Telugu voice (−14.7 LUFS): `media/out/final-voice.mp4` (captions) and
+`media/out/diwali-lakshmi-voice.mp4` (no captions). Recommended upload: `final-voice.mp4`;
+keep any added music low (about 10–20 %) so the voice stays clear.
+
 ## Hook check (before posting; the first AI reel lost viewers in 2 s)
 
 - [ ] **First frame** is shot 01 (her face lit by diyas), with the question text already on screen
