@@ -44,4 +44,4 @@ One lesson (also add to `docs/lessons.md`):
   "భక్తి కథలు | Devotional Stories", AI use = Yes, not made for kids · https://youtube.com/shorts/d6YAm7o147w
   File: `media/out/happy-diwali-yt.mp4` (2-pass 3.3 Mbps, 8.6 MB, under the 10 MB browser-upload limit).
   Title: దీపావళి శుభాకాంక్షలు 🪔 Happy Diwali 2026 | UmaAI Studio
-- **Instagram:** owner posts with the music from the first AI reel.
+- **Instagram:** posted 2026-11-08 morning by the owner: `happy-diwali.mp4` + the first AI reel's music + the owner's own voice-over at the end (added in the app).
