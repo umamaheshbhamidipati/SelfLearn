@@ -35,11 +35,26 @@ Reel in this series needs narration from start to end.
 
 | Check | Result | Date |
 |---|---|---|
-| YT Advanced features | | |
-| YT audio tracks on Shorts | | |
-| IG Meta AI translate toggle + languages | | |
-| Chosen AI voice (name) | | |
-| Gemini TTS terms on video use | | |
+| YT Advanced features | **Not enabled.** Standard = on; Intermediate and Advanced = "Eligible". Intermediate needs **phone verification** (owner); Advanced then needs one of: video verification, valid ID, or channel history | 2026-11-08 |
+| YT audio tracks on Shorts | **Not checked yet.** The Short's Subtitles page first asks to set the video language (with "make default for my channel" ticked); left for the owner to decide. Likely blocked anyway until Advanced features are on | 2026-11-08 |
+| IG Meta AI translate toggle + languages | Owner to check in the Instagram app | |
+| Chosen AI voice (name) | **Blocked:** AI Studio speech playground (model `gemini-3.8-flash-tts`) returned HTTP 403, "No API key selected". Needs a Gemini API key on the owner's account (owner creates it; never pasted in chat or git) | 2026-11-08 |
+| Gemini TTS terms on video use | See "Terms" below | 2026-11-08 |
+
+### Terms (read 2026-11-08: Gemini API Additional Terms, effective 2026-03-23; Prohibited Use Policy, modified 2024-12-17)
+
+- **Ownership:** Google won't claim ownership of generated content; we are responsible for how we use it.
+  No explicit ban on using it in (monetised) videos; the Google APIs ToS was not read.
+- **Free tier (Unpaid):** prompts and outputs may be used to improve Google products and **read by human
+  reviewers**. Fine for scripts; never put personal info in prompts. Paid tier (billing on a Cloud
+  project) does not use them for training.
+- **Use restriction:** AI Studio / Gemini API is "for professional or business purposes, not for consumer
+  use". A creator channel is a business-type use; noted, not a blocker.
+- **Disclosure:** no labelling requirement in Google's terms, but the policy bans impersonating a real
+  person or claiming AI content is human-made "in order to deceive". Never clone a real person's voice; keep
+  the AI label on YouTube/Instagram (our rule anyway).
+- **Age/region:** 18+; must be in an available region (India not confirmed from the page read).
+  Re-check before monetising.
 
 ## Phase 1 — pilot Reel (one video, ~150–200 Flow credits)
 
