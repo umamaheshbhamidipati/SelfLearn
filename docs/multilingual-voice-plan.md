@@ -35,7 +35,7 @@ Reel in this series needs narration from start to end.
 
 | Check | Result | Date |
 |---|---|---|
-| YT Advanced features | **Not enabled.** Standard = on; Intermediate and Advanced = "Eligible". Intermediate needs **phone verification** (owner); Advanced then needs one of: video verification, valid ID, or channel history | 2026-11-08 |
+| YT Advanced features | **2026-11-08 15:48: owner verified phone → Intermediate = Enabled. Advanced still "Eligible"**: needs one of video verification (owner, selfie video), valid ID, or channel history (comes with time). Earlier: **Not enabled.** Standard = on; Intermediate and Advanced = "Eligible". Intermediate needs **phone verification** (owner); Advanced then needs one of: video verification, valid ID, or channel history | 2026-11-08 |
 | YT audio tracks on Shorts | **Not available yet (2026-11-08):** after setting Telugu as video + channel default language, the Subtitles page shows only Subtitles and Title & description columns, no Audio. Earlier note: **Not checked yet.** The Short's Subtitles page first asks to set the video language (with "make default for my channel" ticked); left for the owner to decide. Likely blocked anyway until Advanced features are on | 2026-11-08 |
 | IG Meta AI translate toggle + languages | Owner to check in the Instagram app | |
 | Chosen AI voice (name) | **Blocked:** AI Studio speech playground (model `gemini-3.8-flash-tts`) returned HTTP 403, "No API key selected". Needs a Gemini API key on the owner's account (owner creates it; never pasted in chat or git) | 2026-11-08 |
