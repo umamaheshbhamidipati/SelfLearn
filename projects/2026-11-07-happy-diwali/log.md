@@ -34,3 +34,6 @@ One lesson (also add to `docs/lessons.md`):
 - Grade: `scripts/grade.sh` strength 1.0. First try turned everything **purple**: the screen-blend glow
   ran in YUV (and colorbalance pushed it further). Fix: `format=gbrp` before the split, colorbalance removed.
 - End card: `endcard.ass` (Noto Serif Telugu, gold, complex shaping) burned in → `media/out/happy-diwali.mp4` (silent; add music on Instagram).
+- YouTube music: **Raag Hamsadhwani** (Sandeep Das, Mayank Raina, Bivakar Chaudhuri), YouTube Audio Library,
+  "YouTube Audio Library License" (no attribution needed). Used 1.0–21.0 s, 2 s fade-out, loudnorm → `media/out/happy-diwali-music.mp4`.
+  Instagram: owner adds the music from the first AI reel in the app.
