@@ -46,6 +46,15 @@ The human approves spending, purchases and anything that gets posted.
   costume) …"* + one shot line. Doing all stills in the **same Gemini chat** keeps the face consistent and lets you
   reference "the master image above" without re-uploading.
 - Review every still before animating — fix drift now, it only gets worse in video.
+- **Still quality gate** (owner, 2026-11-08: "image generation plays the key role"). A still is animated only
+  if it passes all of these; otherwise regenerate it (stills cost 0 credits, clips cost 10):
+  1. Faces: young adult (no elderly, no children); deity flawless, crisp, no wrinkles, eyes in sharp focus.
+  2. Anatomy: count hands, fingers and arms (deities: exactly four arms, all attached); no bent necks.
+  3. Jewellery: deities wear otherworldly light/crystal ornaments; humans wear normal Telugu jewellery.
+  4. Light and palette: golden backlight or rim light, rose-gold palette, deep blacks, not orange.
+  5. Frame: full 9:16 edge to edge, no black bars, no text or logos.
+  6. Zoom check: crop the face at 100 % (`ffmpeg … crop`) and look. Soft or smeared → regenerate.
+  Send the owner a contact sheet of the stills and get an OK before spending Flow credits.
 - Download: click the last "Download full size image" button
   (`[...document.querySelectorAll('button')].filter(b=>(b.getAttribute('aria-label')||'').includes('Download full size')).pop().click()`).
 
