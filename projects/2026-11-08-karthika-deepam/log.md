@@ -38,9 +38,9 @@ One lesson (also add to `docs/lessons.md`):
   "both seated on the SAME dry stone step, river one step BELOW, no person on or in the water". New gate item:
   check physics, not only hands (who sits on what, where the water is).
 
-## Next (resume here, 2026-11-09)
+## Next (resume here, Tue 2026-11-10: owner moved it from Monday)
 
-1. Owner approved: animate tomorrow. Check credits first (was 130 on 8 Nov evening).
+1. Owner: animate on Tuesday 10 Nov. Check credits first (was 130 on 8 Nov evening).
 2. Flow project "Nov 08 - 18:42" (agent already set to Veo 3.1 Lite, 9:16, ×1). Right-click each still → Animate →
    motion prompt from shots.md → Approve "10 credits" per clip. Ask owner for the batch size first.
 3. Download clips to media/clips/01–10.mp4 (1080p if offered on PLUS), review with contact_sheet.sh.
