@@ -10,7 +10,7 @@ Output: 24 kHz mono WAV in `inlineData` (RIFF header) → loudnorm −16 LUFS �
 |---|---|---|
 | Sulafat | 23.1 s | |
 | Vindemiatrix | 26.0 s | |
-| Achird | 24.8 s | |
+| Achird | 24.8 s | **Chosen (owner, 2026-11-08)** |
 | Charon (male) | 27.1 s | |
 
 Pace: ~35 Telugu words took 23–27 s, slower than planned. A 25–30 s Reel fits ~35–40 words at this
