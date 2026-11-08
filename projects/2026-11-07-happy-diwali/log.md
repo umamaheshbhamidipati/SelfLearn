@@ -50,3 +50,9 @@ One lesson (also add to `docs/lessons.md`):
   the posted versions use the soft grade). Epic 1.4 tested: skin too orange, Lakshmi blown out.
 - Owner: epic still "orangish". Retuned: highlights and midtones near-neutral (only teal in shadows), glow 0.5→0.4,
   saturation +20%→+10%. colorbalance `pl=1` caused dark blotches in the sky: removed. Re-rendered happy-diwali-epic.mp4.
+- Owner supplied a reference reel (devotional, matte film look; kept in media/reference, not reused). Measured it vs our
+  cut: ref brighter (avg luma 104 vs 72), lifted blacks (p2 30 vs 5), less chroma (33 vs 47), creamy highlights
+  (213,202,196 vs our yellow 230,202,152). New `grade.sh … film` matches those numbers + pro-mist diffusion and muted
+  blues → `media/out/happy-diwali-film.mp4` (reference only). Owner: leave this video as posted; improve from the next.
+- Owner rules for next videos (now in CLAUDE.md): young adults only, deities flawless and beautiful/handsome,
+  otherworldly celestial jewellery, film grade.

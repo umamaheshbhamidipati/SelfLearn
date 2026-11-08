@@ -9,6 +9,25 @@ warm Kodak tones, soft film grain, shallow depth of field. Vertical 9:16.
 ```
 Rule of thumb: **look → subject → setting → camera → ratio**. Spell out costume colours; vague costumes drift.
 
+### UmaAI look blocks (owner rules, 2026-11-08: see CLAUDE.md "Look and casting")
+
+Look (every still):
+```
+Matte cinematic film still, Kodak Portra 400 look, soft diffused light, gentle pro-mist bloom,
+lifted soft blacks, muted olive-teal background, creamy highlights, fine film grain, shallow depth
+of field. Vertical 9:16, full frame edge to edge, no black bars.
+```
+Deity (add to the character line):
+```
+Divinely beautiful [goddess / handsome god], youthful face (about 25), flawless crisp luminous
+skin with a soft peach glow, no wrinkles, no blemishes, serene eyes.
+Otherworldly celestial jewellery, not human-made: a crown of woven light and translucent crystal,
+ornaments of glowing celestial metal with inner light, small pieces floating weightlessly around
+the head and arms, faint sacred-geometry patterns shimmering in the gold.
+```
+People in the scene: `young Telugu adults in their twenties, natural healthy skin, [attire]`.
+Never: old / elderly / grandmother / children.
+
 ## Follow-up stills (same chat)
 
 ```

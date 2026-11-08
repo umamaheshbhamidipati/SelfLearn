@@ -58,6 +58,19 @@ usable clip, so a 30 s Reel ≈ 150–250 credits.
 8. After 7 days, fill the metrics table in `log.md` (average watch time and shares first) and add
    one lesson to `docs/lessons.md`.
 
+## Look and casting (owner, 2026-11-08; applies from the next video)
+
+- **Young adults only** (about 20–35). No elderly people, no children (Flow rejects children anyway).
+- **Deities are divinely beautiful:** goddesses beautiful, gods handsome; flawless, crisp, luminous
+  skin, no wrinkles, no blemishes. Soft peach skin tone, not orange.
+- **Divine jewellery looks otherworldly, not human:** crowns and ornaments of glowing light,
+  crystal and celestial metal, floating or levitating pieces, sacred geometry, inner light.
+  Ordinary humans in a scene wear normal Telugu jewellery.
+- **Grade:** `scripts/grade.sh in out 1.0 film` (matte film look matched to the owner's reference reel:
+  lifted blacks, soft peach skin, creamy highlights, muted blues). Bake the look into the stills too
+  (prompt words in `.claude/skills/ai-video-studio/references/prompts.md`); grading can't fix skin
+  texture or age that the still already has.
+
 ## Rules
 
 - **No media in git.** Clips, audio and images stay in `media/` (gitignored). Back them up with

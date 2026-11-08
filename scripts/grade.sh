@@ -2,16 +2,31 @@
 # Cinematic "festival" grade: glow (bloom) around lights, a little extra contrast and saturation,
 # soft vignette, fine film grain. No colour shift: footage from Flow/Nano Banana is already
 # teal-and-gold, and the old teal/orange colorbalance turned it purple (2026-11-08).
-# Looks: "soft" (default, above) and "epic" (stronger, film-trailer look like the reference reel:
+# Looks: "soft" (default, above), "film" (matte, reference-matched) and "epic" (stronger, film-trailer look like the reference reel:
 # teal shadows + gold highlights, S-curve contrast, more glow/saturation, deeper vignette).
 # All colour work runs in RGB (gbrp): in YUV the blend/colorbalance turned footage purple.
 # Re-encodes (slow-ish here).
-# Usage: scripts/grade.sh in.mp4 out.mp4 [strength, default 1.0] [soft|epic]
-#        scripts/grade.sh --frame in.mp4 out.png [time_s] [strength] [soft|epic]   (one-frame preview)
+# Usage: scripts/grade.sh in.mp4 out.mp4 [strength, default 1.0] [soft|film|epic]
+#        scripts/grade.sh --frame in.mp4 out.png [time_s] [strength] [soft|film|epic]   (one-frame preview)
 set -euo pipefail
 
 grade_chain() {
   local s="${1:-1.0}" look="${2:-soft}"
+  if [[ "$look" == "film" ]]; then
+    # Matched to an owner-supplied reference reel (2026-11-08) by measuring luma/RGB per zone:
+    # lifted matte blacks, brighter mids, ~20% less saturation, peach (not orange) skin,
+    # creamy highlights (blue added to kill the yellow), soft wide bloom, fine grain.
+    local f; f() { awk -v s="$s" -v k="$1" -v b="${2:-0}" 'BEGIN{printf "%.3f", b+k*s}'; }
+    echo "format=gbrp,split[a][b];[b]curves=all='0/0 0.6/0 1/1',gblur=sigma=30[g];[a][g]blend=all_mode=screen:all_opacity=$(f 0.30),\
+split[c][d];[d]gblur=sigma=7[e];[c][e]blend=all_mode=normal:all_opacity=$(f 0.28),\
+huesaturation=colors=c+b:saturation=$(f -0.55):intensity=$(f -0.04),\
+huesaturation=colors=r+y:saturation=$(f -0.12),\
+eq=saturation=$(f -0.08 1),\
+colorbalance=rs=$(f 0.03):bs=$(f -0.02):rm=$(f 0.04):rh=$(f -0.02):bh=$(f 0.12),\
+curves=all='0/$(f 0.10) 0.15/$(f 0.06 0.15) 0.31/$(f 0.14 0.31) 0.6/$(f 0.09 0.6) 1/$(f -0.05 1)',\
+noise=alls=$(awk -v s=$s 'BEGIN{printf "%d",6*s}'):allf=t,format=yuv420p"
+    return
+  fi
   if [[ "$look" == "epic" ]]; then
     local f; f() { awk -v s="$s" -v k="$1" -v b="${2:-0}" 'BEGIN{printf "%.3f", b+k*s}'; }
     echo "format=gbrp,split[a][b];[b]curves=all='0/0 0.5/0 1/1',gblur=sigma=22[g];[a][g]blend=all_mode=screen:all_opacity=$(f 0.4),\
