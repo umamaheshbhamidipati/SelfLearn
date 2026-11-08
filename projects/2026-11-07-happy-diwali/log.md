@@ -45,3 +45,6 @@ One lesson (also add to `docs/lessons.md`):
   File: `media/out/happy-diwali-yt.mp4` (2-pass 3.3 Mbps, 8.6 MB, under the 10 MB browser-upload limit).
   Title: దీపావళి శుభాకాంక్షలు 🪔 Happy Diwali 2026 | UmaAI Studio
 - **Instagram:** posted 2026-11-08 morning by the owner: `happy-diwali.mp4` + the first AI reel's music + the owner's own voice-over at the end (added in the app).
+- 2026-11-08 afternoon: owner said the grade was "not up to the mark". Added `grade.sh … 1.0 epic` (teal shadows,
+  gold highlights, S-curve, stronger glow, colour work in RGB) → `media/out/happy-diwali-epic.mp4` (reference;
+  the posted versions use the soft grade). Epic 1.4 tested: skin too orange, Lakshmi blown out.
