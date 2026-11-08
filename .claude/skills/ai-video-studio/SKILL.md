@@ -53,6 +53,8 @@ The human approves spending, purchases and anything that gets posted.
   3. Jewellery: deities wear otherworldly light/crystal ornaments; humans wear normal Telugu jewellery.
   4. Light and palette: golden backlight or rim light, rose-gold palette, deep blacks, not orange.
   5. Frame: full 9:16 edge to edge, no black bars, no text or logos.
+  5b. Physics: who sits/stands on what; nobody sitting on or in water, floating, or merged into steps (owner caught
+      a woman sitting on the river, 2026-11-08). Ask: "would this be possible in a real photo?"
   6. Zoom check: crop the face at 100 % (`ffmpeg … crop`) and look. Soft or smeared → regenerate.
   Send the owner a contact sheet of the stills and get an OK before spending Flow credits.
 - Download: click the last "Download full size image" button

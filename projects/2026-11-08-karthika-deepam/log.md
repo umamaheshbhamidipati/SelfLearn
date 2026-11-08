@@ -34,3 +34,6 @@ One lesson (also add to `docs/lessons.md`):
   reference via "Add to prompt"), 02 and 10 (North Indian shikhara → "South Indian temple with a tall gopuram").
   Rejected in `media/stills/rejected/`. Contact sheet `media/contact_stills.jpg` sent to owner for OK.
 - Agent settings saved for animation: video 9:16, ×1, **Veo 3.1 - Lite** (default was Omni 1.2 Flash).
+- Owner caught 09: the woman was sitting on/in the river (no step under her). Missed in my check. Redone (0 credits):
+  "both seated on the SAME dry stone step, river one step BELOW, no person on or in the water". New gate item:
+  check physics, not only hands (who sits on what, where the water is).
