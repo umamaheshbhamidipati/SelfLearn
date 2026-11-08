@@ -14,10 +14,10 @@ grade_chain() {
   local s="${1:-1.0}" look="${2:-soft}"
   if [[ "$look" == "epic" ]]; then
     local f; f() { awk -v s="$s" -v k="$1" -v b="${2:-0}" 'BEGIN{printf "%.3f", b+k*s}'; }
-    echo "format=gbrp,split[a][b];[b]curves=all='0/0 0.5/0 1/1',gblur=sigma=22[g];[a][g]blend=all_mode=screen:all_opacity=$(f 0.5),\
-colorbalance=rs=$(f -0.07):gs=$(f -0.01):bs=$(f 0.09):rm=$(f 0.03):bm=$(f -0.03):rh=$(f 0.08):gh=$(f 0.03):bh=$(f -0.07),\
+    echo "format=gbrp,split[a][b];[b]curves=all='0/0 0.5/0 1/1',gblur=sigma=22[g];[a][g]blend=all_mode=screen:all_opacity=$(f 0.4),\
+colorbalance=rs=$(f -0.08):gs=$(f 0.00):bs=$(f 0.10):rm=$(f -0.01):bm=$(f 0.01):rh=$(f 0.01):gh=$(f 0.01):bh=$(f -0.02),\
 curves=all='0/0 0.25/$(f -0.04 0.25) 0.75/$(f 0.04 0.75) 1/1',\
-eq=saturation=$(f 0.2 1):gamma=0.97,\
+eq=saturation=$(f 0.1 1):gamma=0.97,\
 vignette=angle=PI/4,noise=alls=$(awk -v s=$s 'BEGIN{printf "%d",5*s}'):allf=t,format=yuv420p"
     return
   fi

@@ -48,3 +48,5 @@ One lesson (also add to `docs/lessons.md`):
 - 2026-11-08 afternoon: owner said the grade was "not up to the mark". Added `grade.sh … 1.0 epic` (teal shadows,
   gold highlights, S-curve, stronger glow, colour work in RGB) → `media/out/happy-diwali-epic.mp4` (reference;
   the posted versions use the soft grade). Epic 1.4 tested: skin too orange, Lakshmi blown out.
+- Owner: epic still "orangish". Retuned: highlights and midtones near-neutral (only teal in shadows), glow 0.5→0.4,
+  saturation +20%→+10%. colorbalance `pl=1` caused dark blotches in the sky: removed. Re-rendered happy-diwali-epic.mp4.
