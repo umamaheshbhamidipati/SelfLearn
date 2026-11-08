@@ -9,6 +9,13 @@
 - [ ] Audio fits the mood (devotional / trending Telugu audio), added in the app's own library
 - [ ] "AI content" label on (Instagram) / "altered or synthetic content" ticked (YouTube) when realistic
 
+## Voice and languages (see docs/multilingual-voice-plan.md)
+
+- [ ] Narration runs through the whole Reel (platform translation only works on speech)
+- [ ] Voice: AI (tool + voice name) / owner's own; noted in the description
+- [ ] Instagram: Meta AI translation on; each translation reviewed before it goes live
+- [ ] YouTube: extra audio tracks added (languages: ___) or "not available"
+
 ## Instagram
 
 - **Caption** (for the viewer, not about me): line 1 = the hook / devotional line; 2–3 lines of
