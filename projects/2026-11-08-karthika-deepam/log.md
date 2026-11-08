@@ -37,3 +37,12 @@ One lesson (also add to `docs/lessons.md`):
 - Owner caught 09: the woman was sitting on/in the river (no step under her). Missed in my check. Redone (0 credits):
   "both seated on the SAME dry stone step, river one step BELOW, no person on or in the water". New gate item:
   check physics, not only hands (who sits on what, where the water is).
+
+## Next (resume here, 2026-11-09)
+
+1. Owner approved: animate tomorrow. Check credits first (was 130 on 8 Nov evening).
+2. Flow project "Nov 08 - 18:42" (agent already set to Veo 3.1 Lite, 9:16, ×1). Right-click each still → Animate →
+   motion prompt from shots.md → Approve "10 credits" per clip. Ask owner for the batch size first.
+3. Download clips to media/clips/01–10.mp4 (1080p if offered on PLUS), review with contact_sheet.sh.
+4. Cut to vo-te.wav (pauses ~4.2, 7.4, 11.9, 15.3, 19.1, 22.2, 25.6 s), `GRADE_SCALE=1080:1920 grade.sh … 1.0 rose`,
+   end card "కార్తీక దీపం", music low under the voice. Post Mon 16 Nov ~6 AM.
