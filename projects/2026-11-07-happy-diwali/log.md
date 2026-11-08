@@ -37,3 +37,11 @@ One lesson (also add to `docs/lessons.md`):
 - YouTube music: **Raag Hamsadhwani** (Sandeep Das, Mayank Raina, Bivakar Chaudhuri), YouTube Audio Library,
   "YouTube Audio Library License" (no attribution needed). Used 1.0–21.0 s, 2 s fade-out, loudnorm → `media/out/happy-diwali-music.mp4`.
   Instagram: owner adds the music from the first AI reel in the app.
+
+## Published
+
+- **YouTube Short:** 2026-11-08 ~07:15 IST, public, UmaAI Studio (@UmaAIVideoStudio), playlist
+  "భక్తి కథలు | Devotional Stories", AI use = Yes, not made for kids · https://youtube.com/shorts/d6YAm7o147w
+  File: `media/out/happy-diwali-yt.mp4` (2-pass 3.3 Mbps, 8.6 MB, under the 10 MB browser-upload limit).
+  Title: దీపావళి శుభాకాంక్షలు 🪔 Happy Diwali 2026 | UmaAI Studio
+- **Instagram:** owner posts with the music from the first AI reel.
