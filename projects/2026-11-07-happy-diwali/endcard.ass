@@ -1,0 +1,15 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 1280
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Noto Serif Telugu,66,&H006AC8F5,&H006AC8F5,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,1,3,4,5,0,0,0,1
+Style: Brand,Noto Serif,32,&H00C8E6F3,&H00C8E6F3,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,1,2,3,5,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.40,0:00:20.10,Title,,0,0,0,,{\pos(360,1010)\fad(600,0)}దీపావళి శుభాకాంక్షలు
+Dialogue: 0,0:00:16.90,0:00:20.10,Brand,,0,0,0,,{\pos(360,1085)\fad(600,0)}UmaAI Studio

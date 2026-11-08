@@ -1,0 +1,12 @@
+# path|start|duration|transition_into_next   (run from this project folder)
+# Fast cut (reference-reel structure): 1.5-2 s shots, Lakshmi hero last with the end card.
+media/clips/01.mp4|0.0|1.8|fade
+media/clips/02.mp4|1.0|1.6|fade
+media/clips/04.mp4|2.4|2.0|fade
+media/clips/06.mp4|0.0|1.6|fade
+media/clips/05.mp4|2.0|1.6|fade
+media/clips/03.mp4|3.0|2.0|fade
+media/clips/08.mp4|1.5|1.6|fade
+media/clips/07.mp4|4.0|2.0|fade
+media/clips/09.mp4|1.0|1.6|fadewhite
+media/clips/10.mp4|1.0|6.5|fade
