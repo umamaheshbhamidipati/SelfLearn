@@ -11,5 +11,6 @@ One line per video: what worked, what to stop doing.
 | 2026-11-05 | Diwali Lakshmi (Telugu text) | Telugu needs libass complex shaping (ASS + `shaping=complex`), letter spacing 0, and a Latin fallback font; `subtitles` and `drawtext` break clusters. |
 | 2026-11-05 | Diwali Lakshmi (voice) | Owner's own Telugu voice, split into one file per line, is easy to place on shots and sounds better than AI Telugu voices. |
 | 2026-11-05 | Diwali Lakshmi (publishing) | Confirm the exact publish time in chat before the last click; Chrome uploads are limited to 10 MB (two-pass re-encode to fit). |
+| 2026-11-08 | Diwali Lakshmi (3-day numbers) | Hero-face opening + devotional caption + Telugu voice: IG average watch 0:02 → 0:04, first share and follow; YouTube Short 0:25 avg (85%) and +4 subs from 256 views. But 75.8% swipe away on YouTube: the very first second still needs motion + the question. |
 
 Full retro with every failure and fix: `docs/2026-11-05-retro.md`.
