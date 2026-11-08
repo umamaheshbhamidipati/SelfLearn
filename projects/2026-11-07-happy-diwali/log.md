@@ -56,3 +56,7 @@ One lesson (also add to `docs/lessons.md`):
   blues → `media/out/happy-diwali-film.mp4` (reference only). Owner: leave this video as posted; improve from the next.
 - Owner rules for next videos (now in CLAUDE.md): young adults only, deities flawless and beautiful/handsome,
   otherworldly celestial jewellery, film grade.
+- Owner: "video is blurry". Cause found: my film look's mist used ffmpeg blend `normal`, whose opacity weights the
+  FIRST input, so "12 % mist" was 88 % blur. Fixed (blurred layer first) + `cas` sharpen + GRADE_SCALE 1080×1920
+  (lanczos) + crf 16. Owner's 2nd reference (rich rose look) → new `rose` look, now the default for next videos.
+  Owner: leave this video as posted; improve from the next video.

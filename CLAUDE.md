@@ -66,10 +66,13 @@ usable clip, so a 30 s Reel ≈ 150–250 credits.
 - **Divine jewellery looks otherworldly, not human:** crowns and ornaments of glowing light,
   crystal and celestial metal, floating or levitating pieces, sacred geometry, inner light.
   Ordinary humans in a scene wear normal Telugu jewellery.
-- **Grade:** `scripts/grade.sh in out 1.0 film` (matte film look matched to the owner's reference reel:
-  lifted blacks, soft peach skin, creamy highlights, muted blues). Bake the look into the stills too
-  (prompt words in `.claude/skills/ai-video-studio/references/prompts.md`); grading can't fix skin
-  texture or age that the still already has.
+- **Grade:** default `GRADE_SCALE=1080:1920 scripts/grade.sh in out 1.0 rose` (matched to the owner's
+  2nd reference: deep blacks, warm rose shadows, rosy skin, cream highlights, crisp). Alternative `film`
+  (matte, 1st reference). Output 1080×1920 (lanczos + sharpen): sharper after Instagram/YouTube
+  compression. Bake the look into the stills too (prompt words in
+  `.claude/skills/ai-video-studio/references/prompts.md`); grading can't fix skin texture or age.
+- **Sharpness:** Veo 3.1 Lite gives 720p. For hero/face shots, check if Flow offers 1080p / upscale
+  and what it costs before the batch; ask the owner to approve the extra credits.
 
 ## Rules
 

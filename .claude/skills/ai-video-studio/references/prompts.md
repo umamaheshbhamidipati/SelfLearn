@@ -11,12 +11,15 @@ Rule of thumb: **look → subject → setting → camera → ratio**. Spell out 
 
 ### UmaAI look blocks (owner rules, 2026-11-08: see CLAUDE.md "Look and casting")
 
-Look (every still):
+Look (every still; matches the owner's 2nd reference, the default):
 ```
-Matte cinematic film still, Kodak Portra 400 look, soft diffused light, gentle pro-mist bloom,
-lifted soft blacks, muted olive-teal background, creamy highlights, fine film grain, shallow depth
-of field. Vertical 9:16, full frame edge to edge, no black bars.
+Ultra-detailed cinematic portrait still, warm golden-hour backlight with a soft rim light on the hair,
+rose-gold and blush-pink palette, deep rich shadows with a warm rose tint, creamy highlights,
+razor-sharp focus on the eyes, shallow depth of field with soft bokeh. Vertical 9:16, full frame
+edge to edge, no black bars.
 ```
+Alternative matte look (1st reference): `Matte cinematic film still, Kodak Portra 400 look, soft diffused
+light, lifted soft blacks, muted olive-teal background, creamy highlights, fine film grain.`
 Deity (add to the character line):
 ```
 Divinely beautiful [goddess / handsome god], youthful face (about 25), flawless crisp luminous
