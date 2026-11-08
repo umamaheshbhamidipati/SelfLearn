@@ -57,6 +57,9 @@ The human approves spending, purchases and anything that gets posted.
       a woman sitting on the river, 2026-11-08). Ask: "would this be possible in a real photo?"
   6. Zoom check: crop the face at 100 % (`ffmpeg … crop`) and look. Soft or smeared → regenerate.
   Send the owner a contact sheet of the stills and get an OK before spending Flow credits.
+  Optional 2nd reviewer: upload the contact sheet to ChatGPT (owner signs in; free tier) and ask for physical errors
+  (extra limbs, odd poses, people on water). Fixes are always regenerated in Flow, never edited elsewhere, so faces
+  and style stay consistent. Never real people, companies or staged events.
 - Download: click the last "Download full size image" button
   (`[...document.querySelectorAll('button')].filter(b=>(b.getAttribute('aria-label')||'').includes('Download full size')).pop().click()`).
 
