@@ -23,16 +23,16 @@ light. Two arms, right hand raised in blessing.
 
 | # | Line | Shot | Still | Clip |
 |---|---|---|---|---|
-| 01 | 1 | HOOK: young woman lights a diya at her doorstep at dusk, face glowing, looks up at camera | todo | todo |
-| 02 | 1 | Aerial dusk: Godavari ghat, thousands of floating diyas, temple on the bank | todo | todo |
-| 03 | 2 | Young man in white dhoti lights a row of lamps at a Shiva temple's stone lamp pillar | todo | todo |
-| 04 | 3 | Macro: a diya on a banana-leaf boat set on dark water, flame steady, reflections | todo | todo |
-| 05 | 3 | Young woman with folded hands before a lamp-lit tulasi kota, eyes closed, serene | todo | todo |
-| 06 | 2 | Andhra Shiva temple gopuram at dusk outlined with hundreds of lamps | todo | todo |
-| 07 | 4 | SPECTACLE: Shiva appears vast and luminous in the night sky above the river, blessing | todo | todo |
-| 08 | 4 | Shiva face close-up, third eye glowing softly, celestial ornaments floating | todo | todo |
-| 09 | 3 | Young couple on the ghat steps release a diya onto the river together, smiling | todo | todo |
-| 10 | 5 | River of lamps flowing toward the lit temple, wide; end-card plate | todo | todo |
+| 01 | 1 | HOOK: young woman lights a diya at her doorstep at dusk, face glowing, looks up at camera | done | todo |
+| 02 | 1 | Aerial dusk: Godavari ghat, thousands of floating diyas, temple on the bank | done | todo |
+| 03 | 2 | Young man in white dhoti lights a row of lamps at a Shiva temple's stone lamp pillar | done | todo |
+| 04 | 3 | Macro: a diya on a banana-leaf boat set on dark water, flame steady, reflections | done | todo |
+| 05 | 3 | Young woman with folded hands before a lamp-lit tulasi kota, eyes closed, serene | done | todo |
+| 06 | 2 | Andhra Shiva temple gopuram at dusk outlined with hundreds of lamps | done | todo |
+| 07 | 4 | SPECTACLE: Shiva appears vast and luminous in the night sky above the river, blessing | done | todo |
+| 08 | 4 | Shiva face close-up, third eye glowing softly, celestial ornaments floating | done | todo |
+| 09 | 3 | Young couple on the ghat steps release a diya onto the river together, smiling | done | todo |
+| 10 | 5 | River of lamps flowing toward the lit temple, wide; end-card plate | done | todo |
 
 ## Still prompts (Nano Banana in Flow; prepend the look block)
 
