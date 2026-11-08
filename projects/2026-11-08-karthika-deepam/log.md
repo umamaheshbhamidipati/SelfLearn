@@ -46,3 +46,6 @@ One lesson (also add to `docs/lessons.md`):
 3. Download clips to media/clips/01–10.mp4 (1080p if offered on PLUS), review with contact_sheet.sh.
 4. Cut to vo-te.wav (pauses ~4.2, 7.4, 11.9, 15.3, 19.1, 22.2, 25.6 s), `GRADE_SCALE=1080:1920 grade.sh … 1.0 rose`,
    end card "కార్తీక దీపం", music low under the voice. Post Mon 16 Nov ~6 AM.
+- 2nd review by ChatGPT (free, owner's account, contact sheet attached to chat only): all 10 OK for anatomy, faces,
+  ages and physics. Its only "issue" was the small star watermark bottom-right = Google's visible AI watermark:
+  **keep it** (channel rule: never hide or remove AI watermarks).
