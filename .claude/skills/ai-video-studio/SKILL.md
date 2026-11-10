@@ -70,7 +70,9 @@ The human approves spending, purchases and anything that gets posted.
    "Confirm before generating: Always".
 3. Upload stills (see the file-input trick in `references/browser-gotchas.md`).
 4. Right-click the image → **Animate** → type a *motion-only* prompt → click the **send arrow** (Enter often doesn't send).
-5. Agent replies "costing 10 credits?" → **Approve**. Flow renders ~1 min per clip; queue them one after another.
+5. Agent replies "costing 10 credits?" → **Approve**. **Read the count and cost first**: with first + last frame
+   attached, the agent proposed 6 videos / 60 credits for one shot (2026-11-10). Reject anything beyond the approved
+   batch and re-ask for "exactly ONE video, x1, 10 credits". Flow renders ~1 min per clip; queue them one after another.
 6. Download: right-click video → Download → **720p** (keep one resolution across the film).
 7. Free video is often blocked 2–5 PM UTC (7:30–10:30 PM IST). Generate earlier.
 

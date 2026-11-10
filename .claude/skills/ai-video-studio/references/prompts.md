@@ -72,6 +72,8 @@ Camera moves: slow push-in · dolly back · slow orbit · overhead drone drift �
 | Figure grows / rushes toward camera in a wide | "stays small and far away in the frame, moving only a little" |
 | Face drifts between clips | Regenerate the still from the master in the same chat; keep prompts listing the same costume words |
 | Upload vanishes at ~93% | Image contains a child → remove the child from the still |
+| Objects duplicate / vanish when a character releases something (Karthika 09: diya floats off but the plate still holds a diya, then the plate disappears) | Avoid "let go / release / drop" actions. Keep objects in hand: "they hold the plate with the lit diya between them the whole time; nothing appears or disappears". Name the object exactly as it is in the still (plate + diya, not just "diya"). Or trim to the seconds before the release. If the story needs the object to change state (diya set afloat, plate left empty), make an END-frame still in Nano Banana (0 credits) and animate first + last frame so Veo knows where every object ends up |
+| Diya flame grows huge and dominates the face (Karthika 01: prompt said "the flame grows") | Never ask fire to grow. "the small diya flame stays small and steady, fingertip size, flickers gently, does not grow or flare; it does not cover her face or hands" |
 
 ## Caption pattern for devotional reels
 Short poetic lines (one idea per line) → the story in 2–3 lines → festival/day tie-in → 3–5 hashtags.

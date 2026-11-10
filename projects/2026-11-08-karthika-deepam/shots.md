@@ -68,7 +68,7 @@ Suffix: `Cinematic, smooth natural motion, no morphing, no text, keep faces, han
 
 | # | Motion |
 |---|---|
-| 01 | The wick catches and the flame grows; she looks up and smiles warmly; very slow push-in |
+| 01 | ~~The wick catches and the flame grows~~ (v1: flame too big, owner 10 Nov). v2: The small diya flame stays small and steady, fingertip size, flickering gently; it does not grow or flare and never covers her face or hands. She looks up and smiles warmly; very slow push-in on her face |
 | 02 | Slow drone glide forward over the river; lamps drift gently; temple lights twinkle |
 | 03 | He lights the next lamp up the pillar; flames flicker; slow upward tilt |
 | 04 | The leaf boat drifts slowly; reflections ripple; static macro |
@@ -76,5 +76,5 @@ Suffix: `Cinematic, smooth natural motion, no morphing, no text, keep faces, han
 | 06 | Slow tilt up the gopuram as lamps glow and flicker; faint evening mist |
 | 07 | Shiva's form glows brighter and his blessing hand rises slightly; light rays sweep over the water; slow push-in |
 | 08 | His eyes open slowly and look into the camera with calm compassion; ornaments drift weightlessly; static |
-| 09 | They lower the diya onto the water and let it go; it drifts away; they look at each other and smile |
+| 09 | **v3 plan (owner 10 Nov: the diya must go onto the water, then she keeps the empty plate on her lap):** first frame = still 09, last frame = new still "Couple smiling near floating diya" (empty brass plate held at her lap, diya floating below the step; 0 credits). Motion: together they lift the one diya off the plate and set it on the water at the step's edge, it floats a little away, she brings the empty plate to rest on her lap, they look at each other and smile. ~~v1: diya duplicated, plate vanished~~. ~~v2 (rejected by owner: no release): They hold the small plate with the lit diya between them the whole time, look at each other and smile warmly; the diya flame stays small and steady; nothing appears or disappears; both stay seated on the dry stone step; very slow push-in~~ |
 | 10 | Lamps flow slowly toward the temple; very slow aerial drift forward |

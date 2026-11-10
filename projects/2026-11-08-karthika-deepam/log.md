@@ -4,8 +4,24 @@
 
 | Date | Shot | Mode | Credits | Result | What I changed |
 |---|---|---|---|---|---|
+| 2026-11-10 | 01 hook | Veo 3.1 Lite 9:16 | 10 | rendered, not yet reviewed | — |
+| 2026-11-10 | 07 Shiva in sky | Veo 3.1 Lite 9:16 | 10 | rendered, not yet reviewed | — |
+| 2026-11-10 | 08 Shiva close-up | Veo 3.1 Lite 9:16 | 10 | rendered, not yet reviewed | — |
+| 2026-11-10 | 02 aerial ghat | Veo 3.1 Lite 9:16 | 10 | rendered, not yet reviewed | — |
+| 2026-11-10 | 09 couple | Veo 3.1 Lite 9:16 | 10 | **rejected (owner):** diya released but the plate still held a diya, then the plate vanished | added "both stay seated on the dry stone step, no one moves into the water" |
+| 2026-11-10 | 01 v1 | | | **rejected (owner):** flame grew huge and dominated | prompt had "the flame grows" |
+| 2026-11-10 | 09 v2 | Veo 3.1 Lite 9:16 | 10 | rendered, first frame OK, not yet reviewed | hold the plate the whole time, nothing released/appears/disappears |
+| 2026-11-10 | 01 v2 | Veo 3.1 Lite 9:16 | 10 | **rejected (owner):** flame small now, but she looks up above the camera | flame stays small, fingertip size |
+| 2026-11-10 | 09 v2 | | | **rejected (owner):** wanted the diya set afloat and the empty plate kept on her lap | v2 prompt held the plate the whole time |
+| 2026-11-10 | 09 end still | Nano Banana 2.1 | 0 | "Couple smiling near floating diya": empty plate at her lap, diya on the water | end frame for first+last-frame video |
+| 2026-11-10 | 09 v3 | Veo 3.1 Lite 9:16, **first + last frame** | 10 | rendered, owner to review | Flow agent first proposed **6 videos / 60 credits** → rejected; re-asked for exactly one |
+| 2026-11-10 | 01 v3 | Veo 3.1 Lite 9:16 | 10 | rendered, owner to review | gazes down at the diya, then raises eyes to camera level only, "never above the camera" (owner chose option B) |
 
-**Credits used total:** 
+**Credits used total:** 90 (balance 130 → 80 after the batch → **40** after 4 owner-approved re-rolls on 10 Nov; Flow shows "Resets Nov 15 at 3:47 PM" and no daily top-up
+was visible — check tomorrow whether the 50/day refresh exists).
+
+Owner pacing rule (2026-11-10): max 50 credits a day. Day 2 (11 Nov): 03, 04, 05, 06, 10.
+Flow agent sessions used: "Cinematic Candlelight Wa…", "Sacred Rituals and Divine …" (project "Nov 08 - 18:42").
 
 ## After 7 days (Instagram Insights / YouTube Studio)
 
