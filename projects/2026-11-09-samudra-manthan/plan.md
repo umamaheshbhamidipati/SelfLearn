@@ -99,7 +99,8 @@ reel. First spend: a **test batch of the 3 priority shots** (Neelakantha, Kurma,
 
 ## 7. Open decisions for the owner
 1. Approve the Deva approach (portraits first, backs/profiles in crowd shots).
-2. Include Parvati's throat moment (as tradition) — yes/no.
-3. Include Rahu — yes/no.
+2. ~~Parvati's throat moment~~ — decided 2026-11-10: included, consent + throat touch narrated as belief.
+3. ~~Rahu~~ — decided 2026-11-10: dropped (possible stand-alone Short later).
+(§4–5 five-minute film superseded 2026-11-10 by 3 × 9:16 episodes — see script.md.)
 4. Narration voice: owner's own voice (best result on Diwali) or Achird (Gemini TTS, chosen for Karthika).
 5. Send the current master image.
