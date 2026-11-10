@@ -14,13 +14,57 @@
 | 2026-11-10 | 01 v2 | Veo 3.1 Lite 9:16 | 10 | **rejected (owner):** flame small now, but she looks up above the camera | flame stays small, fingertip size |
 | 2026-11-10 | 09 v2 | | | **rejected (owner):** wanted the diya set afloat and the empty plate kept on her lap | v2 prompt held the plate the whole time |
 | 2026-11-10 | 09 end still | Nano Banana 2.1 | 0 | "Couple smiling near floating diya": empty plate at her lap, diya on the water | end frame for first+last-frame video |
-| 2026-11-10 | 09 v3 | Veo 3.1 Lite 9:16, **first + last frame** | 10 | rendered, owner to review | Flow agent first proposed **6 videos / 60 credits** → rejected; re-asked for exactly one |
+| 2026-11-10 | 09 v3 | Veo 3.1 Lite 9:16, **first + last frame** | 10 | **partly rejected (owner):** as he lifts the diya off, a 2nd diya stays on the plate → use only the first ~1.5–2 s (see "Resume here") | Flow agent first proposed **6 videos / 60 credits** → rejected; re-asked for exactly one |
 | 2026-11-10 | 01 v3 | Veo 3.1 Lite 9:16 | 10 | rendered, owner to review | gazes down at the diya, then raises eyes to camera level only, "never above the camera" (owner chose option B) |
 
 **Credits used total:** 90 (balance 130 → 80 after the batch → **40** after 4 owner-approved re-rolls on 10 Nov; Flow shows "Resets Nov 15 at 3:47 PM" and no daily top-up
 was visible — check tomorrow whether the 50/day refresh exists).
 
-Owner pacing rule (2026-11-10): max 50 credits a day. Day 2 (11 Nov): 03, 04, 05, 06, 10.
+Owner pacing rule (2026-11-10): max 50 credits a day. ~~Day 2: 03, 04, 05, 06, 10~~ → revised below (only 40 left).
+
+## RESUME HERE — handoff to the AMD laptop (written 2026-11-10 evening on DESKTOP-NQRVIV1)
+
+The desktop has **no ffmpeg and no Karthika media**, so the edit moves to the AMD laptop (ffmpeg 8.0.1, stills,
+`media/audio/vo-te.wav`). Flow is driven from the owner's Chrome on that machine as before.
+
+**Flow project "Nov 08 - 18:42"** (agent: Veo 3.1 Lite, 9:16, x1, confirm Always). In the **Videos** filter the
+newest is first. Which version to use:
+
+| Shot | Use | Flow title (hover shows it) | Status |
+|---|---|---|---|
+| 01 | **v3** (newest of the 3 woman-with-diya clips) | "Woman holding diya smiling" | owner to watch: eyes go down → camera, never above |
+| 02 | v1 | aerial river with gopuram | owner hasn't flagged it |
+| 07 | v1 | "Shiva raises blessing…" | owner hasn't flagged it |
+| 08 | v1 | Shiva close-up | owner hasn't flagged it |
+| 09 | **v3, first ~1.5–2 s only** (first+last-frame clip, the newest couple clip) | "Sacred Riverfront Diya Rit…" session | 2nd diya appears once he lifts it |
+| 09 end | still **"Couple smiling near floating diya"** (Images filter, newest) | | 0-credit push-in |
+| 03, 04, 05, 06, 10 | stills only, no clips yet | | see plan |
+
+Download: right-click → Download → 720p for videos, 1K for stills (wait ~1 s between menu clicks) →
+`media/clips/01.mp4`, `02.mp4`, `07.mp4`, `08.mp4`, `09.mp4`; end still → `media/stills/09_end.png`.
+Review each with `bash .claude/skills/ai-video-studio/scripts/contact_sheet.sh media/clips/NN.mp4 sheet_NN.jpg`.
+
+**09 fix = edit, 0 credits (owner OK'd).** Veo 3.1 Lite failed the diya release 3 times (duplicate diya / vanishing
+plate), so the release happens between cuts:
+1. `09.mp4` from 0 to the last clean frame before the 2nd diya shows (~1.5–2 s; find it on a 2 fps contact sheet).
+2. Shot **04** (diya on a leaf drifting on the water): 0-credit zoompan push-in on still 04, ~1.5 s.
+3. `09_end.png`: slow zoompan push-in, ~2 s (couple smiling, empty plate on her lap).
+Viewer sees: diya leaves → floats → plate empty. Never two diyas in one frame.
+
+**Credits:** balance **40** until reset **15 Nov 15:47**. No daily +50 was seen on 10 Nov — check the avatar menu
+first; if it rose, the 50/day exists. Plan for the rest (owner to confirm the batch each day):
+- Clips: **03, 05, 06** = 30 credits. **04 and 10** = 0-credit push-ins on the stills. Keep 10 for one re-roll.
+- Motion prompts in shots.md. Lessons from today (in the skill's prompts.md): never ask fire to "grow"; say
+  "eyes stop at camera level, never above"; avoid release/drop actions; read the agent's count+cost before Approve
+  (it proposed 6 videos / 60 credits once).
+
+**Then the cut** (outside 09:00–15:35): cut to `vo-te.wav` (pauses ~4.2, 7.4, 11.9, 15.3, 19.1, 22.2, 25.6 s),
+`GRADE_SCALE=1080:1920 scripts/grade.sh … 1.0 rose`, end card "కార్తీక దీపం", music low under the voice.
+Owner previews on the phone. **Post Mon 16 Nov ~6 AM** (Instagram first, then YouTube Short; AI label on).
+
+Samudra Manthan: script + Ep 2 shot list are done (`projects/2026-11-09-samudra-manthan/`); its stills (0 credits)
+can start any time, clips after the 15 Nov reset. Open: narration voice, master image review (Flow project
+"Samudhra Manthan").
 Flow agent sessions used: "Cinematic Candlelight Wa…", "Sacred Rituals and Divine …" (project "Nov 08 - 18:42").
 
 ## After 7 days (Instagram Insights / YouTube Studio)
@@ -54,7 +98,7 @@ One lesson (also add to `docs/lessons.md`):
   "both seated on the SAME dry stone step, river one step BELOW, no person on or in the water". New gate item:
   check physics, not only hands (who sits on what, where the water is).
 
-## Next (resume here, Tue 2026-11-10: owner moved it from Monday)
+## (Superseded by "RESUME HERE" above) Next, as planned on 8 Nov
 
 1. Owner: animate on Tuesday 10 Nov. Check credits first (was 130 on 8 Nov evening).
 2. Flow project "Nov 08 - 18:42" (agent already set to Veo 3.1 Lite, 9:16, ×1). Right-click each still → Animate →
