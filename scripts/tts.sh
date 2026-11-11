@@ -10,11 +10,11 @@ cd "$(dirname "$0")/.."
 
 if [[ "${1:-}" == "-f" ]]; then text="$(cat "$2")"; shift 2; else text="${1:?text}"; shift; fi
 out="${1:?out.wav}"; voice="${2:-Achird}"
-style="${3:-Read this in Telugu as a warm, gentle devotional storyteller, calm and reverent, unhurried}"
+style="${3:-}"   # default: NONE. A style prefix gets READ ALOUD (Karthika, 11 Nov): only pass one if you will check the audio
 model="${TTS_MODEL:-gemini-3.8-flash-tts}"
 
 tmp="$(mktemp -d)"; trap 'rm -rf "$tmp"' EXIT
-jq -n --arg t "$style: $text" --arg v "$voice" \
+jq -n --arg t "${style:+$style: }$text" --arg v "$voice" \
   '{contents:[{parts:[{text:$t}]}],generationConfig:{responseModalities:["AUDIO"],
     speechConfig:{voiceConfig:{prebuiltVoiceConfig:{voiceName:$v}}}}}' > "$tmp/req.json"
 code=$(curl -s --max-time 120 -o "$tmp/resp.json" -w '%{http_code}' \
