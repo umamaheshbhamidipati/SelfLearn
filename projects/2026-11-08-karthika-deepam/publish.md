@@ -38,3 +38,14 @@
 
 ## Final file (11 Nov 2026)
 `media/out/karthika-music.mp4`, 1080×1920, 18.7 s, voice -16.8 LUFS. Owner approved the picture and narration (v2); music approved by choice of track, mix level to be confirmed on the phone. Posting plan: Mon 16 Nov ~6 AM IST, Instagram first, then the YouTube Short; AI label on. **Owner must approve the exact video + caption before posting.** Note: 18.7 s is under the usual 20–30 s target.
+
+## Instagram audio (owner, 11 Nov 2026)
+Two accounts, both get the Reel: **@umamaheshbhamidipati** and **@umaaivideostudio**. Instagram audio chosen by the owner:
+"Chandra Chooda - Keerthanam" by Anoop Shankar (instagram.com/reels/audio/988594482321013, 39K reels).
+- Instagram licensed audio can only be added **inside the Instagram app**, never baked into a file and never downloaded.
+  So Instagram gets `karthika-instagram-voice-only.mp4` (narration only). YouTube gets `karthika-youtube-with-music.mp4`
+  (Dreams Of River Ganga, YouTube Audio Library). Both are in Drive: `SelfLearn/Karthika-for-phone/`.
+- In the app: add the saved audio, set the original audio (narration) to about 100 % and the music to about 15–25 %, trim
+  the music to start at its calmest part. Professional/creator accounts may not be allowed some popular tracks: if it is
+  missing, use another from the Instagram library and note it here.
+- Same video on two accounts: post one first and the other a few hours later; keep the AI label on both.
