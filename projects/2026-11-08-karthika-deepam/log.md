@@ -137,3 +137,4 @@ One lesson (also add to `docs/lessons.md`):
   - 06: slow tilt up the gopuram with mist, trident at the top, architecture holds. Use ~1.5–4.5 s.
 - All 8 animated shots are now in hand: 01, 02, 03, 05, 06, 07, 08, 09. Push-ins (0 credits): 04, 10, 09_end.
 - NEXT: the cut (outside 09:00–15:35) to vo-te.wav, rose grade, end card, music; owner previews on phone.
+- Owner (11 Nov): run the edit **after 15:35** (Kite bot hours). Resume at "NEXT: the cut" above; all clips are in media/clips.
