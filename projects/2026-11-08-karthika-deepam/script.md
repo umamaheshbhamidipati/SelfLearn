@@ -21,8 +21,13 @@ End card (ASS, gold, complex shaping): **కార్తీక దీపం** + 
 ఈ మాసం శివకేశవులకు ప్రీతికరం. చిన్న దీపపు వెలుగు మనసులోని చీకటినీ తొలగిస్తుందని నమ్మకం.
 ఈ కార్తీకంలో మీ ఇంటి ముంగిట ఒక దీపం వెలిగించండి. ఓం నమః శివాయ 🙏
 
-Why do Telugu homes light a lamp every evening in Karthika Masam? Light one at your door this month.
+🔖 సేవ్ చేసుకోండి, సోమవారం దీపం వెలిగించే ముందు మళ్ళీ చూడండి. కుటుంబంతో షేర్ చేయండి.
+
+Why do Telugu homes light a lamp every evening in Karthika Masam? Light one at your door this month. Save this for your Karthika Somavaram and share it with your family.
 
 #కార్తీకమాసం #KarthikaMasam #KarthikaDeepam #OmNamahShivaya #TeluguDevotional
 ```
 Made with AI (Google Flow / Veo, Nano Banana); AI narration (Gemini TTS). AI label on.
+
+
+_E1 (docs/experiments.md): the save/share line above is the variable under test; success = saves > 0 at 7 days._

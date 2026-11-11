@@ -29,4 +29,9 @@ One line per video: what worked, what to stop doing.
 | 2026-11-10 | Karthika (review) | The owner caught all three motion errors from the phone; Flow's in-page preview wouldn't play for Claude via Chrome. Download and contact-sheet every clip before calling it OK; don't judge from the first frame. |
 | 2026-11-10 | Samudra Manthan (plan) | A 5-min film (~650–850 credits, 2+ weeks before anything posts) is too big for a new channel with 2 s average watch time. Split into 3 × 60–75 s episodes with cliffhangers; make the hero episode first. |
 
+## Unverified (check before relying on them)
+
+- **"No daily +50 Flow credits"** (10 Nov, Karthika credits row): on 11 Nov Flow showed 90 credits, up from 40, so a daily top-up probably exists. Re-check the avatar menu at the start of each day and record the numbers in the project log.
+- **Cause-and-effect claims from 3 videos** (e.g. "hero-face opening raised watch time"): small samples on different platforms; treat as hypotheses until `docs/experiments.md` has verdicts.
+
 Full retro with every failure and fix: `docs/2026-11-05-retro.md`.

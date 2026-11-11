@@ -98,5 +98,5 @@ usable clip, so a 30 s Reel ≈ 150–250 credits.
 templates/   brief, flow-prompt, shots, publish, log templates (copied per project)
 scripts/     ffmpeg + backup helpers (bash; run from the repo root)
 projects/    one folder per video: YYYY-MM-DD-slug/{brief,script,shots,publish,log}.md + media/
-docs/        lessons.md (what worked), prompt-library.md (prompts worth reusing)
+docs/        lessons.md (what worked), prompt-library.md, measurement.md + metrics.csv + experiments.md + finance.csv
 ```
