@@ -138,3 +138,8 @@ One lesson (also add to `docs/lessons.md`):
 - All 8 animated shots are now in hand: 01, 02, 03, 05, 06, 07, 08, 09. Push-ins (0 credits): 04, 10, 09_end.
 - NEXT: the cut (outside 09:00–15:35) to vo-te.wav, rose grade, end card, music; owner previews on phone.
 - Owner (11 Nov): run the edit **after 15:35** (Kite bot hours). Resume at "NEXT: the cut" above; all clips are in media/clips.
+
+## Edit (11 Nov 2026, 20:52–21:07, outside bot hours)
+`cut.sh` (hard cuts to vo-te.wav, 28.2 s) → `grade.sh … rose` at 1080×1920 → `endcard.ass` (25.3 s) + Achird voice.
+Order: 01, 02, 06, 03, 05, 09 clip, 04 push-in, 09_end push-in, 07, 08, 10 push-in. Voice-only preview sent to the owner;
+music (YouTube Audio Library, log source + licence in publish.md) and the owner's OK still to come.
