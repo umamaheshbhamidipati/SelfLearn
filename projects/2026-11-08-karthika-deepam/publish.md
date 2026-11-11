@@ -49,3 +49,11 @@ Two accounts, both get the Reel: **@umamaheshbhamidipati** and **@umaaivideostud
   the music to start at its calmest part. Professional/creator accounts may not be allowed some popular tracks: if it is
   missing, use another from the Instagram library and note it here.
 - Same video on two accounts: post one first and the other a few hours later; keep the AI label on both.
+
+## YouTube: SCHEDULED (11 Nov 2026, 22:4x IST, by Claude on the owner's instruction)
+- Uploaded `karthika-music.mp4` to UmaAI Studio (UC7641taSeJncB7xFQhGwmIg). Scheduled **public on Mon 16 Nov 2026, 6:00 AM IST**.
+- Link: https://youtube.com/shorts/1V_xL1lp-kg
+- Title (option 1): కార్తీక మాసంలో దీపం ఎందుకు వెలిగిస్తాం? | Karthika Deepam #shorts
+- Description: Telugu caption + English line + AI disclosure + music credit (Dreams Of River Ganga, Hanu Dixit, YouTube Audio Library).
+- Settings: not made for kids; no paid promotion; AI use = Yes (altered/synthetic label). No playlist set yet.
+- Instagram (both accounts) is posted by the owner from the phone.
