@@ -123,3 +123,17 @@ One lesson (also add to `docs/lessons.md`):
   - 08: eyes closed until ~3 s; pink wisps near face ~5 s → use ~5.5–7.9 s (eyes open, calm).
   - 09: clean for 0–~2 s (before the hand reaches the water), then 04 push-in, then 09_end push-in.
 - Still to animate: 03, 05, 06 (30 credits); 04 and 10 = push-ins (0). Waiting for owner to confirm the batch.
+
+## Clips 03, 05, 06 (2026-11-11, owner approved 3 clips = 30 credits)
+
+- Made in a fresh agent session so the stale old "Approve" prompt stayed untouched. Each time the agent asked
+  "1 video, 10 credits" → plain Approve (never "Always approve"). Credits should now be ~60 (90 − 30).
+- Downloaded 720p → media/clips/03.mp4, 05.mp4, 06.mp4. Right-click → Animate sometimes opens the image editor
+  instead (row/banner shift): screenshot after each right-click, and wait 2 s between menu clicks.
+- Review (12 frames each):
+  - 03: man lights the pillar lamps cleanly, flames small. Raised arm looks a little long mid-clip (~2.5–5.5 s) →
+    use 0–2.5 s only.
+  - 05: calm, eyes closed, gentle smile, smoke wisps, flames small. Fine for the whole clip (use ~1.5–4 s).
+  - 06: slow tilt up the gopuram with mist, trident at the top, architecture holds. Use ~1.5–4.5 s.
+- All 8 animated shots are now in hand: 01, 02, 03, 05, 06, 07, 08, 09. Push-ins (0 credits): 04, 10, 09_end.
+- NEXT: the cut (outside 09:00–15:35) to vo-te.wav, rose grade, end card, music; owner previews on phone.
