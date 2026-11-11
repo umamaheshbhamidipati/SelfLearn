@@ -109,3 +109,17 @@ One lesson (also add to `docs/lessons.md`):
 - 2nd review by ChatGPT (free, owner's account, contact sheet attached to chat only): all 10 OK for anatomy, faces,
   ages and physics. Its only "issue" was the small star watermark bottom-right = Google's visible AI watermark:
   **keep it** (channel rule: never hide or remove AI watermarks).
+
+## Progress 2026-11-11 (AMD laptop, morning)
+
+- **Credits: 90** (were 40 on 10 Nov evening) → the daily +50 does exist. Reset still 15 Nov 15:47.
+- A stale "Approve 10 credits" prompt from the old couple session was still open in the Flow agent panel:
+  **left untouched** (not in an approved batch).
+- Downloaded (720p, 7.9 s each) to media/clips: 01 (v3), 02, 07, 08, 09 (v3); end still media/stills/09_end.jpg.
+- Review by contact sheets, what to use in the cut:
+  - 01: looks down at diya, then smiles at camera, eyes never above. Use ~0–5 s.
+  - 02: clean drone glide. Use any ~2 s.
+  - 07: glow washes out the face after ~3.5 s → use only 0–3 s.
+  - 08: eyes closed until ~3 s; pink wisps near face ~5 s → use ~5.5–7.9 s (eyes open, calm).
+  - 09: clean for 0–~2 s (before the hand reaches the water), then 04 push-in, then 09_end push-in.
+- Still to animate: 03, 05, 06 (30 credits); 04 and 10 = push-ins (0). Waiting for owner to confirm the batch.
