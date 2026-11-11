@@ -20,17 +20,21 @@
 
 - **Caption** (for the viewer, not about me): line 1 = the hook / devotional line; 2–3 lines of
   the story; festival or weekday tie-in; 3–5 hashtags.
-- **Audio:**
+- **Audio:** baked into the file: Achird AI narration + "Dreams Of River Ganga" (Hanu Dixit, YouTube Audio Library, no credit required, downloaded 11 Nov 2026) at about 10 dB under the voice. Do not add Instagram music on top.
+- **Caption:** use the caption in script.md (E1 variable: the save/share line stays).
 - **Posted:** date · URL
 
 ## YouTube Shorts (brand channel)
 
 - **Title (≤ 60 chars, 3 options):**
-  1.
-  2.
-  3.
-- **Description (first 2 lines matter most):**
+  1. కార్తీక మాసంలో దీపం ఎందుకు వెలిగిస్తాం? | Karthika Deepam #shorts
+  2. కార్తీక దీపం | ఓం నమః శివాయ
+  3. Why we light a lamp in Karthika Masam (AI-made)
+- **Description (first 2 lines matter most):** the Telugu caption from script.md + "Made with AI (Google Flow / Veo, Nano Banana); AI narration (Gemini TTS). Music: Dreams Of River Ganga, Hanu Dixit, YouTube Audio Library."
 - **Hashtags:** #shorts + 2–3 topic tags
-- **Music source + licence:**
+- **Music source + licence:** "Dreams Of River Ganga" by Hanu Dixit, YouTube Audio Library (free to use, no attribution required). Optional credit line in the description.
 - **Made for kids?** no
 - **Posted:** date · URL
+
+## Final file (11 Nov 2026)
+`media/out/karthika-music.mp4`, 1080×1920, 18.7 s, voice -16.8 LUFS. Owner approved the picture and narration (v2); music approved by choice of track, mix level to be confirmed on the phone. Posting plan: Mon 16 Nov ~6 AM IST, Instagram first, then the YouTube Short; AI label on. **Owner must approve the exact video + caption before posting.** Note: 18.7 s is under the usual 20–30 s target.
