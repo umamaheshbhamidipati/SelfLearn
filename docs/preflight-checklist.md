@@ -35,5 +35,7 @@ Rule: **never accept "looks good". Check each Must-be-true line.**
 **Physics:** nobody sits on or in water; mountain stays on Kurma's shell; things that must move do move (sinking visibly sinks).
 **Mythology/sources:** follow `research.md`; belief-based moments narrated as belief; no copyrighted characters, real people or music.
 **Clips:** the motion asked for actually happens; no morphing hands/faces; same face and costume start to end; one continuous shot; foam/ocean milk-white or cream, not brown.
+**Narration vs picture:** every narration line has a picture under it that shows what the words say ("light a lamp at your doorstep" = a doorstep lamp, "Om Namah Shivaya" = Shiva). Check by listing line → shot before cutting.
+**Eyes:** deities look at the viewer when addressed ("Om Namah Shivaya"); check the clip's frames for downcast or closed eyes and pick the seconds where they look straight.
 **Audio:** duration within +/-10 % of the script's expected length; no extra speech before line 1 (silencedetect segments match the number of lines); loudness about -16 LUFS voice; style prompts are never spoken aloud (check the first 10 s).
 **Cover / text:** exact Telugu spelling copied from the script (no AI layout tool rewriting it).

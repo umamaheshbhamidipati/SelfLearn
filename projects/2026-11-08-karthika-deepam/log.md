@@ -143,3 +143,12 @@ One lesson (also add to `docs/lessons.md`):
 `cut.sh` (hard cuts to vo-te.wav, 28.2 s) → `grade.sh … rose` at 1080×1920 → `endcard.ass` (25.3 s) + Achird voice.
 Order: 01, 02, 06, 03, 05, 09 clip, 04 push-in, 09_end push-in, 07, 08, 10 push-in. Voice-only preview sent to the owner;
 music (YouTube Audio Library, log source + licence in publish.md) and the owner's OK still to come.
+
+## 12 Nov 2026: v3 re-cut (owner: "Karthika clip was not accurate"; "Shiva's eyes are looking down")
+Check of v2 (scheduled on YouTube for Mon 16 Nov 6:00 AM):
+- Line 4 "ఈ కార్తీకంలో మీ ఇంటి ముంగిట ఒక దీపం వెలిగించండి" played over Shiva in the sky (no doorstep); line 5 "ఓం నమః శివాయ" over the river/title (no Shiva).
+- Clip 07 (Shiva in the sky): eyes half-closed, looking down for the whole clip. Clip 08 (face): eyes closed 0-2.5 s, open and looking straight 3.5-6.8 s, closing after 7.5 s.
+v3 (`cut_v3.sh`, `endcard_v3.ass`, `build_v3.sh`; 0 credits): line 4 = clip 01 @3.8 s (she looks up at the camera with the diya at her doorstep); line 5 = clip 08 @3.5-6.5 s (eyes straight); clip 07 dropped; end card on the river 19.4-21.5 s. 21.6 s total.
+Files: media/out/karthika-v3-instagram-voice-only.mp4 (voice -16.8 LUFS), media/out/karthika-v3-youtube-with-music.mp4 (-17.0 LUFS). Silences match the 5 lines. color_check says WARM: that is the rose grade the owner approved for Karthika on 8 Nov (the neutral rule came later, for Samudra Manthan).
+Preview: private Artifact (version 3). YouTube still has v2 scheduled: replacing it needs the owner's OK (delete scheduled v2, upload v3 with the same title, description and schedule).
+Lesson: the shot list put Shiva under line 4 and the river under line 5; nobody checked each line's WORDS against the picture under it. New preflight line: "every narration line has a picture that shows what it says".
