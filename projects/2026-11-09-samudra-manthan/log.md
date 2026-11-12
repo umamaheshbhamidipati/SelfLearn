@@ -83,3 +83,9 @@ Stills first (0 credits): churn wide, sinking mountain, churn with Vishnu above 
 Spent today: 80 credits (batch 1 = 50, batch 2 = 30). Expected balance 10 (read it in Flow before any more clips). Clips: media/ep1/clips/{01,04,07,10,11,12,14,15}.mp4.
 Notes: ask for "exactly 6 men per side" did not hold in the churn stills (crowds of many); fine for wides. Clicking Animate: wait 3 s and check that the thumbnail is attached before typing; the Flow grid shifts after every new render, so re-zoom the grid before right-clicking.
 Remaining stills/clips for Ep 1: 02, 03, 05, 06, 08, 09, 13 (all 0-credit push-ins on stills, some need new stills).
+
+### 12 Nov: layout correction (owner)
+Owner: "Devas and Asuras will be left and right, not side by side churning the mountain." Shots 10 and 14 had both groups together in the foreground. Correct layout: mountain in the centre, serpent stretched horizontally to both edges, **Asuras at the far left shore (head end), Devas at the far right shore (tail end)**, facing away from each other with the whole ocean between them.
+New stills made (0 credits) with that layout (prompt: "symmetrical wide shot ... FAR LEFT edge ... FAR RIGHT edge ... NOT standing together"): composition is right; figures are tiny and the foreground is a lot of foam.
+Credit balance read in Flow: **10** (resets 15 Nov 3:47 PM). Enough for ONE clip. Shots 10 and 14 as generated stay out of the edit unless the owner OKs them.
+Lesson: state the screen layout as left edge / centre / right edge and say "not standing together"; check group placement before animating.
