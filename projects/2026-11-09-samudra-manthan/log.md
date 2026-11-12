@@ -72,3 +72,14 @@ Settings set first: agent video = Veo 3.1 - Lite, 9:16, x1 (it had defaulted to 
 5 of 5 usable on the first try = **50 credits** (expected balance 40; verify in the avatar menu). Clips: media/ep1/clips/{01,04,07,12,15}.mp4 (720x1280, 7.9 s), contact sheets in media/ep1/review/.
 Still to make: stills for 02, 03, 05 (reuse Vishnu), 06, 08, 09, 10, 11, 13 (reuse Kurma), 14; clips 10, 11, 14 (batch 2, 30 credits) once the owner OKs.
 Lesson: first-try success on 5/5 when the still is clean and the prompt is motion-only + "one continuous shot, no cuts".
+
+### Ep 1 batch 2, 12 Nov 2026 (approved by owner: shots 10, 11, 14 = 30 credits)
+Stills first (0 credits): churn wide, sinking mountain, churn with Vishnu above the summit. Each clip: Agent proposed "1 video, 10 credits", plain Approve.
+| Date | Shot | Credits | Result | Notes |
+|---|---|---|---|---|
+| 12 Nov | 10 both sides pull | 10 | PASS | Asuras left, Devas right pulling one serpent, mountain turns, big splashes; faces small |
+| 12 Nov | 11 mountain sinks | 10 | PARTIAL | very dramatic (waterfalls, waves, tumbling trees) but the mountain does not visibly sink; use as "waves overwhelm the mountain", or reroll with "visibly descends below the waterline" (+10) |
+| 12 Nov | 14 churn + Vishnu above | 10 | PASS | huge crowds both sides, Kurma's shell glows under the foam, tiny Vishnu on a cloud above; foam is cream/tan |
+Spent today: 80 credits (batch 1 = 50, batch 2 = 30). Expected balance 10 (read it in Flow before any more clips). Clips: media/ep1/clips/{01,04,07,10,11,12,14,15}.mp4.
+Notes: ask for "exactly 6 men per side" did not hold in the churn stills (crowds of many); fine for wides. Clicking Animate: wait 3 s and check that the thumbnail is attached before typing; the Flow grid shifts after every new render, so re-zoom the grid before right-clicking.
+Remaining stills/clips for Ep 1: 02, 03, 05, 06, 08, 09, 13 (all 0-credit push-ins on stills, some need new stills).
