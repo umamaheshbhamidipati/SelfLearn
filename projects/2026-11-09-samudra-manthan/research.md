@@ -37,3 +37,10 @@ Mohini: beautiful, dignified; no sensual framing.
   foam should read as milky. (Check the current master image against this.)
 - Asuras on Vasuki's **head** side, Devas on the **tail** side — keep screen direction fixed for the whole film
   (e.g. Asuras always screen-left, Devas screen-right) so cuts stay readable.
+
+## Layout check against traditional depictions (12 Nov 2026, owner asked to validate)
+- Angkor Wat bas-relief (Britannica, Lonely Planet): Vishnu at the centre, **Asuras on the left, Devas on the right**, pulling opposite ends of Vasuki; Asuras at the head, Devas at the tail; Mandara in the middle on Kurma; Indra and apsaras above. Matches our layout (Asuras left/head, Devas right/tail, mountain centre, Vishnu above).
+- Royal Collection Trust miniature: gods right, demons left, Mandara as the churning staff.
+- Salar Jung-type painting (British Museum): reverses the labels (head held by figures labelled Suras). So head/tail side varies between traditions; our choice follows the common telling (Asuras head).
+- Counts vary (Angkor: ~88-92 per side), so crowds of many are fine; no fixed number is canonical.
+Sources: britannica.com/print/article/117369, lonelyplanet.com/points-of-interest/churning-of-the-ocean-of-milk/1468974, col.rct.uk/collection/1005115-e/kuurm-avtaar-kurma-avatar, britishmuseum.org/collection/object/A_2007-3005-7, en.wikipedia.org/wiki/Samudra_manthan
