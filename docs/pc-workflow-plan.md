@@ -5,6 +5,19 @@ Hardware (owner, 12 Nov): new PC in Hyderabad, Ryzen 9 9900X (12 cores), 32 GB D
 Realme 12 Pro 5G (Wi-Fi) = camera + phone edits in Instagram's Edits app (no CapCut). Goal: run AI locally, avoid paid
 AI long term, 1080p, CPU-friendly until the GPU arrives.
 
+## Pace (owner, 12 Nov 2026): no hurry
+The PC takes about **6 months** to build (to about May 2027). We go slowly and study as we go: nothing here is urgent, and the
+channel keeps running on Flow + the laptop meanwhile. Each month adds one small thing we understand, and each lesson goes to `docs/lessons.md`.
+
+| When | Study / do (small, on the laptop or phone, no new hardware needed) |
+|---|---|
+| Nov-Dec 2026 | Keep making Samudra Manthan on Flow. Write the script-to-captions script (no Whisper) and make `scripts/` path-independent. |
+| Jan 2027 | Read about faster-whisper and IndicTrans2 (how they work, model sizes). Try Whisper `small` on a 60 s Hindi/English phone clip on the laptop only if the bot is idle (slow is fine). |
+| Feb 2027 | Read about Telugu TTS options; prepare the 5-line blind-test sheet and the owner's own-voice reference clip. |
+| Mar 2027 | Learn ffmpeg filters properly (grade, crop, subtitles) with small experiments; Kdenlive basics on the Windows PC if useful. |
+| Apr 2027 | Write `scripts/bench.sh`; decide the order of installs for day 1. |
+| May 2027 onward | PC boots: steps 5-9 below, then the 3090 steps when it arrives. |
+
 ## Principles
 1. **Split by machine.** Laptop: never video or AI work (see CLAUDE.md). PC: all local video and AI. Phone: capture and
    quick Instagram edits. Cloud (Google Flow, Gemini TTS) stays until a local tool *passes our own test*.
