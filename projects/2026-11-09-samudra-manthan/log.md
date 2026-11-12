@@ -49,3 +49,8 @@ Crown hierarchy: Vishnu tallest > Indra/Agni/Varuna (tiered, medium) > Asuras (s
 Trashed in Flow (Trash, recoverable): 4 warm/orange Asura portraits, 2 warm Agni, 2 warm Vishnu-on-ocean, 4 short-crown Deva portraits, 2 earlier warm Indra/Bali refs, 4 older Indra (tall purple, shoulder-vajra) = 18 images. The earlier Indra/Bali refs are still in media/refs/ on disk.
 Kept (20): Indra gripping vajra x2, Vishnu on ocean (neutral) x2, young Asura x2, Asura general x2, Agni (neutral) x2, Varuna x2 (warm teal, redo pending), Vasuki x2, Kurma x2, Lakshmi A/B, Vishnu B x2 (approved, warm-pink / pale bg).
 Owner feedback on Indra: the shoulder vajra was not held in the hand → prompt "RIGHT HAND firmly GRIPS the central handle of the vajra, fingers wrapped around it, vajra fully visible" fixed it.
+
+### 12 Nov: neutral redo of the rest (0 credits)
+Redone in neutral colour: Varuna (medium crown, sea-green, pearls, rope), Vasuki (hoods + one body round Mandara), Kurma (tortoise carrying Mandara), Lakshmi (full body on lotus, pale silver-blue dawn).
+Old warm Varuna, Vasuki, Kurma, Lakshmi A/B are still in the project: trash them once the owner confirms the new ones. Kurma's head is not clearly visible (shell + mountain only): may need one more try before the Kurma clip.
+Credits still 90.
