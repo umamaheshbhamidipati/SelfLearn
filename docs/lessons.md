@@ -38,6 +38,7 @@ One line per video: what worked, what to stop doing.
 | 2026-11-11 | Karthika (backups) | A 190 MB project backup exceeds a 10-minute foreground limit. Run `scripts/backup.sh` through `systemd-run --user` and check the log; then verify with `rclone check`. |
 | 2026-11-11 | Browser work | I navigated the owner's own open Flow tab to look at an Instagram page. Always open a new tab for anything new and close it after. Flow's screenshot size changes between sessions (1568×745 vs 1556×784): re-read coordinates from a fresh screenshot before clicking. |
 | 2026-11-11 | Samudra Manthan (casting) | The "no women among the Devas" problem is solved by wording: "ONE single man only, no women" plus jaw, beard and chest words, and never "beautiful/graceful" for men. Indra and Bali came out male first try. Vasuki works with "ONE single cobra, ONE head, ONE continuous body, wound once around the mountain". Make single-character portraits first, big faces, then use them as references. |
+| 2026-11-12 | Samudra Manthan (colour) | Our look block said "rose-gold and blush, warm shadows" and prompts said "orange/golden light" | Use "NEUTRAL natural colour balance, skin NOT orange", cool blue-grey backgrounds, warm only as a thin rim light; grade.sh rose adds more warmth later |
 
 ## Unverified (check before relying on them)
 
@@ -46,4 +47,3 @@ One line per video: what worked, what to stop doing.
 - **Cause-and-effect claims from 3 videos** (e.g. "hero-face opening raised watch time"): small samples on different platforms; treat as hypotheses until `docs/experiments.md` has verdicts.
 
 Full retro with every failure and fix: `docs/2026-11-05-retro.md`.
-| Orange cast on stills | Our look block said "rose-gold and blush, warm shadows" and prompts said "orange/golden light" | Use "NEUTRAL natural colour balance, skin NOT orange", cool blue-grey backgrounds, warm only as a thin rim light; grade.sh rose adds more warmth later |
