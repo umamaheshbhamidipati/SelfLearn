@@ -4,7 +4,7 @@
   Main metrics: avg watch time, % viewed, shares, saves, follows.
 - `docs/experiments.md`: one variable per video, success metric set beforehand, verdict after 7 days.
 - `docs/finance.csv`: every cost and every rupee earned (subscriptions, credits bought, sales). Empty until we log the
-  first entry. Revenue so far: 0.
+  first entry. Revenue so far: 0. Costs so far: Google Flow 399/month (logged 12 Nov).
 - `docs/lessons.md`: lessons carry a status; unverified ones are listed under "Unverified" at the bottom.
 
 Not automated yet: reading analytics (weekly task, read-only), publishing, spending. All need owner approval.
