@@ -12,7 +12,7 @@ ten perfect plans.
 | Video clips | Google Flow (Veo) | **Credits: 50/day + 200/month.** Manual, in the browser only |
 | Stills: thumbnails, character reference images | Nano Banana (in Flow / Gemini app) | Feed the reference image back into Flow for consistent characters |
 | Voiceover (optional) | ElevenLabs free tier | Check the free tier's commercial-use terms before monetising |
-| Editing | ffmpeg (`scripts/`), CapCut for hand edits | ffmpeg 8.0.1 installed 2026-11-05 |
+| Editing | ffmpeg (`scripts/`); hand edits in Instagram's Edits app (phone) or Kdenlive (new PC). CapCut is banned in India: do not use | ffmpeg 8.0.1 installed 2026-11-05 |
 | YouTube SEO | vidIQ free extension, YouTube Studio analytics | |
 
 ## Channel plan (decided 2026-11-05)
@@ -85,6 +85,8 @@ usable clip, so a 30 s Reel ≈ 150–250 credits.
 - **Never hide, crop out or blur the Flow/AI watermark.** Label AI content on YouTube and Instagram.
 - **No copyrighted characters, logos, real people's likeness or music** in prompts or edits.
   Use YouTube Audio Library or royalty-free music; note the source in `publish.md`.
+- **New PC plan (12 Nov 2026):** see `docs/pc-workflow-plan.md` (Ryzen 9 9900X, Ubuntu, 3090 later; laptop becomes server-only).
+  The laptop rules below apply to the laptop only.
 - **This laptop is slow (AMD A4-5000).** Re-encoding 1 min of 1080p takes minutes. Prefer
   stream copy (`join.sh` does this when clips match). Run long encodes outside 09:00–15:35
   so they don't compete with the Kite bot. No Remotion/heavy renders here.
