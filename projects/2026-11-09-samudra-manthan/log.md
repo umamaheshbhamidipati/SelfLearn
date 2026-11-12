@@ -89,3 +89,8 @@ Owner: "Devas and Asuras will be left and right, not side by side churning the m
 New stills made (0 credits) with that layout (prompt: "symmetrical wide shot ... FAR LEFT edge ... FAR RIGHT edge ... NOT standing together"): composition is right; figures are tiny and the foreground is a lot of foam.
 Credit balance read in Flow: **10** (resets 15 Nov 3:47 PM). Enough for ONE clip. Shots 10 and 14 as generated stay out of the edit unless the owner OKs them.
 Lesson: state the screen layout as left edge / centre / right edge and say "not standing together"; check group placement before animating.
+
+### 12 Nov: Ep 1 cover (Canva test)
+Canva connector: uploaded the Kurma frame (clip 12 at 4.5 s), generate-design "your_story". Result ignored the layout (stamp frame, white background, invented English text "A Celebration of Divine Nature"), so not used. It left a design in the owner's Canva account (Your Story - కూర్మావతారం..., id DAHarDjZ_6M): delete it if unwanted.
+Final cover made locally: media/ep1/cover/cover_ep1_v1.png (1080x1920) = frame + bottom gradient + cover-ep1.ass (Noto Serif Telugu, gold title). Telugu shaping correct. Command: ffmpeg overlay gradient + ass=cover-ep1.ass:shaping=complex.
+Lesson: Canva's AI layout tool does not follow exact text/layout briefs; use it only for browsing ideas, and keep exact Telugu text in ass/ffmpeg or edit the Canva design by hand.
