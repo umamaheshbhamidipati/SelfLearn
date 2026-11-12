@@ -42,3 +42,18 @@ thick moustaches, no horns; always screen-left; seen from behind or in profile.
 backs; always screen-right; seen from behind or in profile.
 **Setting:** the Ksheera Sagara, a vast ocean of milk-white water and cream foam; Mandara, a forested mountain; Vasuki, one many-hooded
 serpent with ONE continuous body wound once around the mountain.
+
+## Must be true per shot (check each YES/NO; see docs/preflight-checklist.md for the shared rules)
+- **01 Vasuki hook:** ONE serpent, one continuous body wound round Mandara; hoods grow but stay one creature; milk-white/cream foam (not brown); `color_check` OK.
+- **04 Vishnu:** navy skin; exactly four arms with chakra, conch, gada, lotus GRIPPED; tallest crown; face same as reference.
+- **07 Vasuki hoods:** same as 01; no second serpent.
+- **10 Both sides pull:** Asuras on the FAR LEFT shore, Devas on the FAR RIGHT shore, mountain centre, one serpent stretched between them, groups NOT together.
+- **11 Mountain sinks:** mountain's visible height DROPS across the clip; waves close over it; small figures only.
+- **12 Kurma:** tortoise head visible; mountain stays fixed on the shell; gold shell lines glow.
+- **14 Churn + Vishnu:** same left/right layout as 10; Vishnu small above the summit; Kurma under the foam.
+- **15 Dark vein:** dark stain spreads through white foam; forested mountain with serpent far away; no people.
+- **02 Indra weak:** Indra head bowed, vajra lowered (held in hand), medium crown; one man.
+- **03 Devas walk:** Indra, Agni, Varuna from behind/profile, medium crowns, no women.
+- **05 Vishnu close-up:** same face as 04, calm eyes to camera.
+- **06 Mandara alone:** forested mountain, no people; **08/09 groups:** Asuras left, Devas right, from behind; exact men only.
+- **13:** Mandara on Kurma's shell, water pouring off.

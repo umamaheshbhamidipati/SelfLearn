@@ -47,7 +47,8 @@ usable clip, so a 30 s Reel ≈ 150–250 credits.
 2. Fill `brief.md` (idea, audience, length, format: Short 9:16 or long 16:9).
 3. Claude writes `script.md` and `shots.md`: one Flow prompt per shot, using
    `templates/flow-prompt.md`. Repeat the same character/style block in every prompt.
-4. Plan credits in `shots.md` before generating: test prompts on the cheaper/fast mode,
+4. **Pre-flight:** write each shot's "Must be true" list in `shots.md`; after generating, run `scripts/color_check.sh`, `scripts/vision_check.sh`, check every line YES/NO yourself and show the owner only a PASS/FAIL summary (`docs/preflight-checklist.md`; the owner has a full-time job). Every owner correction becomes a new line there.
+   Plan credits in `shots.md` before generating: test prompts on the cheaper/fast mode,
    spend quality credits only on final shots. Log what each shot cost in `log.md`.
 5. Generate in Flow (by hand, or Claude via Chrome with your Approve per clip); download clips to `projects/<slug>/media/clips/` as `01.mp4`, `02.mp4`…
 6. Edit with `scripts/` (join, add audio, captions, Shorts crop). Final file in `media/out/`.
