@@ -46,3 +46,4 @@ One line per video: what worked, what to stop doing.
 - **Cause-and-effect claims from 3 videos** (e.g. "hero-face opening raised watch time"): small samples on different platforms; treat as hypotheses until `docs/experiments.md` has verdicts.
 
 Full retro with every failure and fix: `docs/2026-11-05-retro.md`.
+| Orange cast on stills | Our look block said "rose-gold and blush, warm shadows" and prompts said "orange/golden light" | Use "NEUTRAL natural colour balance, skin NOT orange", cool blue-grey backgrounds, warm only as a thin rim light; grade.sh rose adds more warmth later |

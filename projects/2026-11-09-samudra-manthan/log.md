@@ -38,3 +38,9 @@ Made in Flow project "Nov 11 - 21:22" (not yet saved to media/refs/): Deva moust
 Vishnu standing on the milk ocean (4 arms), Indra with a very tall tiered kirita, Agni (saffron/red, tiered crown, flames), Varuna (sea-green, pearls, rope).
 Lesson: "TALL ornate kirita rising in tiers like a temple spire" fixes short crowns; name the Deva (Agni/Varuna) and give each a colour.
 Still to do: Lakshmi rising shot, churning shot, save refs, Ep 1 script + shots.md (Ep 1 has no script yet).
+
+### 12 Nov, redo with neutral colour (0 credits)
+Why orange: our look block ("rose-gold and blush palette, deep warm shadows") plus my "orange light" / "golden storm light" backgrounds; skin took the warm light.
+Owner: redo neutral; Deva crowns smaller than Vishnu's. Redone: Indra, Agni, Asura general, young Asura, Vishnu on ocean (Vishnu's crown now the tallest).
+Wording that works: "NEUTRAL natural colour balance, true-to-life skin tones (natural warm wheat-brown, NOT orange, NOT red), no orange cast anywhere" + "deep blue-grey storm clouds" + "cool neutral light with a thin warm rim light only on the edge" + "modest crown, shorter than a supreme god's crown".
+Crown hierarchy: Vishnu tallest > Indra/Agni/Varuna (tiered, medium) > Asuras (small bronze). Varuna not redone yet; Lakshmi/Kurma/Vasuki refs are still the warm look.
