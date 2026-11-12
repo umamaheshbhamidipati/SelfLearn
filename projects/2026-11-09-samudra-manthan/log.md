@@ -30,3 +30,11 @@ Still to make: 2–3 more Deva faces, 2 more Asura faces, Mandara churning shot,
 Prompt lessons: "ONE single man only, no women" + explicit jaw/beard/chest words kept every man male; one head and one continuous body for Vasuki.
 
 - 2026-11-12 morning: Flow credits = 90 (same as 11 Nov night; resets 15 Nov 3:47 PM). Unused credits did not vanish overnight, but no new daily 50 was added either: the 90 looks like a pool, not "50 per day". No credits spent yet today.
+
+## 12 Nov 2026 (morning): more stills, 0 credits (Flow credits still 90)
+Owner approved the Ep 1 refs and said: keep 9:16 stills built from our approved faces (his ChatGPT project "Samudhra Manthan", 16:9, reviewed: good compositions, different faces, used only as framing guides).
+Owner feedback: Deva crowns looked too short → use Indra / Agni / Varuna as in Indra's sabha, tall tiered kirita.
+Made in Flow project "Nov 11 - 21:22" (not yet saved to media/refs/): Deva moustache + young bearded Deva (short crowns, superseded), Asura general, young Asura warrior,
+Vishnu standing on the milk ocean (4 arms), Indra with a very tall tiered kirita, Agni (saffron/red, tiered crown, flames), Varuna (sea-green, pearls, rope).
+Lesson: "TALL ornate kirita rising in tiers like a temple spire" fixes short crowns; name the Deva (Agni/Varuna) and give each a colour.
+Still to do: Lakshmi rising shot, churning shot, save refs, Ep 1 script + shots.md (Ep 1 has no script yet).
