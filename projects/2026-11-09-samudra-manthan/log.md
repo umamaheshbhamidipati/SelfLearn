@@ -59,3 +59,16 @@ Credits still 90.
 Moved the old warm Varuna x2, Vasuki x2, Kurma x2, Lakshmi A/B to Trash. The Flow project now holds 20 images, all neutral: Lakshmi x2, Kurma x2, Vasuki x2, Varuna x2, Indra (gripping vajra) x2, Vishnu on ocean x2, young Asura x2, Asura general x2, Agni x2, Vishnu navy x2.
 Old Lakshmi A / Vishnu B / Indra A / Bali A PNGs remain in media/refs/ on disk. Next: Ep 1 script + shots.md, then a ~5-clip test batch (~50 credits) after owner approval.
 Flow UI note: card menu = hover, then the three-dot at the card's top-right; "Move to trash" is at the bottom of the menu (flips upward on the bottom row); click one at a time with a short wait, since the grid reflows after every delete and viewport size can change.
+
+## Ep 1 test batch, 12 Nov 2026 (approved by owner: 5 clips, ~50 credits)
+Settings set first: agent video = Veo 3.1 - Lite, 9:16, x1 (it had defaulted to Omni 1.2 Flash), confirm = Always. Each clip: Agent proposed "1 video, 10 credits"; plain Approve.
+| Date | Shot | Mode | Credits | Result | Notes |
+|---|---|---|---|---|---|
+| 12 Nov | 01 hook: Vasuki rises round Mandara | Veo 3.1 Lite 720p | 10 | PASS | single serpent rises, hoods multiply to ~7, strong waves; sea foam tan not milk-white |
+| 12 Nov | 04 Vishnu on ocean | Veo 3.1 Lite 720p | 10 | PASS | slow push-in, 4 arms and objects right, face and crown stable |
+| 12 Nov | 07 Vasuki hoods | Veo 3.1 Lite 720p | 10 | PASS | 7 hoods rise, body wraps the mountain; similar to 01, use one of them |
+| 12 Nov | 12 HERO Kurma | Veo 3.1 Lite 720p | 10 | PASS | tortoise head visible, gold shell lines glow, mountain stays on the shell |
+| 12 Nov | 15 dark vein | Veo 3.1 Lite 720p | 10 | PASS | ink vein spreads through foam, sky darkens, big wave |
+5 of 5 usable on the first try = **50 credits** (expected balance 40; verify in the avatar menu). Clips: media/ep1/clips/{01,04,07,12,15}.mp4 (720x1280, 7.9 s), contact sheets in media/ep1/review/.
+Still to make: stills for 02, 03, 05 (reuse Vishnu), 06, 08, 09, 10, 11, 13 (reuse Kurma), 14; clips 10, 11, 14 (batch 2, 30 credits) once the owner OKs.
+Lesson: first-try success on 5/5 when the still is clean and the prompt is motion-only + "one continuous shot, no cuts".
