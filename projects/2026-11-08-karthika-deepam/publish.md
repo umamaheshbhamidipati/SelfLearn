@@ -57,3 +57,10 @@ Two accounts, both get the Reel: **@umamaheshbhamidipati** and **@umaaivideostud
 - Description: Telugu caption + English line + AI disclosure + music credit (Dreams Of River Ganga, Hanu Dixit, YouTube Audio Library).
 - Settings: not made for kids; no paid promotion; AI use = Yes (altered/synthetic label). No playlist set yet.
 - Instagram (both accounts) is posted by the owner from the phone.
+
+## YouTube: REPLACED with v3 (12 Nov 2026, ~22:00 IST, by Claude on the owner's instruction "Yes, replace with v3")
+- Uploaded `media/out/karthika-v3-youtube-with-music.mp4` (0:22). Scheduled **public on Mon 16 Nov 2026, 6:00 AM (GMT+05:30)**.
+- New link: **https://youtube.com/shorts/DTI25IuZ_6U**
+- Same title and description as v2 (exact text in `youtube-text.md`); not made for kids; AI use = Yes; no paid promotion.
+- Old v2 (https://youtube.com/shorts/1V_xL1Ip-kg, 0:19, 7 views, note: capital I, the link above in this file had a typo) **deleted permanently**. Its file stays on disk: `media/out/karthika-music.mp4`.
+- Instagram: use `karthika-v3-instagram-voice-only.mp4` (also copied to Drive `SelfLearn/Karthika-for-phone/`).
