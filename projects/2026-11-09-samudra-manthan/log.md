@@ -54,3 +54,8 @@ Owner feedback on Indra: the shoulder vajra was not held in the hand → prompt 
 Redone in neutral colour: Varuna (medium crown, sea-green, pearls, rope), Vasuki (hoods + one body round Mandara), Kurma (tortoise carrying Mandara), Lakshmi (full body on lotus, pale silver-blue dawn).
 Old warm Varuna, Vasuki, Kurma, Lakshmi A/B are still in the project: trash them once the owner confirms the new ones. Kurma's head is not clearly visible (shell + mountain only): may need one more try before the Kurma clip.
 Credits still 90.
+
+### 12 Nov: old warm versions trashed (Flow Trash, recoverable)
+Moved the old warm Varuna x2, Vasuki x2, Kurma x2, Lakshmi A/B to Trash. The Flow project now holds 20 images, all neutral: Lakshmi x2, Kurma x2, Vasuki x2, Varuna x2, Indra (gripping vajra) x2, Vishnu on ocean x2, young Asura x2, Asura general x2, Agni x2, Vishnu navy x2.
+Old Lakshmi A / Vishnu B / Indra A / Bali A PNGs remain in media/refs/ on disk. Next: Ep 1 script + shots.md, then a ~5-clip test batch (~50 credits) after owner approval.
+Flow UI note: card menu = hover, then the three-dot at the card's top-right; "Move to trash" is at the bottom of the menu (flips upward on the bottom row); click one at a time with a short wait, since the grid reflows after every delete and viewport size can change.
