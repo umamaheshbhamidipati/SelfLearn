@@ -28,3 +28,5 @@ Vishnu (4 arms: chakra, conch, gada, lotus), Lakshmi A/B, Kurma carrying Mandara
 Indra (masculine wording worked first try), Bali (Asura king: maroon/bronze/black-gold armour, no horns).
 Still to make: 2–3 more Deva faces, 2 more Asura faces, Mandara churning shot, Vishnu-on-ocean shots, Lakshmi rising, then the Ep 1 shot list.
 Prompt lessons: "ONE single man only, no women" + explicit jaw/beard/chest words kept every man male; one head and one continuous body for Vasuki.
+
+- 2026-11-12 morning: Flow credits = 90 (same as 11 Nov night; resets 15 Nov 3:47 PM). Unused credits did not vanish overnight, but no new daily 50 was added either: the 90 looks like a pool, not "50 per day". No credits spent yet today.
