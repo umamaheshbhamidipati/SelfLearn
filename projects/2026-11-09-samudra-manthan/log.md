@@ -176,3 +176,11 @@ Text in `narration-ep1.txt`; one file per line in media/ep1/audio-draft/ (draft 
 | 11 Next: Neelakantha | 2.8 | end card | 0 | to build (ASS, 0 credits) |
 Speech total **40.9 s**; with ~0.4 s gaps about **45 s** (the script's "~60 s" was a guess). Pictures available 38.5 s + clip 04 remainder 4.9 s + clip 12 remainder 1.9 s.
 Conclusion: Ep 1 needs only ONE more clip (the shot 10 reroll, 10 credits; its 8 s serve lines 6 and 9), plus the end card. No other new clips.
+
+### 13 Nov (night): shot 10 reroll from still b6 (owner: "Yes, do the reroll")
+Balance read first: **60 credits** (menu still says "Resets Nov 15 at 3:47 PM"). Agent proposed "1 video, Veo 3.1 Lite, 10 credits"; plain Approve. Balance now 50 (expected; not re-read).
+| Shot | Credits | Result | Notes |
+|---|---|---|---|
+| 10c left/right churn | 10 | **PASS** | checked at 1 fps, full frame + mid crop: ONE head (hoods at the left, in the Asuras' hands) for all 8 s; tail stays in the Devas' hands at the right; no second head, nothing rises above the mountain; both groups stay on their own rocks and lean back in a tug; coil slides, big wave burst behind the mountain at 5-6 s. Colour OK (R/B 0.83). Minor: figures are small; the foam spiral fades into plain foam after 1 s |
+Sound: prompt ended with "Sound: heavy waves crashing, deep rumble, serpent hiss, men grunting. No music, no speech." Result: **no music, no speech** (Gemini gist: crowd-like roar + whoosh; mean -26.7 dB, quieter than the earlier clips). The "Sound:" line works. Owner to listen once.
+Clip: media/ep1/clips/10c.mp4; sheets review/10c-sheet.png, 10c-mid.png. Serves line 6 (0-4 s) and line 9 (4-8 s). Ep 1 now needs no more clips: next is the end card and the full cut to the timed narration.
