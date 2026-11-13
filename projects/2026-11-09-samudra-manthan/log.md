@@ -135,3 +135,18 @@ Confirmed the known faults (10b second head; Karthika 07 eyes down all 8 s; stil
 | 12 | foam milk-white | cream-brown foam (as well as the wrong mountain) |
 Still PASS: 10 (Indra weak), 14 (Mandara alone), 08 (Devas walk, small figures).
 Decision needed before the reroll: remake the churn still (0 credits) with one traceable serpent, then spend the 10 credits. Evidence: media/ep1/review/fable-s10-serpent-ends.png, fable-s09-age-fargroup.png.
+
+### 13 Nov (later): stills remade after the second review (0 credits; owner: "you can take control of chrome and do it")
+New stills in media/ep1/stills-13nov-b/ (b1-b8). Mountain reference: still 14 attached with "Add to prompt". Colour: all OK (R/B 0.65-0.94).
+Checked by tracing the serpent from head to tail, cropping every group, and comparing the mountain with clip frames.
+| Still | For | Verdict | Notes |
+|---|---|---|---|
+| b6 | shot 10 churn (reroll base) | PASS | wide aerial; Asuras far left hold the neck below 5 dark hoods, body coils twice round the mountain, thin tail ends in the Devas' hands far right; one serpent, two ends; groups pull away, mountain between |
+| b5 | backup | PASS | Asuras in foreground, Devas small and far; not symmetrical |
+| b3 | shot 08 Asuras | PASS | 5 young men from behind holding the neck under the hoods; body runs into the coil and out again; same mountain |
+| b4 | backup | PASS | same, wider |
+| b7 | shot 09 Devas | PASS | 4 Devas (asked 5) on the right cliff; body from the coil loops into their hands, tail tip ends in the last man's grip; water darker teal than other shots |
+| b1, b2, b8 | | FAIL | b1 hooded head on a far island not connected to the coil; b2 Asuras on the RIGHT; b8 the piece they hold runs out of the left edge (second loose end) |
+Picks updated in media/ep1/stills/: s08 = b3, s09 = b7, s10 = b6, s03 = still 08 (no mace). Sheet: review/ep1-picks-13nov-v2.png.
+Prompt that worked: "ONE continuous body ... exactly TWO ends ... No other heads, no other tails, no loose pieces"; for a one-group shot, keep the other end out of the frame ("the serpent's head is NOT in this picture").
+Reroll after the 15 Nov reset now starts from b6 (figures are small: the reroll prompt in this log still applies).
