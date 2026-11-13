@@ -151,3 +151,10 @@ Picks updated in media/ep1/stills/: s08 = b3, s09 = b7, s10 = b6, s03 = still 08
 Prompt that worked: "ONE continuous body ... exactly TWO ends ... No other heads, no other tails, no loose pieces"; for a one-group shot, keep the other end out of the frame ("the serpent's head is NOT in this picture").
 Reroll after the 15 Nov reset now starts from b6 (figures are small: the reroll prompt in this log still applies).
 **Owner decision (13 Nov): shot 02 Indra keeps looking down** (defeat, line 1). Deities look at the camera only when addressed or speaking (Vishnu in shot 05).
+
+### 13 Nov: Ep 1 sound test (0 credits; owner: "Yes, sound test")
+What Veo put in each clip's own sound (Gemini gist, matches levels): 01 creature howl + music swell from 2 s; 04 flute music only; 07 orchestral music + growl/hiss; 11 orchestral music + bass impact; 12 low rumble only (no music); 15 orchestral music only. **Veo filled the sound with music because our prompts never asked for sounds.**
+Built `build_soundtest.sh` → media/ep1/out/ep1-soundtest.mp4 (38.5 s, 720p, ungraded, -15.7 LUFS): 12 shots in order, clip sound kept on 01, 07, 11, 12; muted on 04 and 15; clip 12's rumble looped at -14 dB under everything. Preview: https://claude.ai/artifact/7Tnm8bwEPYR9tQyCV15gra
+Script note: joining segments with the concat demuxer dropped/drifted audio (112 s, 42 s, 23 s); the concat FILTER gave picture = sound = 38.5 s.
+Owner reported 60 Flow credits available (13 Nov evening), so a daily top-up exists after all.
+Every future motion prompt ends with: "Sound: <the natural sounds wanted>. No music, no speech." (music is added in the edit).
