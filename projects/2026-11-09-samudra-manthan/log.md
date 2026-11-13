@@ -158,3 +158,21 @@ Built `build_soundtest.sh` → media/ep1/out/ep1-soundtest.mp4 (38.5 s, 720p, un
 Script note: joining segments with the concat demuxer dropped/drifted audio (112 s, 42 s, 23 s); the concat FILTER gave picture = sound = 38.5 s.
 Owner reported 60 Flow credits available (13 Nov evening), so a daily top-up exists after all.
 Every future motion prompt ends with: "Sound: <the natural sounds wanted>. No music, no speech." (music is added in the edit).
+
+### 13 Nov: Ep 1 narration timed (draft, Gemini TTS Achird, no style prefix; 0 credits)
+Text in `narration-ep1.txt`; one file per line in media/ep1/audio-draft/ (draft for timing only; final voice is the owner's call).
+| Line | Speech (s) | Shots | Picture in the rough cut (s) | Fit |
+|---|---|---|---|---|
+| 1 Devas lost their strength | 4.0 | 01 + 02 | 6.0 | OK |
+| 2 took refuge in Vishnu | 3.4 | 03 + 04 | 5.5 | OK |
+| 3 Vishnu said: churn the ocean | 5.7 | 05 | 0 | **MISSING**: use the rest of clip 04 (3.0-7.9 s) or a push-in on the Vishnu still |
+| 4 Mandara the rod, Vasuki the rope | 3.6 | 06 + 07 | 5.5 | OK |
+| 5 Asuras at the head, Devas at the tail | 3.5 | 08 + 09 | 5.0 | OK |
+| 6 churning began, the mountain sank | 4.4 | 10 + 11 | 6.5 | OK |
+| 7 Vishnu took the tortoise form | 2.8 | 12 | 6.0 (shared with line 8) | OK |
+| 8 the mountain rested on his back | 3.0 | 13 | shares clip 12 | tight: 5.8 s of speech on 6.0 s; use clip 12 up to 7.9 s |
+| 9 the churning went on | 4.1 | 14 | 0 | **MISSING**: second half of the shot 10 reroll clip |
+| 10 the ocean began to turn dark | 3.6 | 15 | 4.0 | OK |
+| 11 Next: Neelakantha | 2.8 | end card | 0 | to build (ASS, 0 credits) |
+Speech total **40.9 s**; with ~0.4 s gaps about **45 s** (the script's "~60 s" was a guess). Pictures available 38.5 s + clip 04 remainder 4.9 s + clip 12 remainder 1.9 s.
+Conclusion: Ep 1 needs only ONE more clip (the shot 10 reroll, 10 credits; its 8 s serve lines 6 and 9), plus the end card. No other new clips.
