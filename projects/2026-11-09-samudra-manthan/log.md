@@ -197,4 +197,4 @@ Still to decide/do for the final: voice (owner's or AI), music track, grade (`gr
 Output: media/ep1/out/**ep1-kurma-voice-sfx.mp4**, 1080x1920, 45.75 s, 18 MB, -16.4 LUFS, colour OK (R/B 0.83). AI voice + clip sounds, **no music** (Instagram: owner adds the song in the app). Copy to Drive `SelfLearn/Ep1-for-phone/` started.
 Checked on 12 frames (review/ep1-final-sheet.png): every line has its picture and its caption; Telugu shaping correct; Vishnu now sits with the storm shots; end card readable.
 Not done: owner has not watched/listened yet; YouTube file (needs a music track and must be under 10 MB for the Chrome upload, so a separate two-pass encode); cover for Ep 1 exists (cover_ep1_v1.png); publish.md and Must-be-true hook check for Ep 1 not filled; Mandara shape differs between old clips and new shots (accepted for Ep 1, owner informed).
-Preview: https://claude.ai/artifact/ (Ep 1 Final Cut page).
+Preview: https://claude.ai/artifact/BouxuQefJvWWCPTeDHr9tC
