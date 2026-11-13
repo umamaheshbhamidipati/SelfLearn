@@ -32,6 +32,8 @@ Rule: **never accept "looks good". Check each Must-be-true line.**
 **Objects in hands:** the named object is GRIPPED by a visible hand (vajra, chakra, conch, gada, lotus), not resting on a shoulder or sash.
 **Crowns:** Vishnu tallest; Devas (Indra, Agni, Varuna) medium tiered; Asuras small bronze.
 **Layout (Samudra Manthan):** Asuras LEFT / Devas RIGHT on OPPOSITE shores pulling opposite ends of ONE serpent (Asuras at the head); Mandara in the centre; Kurma beneath it; Vishnu above the summit when shown. Never both groups together.
+**Long creatures / ropes (Vasuki):** trace the body with a finger from head to tail: exactly TWO ends (one head, one tail), each piece a group holds must connect to the coil on the mountain; a tip pointing at the other group = FAIL. Same hood count and colour as the earlier clips. Fix the still before animating: Veo turns a loose end into a new head.
+**Recurring places and props:** the mountain, serpent and costumes in a new still must match the clips already made (put one frame of a clip next to the still). **Groups:** check the age of EVERY face (no grey hair or beards) and each deity's own object (Indra = vajra, Varuna = noose), not only the main figure.
 **Physics:** nobody sits on or in water; mountain stays on Kurma's shell; things that must move do move (sinking visibly sinks).
 **Mythology/sources:** follow `research.md`; belief-based moments narrated as belief; no copyrighted characters, real people or music.
 **Clips:** the motion asked for actually happens; no morphing hands/faces; same face and costume start to end; one continuous shot; foam/ocean milk-white or cream, not brown.

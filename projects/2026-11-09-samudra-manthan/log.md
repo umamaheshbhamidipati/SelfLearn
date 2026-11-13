@@ -121,3 +121,17 @@ Lesson: "hoods sway" + "body slides around the mountain" let Veo invent a second
 **Owner decision (13 Nov): "Reroll after reset".** Approved: ONE reroll of shot 10 from still s10_churn_leftright, 10 credits, after the 15 Nov 3:47 PM reset. Read the balance first. Prompt ready to paste:
 > Animate this exact image into exactly ONE video, x1, Veo 3.1 Lite, 9:16 (10 credits). One continuous shot, no cuts, static camera with a very slow push-in. The serpent has ONE head only: the many-hooded head at the LEFT, held by the group on the left rock; it stays there the whole clip. The thin TAIL end stays in the hands of the group on the RIGHT rock, at the right edge, the whole clip; the tail never lifts, never climbs, never grows hoods. Nothing rises above the mountain. Motion only: the left group leans back and pulls toward the left edge; the right group leans back and pulls toward the right edge, in a steady tug rhythm; both groups stay on their own rocks. The coil around the mountain tightens and slides; the mountain turns slowly in place; milk-white foam swirls in a spiral at its base; waves crash on the rocks. Keep every face, crown and costume unchanged. No new people, no new creatures, no text.
 If it fails again, shot 10 = 0-credit push-in on the still.
+
+### 13 Nov: second review of today's stills and clip 10b (Fable 5.2, owner asked; NOT blind: the known faults were already in the conversation)
+Confirmed the known faults (10b second head; Karthika 07 eyes down all 8 s; still 01 groups together; 07/12 wrong mountain; 11 vajra cut by the frame). New faults in stills that had been marked PASS:
+| Still (pick) | Line that fails | What is there |
+|---|---|---|
+| 02 (s10 churn, base for the reroll) | ONE continuous serpent | Three separate pieces: the Asuras' hooded head ends in its own pointed tip in the 4th Asura's hands; the Devas hold a tail whose tip points LEFT at the Asuras; the coil on the mountain has two more loose ends leaving the frame. This is the likely cause of the second head in clip 10b |
+| 02 (s10) | opposite shores, mountain between | both groups stand on neighbouring foreground rocks FACING each other, mountain behind them: milder form of the fault in 01. Hoods: 3 and tan, clips 01/07 show 5-7 dark hoods |
+| 03 (s09 Devas) | young adults only | second Deva has grey hair and a grey beard. Far group is bare-chested men in orange/green dhotis, not armoured Asuras. Mountain is a low island, not the Mandara of the clips |
+| 04 (backup) | young adults only | third man is grey-bearded; low island |
+| 05 (s08 Asuras), 06 | same Mandara as the clips | low rounded hill; serpent lies on the water and does not wrap the mountain |
+| 09 (s03 Devas walk) | each deity's own object | Indra (centre) carries a round-headed MACE on his shoulder, not the vajra. Still 08 has no objects and is the safer pick |
+| 12 | foam milk-white | cream-brown foam (as well as the wrong mountain) |
+Still PASS: 10 (Indra weak), 14 (Mandara alone), 08 (Devas walk, small figures).
+Decision needed before the reroll: remake the churn still (0 credits) with one traceable serpent, then spend the 10 credits. Evidence: media/ep1/review/fable-s10-serpent-ends.png, fable-s09-age-fargroup.png.
