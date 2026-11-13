@@ -109,3 +109,12 @@ Checks: `color_check.sh` all 14 OK (R/B 0.7-1.4); `vision_check.sh` on 01, 02, 1
 Lesson: say "use the mountain in image X as the EXACT reference" for any recurring place; without it, Nano Banana invented a different mountain each time.
 Tooling fix: `color_check.sh` printed nothing on JPEGs ("-ss 0" drops the only frame); fixed.
 Next: owner OKs the picks sheet (media/ep1/review/ep1-picks-13nov.png); then the last 10 credits on ONE clip from s10_churn_leftright (needs a separate OK).
+
+### 13 Nov: last 10 credits, left/right churn clip (owner: "Yes, make the clip")
+Animate on still s10_churn_leftright; Agent proposed "1 video, 10 credits" (Veo 3.1 Lite); plain Approve. Clip: media/ep1/clips/10b.mp4 (720x1280, 7.9 s), sheet review/10b-sheet.png. Colour OK (R/B 0.80).
+| Shot | Credits | Result | Notes |
+|---|---|---|---|
+| 10b left/right churn | 10 | FAIL | Layout right the whole clip: Asuras stay on the left rock at the head, Devas on the right rock, never move toward each other. But from 0.5 s the TAIL end lifts off the right, climbs the mountain and becomes a SECOND giant many-hooded head on top (two-headed Vasuki, 0.5-7.9 s). Only 0-0.4 s is clean. |
+Balance now 0 until the 15 Nov 3:47 PM reset (read it in Flow before planning).
+Fix for a reroll: write the end state for the tail: "the tail end stays in the Devas' hands at the right edge the whole time; the serpent has ONE head only, at the LEFT, held by the Asuras; nothing rises above the mountain". Meanwhile use still s10 as a 0-credit push-in for shot 10.
+Lesson: "hoods sway" + "body slides around the mountain" let Veo invent a second head. Name where each END of a long creature must stay.
