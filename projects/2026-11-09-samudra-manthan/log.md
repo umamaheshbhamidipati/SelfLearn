@@ -198,3 +198,15 @@ Output: media/ep1/out/**ep1-kurma-voice-sfx.mp4**, 1080x1920, 45.75 s, 18 MB, -1
 Checked on 12 frames (review/ep1-final-sheet.png): every line has its picture and its caption; Telugu shaping correct; Vishnu now sits with the storm shots; end card readable.
 Not done: owner has not watched/listened yet; YouTube file (needs a music track and must be under 10 MB for the Chrome upload, so a separate two-pass encode); cover for Ep 1 exists (cover_ep1_v1.png); publish.md and Must-be-true hook check for Ep 1 not filled; Mandara shape differs between old clips and new shots (accepted for Ep 1, owner informed).
 Preview: https://claude.ai/artifact/BouxuQefJvWWCPTeDHr9tC
+
+### 14 Nov (early morning): owner feedback on the final, new shots (owner: "Spend credits and create beautiful shot... don't waste time")
+Owner feedback after watching: (1) the video seems to stop at "తర్వాత: నీలకంఠుడు"; (2) the snake should not open the video and Indra head-down is wrong: show him dull / losing power; (3) Vishnu's Sudarshana chakra does not spin.
+Causes: (1) my fade-out started while the last word was still spoken, and the line was too short to read as a teaser; (2) picture did not match line 1, and "head bowed" in my prompt read as shame, not loss of power; (3) the old prompt only asked for a camera push-in, and "chakra spins" was never a Must-be-true line.
+New stills (0 credits, media/ep1/stills-14nov/): c1/c2 Vishnu under the storm sky, chakra above the raised fingertip; c3/c4 Indra upright, eyes on the camera, aura draining, crown half grey. Asura king d1/d2 (neutral versions found in Flow by search).
+| Clip | Credits | Result | Notes |
+|---|---|---|---|
+| 02b Indra loses his power (from c3) | 10 | **PASS** | aura and vajra lightning 0-2.5 s, both drain away by 3 s, crown turns fully grey, head upright, eyes on camera. First request timed out while the session was paused: Flow cancelled it, no charge; "Try again" |
+| 04b Vishnu, chakra spins (from c2) | 10 | **FAIL** | chakra morphs into a conch at 1 s and bursts into sparks over his face at 3-4 s. My prompt said "throwing small sparks": the same sparks-near-a-face mistake as Diwali |
+| 04c Vishnu reroll (from c2) | 10 | **PASS** | chakra turns upright and spins all 8 s, stays a disc, static framing, four arms keep their objects, eyes on camera; a few gold flecks fall from the fingertip at 1.5-3 s |
+Credits: 30 spent this session on these three; balance should be about 20 (not re-read).
+Re-cut (`cut_ep1.sh`): L1 = Indra clip 02b (3.0 s) + Asura king still (1.4 s); L2-L3 = walk still + Vishnu 04c (one take, no colour fix needed now); L4 = Mandara still + clip 01 (the serpent moves here; clip 07 dropped); L11 = "తర్వాతి భాగంలో… నీలకంఠుడు!", end card 5.2 s, fade starts 0.7 s after the voice ends. Total 47.3 s. Rebuild started (ep1-final2).
