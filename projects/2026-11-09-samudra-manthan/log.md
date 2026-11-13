@@ -94,3 +94,18 @@ Lesson: state the screen layout as left edge / centre / right edge and say "not 
 Canva connector: uploaded the Kurma frame (clip 12 at 4.5 s), generate-design "your_story". Result ignored the layout (stamp frame, white background, invented English text "A Celebration of Divine Nature"), so not used. It left a design in the owner's Canva account (Your Story - కూర్మావతారం..., id DAHarDjZ_6M): delete it if unwanted.
 Final cover made locally: media/ep1/cover/cover_ep1_v1.png (1080x1920) = frame + bottom gradient + cover-ep1.ass (Noto Serif Telugu, gold title). Telugu shaping correct. Command: ffmpeg overlay gradient + ass=cover-ep1.ass:shaping=complex.
 Lesson: Canva's AI layout tool does not follow exact text/layout briefs; use it only for browsing ideas, and keep exact Telugu text in ass/ffmpeg or edit the Canva design by hand.
+
+## 13 Nov 2026: Ep 1 stills for the push-in shots (0 credits, Nano Banana in the Flow agent)
+Owner said "Yes, start stills". 7 prompts × 2 images = 14 stills, all downloaded to media/ep1/stills-13nov/ (01-14), picks copied to media/ep1/stills/.
+Checks: `color_check.sh` all 14 OK (R/B 0.7-1.4); `vision_check.sh` on 01, 02, 10, 11 all PASS; then my own YES/NO at 100 % crops.
+| Shot | Pick | Verdict | Notes |
+|---|---|---|---|
+| 02 Indra weak | 10 | PASS | right hand grips the vajra, lowered by his side; eyes down; medium crown. 11 = backup (vajra half out of frame) |
+| 03 Devas walk | 09 | PASS | Agni (red), Indra, Varuna (green) from behind toward the light. 08 = backup (figures smaller) |
+| 06 Mandara | 14 | PASS | made from the churn still as reference: same forested pillar mountain. 07 and 12 FAIL (Himalayan peak, 12 has snow); 13 = backup |
+| 08 Asuras | 05 | PASS | 5 men from behind, bronze armour, small crowns, serpent leading to the mountain. 06 = backup |
+| 09 Devas | 03 | PASS | Devas from behind on the right holding the tail; the Asuras are visible far away at the other end (shows the layout) |
+| left/right churn | 02 | PASS (owner to confirm) | Asuras left at the hoods, Devas right at the tail, on separate rocks with water between. 01 FAIL: the groups face each other close together |
+Lesson: say "use the mountain in image X as the EXACT reference" for any recurring place; without it, Nano Banana invented a different mountain each time.
+Tooling fix: `color_check.sh` printed nothing on JPEGs ("-ss 0" drops the only frame); fixed.
+Next: owner OKs the picks sheet (media/ep1/review/ep1-picks-13nov.png); then the last 10 credits on ONE clip from s10_churn_leftright (needs a separate OK).
