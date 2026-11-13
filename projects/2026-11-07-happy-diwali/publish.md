@@ -1,5 +1,7 @@
 # Publish — happy-diwali
 
+> **Gap (audit 13 Nov):** posted 7 Nov on Instagram and YouTube, but the dates and links were never recorded here. Sunday's growth check: record both links and the 7-day numbers.
+
 ## Hook check (before posting; the first AI reel lost viewers in 2 s)
 
 - [ ] **First frame** is the strongest image (a face or the hero shot), not a slow detail or dark frame

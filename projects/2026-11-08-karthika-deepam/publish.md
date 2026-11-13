@@ -1,5 +1,11 @@
 # Publish — karthika-deepam
 
+## CURRENT PLAN (v3, cleaned 13 Nov 2026; everything below this block is history)
+- **YouTube:** v3 scheduled, public Mon 16 Nov 2026 6:00 AM IST: https://youtube.com/shorts/DTI25IuZ_6U (title/description in `youtube-text.md`; AI use = Yes; not for kids). Old v2 deleted.
+- **Instagram (owner, from the phone, both accounts a few hours apart):** `karthika-v3-instagram-voice-only.mp4` from Drive `SelfLearn/Karthika-for-phone/`. Add the song **inside the app** (narration ~100 %, song 15-25 %). AI label on. Caption from `script.md` with the save/share line. **Posted:** not yet recorded (owner to confirm date + links).
+- **Hook check on v3 (checked from the file, 13 Nov):** [x] first frame is a face looking at the viewer (woman with the diya) · [x] she moves within the first second and the first cut is at 2.0 s · [x] 21.6 s, no dead end · [x] AI label on YouTube · [ ] cover set on Instagram and YouTube (not checked: owner / next Studio visit) · [ ] AI label on Instagram (owner, when posting).
+- **Not on any account yet:** playlist for the YouTube Short (add to "భక్తి కథలు | Devotional Stories").
+
 ## Hook check (before posting; the first AI reel lost viewers in 2 s)
 
 - [ ] **First frame** is the strongest image (a face or the hero shot), not a slow detail or dark frame
@@ -20,7 +26,7 @@
 
 - **Caption** (for the viewer, not about me): line 1 = the hook / devotional line; 2–3 lines of
   the story; festival or weekday tie-in; 3–5 hashtags.
-- **Audio:** baked into the file: Achird AI narration + "Dreams Of River Ganga" (Hanu Dixit, YouTube Audio Library, no credit required, downloaded 11 Nov 2026) at about 10 dB under the voice. Do not add Instagram music on top.
+- **Audio:** SUPERSEDED 11 Nov (see CURRENT PLAN): Instagram gets the voice-only file and the song is added in the app. (Old v2 note: music baked into the file.)
 - **Caption:** use the caption in script.md (E1 variable: the save/share line stays).
 - **Posted:** date · URL
 

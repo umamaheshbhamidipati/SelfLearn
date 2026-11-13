@@ -74,6 +74,20 @@ Camera moves: slow push-in · dolly back · slow orbit · overhead drone drift �
 | Upload vanishes at ~93% | Image contains a child → remove the child from the still |
 | Objects duplicate / vanish when a character releases something (Karthika 09: diya floats off but the plate still holds a diya, then the plate disappears) | Avoid "let go / release / drop" actions. Keep objects in hand: "they hold the plate with the lit diya between them the whole time; nothing appears or disappears". Name the object exactly as it is in the still (plate + diya, not just "diya"). Or trim to the seconds before the release. If the story needs the object to change state (diya set afloat, plate left empty), make an END-frame still in Nano Banana (0 credits) and animate first + last frame so Veo knows where every object ends up |
 | Diya flame grows huge and dominates the face (Karthika 01: prompt said "the flame grows") | Never ask fire to grow. "the small diya flame stays small and steady, fingertip size, flickers gently, does not grow or flare; it does not cover her face or hands" |
+| Everything looks orange (Samudra Manthan 12 Nov: look block said "rose-gold, warm shadows") | "NEUTRAL natural colour balance, true-to-life skin tones (natural warm wheat-brown, NOT orange), no orange or pink cast, deep blue-grey clouds, cool neutral light with a thin warm rim light". Warmth comes later from `grade.sh rose`. Check with `scripts/color_check.sh` |
+| A recurring place or creature looks different in every still (three different Mandara mountains) | Attach the approved still ("Add to prompt") and write "use the attached image as the EXACT reference for the mountain"; put one clip frame next to the new still before accepting it |
+| Long creature or rope breaks into pieces, or Veo grows a second head from a loose end (clip 10b) | Still: "ONE continuous body, exactly TWO ends: the HEAD at the left with N hoods, the thin TAIL at the right. No other heads, no other tails, no loose pieces." One-group shot: keep the other end out of frame ("the head is NOT in this picture"). Clip: say where EACH end stays for the whole clip. Trace the body head to tail before animating |
+| Two groups that must be opposite end up together or facing each other | "FAR LEFT edge ... FAR RIGHT edge ... the mountain and the whole ocean lie BETWEEN them; they pull AWAY from each other, backs to the mountain"; a wide aerial view makes this easy |
+| Object rests on a shoulder or sash instead of being held; wrong object (Indra with a mace) | "his RIGHT HAND GRIPS the central handle of the vajra"; "they hold nothing else" for everyone who should be empty-handed |
+| An older man appears in a group | "all men 20 to 35 years old, no grey hair, no grey beards"; check EVERY face in the group at full size |
+| Clip sound is orchestral music we cannot match across clips (5 of 6 Ep 1 clips) | End every motion prompt with "Sound: <natural sounds, e.g. waves crashing, the serpent hisses, men grunt as they pull>. No music, no speech." Keep the clip's sound under the narration in the edit |
+| Flow agent proposes several videos for one shot | "exactly ONE video, x1, Veo 3.1 Lite, 9:16 (10 credits)"; read the count and cost before Approve |
+
+## Continuity rules (reference study 13 Nov 2026)
+- One **set** per episode (place, time, light) repeated word for word in every prompt.
+- Every shot names what it **carries into the next** (object, person or movement); add 2-3 detail inserts of the same scene and one touch/reaction beat.
+- Vary shot length 1.5-7 s; let the hero action run 5-7 s.
+- Time the narration before generating clips, so the pictures fit the lines.
 
 ## Caption pattern for devotional reels
 Short poetic lines (one idea per line) → the story in 2–3 lines → festival/day tie-in → 3–5 hashtags.

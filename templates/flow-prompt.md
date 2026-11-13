@@ -10,7 +10,7 @@ identical, word for word, in every shot of a video: that is what keeps it consis
 [Setting]              Place, time of day, weather, key props.
 [Lighting + mood]      e.g. warm golden-hour backlight, soft haze, calm.
 [Style block]          e.g. photorealistic, shallow depth of field, natural colour grade. (Same every shot.)
-[Audio]                Ambient sound / one short line of dialogue in quotes / "no music".
+[Audio]                REQUIRED, last line: "Sound: <natural sounds>. No music, no speech." (Veo adds music if this is missing.)
 [Avoid]                text on screen, logos, extra people, distorted hands.
 ```
 
@@ -18,4 +18,6 @@ Tips
 - One action per shot; 8-second clips work best. Cut long actions into several shots.
 - Use a Nano Banana reference image of the character as "ingredient" when Flow offers it.
 - Change one thing at a time when a shot fails, and note it in `log.md`.
+- Recurring place/creature: attach the approved still and write "EXACT reference". Long creature or rope: "exactly TWO ends" and where each end stays.
+- Fixes for known failures: `.claude/skills/ai-video-studio/references/prompts.md` (read it before writing prompts).
 - Good prompts go into `docs/prompt-library.md`.
