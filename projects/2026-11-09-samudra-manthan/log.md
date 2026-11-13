@@ -191,3 +191,10 @@ Line → picture (one frame per shot checked, review/ep1-draft-sheet.png): L1 Va
 Known weak points (not fixed in the draft): (1) the Vishnu clip is bright and pale against the dark storm look of every other shot; (2) Mandara is a craggy mountain in clips 01, 07, 11, 12 and a narrow pillar in the 13 Nov stills and clip 10c; (3) end-card sub-line is small; (4) no reaction/detail insert yet.
 Still to decide/do for the final: voice (owner's or AI), music track, grade (`grade.sh rose`, 1080x1920), captions, cover.
 **Owner decision (13 Nov): Ep 1 narration = AI voice** (Gemini TTS, Achird, no style prefix; files media/ep1/audio-draft/L01-L11.wav become the final voice once the owner has heard the draft). Disclose "AI narration" in the description. End-card sub-line enlarged (56 → 78).
+
+### 13-14 Nov (night): Ep 1 FINAL built (0 credits; owner: "Yes, build final")
+`build_ep1_final.sh` = `cut_ep1.sh` (draft cut + Vishnu clip darkened/cooled in RGB) → `grade.sh rose` 1080x1920 → `captions-ep1.ass` (captions L1-L10 + end card) burned in. 17 min 46 s wall time.
+Output: media/ep1/out/**ep1-kurma-voice-sfx.mp4**, 1080x1920, 45.75 s, 18 MB, -16.4 LUFS, colour OK (R/B 0.83). AI voice + clip sounds, **no music** (Instagram: owner adds the song in the app). Copy to Drive `SelfLearn/Ep1-for-phone/` started.
+Checked on 12 frames (review/ep1-final-sheet.png): every line has its picture and its caption; Telugu shaping correct; Vishnu now sits with the storm shots; end card readable.
+Not done: owner has not watched/listened yet; YouTube file (needs a music track and must be under 10 MB for the Chrome upload, so a separate two-pass encode); cover for Ep 1 exists (cover_ep1_v1.png); publish.md and Must-be-true hook check for Ep 1 not filled; Mandara shape differs between old clips and new shots (accepted for Ep 1, owner informed).
+Preview: https://claude.ai/artifact/ (Ep 1 Final Cut page).
