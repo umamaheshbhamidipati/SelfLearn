@@ -150,3 +150,4 @@ Checked by tracing the serpent from head to tail, cropping every group, and comp
 Picks updated in media/ep1/stills/: s08 = b3, s09 = b7, s10 = b6, s03 = still 08 (no mace). Sheet: review/ep1-picks-13nov-v2.png.
 Prompt that worked: "ONE continuous body ... exactly TWO ends ... No other heads, no other tails, no loose pieces"; for a one-group shot, keep the other end out of the frame ("the serpent's head is NOT in this picture").
 Reroll after the 15 Nov reset now starts from b6 (figures are small: the reroll prompt in this log still applies).
+**Owner decision (13 Nov): shot 02 Indra keeps looking down** (defeat, line 1). Deities look at the camera only when addressed or speaking (Vishnu in shot 05).
