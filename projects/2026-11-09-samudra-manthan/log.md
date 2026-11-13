@@ -210,3 +210,8 @@ New stills (0 credits, media/ep1/stills-14nov/): c1/c2 Vishnu under the storm sk
 | 04c Vishnu reroll (from c2) | 10 | **PASS** | chakra turns upright and spins all 8 s, stays a disc, static framing, four arms keep their objects, eyes on camera; a few gold flecks fall from the fingertip at 1.5-3 s |
 Credits: 30 spent this session on these three; balance should be about 20 (not re-read).
 Re-cut (`cut_ep1.sh`): L1 = Indra clip 02b (3.0 s) + Asura king still (1.4 s); L2-L3 = walk still + Vishnu 04c (one take, no colour fix needed now); L4 = Mandara still + clip 01 (the serpent moves here; clip 07 dropped); L11 = "తర్వాతి భాగంలో… నీలకంఠుడు!", end card 5.2 s, fade starts 0.7 s after the voice ends. Total 47.3 s. Rebuild started (ep1-final2).
+
+### 14 Nov 04:21: Ep 1 FINAL v2 built (11 min 46 s)
+media/ep1/out/ep1-kurma-voice-sfx.mp4 (overwrites v1): 1080x1920, 47.2 s, 18 MB, -16.4 LUFS. Checked on 16 frames (review/ep1-final2-sheet.png): opens on Indra with aura and lightning (0.3 s), aura gone and crown grey by 2.6 s, Asura king at 3.8 s under "the Asuras won"; Vishnu under the storm sky with the chakra upright and spinning; serpent clip under line 4; every caption under its picture; end card "తర్వాతి భాగం: నీలకంఠుడు" held to the end. Sound levels: voice -12 dB at 44.5 s, -35 dB at 45.5 s, so the last word ends before the fade.
+Preview v2: https://claude.ai/artifact/BouxuQefJvWWCPTeDHr9tC (same link). Drive copy + backup restarted (selflearn-backup-1114).
+Waiting on the owner: watch v2; music track for the YouTube file.
