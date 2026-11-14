@@ -94,6 +94,19 @@ opened on a slow detail shot and kept viewers only 2 s on average. See `docs/les
 No fade-in from black (`roughcut.sh` has none unless `--fade-in`). Set a cover frame when posting. Mute the export — add licensed
 music in Instagram's own audio library.
 
+**Edit-craft rules** (borrowed 14 Nov 2026 from a CapCut talking-head skill; apply in ffmpeg):
+- **No flash next to an overlay:** a title, end card, insert or caption block must not start within 0.5 s
+  after a picture cut, nor leave less than 0.5 s of picture before the next cut. Move it onto the cut, or
+  stretch it to the next cut. Close gaps under 0.5 s between overlays.
+- **Levels:** narration is the reference. Music sits about 15 dB under the voice, sound effects about
+  6.5 dB under, with 1.2 s fade-in/out on music. Measure with `ffmpeg -af ebur128` (integrated LUFS)
+  rather than by ear on laptop speakers.
+- **Slow push-ins on strong lines:** about 3-9 % scale over the line (e.g. zoompan `z=1+0.0008*on` at
+  24 fps ≈ 4 % over 2 s) on the hook, the reveal and the blessing line. Not on every shot; plain holds
+  elsewhere.
+- **Preview before committing:** a low-res preview (Artifact page or SendUserFile, under 30 MB) goes to the
+  owner before the final 1080x1920 encode or any upload.
+
 ### 5b. YouTube versions
 - Long video (16:9): generate clips in 16:9, then from the repo root
   `scripts/join.sh` → `scripts/add-audio.sh --voice/--music` → `scripts/captions.sh`.
