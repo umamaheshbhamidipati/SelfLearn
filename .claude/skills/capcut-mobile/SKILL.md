@@ -15,6 +15,11 @@ soft dissolves between scenes, an English title, simple zooms. Plain cuts come o
 (CapCut re-encodes to 30 fps, adds an end card, and inflates the file).
 
 ## Rules (do not break)
+- **VPN check FIRST, every time, before opening or touching CapCut** (owner, 14 Nov 2026). Read-only:
+  `adb -s YTTG759PIVR4GQQO shell dumpsys connectivity | grep -o 'VPN CONNECTED\|sessionId=[^,>}]*' | sort -u`
+  Go ahead only if it prints `VPN CONNECTED` (RiseupVPN, e.g. `sessionId=Amsterdam`). If not, stop, do not open
+  CapCut, and ask the owner to connect the VPN. Never connect, disconnect or change the VPN yourself.
+  Re-check before each export if CapCut has been idle a while.
 - The owner's steps: installing apps, any account sign-in, system settings (region, timezone, Wi-Fi,
   airplane mode, VPN choice), accepting terms unless the owner says "agree" in chat, posting anything.
 - Never sign in. If a TikTok/Google/email sign-in screen appears, close it (X or back arrow).
