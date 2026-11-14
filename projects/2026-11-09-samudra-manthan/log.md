@@ -225,3 +225,15 @@ Waiting on the owner: watch v2; music track for the YouTube file.
 ### 14 Nov: Ep 1 scheduled on YouTube (owner asked)
 - Encoded `ep1-youtube-10mb.mp4` (9.3 MB, 1500 kbps) because the Chrome upload limit is 10 MB. Uploaded in Studio, title/description from `youtube-text.md`, AI use Yes, not for kids, playlist added. Scheduled public Mon 16 Nov 2026 7:30 AM IST (GMT+5:30). Link: https://youtube.com/shorts/KH0vPP2-Mvs
 - No music (owner had not picked one). Credits: 0.
+
+### 14 Nov, Ep 2 restart (owner: "yes, re-plan, and complete the 20 credits now; 50 more this evening")
+- Re-planned Ep 2 to Ep 1's rules: `shots-ep2-v2.md` (9 shots, 7 clips), `narration-ep2.txt` (9 lines). Gemini TTS timed L1, L2, L4, L6 (3.04, 2.96, 2.24, 5.24 s) then hit the free daily quota (HTTP 429): L3, L5, L7, L8, L9 still untimed.
+- Flow balance read: 20 credits, resets Nov 15 3:47 PM. After two clips it shows "out of credits" = 0.
+- Stills (0 credits, Nano Banana 2.1, `media/ep2/stills/`): r1a/r1b Shiva reference pair (r1b = light-serpent version, chosen; r1a has a real grey snake and lined forehead, rejected); s8_neelakantha_a (reference attached, deep blue throat, golden dawn): PASS; s6_drink_a (reference attached, side profile, smoke into the mouth, throat natural): PASS (hand is open rather than cupped).
+- Clips (10 credits each, Veo 3.1 Lite, 720p 8 s):
+  | clip | still | result |
+  |---|---|---|
+  | 06 Shiva drinks | s6_drink_a | PASS 0-5.5 s: one head, one hand, smoke flows into his mouth, throat natural, hand lowers, calm end. Face did not drift |
+  | 08 Neelakantha portrait | s8_neelakantha_a | PARTIAL: clean 0-2.9 s and 5.6-7.9 s (calm face, blue throat, golden light on the peaks). 3.2-5.3 s a bright blue starburst flares over the throat (looks like a lens flare). Use the clean parts; do not re-roll unless the flare is wanted |
+- Mishap: a menu click opened another image's editor and a stale "Favorites" filter appeared; no credits used, nothing sent, filter cleared. Lesson: right-click, take a screenshot, then click the menu item (do not batch the click straight after the right-click).
+- Edited images are stored as version stacks in Flow: a child image replaces its parent in the grid. To animate an earlier version, open it, ⋮ on that version → "Save to projects", then it appears as its own item.
