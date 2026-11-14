@@ -65,6 +65,10 @@ CapCut's picker can show a stale list: force-stop CapCut, reopen, then pick the 
   `adb shell input text "Two%sWords"` (%s = space) > tick. Typing with no field focused sends key
   shortcuts and muted all clips once: afterwards look for "Unmute clip" on the timeline and fix it.
   Telugu cannot be typed via adb: owner types it on the phone, or burn it with ffmpeg instead.
+- **Clip In animation:** select clip > Animations > In > Light > **Warm Spread** (1.2 s): golden bloom entrance. Exported fine.
+- **Video effect:** select clip > Effects > Video effects > search "light rays" > **Corner Sunflare**: light and ray
+  streaks from the top-right. Downloads on first tap; close its Adjust panel with the phone Back key, then the tick.
+- Full tested list with ffmpeg equivalents: `umaai-intelligence/capcut-intelligence/catalogue.md`.
 - **Not working here:** text Animations list stays empty (cloud assets). Treat titles as static.
 
 ## To try next (from tutorials, UNTESTED on this phone)

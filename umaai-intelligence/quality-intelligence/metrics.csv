@@ -1,0 +1,3 @@
+date,project,credits_spent,clips_generated,clips_usable,regenerations,render_failures,capcut_exports_ok,capcut_exports_failed,notes
+2026-11-14,samudra-manthan-ep2,20,2,1.5,0,0,,,"06 PASS; 08 usable outside 3.2-5.3 s"
+2026-11-14,capcut-trials,0,0,0,0,0,3,3,"3 truncated exports from overlapping runs; fixed by one export at a time"
