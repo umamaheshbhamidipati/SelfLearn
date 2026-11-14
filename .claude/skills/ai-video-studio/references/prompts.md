@@ -92,3 +92,5 @@ Camera moves: slow push-in · dolly back · slow orbit · overhead drone drift �
 ## Caption pattern for devotional reels
 Short poetic lines (one idea per line) → the story in 2–3 lines → festival/day tie-in → 3–5 hashtags.
 Mark "AI content" (Instagram label).
+
+| Halahala shot with the poison in Shiva's palm (Ep 2, 14 Nov) | Owner: the Halahala is never touched; Shiva gathers it in a **conch (shankha)** and drinks from the conch. Prompt: "holds a white conch brimming with dark-violet smoke; the smoke stays inside the conch and never touches his skin". |

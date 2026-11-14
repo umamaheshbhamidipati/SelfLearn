@@ -13,18 +13,27 @@ Narration: `narration-ep2.txt` (9 lines, AI voice Achird). Timing: `media/ep2/au
 
 | # | Line | Shot | Must be true | Clip |
 |---|---|---|---|---|
-| 1 | L1 | **HOOK** Shiva close-up, eyes lift to camera, dark-violet smoke orb swirling in his raised palm | one face, two arms, throat natural skin colour, orb is above the palm not on the face | 10 |
+| 1 | L1 | **HOOK** Shiva close-up, eyes to camera, holding up a white conch brimming with dark-violet smoke | one face, two arms, throat natural, smoke stays inside/just above the conch, never touches skin | 10 |
 | 2 | L1-L2 | Poison column rising from the milk ocean into a storm sky, lightning inside the smoke | one column, no people, ocean milk-white at the base | 10 |
 | 3 | L2 | Devas (from behind) stagger back, arms over faces (still push-in) | exactly 4 men, no women, no grey hair | 0 |
 | 4 | L3 | Indra and 2 Devas kneel with folded hands before seated Shiva on Kailasa (reaction) | kneelers seen from behind, Shiva faces them, snow, silver light | 10 |
 | 5 | L4 | Parvati beside Shiva gives one calm nod | two people, two arms each, same saree and crown as the reference | 10 |
-| 6 | L5 | **HERO** Shiva drinks the smoke from his cupped palm, head tilted back, eyes closed | one head, one palm, smoke goes into the mouth, throat still natural colour | 10 |
+| 6 | L5 | **HERO** Shiva drinks the Halahala from the conch, head tilted back, eyes closed | one head, conch at the lips, smoke flows from the conch into the mouth, no skin contact, throat natural | 10 |
 | 7 | L6 | Parvati's single hand rests on Shiva's throat (detail) | one hand only, five fingers, her face soft behind | 10 |
 | 8 | L7 | **HERO** throat turns blue, he opens his eyes to camera (Neelakantha portrait) | blue only on the throat, eyes sharp, crescent and Ganga glow | 10 |
 | 9 | L8-L9 | Shiva and Parvati on Kailasa at dawn, wide (still push-in, end card plate) | small in frame, empty sky for the text | 0 |
 
 Today (14 Nov, 20 credits): shots **6 and 8** (hero shots, highest risk). Evening (50 credits): 1, 2, 4, 5, 7.
 Stills first (0 credits): Shiva reference, then the shot stills with the reference attached.
+
+
+## Halahala rule (owner, 14 Nov 2026; applies to every Halahala shot)
+The poison is never touched by bare skin. Shiva gathers the Halahala in a **conch (shankha)** and drinks from the
+conch. Never an orb in the palm, never cupped hands. Reference: a Neelakantha brass image shows Shiva standing in
+the ocean's waves "with the conch containing Halahala" (exoticindia.com EX55); the pose details are not given, so
+the conch is held in his right hand. Parvati holding his throat stays as planned.
+Shots changed: 1 (hook: Shiva raises the conch filled with swirling violet smoke), 6 (drinks from the conch).
+Clips 01 and 06 must be remade (20 credits, next reset).
 
 ## Motion rules (from the Ep 1 failure table)
 End every prompt with "Sound: <natural sounds>. No music, no speech." Never "sparks" near a face. Show feeling by an

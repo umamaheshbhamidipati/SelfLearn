@@ -30,3 +30,4 @@ Push-ins and zooms made in ffmpeg or CapCut are digital moves on a finished fram
 ## Limits that stay in force (CLAUDE.md)
 No publishing, purchases, account sign-ins, VPN or system-setting changes without the owner. Never hide the AI watermark.
 No copyrighted music or likenesses. Media stays out of git.
+- Per-episode manifest: `projects/<slug>/manifest-epN.json` (scene -> still, clip, engine, credits, status). Update it after every batch.
