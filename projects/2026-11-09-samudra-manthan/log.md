@@ -237,3 +237,21 @@ Waiting on the owner: watch v2; music track for the YouTube file.
   | 08 Neelakantha portrait | s8_neelakantha_a | PARTIAL: clean 0-2.9 s and 5.6-7.9 s (calm face, blue throat, golden light on the peaks). 3.2-5.3 s a bright blue starburst flares over the throat (looks like a lens flare). Use the clean parts; do not re-roll unless the flare is wanted |
 - Mishap: a menu click opened another image's editor and a stale "Favorites" filter appeared; no credits used, nothing sent, filter cleared. Lesson: right-click, take a screenshot, then click the menu item (do not batch the click straight after the right-click).
 - Edited images are stored as version stacks in Flow: a child image replaces its parent in the grid. To animate an earlier version, open it, ⋮ on that version → "Save to projects", then it appears as its own item.
+
+## 14 Nov evening: Ep 2 shots 1, 2, 4, 5, 7 (owner approved the 50-credit batch)
+Stills (0 credits, Nano Banana 2.1, `media/ep2/stills/`; Shiva reference r1b uploaded to Flow as `r1b.jpg`):
+r2_parvati_a (new Parvati reference, PASS), s1_hook_a PASS, s2_column_a PASS, s4_kneel_a PASS (4 men, kneelers from behind),
+s5_nod_a PASS (Parvati faces forward, not toward Shiva), s7_hand_a PASS (one hand, five fingers, throat natural).
+
+| clip | credits | result |
+|---|---|---|
+| 07 hand on throat | 10 | PASS 0-5.5 s: one hand, throat natural, faces steady; hand slides toward the collarbone after ~5 s |
+| 05 Parvati nod | 10 | PARTIAL: stable, but no clear nod; she folds her hands in namaste at ~4 s (usable as consent) |
+| 04 Devas kneel | 10 | PASS: 4 people throughout, snow, push-in; Shiva answers with namaste instead of a nod |
+| 02 poison column | 10 | PASS: one column, lightning stays inside, veins spread through the milk foam, no people |
+| 01 hook (try 1) | 0 | Flow error "Audio generation failed", not charged |
+| 01 hook (try 2) | 10 | FAIL except 0-1.2 s: the orb swells into a cloud over his face 1.5-5 s, then vanishes |
+Spent 50 (balance 0, resets 15 Nov 3:47 PM). Hook plan: still s1 + ffmpeg push-in (0 credits), clean 1 s of clip 01.
+Lessons: "orb swirls" makes Veo grow the smoke; say "a small tight orb the size of a fist that keeps its size and
+shape". Long sound lines can fail Flow's audio step; "Sound: soft wind." worked. The Images view keeps rows stable
+while videos render; the All media grid shifts.
