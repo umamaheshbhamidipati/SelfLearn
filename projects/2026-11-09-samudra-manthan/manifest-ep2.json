@@ -2,19 +2,121 @@
   "project": "samudra-manthan",
   "episode": 2,
   "updated": "2026-11-14",
-  "narration": {"file": "narration-ep2.txt", "timed": ["L1", "L2", "L4", "L6"], "untimed": ["L3", "L5", "L7", "L8", "L9"]},
-  "references": {"shiva": "media/ep2/stills/r1b.jpg (Flow asset r1b.jpg)", "parvati": "media/ep2/stills/r2_parvati_a.jpg"},
-  "rules": ["Halahala never touches skin: conch (shankha) only", "throat natural until shot 8", "no sparks near faces", "short sound lines"],
+  "narration": {
+    "file": "narration-ep2.txt",
+    "timed": [
+      "L1",
+      "L2",
+      "L4",
+      "L6"
+    ],
+    "untimed": [
+      "L3",
+      "L5",
+      "L7",
+      "L8",
+      "L9"
+    ]
+  },
+  "references": {
+    "shiva": "media/ep2/stills/r1b.jpg (Flow asset r1b.jpg)",
+    "parvati": "media/ep2/stills/r2_parvati_a.jpg"
+  },
+  "rules": [
+    "Halahala never touches skin: conch (shankha) only",
+    "throat natural until shot 8",
+    "no sparks near faces",
+    "short sound lines"
+  ],
   "scenes": [
-    {"shot": 1, "line": "L1", "still": "s1_hook_a.jpg", "clip": "01.mp4", "engine": "google_flow", "credits": 10, "status": "redo", "note": "orb in palm breaks the conch rule; orb also engulfed the face"},
-    {"shot": 2, "line": "L1-L2", "still": "s2_column_a.jpg", "clip": "02.mp4", "engine": "google_flow", "credits": 10, "status": "pass"},
-    {"shot": 3, "line": "L2", "still": null, "clip": null, "engine": "ffmpeg_pushin", "credits": 0, "status": "todo", "note": "Devas stagger back: still needed"},
-    {"shot": 4, "line": "L3", "still": "s4_kneel_a.jpg", "clip": "04.mp4", "engine": "google_flow", "credits": 10, "status": "pass"},
-    {"shot": 5, "line": "L4", "still": "s5_nod_a.jpg", "clip": "05.mp4", "engine": "google_flow", "credits": 10, "status": "partial", "note": "namaste instead of nod at ~4 s"},
-    {"shot": 6, "line": "L5", "still": "s6_drink_a.jpg", "clip": "06.mp4", "engine": "google_flow", "credits": 10, "status": "redo", "note": "drinks from palm; remake with the conch"},
-    {"shot": 7, "line": "L6", "still": "s7_hand_a.jpg", "clip": "07.mp4", "engine": "google_flow", "credits": 10, "status": "pass", "use": "0-5.5 s"},
-    {"shot": 8, "line": "L7", "still": "s8_neelakantha_a.jpg", "clip": "08.mp4", "engine": "google_flow", "credits": 10, "status": "partial", "use": "0-2.9 s and 5.6-7.9 s"},
-    {"shot": 9, "line": "L8-L9", "still": null, "clip": null, "engine": "ffmpeg_pushin", "credits": 0, "status": "todo", "note": "dawn wide end-card plate"}
+    {
+      "shot": 1,
+      "line": "L1",
+      "still": "s1_conch_a.jpg",
+      "clip": "01.mp4",
+      "engine": "google_flow",
+      "credits": 10,
+      "status": "still_ready",
+      "note": "conch still PASS; clip 01 (palm orb) retired; animate next reset (10 credits)"
+    },
+    {
+      "shot": 2,
+      "line": "L1-L2",
+      "still": "s2_column_a.jpg",
+      "clip": "02.mp4",
+      "engine": "google_flow",
+      "credits": 10,
+      "status": "pass"
+    },
+    {
+      "shot": 3,
+      "line": "L2",
+      "still": null,
+      "clip": null,
+      "engine": "ffmpeg_pushin",
+      "credits": 0,
+      "status": "todo",
+      "note": "Devas stagger back: still needed"
+    },
+    {
+      "shot": 4,
+      "line": "L3",
+      "still": "s4_kneel_a.jpg",
+      "clip": "04.mp4",
+      "engine": "google_flow",
+      "credits": 10,
+      "status": "pass"
+    },
+    {
+      "shot": 5,
+      "line": "L4",
+      "still": "s5_nod_a.jpg",
+      "clip": "05.mp4",
+      "engine": "google_flow",
+      "credits": 10,
+      "status": "partial",
+      "note": "namaste instead of nod at ~4 s"
+    },
+    {
+      "shot": 6,
+      "line": "L5",
+      "still": "s6_conch_b.jpg",
+      "clip": "06.mp4",
+      "engine": "google_flow",
+      "credits": 10,
+      "status": "still_ready",
+      "note": "conch_a read as blowing the conch (rejected); conch_b PASS; old clip 06 retired; animate next reset"
+    },
+    {
+      "shot": 7,
+      "line": "L6",
+      "still": "s7_hand_a.jpg",
+      "clip": "07.mp4",
+      "engine": "google_flow",
+      "credits": 10,
+      "status": "pass",
+      "use": "0-5.5 s"
+    },
+    {
+      "shot": 8,
+      "line": "L7",
+      "still": "s8_neelakantha_a.jpg",
+      "clip": "08.mp4",
+      "engine": "google_flow",
+      "credits": 10,
+      "status": "partial",
+      "use": "0-2.9 s and 5.6-7.9 s"
+    },
+    {
+      "shot": 9,
+      "line": "L8-L9",
+      "still": null,
+      "clip": null,
+      "engine": "ffmpeg_pushin",
+      "credits": 0,
+      "status": "todo",
+      "note": "dawn wide end-card plate"
+    }
   ],
   "capcut_effects": [],
   "ffmpeg_operations": [],

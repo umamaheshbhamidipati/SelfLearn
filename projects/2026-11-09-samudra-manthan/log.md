@@ -255,3 +255,10 @@ Spent 50 (balance 0, resets 15 Nov 3:47 PM). Hook plan: still s1 + ffmpeg push-i
 Lessons: "orb swirls" makes Veo grow the smoke; say "a small tight orb the size of a fist that keeps its size and
 shape". Long sound lines can fail Flow's audio step; "Sound: soft wind." worked. The Images view keeps rows stable
 while videos render; the All media grid shifts.
+
+## 14 Nov late: Halahala conch rule (owner)
+Owner: the Halahala is never touched; Shiva gathers it in a conch and drinks from it. Web search found one matching
+reference (Neelakantha brass, Shiva in ocean waves "with the conch containing Halahala"). Clips 01 and 06 retired.
+New stills (0 credits; images still free at 0 balance): s1_conch_a PASS; s6_conch_a FAIL (pointed end at his lips =
+reads as blowing the conch); s6_conch_b PASS ("drinks from the conch used as a cup, wide opening tipped to his lips,
+NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_conch_b (20 credits).
