@@ -56,3 +56,4 @@ One line per video: what worked, what to stop doing.
 - **Cause-and-effect claims from 3 videos** (e.g. "hero-face opening raised watch time"): small samples on different platforms; treat as hypotheses until `docs/experiments.md` has verdicts.
 
 Full retro with every failure and fix: `docs/2026-11-05-retro.md`.
+| 14 Nov | Spinning disc "rotates in place" tumbled flat at the start and end of the clip; a sparse frame sheet missed it | For any spinning or held object, check start and end frames at full rate, not only a 1 fps sheet. Prompt: "the disc faces the camera like a clock face for the whole clip, never tilts, never lies flat". Free fix: trim to the good part |

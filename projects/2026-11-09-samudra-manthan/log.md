@@ -215,3 +215,9 @@ Re-cut (`cut_ep1.sh`): L1 = Indra clip 02b (3.0 s) + Asura king still (1.4 s); L
 media/ep1/out/ep1-kurma-voice-sfx.mp4 (overwrites v1): 1080x1920, 47.2 s, 18 MB, -16.4 LUFS. Checked on 16 frames (review/ep1-final2-sheet.png): opens on Indra with aura and lightning (0.3 s), aura gone and crown grey by 2.6 s, Asura king at 3.8 s under "the Asuras won"; Vishnu under the storm sky with the chakra upright and spinning; serpent clip under line 4; every caption under its picture; end card "తర్వాతి భాగం: నీలకంఠుడు" held to the end. Sound levels: voice -12 dB at 44.5 s, -35 dB at 45.5 s, so the last word ends before the fade.
 Preview v2: https://claude.ai/artifact/BouxuQefJvWWCPTeDHr9tC (same link). Drive copy + backup restarted (selflearn-backup-1114).
 Waiting on the owner: watch v2; music track for the YouTube file.
+
+### 14 Nov, owner on final v2: "chakra is spinning but switching horizontal and vertical"
+- Checked 04c at 3 fps and frame by frame: disc lies flat on the finger 0-1.0 s, upright 1.1-7.3 s, tips flat again 7.4-8 s. My 04c sheet had too few frames to show the two ends. Cause: prompt said "rotates in place"; Veo showed the spin by tumbling the disc.
+- Fix, 0 credits: `cut_ep1.sh` uses 04c 1.15-7.25 s only (6.1 s, line 3); Devas-walking still holds for all of line 2 (3.8 s). Narration timing unchanged.
+- Final v3 built (unit ep1-final3, 18 min): 1080x1920, 47.3 s, 18.3 MB. Checked 4 fps crop of the chakra for the whole shot: upright in every frame. Gold flecks at the fingertip in the first 1.5 s of the shot remain.
+- Drive: backup of 14 Nov verified, 110 files, 0 differences (before v3; v3 final re-uploaded after).

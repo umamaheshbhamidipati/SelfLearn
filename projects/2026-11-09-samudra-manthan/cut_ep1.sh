@@ -18,8 +18,8 @@ push(){ # name still dur
 #            line: picture                                   slot
 clip a01 02b 0.6 3.0 1  # L1 Devas lost their strength: Indra's aura and lightning drain away   4.4
 push a02 s02b_asura_king 1.4   #    the Asuras won
-push a03 s03_devas_walk 2.0   # L2 took refuge in Vishnu      3.8
-clip a04 04c 0   7.9 1   # L2 end + L3 Vishnu speaks, chakra spinning (one long take) 1.8 + 6.1
+push a03 s03_devas_walk 3.8   # L2 took refuge in Vishnu (whole line)   3.8
+clip a04 04c 1.15 6.1 1  # L3 Vishnu speaks, chakra upright and spinning. 0-1.1 s and 7.3-8 s cut: the disc tips flat there (owner, 14 Nov)
 push a05 s06_mandara 1.6      # L4 Mandara the rod            4.0
 clip a06 01  0   2.4 1   #    Vasuki the rope (the serpent rises round Mandara)
 push a07 s08_asuras 1.96      # L5 Asuras at the head         3.92
