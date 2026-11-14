@@ -31,3 +31,15 @@ to be reachable. Symptom: blank tool icons, Add returns to the home screen, no p
 - Chrome/YouTube upload limit is 10 MB: re-encode with ffmpeg afterwards, as for Ep 1.
 - Use CapCut for animated titles, zoom keyframes, speed ramps; keep ffmpeg for joins, narration, grade.
 - Exports land in /sdcard/DCIM/Camera/lv_*.mp4; pull with adb.
+
+## Trial edit via CapCut (14 Nov 2026): lessons
+- Gallery: after `adb push` + MEDIA_SCANNER broadcast, CapCut's picker can show a stale list; force-stop and
+  reopen CapCut, then pick the folder in the Albums dropdown.
+- Transition: tap the small box at the cut > search "dissolve/ fade" > Slow Fade, slider to ~0.5 s. Worked.
+- Title text: tap the Enter-text field BEFORE `adb input text` (spaces as %s). Typing with no field focused
+  muted all clips ("Unmute clip" on the timeline): check the audio before export.
+- Text Animations list stayed empty (cloud asset); Telugu text cannot be typed with adb input.
+- Export: one export at a time, wait for "Saved to device" and a stable file size before pulling. Overlapping
+  or interrupted exports left truncated files (3 to 78 frames). The complete one was 720p/30 fps, 535 frames,
+  17.8 s, with audio, plus the CapCut logo card at the end.
+- Avoid the paid options (AI ultra HD, Optical flow). Close promo popups with their X.
