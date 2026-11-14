@@ -67,6 +67,21 @@ CapCut's picker can show a stale list: force-stop CapCut, reopen, then pick the 
   Telugu cannot be typed via adb: owner types it on the phone, or burn it with ffmpeg instead.
 - **Not working here:** text Animations list stays empty (cloud assets). Treat titles as static.
 
+## To try next (from tutorials, UNTESTED on this phone)
+Source: Navin Verse "CapCut Video Editing Tutorial 2026" (Telugu, 21 min) summary, 14 Nov 2026.
+Test one at a time on a 2-clip project; move a line up to "Edits that worked" only after an export passes.
+| Feature | Where (per tutorial) | Devotional use | Notes |
+|---|---|---|---|
+| In / Out / Combo animation on a clip | clip > Animations | gentle "fade in"/"zoom in" on the deity reveal | may need cloud assets (text animations did not load) |
+| Video effects (glow, light rays, particles) | Effects > Video effects | divine light on the hero shot | sparingly; skip fire/glitch styles |
+| Speed > Curves | clip > Speed > Curve | slow-in on the blessing moment | Normal for most shots |
+| Beats on audio | audio > Beats (auto) | cut on drum hits if music is ever used in-app | we add music in Instagram, so low priority |
+| Adjust / HSL / Filters | clip > Adjust | warm gold tint per shot | our ffmpeg rose grade already does this |
+| Optical flow (smooth slow motion) | Speed > Optical flow | slow-mo of flowing water/cloth | Pro (diamond icon): do not enable |
+| Masking / overlays / layers | Overlay + Mask | halo or chakra overlay, title over a mask | |
+| Remove BG / camera tracking | clip > Remove BG / Tracking | probably not needed for AI clips | heavy on this phone |
+| Text-to-speech, voice effects, audio isolation | Text / Audio | not used: narration is Gemini TTS; isolation may be Pro | AI-voice disclosure if ever used |
+
 ## Export
 - Tap the resolution button (shows "AI UHD"/"1080P"): set 1080p (or 720p), frame rate 30, paid toggles
   off, then Export. 1080p/24 gave broken files in our test; 30 fps is the safe setting.
