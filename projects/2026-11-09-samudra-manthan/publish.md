@@ -1,5 +1,9 @@
 # Publish — samudra-manthan
 
+## CURRENT PLAN (14 Nov 2026)
+- **YouTube:** v3 uploaded and scheduled, public Mon 16 Nov 2026 7:30 AM IST (after Karthika at 6:00): https://youtube.com/shorts/KH0vPP2-Mvs . File `media/ep1/out/ep1-youtube-10mb.mp4` (9.3 MB, 720-1080 vertical, voice + natural sounds, NO music). Text in `youtube-text.md`. AI use = Yes, not for kids, no paid promotion, playlist "భక్తి కథలు | Devotional Stories". Studio showed "Checks complete. No issues found."
+- **Not done:** YouTube cover (Shorts frame picked by YouTube), Instagram post (owner, from the phone: `ep1-kurma-voice-sfx.mp4` in Drive `SelfLearn/Ep1-for-phone/`, add song in the app, AI label on), hook-check boxes below not ticked yet.
+
 ## Hook check (before posting; the first AI reel lost viewers in 2 s)
 
 - [ ] **First frame** is the strongest image (a face or the hero shot), not a slow detail or dark frame

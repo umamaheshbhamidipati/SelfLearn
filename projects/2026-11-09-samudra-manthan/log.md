@@ -221,3 +221,7 @@ Waiting on the owner: watch v2; music track for the YouTube file.
 - Fix, 0 credits: `cut_ep1.sh` uses 04c 1.15-7.25 s only (6.1 s, line 3); Devas-walking still holds for all of line 2 (3.8 s). Narration timing unchanged.
 - Final v3 built (unit ep1-final3, 18 min): 1080x1920, 47.3 s, 18.3 MB. Checked 4 fps crop of the chakra for the whole shot: upright in every frame. Gold flecks at the fingertip in the first 1.5 s of the shot remain.
 - Drive: backup of 14 Nov verified, 110 files, 0 differences (before v3; v3 final re-uploaded after).
+
+### 14 Nov: Ep 1 scheduled on YouTube (owner asked)
+- Encoded `ep1-youtube-10mb.mp4` (9.3 MB, 1500 kbps) because the Chrome upload limit is 10 MB. Uploaded in Studio, title/description from `youtube-text.md`, AI use Yes, not for kids, playlist added. Scheduled public Mon 16 Nov 2026 7:30 AM IST (GMT+5:30). Link: https://youtube.com/shorts/KH0vPP2-Mvs
+- No music (owner had not picked one). Credits: 0.
