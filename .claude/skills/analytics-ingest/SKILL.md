@@ -81,7 +81,7 @@ Studio figures lag by about two days: a "3d" reading taken on day 3 may cover tw
 7. Commit the text files. Never commit screenshots; keep them out of the repo.
 
 ## Known gaps in the data (15 Nov 2026)
-- `happy-diwali` has no 3-day or 7-day row on either platform; both windows have closed.
+- `happy-diwali` has no 3-day or 7-day row. The 3-day window has closed; the 7-day reading can still be taken until 16 Nov.
 - `diwali-lakshmi` has no 7-day row; that window closed on 14 Nov.
 - The Karthika Instagram post is not registered: no date or link was ever recorded.
 - Three `posts.csv` notes ask the owner to confirm a date or link.
