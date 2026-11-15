@@ -262,3 +262,17 @@ reference (Neelakantha brass, Shiva in ocean waves "with the conch containing Ha
 New stills (0 credits; images still free at 0 balance): s1_conch_a PASS; s6_conch_a FAIL (pointed end at his lips =
 reads as blowing the conch); s6_conch_b PASS ("drinks from the conch used as a cup, wide opening tipped to his lips,
 NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_conch_b (20 credits).
+
+## 15 Nov late: Ep 2 conch clips + final cut (owner: "flow 30 credits you can complete if anything is pending")
+- Flow balance before: **30 credits**, account menu "Resets Nov 16 at 3:10 PM" (Flow project "Nov 11 - 21:22").
+- Clips (Veo 3.1 Lite, 1 video x1, 9:16, 10 credits each, Approve clicked once per clip; 720p downloads):
+  | clip | still | result |
+  |---|---|---|
+  | 01 conch hook | s1_conch_a | PARTIAL: clean **2.6-4.44 s** (holds conch, eyes to camera, throat natural). 0.5-2.5 s the smoke billows over his face and hair (FAIL); smoke leaves the conch after 2.5 s. Gemini vision_check agrees (fails 0-2.0 and 4.5-6.0) |
+  | 06 drinks from conch | s6_conch_b | PARTIAL: clean **0-2.2 s** (eyes closed, conch at lips, throat natural). From 2.5 s smoke billows UP out of the conch and drifts near his forehead (4-4.5 s). Gemini says the pose reads as **blowing** the conch (mouth at the narrow end) - owner to judge by eye |
+- Spent 20; account menu after the batch: **10 credits** (same reset time). Old clips kept in `media/ep2/clips/old/`.
+- Narration: L5 changed to the conch rule ("శంఖంలోకి తీసుకుని", was "అరచేతిలోకి" = into the palm). Gemini TTS (Achird) timed L3 3.80, L5 3.64, L7 3.24, L8 4.28, L9 2.00 s (one 429 on L9, OK after 60 s).
+- Shots 3 and 9 (still push-ins) were not made: L2 stays on the poison column (clip 02), L8 uses the Devas kneeling (clip 04 4.1 s on), the end card is a darkened clip-08 frame. Hook = still s1_conch_a push-in 1.6 s (the clip's first seconds fail).
+- Build: `build_ep2.sh` (cut -> rose grade 1080x1920 -> captions-ep2.ass). Output `media/ep2/out/ep2-neelakantha.mp4`.
+- Final checks: 35.69 s, 1080x1920, -16.2 LUFS; frame sheet: captions on every line, end card "నీలకంఠుడు / ఓం నమః శివాయ / UmaAI Studio". First build missed captions (header copied without `[Events]`), fixed in `build_ep2.sh`. Build time ~21 min (grade) + 2 min (captions). Sent to the owner's phone; NOT posted.
+- Owner to check: shot 6 (blowing vs drinking), caption timing by ear, L5 pronunciation. 10 credits left: a re-roll of shot 6 needs the owner's OK.

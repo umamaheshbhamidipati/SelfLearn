@@ -1,22 +1,21 @@
 {
   "project": "samudra-manthan",
   "episode": 2,
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "narration": {
     "file": "narration-ep2.txt",
     "timed": [
       "L1",
       "L2",
-      "L4",
-      "L6"
-    ],
-    "untimed": [
       "L3",
+      "L4",
       "L5",
+      "L6",
       "L7",
       "L8",
       "L9"
-    ]
+    ],
+    "untimed": []
   },
   "references": {
     "shiva": "media/ep2/stills/r1b.jpg (Flow asset r1b.jpg)",
@@ -36,8 +35,9 @@
       "clip": "01.mp4",
       "engine": "google_flow",
       "credits": 10,
-      "status": "still_ready",
-      "note": "conch still PASS; clip 01 (palm orb) retired; animate next reset (10 credits)"
+      "status": "partial",
+      "note": "conch clip 15 Nov; hook = still push-in 1.6 s, clip used in L5",
+      "use": "2.6-4.44 s"
     },
     {
       "shot": 2,
@@ -55,8 +55,8 @@
       "clip": null,
       "engine": "ffmpeg_pushin",
       "credits": 0,
-      "status": "todo",
-      "note": "Devas stagger back: still needed"
+      "status": "skipped",
+      "note": "covered by clips 02/04 and a clip-08 end card"
     },
     {
       "shot": 4,
@@ -84,8 +84,9 @@
       "clip": "06.mp4",
       "engine": "google_flow",
       "credits": 10,
-      "status": "still_ready",
-      "note": "conch_a read as blowing the conch (rejected); conch_b PASS; old clip 06 retired; animate next reset"
+      "status": "partial",
+      "note": "conch clip 15 Nov; Gemini reads it as blowing; owner to judge",
+      "use": "0-2.2 s"
     },
     {
       "shot": 7,
@@ -114,11 +115,12 @@
       "clip": null,
       "engine": "ffmpeg_pushin",
       "credits": 0,
-      "status": "todo",
-      "note": "dawn wide end-card plate"
+      "status": "skipped",
+      "note": "covered by clips 02/04 and a clip-08 end card"
     }
   ],
   "capcut_effects": [],
   "ffmpeg_operations": [],
-  "credits_spent_total": 70
+  "credits_spent_total": 90,
+  "build": "build_ep2.sh -> media/ep2/out/ep2-neelakantha.mp4"
 }
