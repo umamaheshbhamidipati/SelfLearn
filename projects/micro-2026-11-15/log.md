@@ -28,3 +28,39 @@ Next steps (new session):
 Open questions for the owner: "made for kids" setting for the two moral stories; whether to spend 10 credits each on
 one animated clip per moral story; standing approval for Flow credits is NOT in CLAUDE.md (edit was blocked).
 Correction: this session told the owner credits were "50 a day free". Wrong: paid PLUS, one monthly pool.
+
+## Owner review (15 Nov, afternoon) and next job: v2 at 29-30 s
+Owner: "videos are good". **Drop Kurma and Vasuki** (same content as Ep 1; do not post). **Chandra, lion and Tenali
+Rama are over too fast: remake each at about 29-30 s.**
+Plan for the new session (use the new single-encode `scripts/micro.sh`, about 2 min per render):
+- Longer narration, one TTS call per video (drafts below, about 40-45 words each; aim for 27-28 s of speech + 1.5 s tail).
+  Time captions from the pauses (`silencedetect`), as in batch 1.
+- Each new line needs its own picture: 3-4 NEW stills per video (Nano Banana, free), no picture used twice.
+- Fix from review notes: Chandra hook still must match the later throat colour (use a blue-throat still for the hook
+  or keep the throat natural throughout).
+- Optional, ask first: one 10-credit clip per moral story (lion at the well, thieves drawing water).
+
+### Draft narration v2 (owner has not checked the added facts yet: ask in one line before recording)
+**Chandra** (adds the 27 wives and Rohini, the usual Puranic account):
+శివుని తలపై చంద్రుడు ఎందుకు ఉంటాడు? | పురాణ కథనం ప్రకారం, చంద్రుడు దక్షుని ఇరవై ఏడు మంది కుమార్తెలను పెళ్లాడాడు. |
+కానీ రోహిణిని మాత్రమే ఎక్కువగా ప్రేమించాడు. | కోపించిన దక్షుడు, "నువ్వు క్షీణించిపోతావు" అని శపించాడు. |
+రోజురోజుకూ కరిగిపోతున్న చంద్రుడు, శివుణ్ణి ప్రార్థించాడు. | శివుడు కరుణించి, అతన్ని తన శిరస్సుపై ధరించాడు. |
+అందుకే చంద్రుడు తగ్గుతూ, మళ్లీ పెరుగుతూ ఉంటాడు. | అందుకే శివుడు… చంద్రశేఖరుడు.
+New stills: moon among 27 bright stars; moon close to one bright star; thin fading moon over dark sea; growing moon.
+No Daksha, no human form of Chandra.
+
+**Lion and rabbit:**
+సింహాన్ని ఓడించింది… ఒక చిన్న కుందేలు! | అడవిలో ఒక క్రూర సింహం, రోజుకొక జంతువును ఆహారంగా కోరేది. |
+ఒకరోజు కుందేలు వంతు వచ్చింది. అది కావాలనే ఆలస్యంగా వెళ్లింది. | "రాజా! దారిలో ఇంకో సింహం నన్ను ఆపింది.
+ఈ అడవికి తానే రాజునంటోంది" అని చెప్పింది. | కోపంతో ఊగిపోయిన సింహాన్ని, కుందేలు ఒక బావి దగ్గరకు తీసుకెళ్లింది. |
+నీళ్లలో తన నీడను చూసి, శత్రువనుకుని సింహం దూకేసింది! | అడవి అంతా ఊపిరి పీల్చుకుంది. | బలం కన్నా… బుద్ధి గొప్పది.
+New stills: animals pleading before the lion; rabbit walking slowly alone; rabbit leading the lion along a path;
+empty well with ripples.
+
+**Tenali Rama:**
+దొంగలతోనే తన తోటకు నీళ్లు పెట్టించాడు! | ఎండాకాలం. తెనాలి రామకృష్ణుని తోట ఎండిపోతోంది. |
+ఒక రాత్రి, తోటలో దొంగలు దాక్కున్నారని అతను గమనించాడు. | "మన నగల పెట్టెను బావిలో దాచేద్దాం" అని గట్టిగా చెప్పి,
+ఒక పెట్టెను బావిలో పడేశాడు. | దొంగలు రాత్రంతా బావి నీళ్లు తోడి పోశారు. | తెల్లారేసరికి… తోట అంతా తడిసింది.
+పెట్టెలో ఉన్నవి రాళ్లే! | రామకృష్ణుడు నవ్వుతూ, "నా తోటకు నీళ్లు పెట్టినందుకు ధన్యవాదాలు" అన్నాడు. | తెలివి ఉంటే… కష్టం కూడా లాభమే.
+New stills: dry cracked garden at noon; thieves hiding in bushes (close); open chest full of stones at the well;
+thieves running at dawn.
