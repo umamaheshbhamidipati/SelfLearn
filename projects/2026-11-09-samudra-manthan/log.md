@@ -276,3 +276,4 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - Build: `build_ep2.sh` (cut -> rose grade 1080x1920 -> captions-ep2.ass). Output `media/ep2/out/ep2-neelakantha.mp4`.
 - Final checks: 35.69 s, 1080x1920, -16.2 LUFS; frame sheet: captions on every line, end card "నీలకంఠుడు / ఓం నమః శివాయ / UmaAI Studio". First build missed captions (header copied without `[Events]`), fixed in `build_ep2.sh`. Build time ~21 min (grade) + 2 min (captions). Sent to the owner's phone; NOT posted.
 - Owner to check: shot 6 (blowing vs drinking), caption timing by ear, L5 pronunciation. 10 credits left: a re-roll of shot 6 needs the owner's OK.
+- Owner (15 Nov): shot 6 "Looks fine, keep it" (reads as drinking). No re-roll; 10 credits stay unspent.
