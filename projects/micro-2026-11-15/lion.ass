@@ -1,0 +1,22 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Noto Serif Telugu,62,&H00FFFFFF,&H00FFFFFF,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,1,4,3,2,70,70,440,1
+Style: Hook,Noto Serif Telugu,84,&H006AC8F5,&H006AC8F5,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,1,5,5,2,60,60,470,1
+Style: Save,Noto Serif Telugu,50,&H00E8F0F5,&H00E8F0F5,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,1,3,3,2,60,60,330,1
+Style: Brand,Noto Serif,38,&H00C8E6F3,&H00C8E6F3,&H00101010,&H99000000,-1,0,0,0,100,100,2,0,1,3,3,2,0,0,250,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.85,Hook,,0,0,0,,సింహాన్ని ఓడించింది…\Nఒక చిన్న కుందేలు!
+Dialogue: 0,0:00:03.85,0:00:09.10,Cap,,0,0,0,,అడవిలో ఒక క్రూర సింహం,\Nరోజుకొక జంతువును\Nఆహారంగా కోరేది.
+Dialogue: 0,0:00:09.10,0:00:15.05,Cap,,0,0,0,,ఒకరోజు కుందేలు ఆలస్యంగా వచ్చి,\N"దారిలో ఇంకో సింహం\Nనన్ను ఆపింది" అని చెప్పింది.
+Dialogue: 0,0:00:15.05,0:00:19.95,Cap,,0,0,0,,కోపంతో బావిలోకి చూసిన సింహం,\Nతన నీడనే శత్రువనుకుని\Nదూకేసింది!
+Dialogue: 0,0:00:19.95,0:00:23.80,Hook,,0,0,0,,బలం కన్నా…\Nబుద్ధి గొప్పది.
+Dialogue: 0,0:00:20.80,0:00:23.80,Save,,0,0,0,,Save చేసి కుటుంబంతో పంచుకోండి
+Dialogue: 0,0:00:20.80,0:00:23.80,Brand,,0,0,0,,UmaAI Studio · నీతి కథలు
