@@ -88,6 +88,17 @@ tally in `docs/reference-patterns.md`. A pattern needs three references and our 
 
 ## Rules
 
+- **Keep sessions small (owner, 15 Nov 2026).** Every call re-sends the whole conversation, and the plan's usage
+  limit ran out mid-build when sessions reached 500k-830k tokens per call (14-15 Nov: about 330M tokens re-read in
+  one day across SelfLearn and signaliq).
+  - One session per video or task. At the start of a new task, say so and ask the owner to open a fresh session.
+  - When context passes about 150k tokens, stop at the next safe point, write the state into the project's
+    `log.md` (done, in progress, next step, open questions), commit the text, and ask the owner to compact or
+    start a new session. Do not carry on past about 200k.
+  - State lives in the repo (`CLAUDE.md`, the project's `.md` files, `docs/`), never only in the conversation.
+  - Look at images sparingly: one small contact sheet per check, not full-size frames; each image is re-sent on
+    every later call. Do bulk frame review in a subagent and keep only its verdict.
+  - Routine build, render and logging steps do not need the largest model; suggest Sonnet for them.
 - **No media in git.** Clips, audio and images stay in `media/` (gitignored). Back them up with
   `scripts/backup.sh` (rclone → `gdrive:SelfLearn/`). Commit the text (briefs, prompts, logs).
 - **Flow is driven only through Claude in Chrome**, in the owner's signed-in browser. The owner
