@@ -96,5 +96,9 @@ Don't: boost posts (paid), buy likes, or post the same reel to 20 groups in an h
 ## Log
 - 15 Nov: plan written. Profile picture: reuse the YouTube diya (no new stills made).
 - 15 Nov: FB Page `Uma AI Studio` created by the owner (facebook.com/profile.php?id=61596345551947), Digital
-  creator, bio set; Claude set the diya profile picture. Still to do: username, links, Instagram link + auto-share.
+  creator, bio set; Claude set the diya profile picture and the Links (YouTube + Instagram). Username
+  `umaaivideostudio` is available but saving it asks for the Facebook password (owner). Page -> Instagram
+  connect (Settings -> Linked accounts -> Instagram) did not complete: it needs an Instagram sign-in, and Chrome's
+  Instagram session logged out during a Facebook password reset. Still to do (owner): username, Instagram connect,
+  then Accounts Center -> Sharing across profiles -> umaaivideostudio -> Uma AI Studio Page -> Reels on.
 - 15 Nov: IG profile picture set; collab shortlist + DM drafts in `docs/collab-shortlist.md`; Facebook guide added.
