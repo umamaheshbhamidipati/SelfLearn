@@ -111,4 +111,8 @@ Don't: boost posts (paid), buy likes, or post the same reel to 20 groups in an h
   won't switch it. Set it in the app: Settings -> Accounts Center -> Sharing across profiles -> umaaivideostudio ->
   Share to: Uma AI Studio -> Reels on. Until then, on each reel's share screen turn on "Share to Facebook" and check
   it names the Page.
+- 15 Nov (app check): Accounts Center "Share to" offers only personal profiles, never the Page, and the app showed
+  "Your Instagram reels" ON to the personal Facebook profile (web hid that switch); owner told to turn it OFF.
+  **Reels reach the Page only via the per-reel switch**: on the final share screen turn on "Share to Facebook" /
+  "Recommend on Facebook" and check it names Uma AI Studio (owner thinks it shows there; confirm on the next reel).
 - 15 Nov: IG profile picture set; collab shortlist + DM drafts in `docs/collab-shortlist.md`; Facebook guide added.
