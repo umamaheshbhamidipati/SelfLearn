@@ -64,3 +64,31 @@ empty well with ripples.
 పెట్టెలో ఉన్నవి రాళ్లే! | రామకృష్ణుడు నవ్వుతూ, "నా తోటకు నీళ్లు పెట్టినందుకు ధన్యవాదాలు" అన్నాడు. | తెలివి ఉంటే… కష్టం కూడా లాభమే.
 New stills: dry cracked garden at noon; thieves hiding in bushes (close); open chest full of stones at the well;
 thieves running at dawn.
+
+## v2 build (15 Nov, evening session): chandra, lion, tenali at 29-30 s
+Owner OK'd in chat: narration as drafted, 12 new stills (0 credits), 2 clips (10 credits each). Plan and prompts: `v2-plan.md`.
+- **Narration:** `narration-v2.txt`, one Gemini TTS call each (Achird). Raw takes ran 25.9 / 33.8 / 33.6 s, so pauses were capped
+  (0.55 s chandra, 0.4 s lion/tenali) and tempo set (0.95 / 1.05 / 1.0) -> `*-v2t.wav` 26.3 / 28.8 / 28.6 s. A Gemini transcription
+  confirmed every line is present and gave the order; caption breaks come from the measured pauses.
+  Lesson: a `while read` loop around tts.sh eats stdin (ffmpeg): read the list on fd 3 and give tts.sh `</dev/null`.
+- **Flow (new project "Nov 15 - 17:36"):** 12 Nano Banana 2.1 stills, 1K (768x1376): c3_stars, c4_rohini, c5_fading, c6_growing,
+  l5_plead, l6_walk, l7_lead, l8_ripples, t5_dry, t6_hiding, t7_stones, t8_running. vision_check: all PASS (c3 has 24 stars, not 27).
+  2 clips, Veo 3.1 Lite, 1 try each, both PASS: `media/clips/lion_well.mp4` (snarl, leap ~4 s, splash; used 2.5-6.7 s),
+  `tenali_water.mp4` (men hauling and pouring water; used 0-2.85 s and 4.25-7.9 s). Each approved once, "Approve" not "Always".
+  **Credits: 50 before, 30 after** (stills free). The account menu said "Resets Nov 16 at 3:10 PM": check whether this pool is daily.
+  Upload trick: the Upload menu opens a native picker; instead put files in a page-made `<input type=file>` and dispatch a drop.
+  Download: tile menu (⋮) -> Download -> 1K (images) / 720p (videos). JS fetch of the tile `img` only gives a 286x512 thumbnail.
+- **Chandra hook fix:** hook now c2_crescent (no throat visible); s8 blue-throat only at the end, r1b dropped.
+- Specs `*-v2.spec`, captions `*-v2.ass` (save/brand line from the last caption +1 s). Kurma and Vasuki dropped (owner).
+
+| v2 video | length | loudness | check |
+|---|---|---|---|
+| chandra-v2 | 29.0 s | -17.1 LUFS | PASS (vision check, 8-frame sheet: captions readable, no face covered, end card) |
+| lion-v2 | 30.0 s | -16.7 LUFS | PASS (8 frames) |
+| tenali-v2 | 30.0 s | -16.7 LUFS | PASS (10 frames, no children) |
+Render ~6 min each tonight (Chrome busy at the same time; ~2 min alone). Sent to the owner's phone 15 Nov night.
+Not verified by ear: caption timing against the voice, Telugu pronunciation. Nothing posted.
+Next: owner review -> post from @umaaivideostudio with the personal account as collaborator, one a day, hours apart
+(`docs/channel-growth-plan.md`); register each with `metrics.py post`.
+Clean-up for the owner: ~/Downloads has 8 small thumbnail files (l5_plead.jpg ... t8_running.jpg) and 3 "(1)" duplicates
+from this session; safe to delete.

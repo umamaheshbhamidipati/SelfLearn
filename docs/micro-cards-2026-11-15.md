@@ -1,6 +1,8 @@
 # Micro-explainer story cards (drafted 15 Nov 2026; owner OK'd all 5 cards on 15 Nov)
 Format: 12-20 s, 9:16, one Telugu question or surprise as the hook at 0:00, existing stills/clips, 0 credits.
 Owner checks each card for facts and iconography BEFORE anything is made. Status: APPROVED 15 Nov 2026 ("all 5 cards ok, go ahead and build them").
+**Update 15 Nov evening:** owner dropped Kurma and Vasuki (same content as Ep 1, not to be posted). Chandra, lion and Tenali
+remade at 29-30 s (v2): narration, pictures and credits in `projects/micro-2026-11-15/v2-plan.md` and `log.md`.
 
 ## Card 1: Kurma
 - Hook (0:00): "ఈ పర్వతాన్ని మోసింది… ఒక తాబేలు!"

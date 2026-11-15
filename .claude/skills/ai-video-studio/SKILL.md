@@ -60,7 +60,9 @@ The human approves spending, purchases and anything that gets posted.
   Optional 2nd reviewer: upload the contact sheet to ChatGPT (owner signs in; free tier) and ask for physical errors
   (extra limbs, odd poses, people on water). Fixes are always regenerated in Flow, never edited elsewhere, so faces
   and style stay consistent. Never real people, companies or staged events.
-- Download: click the last "Download full size image" button
+- Download (Flow grid, Nov 2026): hover the tile → ⋮ → Download → **1K** (original, 768x1376; 2K is an upscale, 4K needs
+  an upgrade). A JS `fetch` of the tile's `img` only returns a 286x512 thumbnail. Older Gemini route: click the last
+  "Download full size image" button
   (`[...document.querySelectorAll('button')].filter(b=>(b.getAttribute('aria-label')||'').includes('Download full size')).pop().click()`).
 
 ### 3. Animate (Google Flow)
@@ -68,12 +70,15 @@ The human approves spending, purchases and anything that gets posted.
    rollover); AI Plus adds 200/month and unlocks 1080p download.
 2. Agent settings (sliders icon in the right panel): video 9:16, x1, **Veo 3.1 - Lite** (10 credits). Keep
    "Confirm before generating: Always".
-3. Upload stills (see the file-input trick in `references/browser-gotchas.md`).
+3. Upload stills (see the file-input trick in `references/browser-gotchas.md`). If the + → Upload menu creates no
+   file input (15 Nov: it opened a native picker), make an `<input type=file multiple>` in the page, `file_upload` into it,
+   then dispatch `dragenter`/`dragover`/`drop` with a DataTransfer of those files on the media grid. Then tile ⋮ →
+   **Add to prompt** and type the motion prompt in the agent box (it still asks "costing 10 credits?" before spending).
 4. Right-click the image → **Animate** → type a *motion-only* prompt → click the **send arrow** (Enter often doesn't send).
 5. Agent replies "costing 10 credits?" → **Approve**. **Read the count and cost first**: with first + last frame
    attached, the agent proposed 6 videos / 60 credits for one shot (2026-11-10). Reject anything beyond the approved
    batch and re-ask for "exactly ONE video, x1, 10 credits". Flow renders ~1 min per clip; queue them one after another.
-6. Download: right-click video → Download → **720p** (keep one resolution across the film).
+6. Download: right-click (or tile ⋮) video → Download → **720p** (keep one resolution across the film).
 7. Free video is often blocked 2–5 PM UTC (7:30–10:30 PM IST). Generate earlier.
 
 ### 4. Review every clip (never trust the thumbnail)

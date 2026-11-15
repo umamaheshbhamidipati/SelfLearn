@@ -1,0 +1,27 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Noto Serif Telugu,62,&H00FFFFFF,&H00FFFFFF,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,1,4,3,2,70,70,440,1
+Style: Hook,Noto Serif Telugu,84,&H006AC8F5,&H006AC8F5,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,1,5,5,2,60,60,470,1
+Style: Save,Noto Serif Telugu,50,&H00E8F0F5,&H00E8F0F5,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,1,3,3,2,60,60,330,1
+Style: Brand,Noto Serif,38,&H00C8E6F3,&H00C8E6F3,&H00101010,&H99000000,-1,0,0,0,100,100,2,0,1,3,3,2,0,0,250,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.62,Hook,,0,0,0,,దొంగలతోనే తన తోటకు\Nనీళ్లు పెట్టించాడు!
+Dialogue: 0,0:00:02.62,0:00:06.03,Cap,,0,0,0,,ఎండాకాలం. తెనాలి\Nరామకృష్ణుని తోట\Nఎండిపోతోంది.
+Dialogue: 0,0:00:06.03,0:00:09.51,Cap,,0,0,0,,ఒక రాత్రి, తోటలో దొంగలు\Nదాక్కున్నారని\Nఅతను గమనించాడు.
+Dialogue: 0,0:00:09.51,0:00:11.42,Cap,,0,0,0,,"మన నగల పెట్టెను\Nబావిలో దాచేద్దాం"
+Dialogue: 0,0:00:11.42,0:00:14.52,Cap,,0,0,0,,అని గట్టిగా చెప్పి,\Nఒక పెట్టెను\Nబావిలో పడేశాడు.
+Dialogue: 0,0:00:14.52,0:00:17.37,Cap,,0,0,0,,దొంగలు రాత్రంతా\Nబావి నీళ్లు తోడి పోశారు.
+Dialogue: 0,0:00:17.37,0:00:20.17,Cap,,0,0,0,,తెల్లారేసరికి…\Nతోట అంతా తడిసింది.
+Dialogue: 0,0:00:20.17,0:00:22.13,Cap,,0,0,0,,పెట్టెలో ఉన్నవి\Nరాళ్లే!
+Dialogue: 0,0:00:22.13,0:00:26.37,Cap,,0,0,0,,రామకృష్ణుడు నవ్వుతూ,\N"నా తోటకు నీళ్లు పెట్టినందుకు\Nధన్యవాదాలు" అన్నాడు.
+Dialogue: 0,0:00:26.37,0:00:30.00,Hook,,0,0,0,,తెలివి ఉంటే…\Nకష్టం కూడా లాభమే.
+Dialogue: 0,0:00:27.37,0:00:30.00,Save,,0,0,0,,Save చేసి కుటుంబంతో పంచుకోండి
+Dialogue: 0,0:00:27.37,0:00:30.00,Brand,,0,0,0,,UmaAI Studio · నీతి కథలు

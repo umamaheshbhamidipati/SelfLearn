@@ -1,0 +1,10 @@
+still|projects/micro-2026-11-15/media/stills/t3_thieves.jpg|2.62|0.0014
+still|projects/micro-2026-11-15/media/stills/t5_dry.jpg|3.41
+still|projects/micro-2026-11-15/media/stills/t6_hiding.jpg|3.48|0.0012
+still|projects/micro-2026-11-15/media/stills/t1_veranda.jpg|1.91
+still|projects/micro-2026-11-15/media/stills/t2_chest.jpg|3.10|0.0012
+clip|projects/micro-2026-11-15/media/clips/tenali_water.mp4|0|2.85
+still|projects/micro-2026-11-15/media/stills/t4_sunrise.jpg|2.80
+still|projects/micro-2026-11-15/media/stills/t7_stones.jpg|1.96|0.0012
+still|projects/micro-2026-11-15/media/stills/t8_running.jpg|4.24
+clip|projects/micro-2026-11-15/media/clips/tenali_water.mp4|4.25|3.63
