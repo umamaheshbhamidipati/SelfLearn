@@ -9,10 +9,10 @@ ten perfect plans.
 | Job | Tool | Notes |
 |---|---|---|
 | Ideas, scripts, shot lists, Flow prompts, titles, descriptions | Claude | This repo |
-| Video clips | Google Flow (Veo) | **Credits: 50/day + 200/month.** Manual, in the browser only |
+| Video clips | Google Flow (Veo) | **Paid Flow PLUS plan, ₹399/month (`docs/finance.csv`). One credit pool, resets on the 15th; no daily +50 (seen 10 Nov).** Plan from the balance Flow shows. Manual, in the browser only |
 | Stills: thumbnails, character reference images | Nano Banana (in Flow / Gemini app) | Feed the reference image back into Flow for consistent characters |
 | Voiceover (optional) | ElevenLabs free tier | Check the free tier's commercial-use terms before monetising |
-| Editing | ffmpeg (`scripts/`); hand edits in Instagram's Edits app (phone) or Kdenlive (new PC). CapCut is banned in India: do not use | ffmpeg 8.0.1 installed 2026-11-05 |
+| Editing | ffmpeg (`scripts/`); hand edits in Instagram's Edits app (phone) or Kdenlive (new PC). CapCut is blocked in India: phone only, optional polish, via the `capcut-mobile` skill with the owner's VPN connected (owner rule, 14 Nov 2026); never for the main cut | ffmpeg 8.0.1 installed 2026-11-05 |
 | YouTube SEO | vidIQ free extension, YouTube Studio analytics | |
 
 ## Channel plan (decided 2026-11-05)
@@ -28,7 +28,7 @@ ten perfect plans.
   youtube.com/@UmaAIVideoStudio) for the same videos as Shorts.
   The personal channel @UmaMaheshBhamidipati (332 subs; hit = a 139K-view repair how-to) stays
   tech/repair; Telugu "how I make AI videos" tutorials may go there later.
-- **Credits:** ~350/week free (50/day) + 200/month ≈ 400/week. One 30 s Reel ≈ 150–250 credits,
+- **Credits:** one monthly pool on the paid PLUS plan, resets on the 15th (the 50/day + 200/month figure was wrong: `docs/lessons.md`, 10 Nov). Record the balance in the project log before each batch. One 30 s Reel ≈ 150–250 credits,
   so 1–2 a week fits; reuse clips across videos.
 - **Success metric:** average watch time and shares/saves, not likes. Baseline (first AI reel,
   15 Oct): 401 views, 0:02 average watch time, 0 shares/saves/follows. Next target: 5–8 s.

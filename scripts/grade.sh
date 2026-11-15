@@ -9,6 +9,7 @@
 # Usage: scripts/grade.sh in.mp4 out.mp4 [strength, default 1.0] [soft|film|rose|epic]
 # GRADE_SCALE=1080:1920 upscales (lanczos) before sharpening: crisper after Instagram/YouTube compression.
 #        scripts/grade.sh --frame in.mp4 out.png [time_s] [strength] [soft|film|rose|epic]   (one-frame preview)
+#        scripts/grade.sh --chain [strength] [look]   (print the filter chain, no encode)
 set -euo pipefail
 
 grade_chain() {
@@ -54,6 +55,8 @@ eq=contrast=$(awk -v s=$s 'BEGIN{printf "%.3f",1+0.08*s}'):saturation=$(awk -v s
 vignette=angle=PI/5,noise=alls=$(awk -v s=$s 'BEGIN{printf "%d",4*s}'):allf=t,format=yuv420p"
 }
 
+# --chain [strength] [look]: print the filter chain only, so other scripts (micro.sh) can grade in their own encode.
+if [[ "${1:-}" == "--chain" ]]; then grade_chain "${2:-1.0}" "${3:-soft}"; exit 0; fi
 if [[ "${1:-}" == "--frame" ]]; then
   in="$2"; out="$3"; t="${4:-1}"
   ffmpeg -hide_banner -loglevel error -y -ss "$t" -i "$in" -frames:v 1 -vf "$(grade_chain "${5:-1.0}" "${6:-soft}")" "$out"
