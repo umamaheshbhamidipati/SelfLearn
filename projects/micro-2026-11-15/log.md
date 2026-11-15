@@ -12,3 +12,19 @@ Flow credits: 0 (10 stills, Nano Banana 2.1, free at 0 balance): c1 moon, c2 cre
 | lion (నీతి కథలు) | 23.8 s | l2, l1, l2, l3, l4 stills | PASS (9.5 MB, stills only, rabbit picture used twice) |
 | tenali (నీతి కథలు) | 19.3 s | t3, t1, t2, t3, t4 stills | PASS (thieves picture used twice) |
 Not verified by ear: caption timing against the voice (set from measured pauses). Nothing uploaded.
+
+## State at handoff (15 Nov, about 13:00 IST) - session closed under the "keep sessions small" rule
+Done: all 5 videos rendered with the OLD three-pass micro.sh (before pulling 5f0cf42) and sent to the owner's phone:
+kurma, vasuki, chandra, lion, tenali in `media/out/`. Frame sheets and loudness checked. Text committed (6bed2c4).
+In progress: nothing rendering.
+Next steps (new session):
+1. Wait for the owner's review: caption timing by ear, Telugu pronunciation, which videos to post.
+2. Reused-content rule (roadmap): Kurma and Vasuki use only Ep 1 clips and stills. Add at least one NEW picture
+   to each before posting (Nano Banana, free).
+3. Chandra: hook still has a natural throat, later shots a blue throat; swap the hook still if the owner minds.
+4. When a video is posted: `scripts/metrics.py post`; first run `scripts/metrics.py due`.
+5. Ep 2 (separate session): animate conch stills s1_conch_a and s6_conch_b (10 credits each). Read the balance in
+   Flow first: the 3:47 PM 15 Nov reset is the MONTHLY reset, not a daily one. Then cut Ep 2 from manifest-ep2.json.
+Open questions for the owner: "made for kids" setting for the two moral stories; whether to spend 10 credits each on
+one animated clip per moral story; standing approval for Flow credits is NOT in CLAUDE.md (edit was blocked).
+Correction: this session told the owner credits were "50 a day free". Wrong: paid PLUS, one monthly pool.

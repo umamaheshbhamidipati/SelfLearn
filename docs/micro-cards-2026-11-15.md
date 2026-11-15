@@ -51,4 +51,4 @@ Owner decides at upload: YouTube "made for kids" setting (we write for a general
 
 # Weekly rhythm (target from 16 Nov)
 Mon: devotional story episode · Tue + Thu: devotional micro-explainers (0 credits) · Sat: one moral story.
-Credits: ~50/day free. Episode clips first, then one moral-story clip, rest unused or retries (max 1 per shot).
+Credits: one monthly PLUS pool, resets on the 15th (not 50/day; see CLAUDE.md). Episode clips first, then one moral-story clip, rest unused or retries (max 1 per shot).
