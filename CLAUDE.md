@@ -4,6 +4,9 @@ Goal: learn AI video generation by making real videos, publish them to the owner
 channel, and grow subscribers slowly and honestly. Learning first; one finished video beats
 ten perfect plans.
 
+**Read first:** `docs/handoff-2026-11-15.md` (changes made by another session on 15 Nov) and
+`docs/roadmap-2026-27.md` (money audit, gates and the 1-year plan).
+
 ## Tools (what each one is for)
 
 | Job | Tool | Notes |
