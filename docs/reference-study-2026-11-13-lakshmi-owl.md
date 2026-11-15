@@ -16,6 +16,9 @@ File: `~/Downloads/igexport-DfrpWpJOPC9.mp4` (Instagram export from the owner; s
 | 23.0–30.1 | 7.1 s | close: owl's eye, she strokes its head, it closes its eyes | end |
 8 shots, average 3.7 s, range 1.7–7.1 s.
 
+*Added 15 Nov 2026:* the `reference-teardown` script finds 10 shots: the 7 cuts above within 0.2 s, plus cuts at 17.0 s
+and 27.0 s where its frame sheet shows a change of framing. The table above is left as it was measured by hand.
+
 ## Why it feels continuous (what we are missing)
 1. **One place, one time, one light.** Every shot is the same moonlit lotus pond, same blue night palette. Our Ep 1 jumps between a celestial court, clouds, open ocean and cliffs, each lit differently.
 2. **A chain of actions, not a list of pictures.** Each shot hands something to the next: the trunk lifts the lotus → she receives the lotus → the owl arrives → the owl lands → she strokes the owl. The thing that moves (lotus, owl) carries your eye across the cut. Our Ep 1 shots each show a separate fact ("Mandara", "Vasuki", "Asuras") with nothing passing between them.

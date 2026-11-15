@@ -81,7 +81,7 @@ The best teacher is our own data, then other people's proven videos.
 ### Skills worth adding (build them here, from tested steps, one at a time)
 | Skill | What it does | Why |
 |---|---|---|
-| reference-teardown | Contact sheet + transcript of a reference Short into a beat sheet | Learn from proven videos in a repeatable way |
+| reference-teardown (**built 15 Nov**) | Cut times, shot lengths and frame sheets of a reference into a beat sheet and a pattern tally (no transcript: nothing on the laptop can read speech) | Learn from proven videos in a repeatable way |
 | analytics-ingest (**built 15 Nov**) | Screenshots or typed figures into `metrics.csv`, a due list, a report against the targets | Measurement keeps falling behind |
 | fact-check | Script lines checked against the named source, belief marked as belief | Protects trust and the "original value" case |
 | long-form-build | Joins episodes into a 16:9 or 9:16 long video with chapters and a cover | Opens the watch-hours route |

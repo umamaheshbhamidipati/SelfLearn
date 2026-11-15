@@ -48,6 +48,10 @@ usable clip, so a 30 s Reel ≈ 150–250 credits.
 post, `scripts/metrics.py due` lists the readings due (1, 3, 7 and 28 days), `add` appends a checked row, `report`
 compares against the roadmap targets. Use it for every number that goes into a log, verdict or lesson.
 
+`.claude/skills/reference-teardown/` (15 Nov 2026) measures a reference video the owner supplies (cuts, shot lengths,
+first 3 seconds, letterbox, loudness), gives frame sheets to look at and a teardown to fill in, and keeps the pattern
+tally in `docs/reference-patterns.md`. A pattern needs three references and our own test before it becomes a rule.
+
 ## Workflow per video
 
 1. `scripts/new-project.sh <slug>` → creates `projects/YYYY-MM-DD-<slug>/` from `templates/`.
