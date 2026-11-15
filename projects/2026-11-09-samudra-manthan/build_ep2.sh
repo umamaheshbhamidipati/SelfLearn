@@ -26,25 +26,25 @@ clip a08 07 0    5.64 1      # L6 Parvati's hand on his throat                  
 clip a09 08 0    2.9  1      # L7 throat turned blue (skip the 3.2-5.3 s flare)  3.64
 clip a10 08 5.6  2.24 1      # L7 end + L8 start: Neelakantha, calm
 clip a11 04 4.1  3.18 1      # L8 poison before nectar: the Devas kneel          4.68
-# end card (L9 + title): calm Neelakantha frame, darkened
+# end card (L9 + L10 teaser + title): calm Neelakantha frame, darkened
 ffmpeg -v error -y -ss 7.5 -i "$P/clips/08.mp4" -frames:v 1 "$P/cover/neelakantha_frame.png"
-ffmpeg -v error -y -loop 1 -t 4.1 -i "$P/cover/neelakantha_frame.png" -f lavfi -t 4.1 -i anullsrc=r=48000:cl=stereo \
+ffmpeg -v error -y -loop 1 -t 6.95 -i "$P/cover/neelakantha_frame.png" -f lavfi -t 6.95 -i anullsrc=r=48000:cl=stereo \
   -vf "$V,eq=brightness=-0.12,fade=t=in:d=0.4" \
-  -map 0:v -map 1:a -c:v libx264 -preset veryfast -crf 20 -af apad -t 4.1 -c:a pcm_s16le -ar 48000 -ac 2 "$T/a12.mkv"
+  -map 0:v -map 1:a -c:v libx264 -preset veryfast -crf 20 -af apad -t 6.95 -c:a pcm_s16le -ar 48000 -ac 2 "$T/a12.mkv"
 segs=$(ls "$T"/a*.mkv); n=$(echo "$segs" | wc -l); in=""; fc=""; i=0
 for s in $segs; do in="$in -i $s"; fc="$fc[$i:v][$i:a]"; i=$((i+1)); done
 # narration: line starts = running sum of (speech + 0.4); captions written from the same timings
 C=$R/captions-ep2.ass; sed -n '1,15p' $R/captions-ep1.ass > $C
 ts(){ awk -v t="$1" 'BEGIN{m=int(t/60); printf "0:%02d:%05.2f", m, t-60*m}'; }
 vin=""; vf=""; t=0.15; k=0; mix=""
-for L in "$A"/L0*.wav; do d=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$L"); ms=$(printf '%.0f' "$(echo "$t*1000" | bc -l)")
+for L in "$A"/L*.wav; do d=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$L"); ms=$(printf '%.0f' "$(echo "$t*1000" | bc -l)")
   vin="$vin -i $L"; idx=$((n+1+k)); vf="$vf[$idx:a]adelay=${ms}|${ms}[n$k];"; mix="$mix[n$k]"
   txt=$(sed -n "$((k+1))p" $R/narration-ep2.txt); e=$(echo "$t+$d+0.25" | bc -l)
-  if [ $k -lt 8 ]; then echo "Dialogue: 0,$(ts $t),$(ts $e),Cap,,0,0,0,,$txt" >> $C; else L9=$t; fi
+  [ $k -lt 9 ] && echo "Dialogue: 0,$(ts $t),$(ts $e),Cap,,0,0,0,,$txt" >> $C; [ $k -eq 8 ] && L9=$t; [ $k -eq 9 ] && L10=$t
   echo "L$((k+1)) starts $t"; t=$(echo "$t+$d+0.4" | bc -l); k=$((k+1)); done
 D=$(echo "$t-0.4+1.9" | bc -l); D=$(printf '%.2f' "$D"); echo "total $D s"
 { echo "Dialogue: 0,$(ts $L9),$(ts $D),Title,,0,0,0,,{\\pos(540,1300)\\fad(400,0)}నీలకంఠుడు"
-  echo "Dialogue: 0,$(ts $L9),$(ts $D),Sub,,0,0,0,,{\\pos(540,1470)\\fad(400,0)}ఓం నమః శివాయ"
+  echo "Dialogue: 0,$(ts $L10),$(ts $D),Sub,,0,0,0,,{\\pos(540,1470)\\fad(400,0)}తర్వాతి భాగం: అమృతం"
   echo "Dialogue: 0,$(ts $L9),$(ts $D),Brand,,0,0,0,,{\\pos(540,1600)\\fad(400,0)}UmaAI Studio"; } >> $C
 ffmpeg -v error -y $in -stream_loop -1 -i "$P/clips/02.mp4" $vin -filter_complex \
   "${fc}concat=n=$n:v=1:a=1[v][ca];[$n:a]atrim=0:$D,asetpts=N/SR/TB,volume=-22dB[bed];[ca]volume=-11dB[fx];${vf}${mix}amix=inputs=$k:normalize=0[vo];[vo][fx][bed]amix=inputs=3:normalize=0:duration=longest,afade=t=out:st=$(echo "$D-1.2"|bc):d=1.2,loudnorm=I=-16:TP=-1.5[a]" \
