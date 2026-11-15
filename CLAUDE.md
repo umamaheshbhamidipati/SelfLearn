@@ -44,6 +44,10 @@ contact sheets, Reel rough cuts. Read its `SKILL.md` and `references/prompts.md`
 table) before planning a video. Measured: Veo 3.1 Lite = 10 credits per 8 s clip, ~1.5–2 tries per
 usable clip, so a 30 s Reel ≈ 150–250 credits.
 
+`.claude/skills/analytics-ingest/` (15 Nov 2026) keeps `docs/metrics.csv` complete: `docs/posts.csv` registers every
+post, `scripts/metrics.py due` lists the readings due (1, 3, 7 and 28 days), `add` appends a checked row, `report`
+compares against the roadmap targets. Use it for every number that goes into a log, verdict or lesson.
+
 ## Workflow per video
 
 1. `scripts/new-project.sh <slug>` → creates `projects/YYYY-MM-DD-<slug>/` from `templates/`.
@@ -59,7 +63,7 @@ usable clip, so a 30 s Reel ≈ 150–250 credits.
    video as a YouTube Short). Tick YouTube's
    "altered or synthetic content" disclosure when the video shows realistic AI-made people,
    places or events.
-8. After 7 days, fill the metrics table in `log.md` (average watch time and shares first) and add
+8. On the day it is posted, register it: `metrics.py post`. After 7 days, fill the metrics table in `log.md` (average watch time and shares first) and add
    one lesson to `docs/lessons.md`.
 
 ## Look and casting (owner, 2026-11-08; applies from the next video)

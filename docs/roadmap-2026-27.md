@@ -62,7 +62,8 @@ The best teacher is our own data, then other people's proven videos.
 
 1. **Our analytics, weekly.** YouTube Studio: the retention graph screenshot and the "stayed to
    watch" figure for every Short. Instagram: insights for every Reel. Without these, lessons are guesses.
-   `metrics.csv` has had no row since 8 Nov; Karthika and Ep 1 are missing.
+   `metrics.csv` has had no row since 8 Nov: Happy Diwali has no 3-day or 7-day row and Lakshmi no
+   7-day row. (Karthika and Ep 1 only go out on 16 Nov.) Use the `analytics-ingest` skill.
 2. **Reference videos, 15-20 links.** Telugu devotional and moral-story Shorts from channels that are
    clearly growing, picked by the owner from the YouTube Studio Research tab and the Shorts feed.
    For each: link, why the owner likes it, views. Add 5 that the owner disliked. Claude then writes
@@ -81,7 +82,7 @@ The best teacher is our own data, then other people's proven videos.
 | Skill | What it does | Why |
 |---|---|---|
 | reference-teardown | Contact sheet + transcript of a reference Short into a beat sheet | Learn from proven videos in a repeatable way |
-| analytics-ingest | Studio and Instagram exports or screenshots into `metrics.csv` + experiment verdicts | Measurement keeps falling behind |
+| analytics-ingest (**built 15 Nov**) | Screenshots or typed figures into `metrics.csv`, a due list, a report against the targets | Measurement keeps falling behind |
 | fact-check | Script lines checked against the named source, belief marked as belief | Protects trust and the "original value" case |
 | long-form-build | Joins episodes into a 16:9 or 9:16 long video with chapters and a cover | Opens the watch-hours route |
 | publish-pack | Title, description, tags, cover, pinned comment, playlist, disclosure tick list | Removes the slowest manual step |
