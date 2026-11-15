@@ -2,3 +2,4 @@ date,project,credits_spent,clips_generated,clips_usable,regenerations,render_fai
 2026-11-14,samudra-manthan-ep2,20,2,1.5,0,0,,,"06 PASS; 08 usable outside 3.2-5.3 s"
 2026-11-14,capcut-trials,0,0,0,0,0,3,3,"3 truncated exports from overlapping runs; fixed by one export at a time"
 2026-11-14,samudra-manthan-ep2-evening,50,5,3.5,1,1,,,"01 fail (orb grew over face), 05 partial, 1 uncharged audio failure"
+2026-11-15,micro-batch-1,0,0,0,0,0,,,"5 videos built from stills and old clips; 10 free stills; 5.5 min render each"

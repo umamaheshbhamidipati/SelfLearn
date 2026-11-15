@@ -8,7 +8,7 @@ Flow credits: 0 (10 stills, Nano Banana 2.1, free at 0 balance): c1 moon, c2 cre
 |---|---|---|---|
 | kurma | 17.5 s | Ep 1 clips 12, 11 + kurma frame | PASS: hook text from frame 0, captions readable, voice -20.5 dB mean |
 | vasuki | 15.9 s | Ep 1 clip 01, 10c + 3 stills | PASS |
-| chandra | 15.3 s | r1b, c1, clip 08 (0-2.8 s), c2, s8 | see below |
-| lion (నీతి కథలు) | 23.8 s | l2, l1, l2, l3, l4 stills | see below |
-| tenali (నీతి కథలు) | 19.3 s | t3, t1, t2, t3, t4 stills | see below |
+| chandra | 15.3 s | r1b, c1, clip 08 (0-2.8 s), c2, s8 | PASS; note: throat natural in the hook still, blue in the later shots |
+| lion (నీతి కథలు) | 23.8 s | l2, l1, l2, l3, l4 stills | PASS (9.5 MB, stills only, rabbit picture used twice) |
+| tenali (నీతి కథలు) | 19.3 s | t3, t1, t2, t3, t4 stills | PASS (thieves picture used twice) |
 Not verified by ear: caption timing against the voice (set from measured pauses). Nothing uploaded.
