@@ -92,3 +92,16 @@ Next: owner review -> post from @umaaivideostudio with the personal account as c
 (`docs/channel-growth-plan.md`); register each with `metrics.py post`.
 Clean-up for the owner: ~/Downloads has 8 small thumbnail files (l5_plead.jpg ... t8_running.jpg) and 3 "(1)" duplicates
 from this session; safe to delete.
+Owner review 15 Nov night (lion-v2): (1) the rabbit seemed to jump into the well too: the Flow clip has it climbing the rim at
+3.4-5.2 s. Fixed free: clip now 1.75-3.3 s (snarl) + 5.35-7.93 s (splash). (2) Brand line "UmaAI Studio · నీతి కథలు" broken:
+Brand style used Latin `Noto Serif`; now `Noto Serif Telugu` in all three v2 .ass files. Lion and Tenali re-rendered.
+Older files with the same Brand style (Ep 1 captions/endcard, Karthika endcard, batch 1 micro) show only English there, except
+batch 1 lion/tenali (not posted).
+Push-in stutter fixed in micro.sh (2x supersample; measured variation 28% -> 10%); all three re-rendered.
+Brand line still broken after the font change: the real cause was the Brand style's letter spacing (2); libass breaks Telugu
+shaping whenever Spacing is not 0. Set to 0 in all three .ass (one-frame test render OK); lion and tenali re-rendered.
+chandra-v2.mp4 keeps spacing 2 on its English-only brand line (no visible difference).
+Final v2 renders (15 Nov night): chandra 29.0 s, lion 30.0 s, tenali 30.0 s; brand line checked on a crop; sent to the phone.
+Open: output is tagged full-range (yuvj420p, pc) because the stills are JPEG; the owner's phone played lion-v2 fine, but the
+Ep 2 session saw a phone player fail on a full-range file. Next build: add `scale=out_range=tv` before the final `-pix_fmt yuv420p`
+in `scripts/micro.sh` and check the colours do not shift.
