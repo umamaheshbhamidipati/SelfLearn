@@ -55,7 +55,8 @@ Sunday growth check (`docs/growth-check-task.md`) reads them together. Followers
 ## Facebook page: step by step (owner does this on the phone, ~15 min)
 Why a Page and not the personal profile: a Page can be linked to @umaaivideostudio, gets its own followers and
 insights, and later moves into SignalIQ "business pages" without touching the owner's personal Facebook.
-1. **Create the Page.** Facebook app -> Menu (☰) -> Pages -> **+ Create** -> name `UmaAI Studio`, category
+1. **Create the Page.** Facebook app -> Menu (☰) -> Pages -> **+ Create** -> name `Uma AI Studio` (Facebook rejects
+   `UmaAI Studio` for its mid-word capitals and suggests `Umaai Studio`; don't take that, 15 Nov), category
    `Video Creator` (add `Digital creator` as a second one). Bio: `AI videos in Telugu 🎬 stories • devotional • more`.
    Skip "invite friends" for now (invite them after there are 3+ reels on the Page).
 2. **Same picture.** Profile picture: `yt_avatar.jpg` (the diya; copy it to the phone from Drive or WhatsApp it to
