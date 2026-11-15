@@ -66,3 +66,29 @@ Same Lakshmi reel cross-posted to Facebook: 146 views, 2 reactions.
 3. **Link the two Diwali Shorts and start the series playlist.** In YouTube Studio, set the Happy
    Diwali Short's related video to the Lakshmi Short (and vice versa) and add both to a "Telugu
    devotional stories" playlist, so the Shorts feed (82% of views) leads into the channel.
+
+## 2026-11-15 (read-only check, about 13:45 IST, asked by the owner)
+
+Rows added to `docs/metrics.csv` with the `analytics-ingest` script. Not read: average view duration and
+subscribers gained per Short (YouTube), average watch time (Instagram desktop does not show it).
+
+| | 2026-11-15 | Change since 2026-11-08 |
+|---|---|---|
+| YouTube UmaAI Studio subscribers | 10 | +2 |
+| YouTube views, last 28 days | 425 | |
+| YouTube watch time, last 28 days | 1.2 h | |
+| Instagram followers | 422 | -4 |
+| Personal channel (for comparison) | 333 subscribers, 853 views, 12.0 h in 28 days | |
+
+| Post | Platform | Age | Views | Stayed / swiped | Shares | Saves | Follows | Likes |
+|---|---|---|---|---|---|---|---|---|
+| Diwali Lakshmi | YouTube | 10d | 281 (0 in the last 48 h) | 24.8% / 75.2% | | | | 0 |
+| Diwali Lakshmi | Instagram | 10d | 365 (64.4% non-followers; Facebook 146) | | 1 | 0 | 1 | 14 |
+| Happy Diwali | YouTube | 8d | 132 | 54.9% / 45.1% | | | | 0 |
+| Happy Diwali | Instagram | 8d | 496 (58.8% non-followers; Facebook 202) | | 0 | 0 | 0 | 11 |
+
+- Happy Diwali held more of its YouTube viewers than Lakshmi (54.9% against 24.8% stayed), on 132 and 281 views.
+  The two videos differ in more than the opening, so this is a hint, not a verdict.
+- Saves are still 0 on both Instagram reels. The two AI reels (365, 496 views) sit inside the range of the
+  earlier reels on the same account (268 to 783 on the reels grid).
+- Missed readings stay missed (7 listed by `metrics.py due`). Next due: 28-day readings on 3 and 5 Dec.
