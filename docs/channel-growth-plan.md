@@ -101,4 +101,9 @@ Don't: boost posts (paid), buy likes, or post the same reel to 20 groups in an h
   connect (Settings -> Linked accounts -> Instagram) did not complete: it needs an Instagram sign-in, and Chrome's
   Instagram session logged out during a Facebook password reset. Still to do (owner): username, Instagram connect,
   then Accounts Center -> Sharing across profiles -> umaaivideostudio -> Uma AI Studio Page -> Reels on.
+- 15 Nov (later): FB username set by owner (password step): facebook.com/umaaivideostudio. Saving the Page picture
+  created a public "updated their profile picture" post on the Page. Found @umaaivideostudio auto-sharing stories
+  and posts to the owner's PERSONAL Facebook profile; owner said turn it off, both toggles now off (verified after
+  reload). Page <-> Instagram still NOT connected (web popup never completed): owner to connect in the Instagram
+  app (Edit profile -> Page -> Uma AI Studio), then set Share to = the Page and turn Reels on.
 - 15 Nov: IG profile picture set; collab shortlist + DM drafts in `docs/collab-shortlist.md`; Facebook guide added.
