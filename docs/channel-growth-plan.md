@@ -95,4 +95,6 @@ Don't: boost posts (paid), buy likes, or post the same reel to 20 groups in an h
 
 ## Log
 - 15 Nov: plan written. Profile picture: reuse the YouTube diya (no new stills made).
+- 15 Nov: FB Page `Uma AI Studio` created by the owner (facebook.com/profile.php?id=61596345551947), Digital
+  creator, bio set; Claude set the diya profile picture. Still to do: username, links, Instagram link + auto-share.
 - 15 Nov: IG profile picture set; collab shortlist + DM drafts in `docs/collab-shortlist.md`; Facebook guide added.
