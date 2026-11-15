@@ -106,4 +106,9 @@ Don't: boost posts (paid), buy likes, or post the same reel to 20 groups in an h
   and posts to the owner's PERSONAL Facebook profile; owner said turn it off, both toggles now off (verified after
   reload). Page <-> Instagram still NOT connected (web popup never completed): owner to connect in the Instagram
   app (Edit profile -> Page -> Uma AI Studio), then set Share to = the Page and turn Reels on.
+- 15 Nov (later): owner connected the Page in the Instagram app; Facebook settings now show "Connected Instagram:
+  @umaaivideostudio" on Uma AI Studio. Accounts Center web still lists only the personal profile under "Share to" and
+  won't switch it. Set it in the app: Settings -> Accounts Center -> Sharing across profiles -> umaaivideostudio ->
+  Share to: Uma AI Studio -> Reels on. Until then, on each reel's share screen turn on "Share to Facebook" and check
+  it names the Page.
 - 15 Nov: IG profile picture set; collab shortlist + DM drafts in `docs/collab-shortlist.md`; Facebook guide added.
