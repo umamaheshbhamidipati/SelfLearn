@@ -56,3 +56,15 @@ Made with AI (Google Flow / Veo, Nano Banana); AI narration (Gemini TTS). No mus
 
 ## Status
 - 16 Nov: owner listened to all three on the phone ("all three sound fine") and approved this text. Nothing scheduled yet.
+- 16 Nov ~08:40-09:05 (Claude in Chrome): all six YouTube + Facebook items scheduled for 19:00 IST. Text read back from
+  each editor and matched byte for byte against this file before scheduling.
+  - YouTube (UmaAI Studio, all show "Scheduled"; not for kids, no paid promotion, altered content = Yes):
+    lion yS_kgq-BIdw (Tue 17, new playlist నీతి కథలు | Moral Stories), tenali mI9p0ip4I5o (Wed 18, Moral Stories),
+    chandra Kxcu163ip8o (Mon 23, భక్తి కథలు | Devotional Stories).
+  - Facebook (Uma AI Studio Page reels, AI label on; all three in Business Suite -> Content -> Scheduled): lion post ID
+    1715924686616976 (Tue 17), tenali 2045150096125217 (Wed 18), chandra 1496232362379473 (Mon 23). The "Hosting an
+    event?" pop-up fired on chandra; "Publish Original Post" kept it scheduled.
+  - **Instagram: NOT scheduled.** Business Suite's reel composer (IG only) has no collaborator field and no AI-label
+    switch, so per the rule it was not used (draft discarded). Waiting for the owner: post each by hand from
+    instagram.com at 19:00 on its day (Create -> Post, crop Original, caption, Add collaborators
+    @umamaheshbhamidipati, AI label on, "Share to" personal FB off)?
