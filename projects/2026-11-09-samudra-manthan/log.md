@@ -304,3 +304,12 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - 04 Dhanvantari: **PASS** 0-7.9 s (720x1280): two arms throughout, kalasha held in both hands, face/crown steady, slow push-in, a small golden flame on the pot that does not grow. The rise is gentle (stays waist-deep), not a big emergence. Spent 10 -> balance 0.
 - Next: 06 and 09 after the 3:10 PM reset (20 credits, still inside the approved 30).
 - 13:35 TTS retry OK: L5 2.68, L6 2.84, L7 3.04, L8 5.00, L9 2.60 s. All 9 lines: speech 31.7 s, slots (speech + 0.4) 35.3 s, ~37 s with the end card.
+
+## 16 Nov (15:13-15:35): Ep 3 batch A, clips 06 + 09 (rest of the owner's approved 30 credits)
+- **Balance at 15:13: 50 credits, "Resets Nov 17 at 3:10 PM"** = 50 per day after all (10 Nov note said monthly pool; check again tomorrow before planning).
+- Other images ("Three men walking toward light") were added to this Flow project since the morning, probably by another session; not touched.
+- 06 Mohini (s06_mohini_b): **PASS** 0-7.9 s: natural walk through the foam, pot at her left hip throughout, two arms, modest saree, face steady, stays medium size.
+- 09 disguised Asura (s09_rahu_c): **PARTIAL**: 0-2.5 s = the sly sideways glance + small smile (good); from ~2.5 s the smile grows into a broad grin (cheeky, not sly). Background Devas young and steady throughout. Edit plan: clip 0-2.5 s, then still s09_rahu_c push-in for the rest of L8 (5.4 s slot). Re-roll only with a new OK.
+- Batch A spent: 30 (04, 06, 09). Balance after: 30. Approve clicked once per clip; the agent asked "1 video, 10 credits" each time.
+- Flow UI: right-click on a tile opens the same menu reliably (the hover ⋮ sometimes opens the editor). Tile names via JS: `[...document.querySelectorAll('main [role=group]')].map(g=>g.getAttribute('aria-label'))`.
+- Next (needs owner OK): batch B (01 kalasha hook, 07 sharing; 20) and C (03 Lakshmi, 05 Asuras running; 20) = 40; stills first (0 credits).
