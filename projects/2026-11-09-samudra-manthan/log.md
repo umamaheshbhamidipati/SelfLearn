@@ -285,3 +285,15 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - Credit plan: 80 first try, ~120 with retries; batches A (04, 06, 09), B (01, 07, 08), C (03, 05).
 - Flow balance 08:40: **10 credits**, "Resets Nov 16 at 3:10 PM". Nothing generated.
 - Next: owner approves script + batch A; then TTS timing, stills R6/R7 + s01-s09 (0 credits), contact sheet, then clips after the reset.
+
+## 16 Nov (09:15-09:50): owner answers + batch A stills (0 credits)
+- Owner (via the main session): Ep 4 = Rahu; Ep 2 refrain (old L8) dropped; Dhanvantari 2 arms; batch A (30 credits) approved for after the 3:10 PM reset. Script/shots/narration updated: 9 lines, 7 clips (shot 08 Indra dropped), plan 70 credits first try.
+- Stills (Nano Banana 2.1 in the Flow agent, new session "Lord Dhanvantari Divine P…", no credit prompt; `media/ep3/stills/`, 768x1376):
+  | still | verdict |
+  |---|---|
+  | s04_dhanvantari_a | **PICK**: two arms, kalasha in both hands, milk-white water, yellow silk, eyes to camera, crisp face. (b similar, softer) |
+  | s06_mohini_b | **PICK**: knees-up, modest peacock-blue saree, crystal crown, kalasha at her left hip, two arms. (a = full-length, smaller face) |
+  | s09_rahu_a / b | FAIL: the background Devas look 40+, balding, no crowns |
+  | s09_rahu_c | **PICK**: edit of a (Add to prompt): same sly sideways glance; background = two young crowned Devas |
+- Shore reads as real sea foam rather than a milk ocean in the Mohini/Rahu stills; acceptable after the rose grade, flag if the owner minds.
+- Flow UI: tile ⋮ position drifts with hover; batching 5 downloads failed (opened an old image's editor, no change). Hover, zoom on the tile corner to find ⋮, click, then Download → 1K, one tile at a time. An edited image appears as a NEW tile at the top (not in place of its parent).

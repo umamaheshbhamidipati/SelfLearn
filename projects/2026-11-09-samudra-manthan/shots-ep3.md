@@ -1,4 +1,4 @@
-# Shots, Samudra Manthan Ep 3: అమృతం (16 Nov 2026 plan, owner to approve)
+# Shots, Samudra Manthan Ep 3: అమృతం (16 Nov 2026; owner approved batch A only)
 
 Same rules as `shots-ep2-v2.md`: ~38 s, narration timed first (`narration-ep3.txt`, Achird, one WAV per line in
 `media/ep3/audio-draft/`), every shot carries something into the next (the kalasha travels: ocean → Dhanvantari →
@@ -37,7 +37,9 @@ jewellery: a crown of woven light and translucent crystal, small pieces floating
 **Lakshmi / Vishnu:** attach the approved refs from Flow project "Nov 11 - 21:22" (Lakshmi on lotus, neutral;
 Vishnu navy, 4 arms, tallest crown). Same for Indra (gripping vajra) and the Asura general.
 
-## Shots (8 clips = 80 credits first try, ~120 with retries; 4 still push-ins = 0)
+## Shots (7 clips = 70 credits first try, ~105 with retries; 4 still push-ins = 0)
+
+Shot 08 (Indra's aura returns, under the old refrain line) is DROPPED with the line. Lines L8-L9 = old L9-L10.
 
 | # | Line | Shot | Must be true | Clip |
 |---|---|---|---|---|
@@ -51,11 +53,10 @@ Vishnu navy, 4 arms, tallest crown). Same for Indra (gripping vajra) and the Asu
 | 05 | L5 | Asuras run away across the foam shore toward screen-LEFT, the Asura general in front holding the kalasha high over his head, seen from behind / three-quarter | exactly 4 men, no women, no grey hair; maroon/bronze armour; one kalasha (the same pot); legs step with splashes, no sliding | 10 |
 | 06 | L6 | **HERO** Mohini walks slowly toward camera out of a soft golden glow on the shore, kalasha now held at her hip; she glances to camera with a calm smile | one woman, two arms, saree covers shoulders and waist; same kalasha; walks with natural steps; stays medium size (does not rush at camera) | 10 |
 | 07 | L7 | Mohini (profile) walks along a row of seated Devas (screen-right), tilting the kalasha; a thin golden stream fills a small gold cup held in a Deva's two hands | Devas = exactly 3 men, no women, seated cross-legged, from the side; the stream goes from the pot mouth into the cup only (no spill on skin or hair); one kalasha, one cup per Deva | 10 |
-| 08 | L8 | Indra close-up: drinks from the gold cup, lowers it, his golden aura and crown light come back (pays off Ep 1's opening, where the aura went out) | Indra's ref face, short beard, two hands, vajra not needed; aura grows slowly behind the head, never over the face; eyes open sharp at the end | 10 |
-| 09 | L9 | **CLIFFHANGER** in the Devas' row, one man in Deva ivory-and-gold sits with the cup; his eyes slide sideways, a small sly smile; a faint maroon shadow on his skin | one man, two hands, holds one cup; dressed exactly like the Devas (it is a disguise); not monstrous, no horns; eyes move, head stays | 10 |
-| 10 | L10 | End card: darkened last frame of clip 09 + ASS text | text area empty (top/bottom third) | 0 |
+| 09 | L8 | **CLIFFHANGER** in the Devas' row, one man in Deva ivory-and-gold sits with the cup; his eyes slide sideways, a small sly smile; a faint maroon shadow on his skin | one man, two hands, holds one cup; dressed exactly like the Devas (it is a disguise); not monstrous, no horns; eyes move, head stays | 10 |
+| 10 | L9 | End card: darkened last frame of clip 09 + ASS text | text area empty (top/bottom third) | 0 |
 
-**Priority if the balance is short:** A = 04, 06, 09 (heroes + teaser, 30). B = 01, 07, 08 (30). C = 03, 05 (20).
+**Priority if the balance is short:** A = 04, 06, 09 (heroes + teaser, 30). B = 01, 07 (20). C = 03, 05 (20).
 Without C: L3 holds still 03 as a push-in; L5 uses a still of the running Asuras as a push-in.
 
 ## Still prompts (Nano Banana in Flow, 0 credits; still colour line + SET + block, then the shot line)
@@ -81,8 +82,6 @@ Without C: L3 holds still 03 as a push-in; L5 uses a still of the running Asuras
 - s07 — R7 attached + Deva group block [3]: "side view: Mohini at the left tilting the kalasha; three Devas seated
   cross-legged in a row on the right, the nearest holds a small gold cup in both hands; a thin golden stream
   from the pot mouth into the cup."
-- s08 — Indra ref attached: "close-up, Indra holding a small gold cup at his lips with both hands, eyes closed,
-  dawn light."
 - s09 — "ONE young man dressed exactly like the Devas (ivory and gold silk, small gold crown) seated in their row,
   holding a small gold cup, eyes glancing sideways, faint sly smile, a faint maroon shadow on his skin; the other
   Devas soft in the background."
@@ -107,9 +106,6 @@ the Sound line. Camera "completely still" unless a push-in is written.
 - 07: "She tilts the kalasha a little; a thin steady golden stream flows from its mouth into the gold cup; the
   Deva holds the cup still with both hands; nothing spills. Camera completely still. Sound: liquid pouring softly.
   No music, no speech."
-- 08: "He drinks from the cup, lowers it slowly with both hands, opens his eyes; a soft golden aura grows slowly
-  behind his head (never in front of his face) and his crown begins to glow. Slow push-in. Sound: soft wind, a low
-  warm hum. No music, no speech."
 - 09: "He keeps his head still; only his eyes slide slowly to the side and a small sly smile appears; the cup stays
   in his hands. Camera completely still. Sound: soft wind. No music, no speech."
 
@@ -117,11 +113,11 @@ the Sound line. Camera "completely still" unless a push-in is written.
 
 | Batch | Clips | Credits first try | With ~1.5× retries |
 |---|---|---|---|
-| Stills R6, R7, s01-s09 (Nano Banana) | — | 0 | 0 |
+| Stills R6, R7, s01-s07, s09 (Nano Banana) | — | 0 | 0 |
 | A (heroes + teaser) | 04, 06, 09 | 30 | 40-50 |
-| B | 01, 07, 08 | 30 | 40-50 |
+| B | 01, 07 | 20 | 30 |
 | C | 03, 05 | 20 | 30 |
-| **Total** | **8** | **80** | **~120** |
+| **Total** | **7** | **70** | **~105** |
 
 Spend order: stills → contact sheet → owner OK → batch A → review → B → C. A re-roll needs a new OK. Approve is
 clicked once per clip; never "Always approve".
