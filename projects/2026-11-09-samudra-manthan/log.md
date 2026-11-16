@@ -320,3 +320,23 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - 01 hook (s01_hook_1): **PASS**: pot dips into the foam with a splash at ~1 s, then rises with milky water streaming; two hands throughout, the flame stays small. Best 1-4 s.
 - Spent 20 (Approve once per clip, agent asked "1 video, 10 credits" each time). Balance after: 10 (resets 17 Nov 3:10 PM).
 - Ep 3 clips so far: 01, 04, 06, 07 PASS; 09 partial (0-2.5 s). Left: batch C (03 Lakshmi, 05 Asuras running; 20 credits, needs owner OK + stills), still push-ins 02a-c, 03b (0 credits), then build_ep3.sh (copy build_ep2.sh: Achird lines in media/ep3/audio-draft, captions Noto Serif Telugu Spacing 0, rose 1080x1920, tv-range yuv420p phone copy, -upload-10mb copy).
+
+## 16 Nov (23:05-23:30): Ep 3 stills for batch C + push-ins (0 credits), build_ep3.sh
+- 23:05 asked the owner (notify-phone) for batch C (03 Lakshmi, 05 Asuras; 20 credits). Flow balance 10, resets 17 Nov 3:10 PM, so 05 needs the reset either way. No answer yet; nothing spent.
+- Stills (Nano Banana 2.1 in the Flow agent, project "Nov 11 - 21:22", no credit prompt; `media/ep3/stills/`, 768x1376):
+  | still | verdict |
+  |---|---|
+  | s02a_kamadhenu_a | **PASS**: white cow, ordinary head with horns, crystal ornament on the forehead, milk foam |
+  | s02b_airavata_a | FAIL: only 3 tusks visible |
+  | s02b_airavata_b | **PASS**: front view, 4 tusks (2 per side), one trunk, two ears, white |
+  | s02c_parijata_a | **PASS**: one tree on a foam island, white flowers with orange-red centres, no people |
+  | s03_lakshmi_a | **PASS** (Lakshmi ref attached): same face/crown/red saree, stands upright on a pink lotus, 2 arms like the ref. colour_check WARM centre = the red saree, skin neutral |
+  | s03b_garland_a | **PASS** (Lakshmi + Vishnu refs): navy Vishnu, 4 arms, tallest crown, pink lotus garland at his neck, two faces only. Her second hand is near the garland, not both on it |
+  | s05_asuras_a | **PASS** (Asura general ref): 4 young men in maroon/bronze armour running to screen-left through the foam, the general in front holds the lidded golden kalasha over his head |
+- Flow UI: downloads in a row fail after the first (the "downloaded" toast swallows the next right-click); wait ~6-8 s after each download, Escape, then right-click the next tile. Coordinates: screenshot px = CSS px x 0.81 on this display.
+- `build_ep3.sh` written (copy of build_ep2.sh): slots = speech + 0.4, rose 1080x1920, `captions-ep3.ass` (L1-L8 captions; end card అమృతం / తర్వాతి భాగం: రాహువు / UmaAI Studio), uses clips 03/05 automatically if they exist, otherwise push-ins on s03_lakshmi_a / s05_asuras_a. End card plate = clip 09 at 2.4 s (the sly glance; the clip's last frame is the broad grin). Also writes the phone copy and the `-upload-10mb` copy.
+- 23:35 owner (via the main session, exact words): "spend only 10 credits after tomorrow's reset spend 50 if needed" = 10 tonight (clip 03), up to 50 after the 17 Nov reset (05 + re-rolls).
+- Clip 03 Lakshmi (s03_lakshmi_a, Veo 3.1 Lite, 1 video, Approve once): first try **Failed** "might violate our policies about generating prominent people" (the name "Lakshmi" in the motion prompt), refunded by Flow. Retry with no names ("the woman in the red saree"): **PARTIAL**: 0-2.3 s clean (lotus at her feet, face/crown steady, petals open); from ~2.5 s the lotus floats up in front of her body. build_ep3.sh uses 0-2.3 s. Spent 10.
+- Lesson: never name a deity in a Veo motion prompt; describe the person instead (stills with names were fine).
+- Build v1 (23:22-23:40, 18 min; push-ins for L3 + L5): 36.93 s, 1080x1920 tv-range yuv420p; phone copy 720p 5.9 MB; upload copy 8.0 MB. Frame sheet `review/final1-sheet.jpg`: captions on L1-L8, end card అమృతం / తర్వాతి భాగం: రాహువు / UmaAI Studio. Kept in `out/v1-pushins/`.
+- 23:42 rebuild v2 started with clip 03 (0-2.3 s). Clip 05 + final rebuild after the 17 Nov 3:10 PM reset (owner: up to 50 credits).
