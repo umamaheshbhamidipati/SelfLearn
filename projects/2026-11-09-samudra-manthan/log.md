@@ -303,3 +303,4 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - Balance before: 10 (resets 3:10 PM). Clip 04 from s04_dhanvantari_a, Veo 3.1 Lite, 1 video x1, 9:16, Approve clicked once. Agent asked "1 video, 10 credits" exactly.
 - 04 Dhanvantari: **PASS** 0-7.9 s (720x1280): two arms throughout, kalasha held in both hands, face/crown steady, slow push-in, a small golden flame on the pot that does not grow. The rise is gentle (stays waist-deep), not a big emergence. Spent 10 -> balance 0.
 - Next: 06 and 09 after the 3:10 PM reset (20 credits, still inside the approved 30).
+- 13:35 TTS retry OK: L5 2.68, L6 2.84, L7 3.04, L8 5.00, L9 2.60 s. All 9 lines: speech 31.7 s, slots (speech + 0.4) 35.3 s, ~37 s with the end card.
