@@ -38,3 +38,7 @@
 - **Music source + licence:**
 - **Made for kids?** no
 - **Posted:** date · URL
+
+## Facebook Page: POSTED (16 Nov 2026, ~08:08 IST, by Claude with the owner's OK on the exact caption)
+- Uma AI Studio Page reel: https://www.facebook.com/reel/1081439921580559/
+- File `media/ep1/out/ep1-youtube-10mb.mp4` (same as YouTube). Caption = the YouTube description with `#shorts` swapped for `#AIvideo`. AI label on, Public, no boost.

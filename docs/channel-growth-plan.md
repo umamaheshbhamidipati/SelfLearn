@@ -116,3 +116,7 @@ Don't: boost posts (paid), buy likes, or post the same reel to 20 groups in an h
   **Reels reach the Page only via the per-reel switch**: on the final share screen turn on "Share to Facebook" /
   "Recommend on Facebook" and check it names Uma AI Studio (owner thinks it shows there; confirm on the next reel).
 - 15 Nov: IG profile picture set; collab shortlist + DM drafts in `docs/collab-shortlist.md`; Facebook guide added.
+- 16 Nov: Ep 1 and Karthika posted directly to the Uma AI Studio Page (web composer facebook.com/reels/create, as the
+  Page): reel/1081439921580559 and reel/2579957275837696. Gotcha: after Post, Facebook may show a "Hosting an event?"
+  pop-up (it fired on the Karthika caption); click **Publish Original Post**, not Continue. Leaving the page instead
+  silently drops the post (not in Published or Drafts). Turn on "Add AI label" on the second screen (off by default).

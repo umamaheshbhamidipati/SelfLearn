@@ -70,3 +70,7 @@ Two accounts, both get the Reel: **@umamaheshbhamidipati** and **@umaaivideostud
 - Same title and description as v2 (exact text in `youtube-text.md`); not made for kids; AI use = Yes; no paid promotion.
 - Old v2 (https://youtube.com/shorts/1V_xL1Ip-kg, 0:19, 7 views, note: capital I, the link above in this file had a typo) **deleted permanently**. Its file stays on disk: `media/out/karthika-music.mp4`.
 - Instagram: use `karthika-v3-instagram-voice-only.mp4` (also copied to Drive `SelfLearn/Karthika-for-phone/`).
+
+## Facebook Page: POSTED (16 Nov 2026, ~08:20 IST, by Claude with the owner's OK on the exact caption)
+- Uma AI Studio Page reel: https://www.facebook.com/reel/2579957275837696/
+- File `media/out/karthika-v3-youtube-with-music.mp4` (YouTube Audio Library music, not the Instagram song). Caption = the YouTube description with `#shorts` swapped for `#AIvideo`. AI label on, Public, no boost.
