@@ -278,3 +278,10 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - Owner to check: shot 6 (blowing vs drinking), caption timing by ear, L5 pronunciation. 10 credits left: a re-roll of shot 6 needs the owner's OK.
 - Owner (15 Nov): shot 6 "Looks fine, keep it" (reads as drinking). No re-roll; 10 credits stay unspent.
 - 16 Nov 00:10: owner asked for the next-part teaser like Ep 1. Added L10 "తర్వాతి భాగంలో… అమృతం!" (TTS 2.44 s) + end-card line "తర్వాతి భాగం: అమృతం"; "ఓం నమః శివాయ" is now a caption. Rebuilt: 38.5 s, -16.3 LUFS, end card checked on 3 frames. Phone copy (720p, yuv420p, 7 MB) sent: the 1080p full-range file did not open on the phone; send phone copies from now on.
+
+## 16 Nov 2026 (morning): Ep 3 "అమృతం" planned (0 credits)
+- Wrote `script-ep3.md`, `narration-ep3.txt` (10 lines, ~36-40 s, Achird) and `shots-ep3.md` (12 shots: 8 clips + 4 still push-ins; Dhanvantari and Mohini blocks; one set = milk-ocean shore at golden dawn; the kalasha travels shot to shot).
+- Ends on an Ep 4 teaser "తర్వాతి భాగంలో… రాహువు!" (Rahu disguised in the Devas' row, Bhagavata 8.9.24). Owner to decide: Ep 4 = Rahu or end the series at Ep 3.
+- Credit plan: 80 first try, ~120 with retries; batches A (04, 06, 09), B (01, 07, 08), C (03, 05).
+- Flow balance 08:40: **10 credits**, "Resets Nov 16 at 3:10 PM". Nothing generated.
+- Next: owner approves script + batch A; then TTS timing, stills R6/R7 + s01-s09 (0 credits), contact sheet, then clips after the reset.
