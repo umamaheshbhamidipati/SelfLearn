@@ -65,6 +65,8 @@ Made with AI (Google Flow / Veo, Nano Banana); AI narration (Gemini TTS). No mus
     1715924686616976 (Tue 17), tenali 2045150096125217 (Wed 18), chandra 1496232362379473 (Mon 23). The "Hosting an
     event?" pop-up fired on chandra; "Publish Original Post" kept it scheduled.
   - **Instagram: NOT scheduled.** Business Suite's reel composer (IG only) has no collaborator field and no AI-label
-    switch, so per the rule it was not used (draft discarded). Waiting for the owner: post each by hand from
-    instagram.com at 19:00 on its day (Create -> Post, crop Original, caption, Add collaborators
-    @umamaheshbhamidipati, AI label on, "Share to" personal FB off)?
+    switch, so per the rule it was not used (draft discarded). Owner (16 Nov): post each by hand from instagram.com at
+    19:00 on its day (Create -> Post, crop Original, caption, Add collaborators @umamaheshbhamidipati, AI label on,
+    "Share to" personal FB off). Scheduled task `umaai-ig-post-lion` (one-time, 17 Nov 18:57 IST, Claude in Chrome)
+    does lion and logs it. Tenali (18 Nov) and chandra (23 Nov) tasks were refused by the auto-mode classifier: owner
+    to create them in the app (copy the lion task, change slug/date) or post those two by hand.
