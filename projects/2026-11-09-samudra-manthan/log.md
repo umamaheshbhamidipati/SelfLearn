@@ -298,3 +298,8 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - Shore reads as real sea foam rather than a milk ocean in the Mohini/Rahu stills; acceptable after the rose grade, flag if the owner minds.
 - Flow UI: tile ⋮ position drifts with hover; batching 5 downloads failed (opened an old image's editor, no change). Hover, zoom on the tile corner to find ⋮, click, then Download → 1K, one tile at a time. An edited image appears as a NEW tile at the top (not in place of its parent).
 - TTS (Achird, `media/ep3/audio-draft/`): L1 2.84, L2 4.92, L3 4.20, L4 3.56 s. L5-L9 hit the free daily quota (HTTP 429, 15 retries) - redo after the quota resets (Pacific midnight = 1:30 PM IST). Estimate with L5-L9 ~3 s each: ~36 s total.
+
+## 16 Nov (09:45): Ep 3 batch A, clip 04 (owner here: "Yes, run batch A"; 30 credits approved for 04, 06, 09)
+- Balance before: 10 (resets 3:10 PM). Clip 04 from s04_dhanvantari_a, Veo 3.1 Lite, 1 video x1, 9:16, Approve clicked once. Agent asked "1 video, 10 credits" exactly.
+- 04 Dhanvantari: **PASS** 0-7.9 s (720x1280): two arms throughout, kalasha held in both hands, face/crown steady, slow push-in, a small golden flame on the pot that does not grow. The rise is gentle (stays waist-deep), not a big emergence. Spent 10 -> balance 0.
+- Next: 06 and 09 after the 3:10 PM reset (20 credits, still inside the approved 30).
