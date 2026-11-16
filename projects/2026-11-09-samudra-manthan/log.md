@@ -297,3 +297,4 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
   | s09_rahu_c | **PICK**: edit of a (Add to prompt): same sly sideways glance; background = two young crowned Devas |
 - Shore reads as real sea foam rather than a milk ocean in the Mohini/Rahu stills; acceptable after the rose grade, flag if the owner minds.
 - Flow UI: tile ⋮ position drifts with hover; batching 5 downloads failed (opened an old image's editor, no change). Hover, zoom on the tile corner to find ⋮, click, then Download → 1K, one tile at a time. An edited image appears as a NEW tile at the top (not in place of its parent).
+- TTS (Achird, `media/ep3/audio-draft/`): L1 2.84, L2 4.92, L3 4.20, L4 3.56 s. L5-L9 hit the free daily quota (HTTP 429, 15 retries) - redo after the quota resets (Pacific midnight = 1:30 PM IST). Estimate with L5-L9 ~3 s each: ~36 s total.
