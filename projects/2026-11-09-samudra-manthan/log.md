@@ -313,3 +313,10 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - Batch A spent: 30 (04, 06, 09). Balance after: 30. Approve clicked once per clip; the agent asked "1 video, 10 credits" each time.
 - Flow UI: right-click on a tile opens the same menu reliably (the hover ⋮ sometimes opens the editor). Tile names via JS: `[...document.querySelectorAll('main [role=group]')].map(g=>g.getAttribute('aria-label'))`.
 - Next (needs owner OK): batch B (01 kalasha hook, 07 sharing; 20) and C (03 Lakshmi, 05 Asuras running; 20) = 40; stills first (0 credits).
+
+## 16 Nov (16:00-16:30): Ep 3 batch B (owner here: "Yes, B now"; 20 credits)
+- Stills (0 credits): s01_hook_1/2 both PASS (two hands, ten fingers, yellow cuffs, pot out of milk foam); used s01_hook_1 (Flow "Hands lifting golden amrita kalasha"). s07_share_2 PASS (Mohini ref attached: same face/crown/saree; exactly 3 young crowned Devas; stream into the nearest Deva's cup) - used; s07_share_1 weaker (Deva faces overlap).
+- 07 Mohini shares (s07_share_2): **PASS 0-3 s**: golden stream into the cup, nothing spills, faces and crowns steady; after ~3 s she rights the pot. L7 slot is 3.44 s, so 0-3.4 s fits.
+- 01 hook (s01_hook_1): **PASS**: pot dips into the foam with a splash at ~1 s, then rises with milky water streaming; two hands throughout, the flame stays small. Best 1-4 s.
+- Spent 20 (Approve once per clip, agent asked "1 video, 10 credits" each time). Balance after: 10 (resets 17 Nov 3:10 PM).
+- Ep 3 clips so far: 01, 04, 06, 07 PASS; 09 partial (0-2.5 s). Left: batch C (03 Lakshmi, 05 Asuras running; 20 credits, needs owner OK + stills), still push-ins 02a-c, 03b (0 credits), then build_ep3.sh (copy build_ep2.sh: Achird lines in media/ep3/audio-draft, captions Noto Serif Telugu Spacing 0, rose 1080x1920, tv-range yuv420p phone copy, -upload-10mb copy).
