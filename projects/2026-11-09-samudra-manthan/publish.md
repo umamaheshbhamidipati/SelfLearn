@@ -42,3 +42,10 @@
 ## Facebook Page: POSTED (16 Nov 2026, ~08:08 IST, by Claude with the owner's OK on the exact caption)
 - Uma AI Studio Page reel: https://www.facebook.com/reel/1081439921580559/
 - File `media/ep1/out/ep1-youtube-10mb.mp4` (same as YouTube). Caption = the YouTube description with `#shorts` swapped for `#AIvideo`. AI label on, Public, no boost.
+
+## Ep 2 POSTED on all three (16 Nov 2026, ~08:30-08:45 IST, by Claude with the owner's OK on the exact text in `ep2-post-text.md`)
+- Upload file: `media/ep2/out/ep2-upload-10mb.mp4` (1080x1920, 38.5 s, tv-range yuv420p, 8.3 MB; made from `ep2-neelakantha.mp4` because the browser upload limit is 10 MB and the full-range file doesn't play on phones).
+- Instagram (owner @umaaivideostudio, collaborator invite sent to @umamaheshbhamidipati: **owner to accept on the personal account**): https://www.instagram.com/reel/DfyVDcPiqE8/ . Crop: Original. AI label on. "Share to" personal FB profile left off.
+- YouTube Short (public): https://youtube.com/shorts/u7Q2CiKrE6w . Playlist "భక్తి కథలు | Devotional Stories", AI = Yes, not made for kids, no paid promotion. Checks: no issues.
+- Facebook Page: https://www.facebook.com/reel/4592381670995089/ . AI label on, no boost.
+- Web gotchas: Instagram's hashtag autocomplete list covers the "Add collaborators" field; a click there picks a suggestion (it turned #AIvideo into #aivideó). Click inside the caption first to close the list, then check the caption text.
