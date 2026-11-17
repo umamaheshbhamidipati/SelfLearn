@@ -33,5 +33,5 @@ Effects on the v2 phone copy: shimmer pro_shimmer/m1 peaking at 3.39 s (Kamadhen
 peaking at 32.43 s + pro_impact/swell into the end card. Two levels sent to the owner:
 `media/ep3/sfx-test/ep3-sfx-soft-phone.mp4` (-15.9 LUFS, effects barely audible) and `...-medium-phone.mp4`
 (-16.0 LUFS, peak -4.0 dBFS). Original phone copy: -15.9 LUFS.
-**Verdict: pending the owner's ear.** If kept: add an `sfx` step to build_ep3.sh after the final rebuild with
+**Verdict (17 Nov): owner chose the soft level for Ep 3. Default for future episodes: soft effects on silent still shots and into the end card.**
 clip 05 (timings move if shot lengths change).

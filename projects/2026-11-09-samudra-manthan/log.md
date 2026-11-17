@@ -358,3 +358,14 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - Clip 05 from s05_asuras_a (Veo 3.1 Lite, 1 video, Approve once, 10 credits; prompt with no names, lid on, no flame): **PASS**: exactly 4 men in maroon/bronze armour run to screen-left with clear steps and splashes, the leader holds the lidded pot over his head (one hand), no flame, Kurma + Mandara in the background. Used 0-3.08 s. Owner's 50 after the reset: 20 spent (01 v2 + 05), 30 left.
 - Flow download gotcha: a failed menu click leaves the previous file newest in ~/Downloads; check the file name before copying it into clips/.
 - Final build v3 (15:36-15:51, 15 min; clips 01 v2, 03, 05): 36.93 s, -15.9 LUFS, 1080x1920 tv-range yuv420p. Frame sheet `review/final3-sheet.jpg`: lidded hook, captions L1-L8, Asuras clip on L5, end card OK. `out/ep3-amrutham.mp4` (12.8 MB), `-phone.mp4` (5.7 MB, sent to the owner), `-upload-10mb.mp4` (8.0 MB). Older builds in `out/v1-pushins/`, `out/v2-clip03/`. Not posted; post text needs the owner's OK. Main session adds an SFX pass next (`media/ep3/sfx-test/`).
+
+## 17 Nov 16:10: Ep 3 sound effects (Earshot), owner chose "soft"
+- Owner compared plain / medium / soft on the phone: **"Soft is good"**.
+- Applied to all three `media/ep3/out/` files (audio only, video stream copied): `ep3-amrutham.mp4`,
+  `-phone.mp4`, `-upload-10mb.mp4`; all 36.94 s, -15.9 LUFS, peaks -4.1 to -4.4 dBFS, upload copy 8.2 MB.
+  Pre-effects versions kept as `*-nosfx.mp4`.
+- Effects (`media/ep3/sfx-test/k1-k6.wav`, rendered by Earshot, see `docs/earshot-audit.md`), start ms / volume:
+  pro_shimmer/m1 3030/0.09 (Kamadhenu), reverse_swell/breath 4430/0.08 (Airavata), fit/bell/small_bell 6930/0.07
+  (Parijata), shimmer/m1 10300/0.07 (garland), riser/swell 30240/0.08 + pro_impact/swell 31970/0.1 (into the end card).
+- If Ep 3 is ever rebuilt, re-run the effects pass on the new files (timings hold while shot lengths don't change).
+- Nothing posted.
