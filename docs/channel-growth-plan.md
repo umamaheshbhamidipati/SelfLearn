@@ -120,3 +120,23 @@ Don't: boost posts (paid), buy likes, or post the same reel to 20 groups in an h
   Page): reel/1081439921580559 and reel/2579957275837696. Gotcha: after Post, Facebook may show a "Hosting an event?"
   pop-up (it fired on the Karthika caption); click **Publish Original Post**, not Continue. Leaving the page instead
   silently drops the post (not in Published or Drafts). Turn on "Add AI label" on the second screen (off by default).
+
+## 1 episode -> 5 posts (decided 17 Nov 2026)
+Adapted from a "1 video -> 30 posts" multi-agent framework the owner shared. Kept: the Designer (carousels, covers),
+the Writer (one caption per platform) and the Analyst (weekly verdict). Dropped: the Clipper (our videos are already
+Shorts), the TikTok/X/LinkedIn/Reddit/Threads/Pinterest channels (TikTok is banned in India; little Telugu devotional
+audience on the rest) and auto-publishing (no bots on the Google account, Meta's scheduler lacks collab + AI label,
+1 reel/day rule).
+
+| # | post | where | cost | notes |
+|---|---|---|---|---|
+| 1 | Reel / Short | IG (owner @umaaivideostudio + collab) + FB Page + YouTube | done today | as now |
+| 2 | Story carousel, 6-8 slides | IG + FB Page | 0 credits | the episode's Nano Banana stills, rose grade, one Telugu line per slide (Noto Serif Telugu), last slide = "full reel on the profile"; aim: saves |
+| 3 | Story with a poll | IG story | 0 credits | e.g. "Ep 4: Rahu next?"; links to the reel |
+| 4 | WhatsApp message | family / temple groups, later a WhatsApp Channel | 0 credits | 2 Telugu lines + IG/FB link, posting day only |
+| 5 | Compilation, 16:9 | YouTube long video | 0 credits, one encode | when a series ends (Samudra Manthan Ep 1-4); helps search |
+
+Also: set a YouTube Shorts cover (thumbnail frame) on every Short; none are set yet.
+Weekly Analyst step: add to the Sunday growth check a 3-line verdict ("more of / less of / try next") from
+`metrics.py report`, with the sample size stated. No percentage claims from a few hundred views.
+First test: the Ep 2 carousel from its existing stills (owner approves the slide text before posting).
