@@ -381,3 +381,6 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
   "పురాణం ప్రకారం…" (belief framing; preflight rule "belief-based moments narrated as belief").
 - Next after the OK: TTS (Achird; free-tier daily quota resets 1:30 PM IST), stills (0 credits) + contact sheet,
   clips (Approve once per clip), `build_ep4.sh` outside 09:00-15:35, Earshot soft pass, phone + upload-10mb copies.
+- 18 Nov (00:05) owner (via the main session): last line "పురాణం ప్రకారం… అదే గ్రహణం."; budget **Lean, 20 credits,
+  max 40 with re-rolls**, Approve once per clip; narration: "I'll send changes" -> no TTS and no clips until the edits
+  arrive. 0-credit stills that don't depend on the wording may be made now.

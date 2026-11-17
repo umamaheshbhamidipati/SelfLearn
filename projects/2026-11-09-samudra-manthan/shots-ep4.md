@@ -1,4 +1,4 @@
-# Shots, Samudra Manthan Ep 4: రాహువు (series finale; planned 17 Nov 2026, NOT approved yet)
+# Shots, Samudra Manthan Ep 4: రాహువు (series finale; planned 17 Nov 2026, owner approved the LEAN plan 18 Nov: 20 credits, max 40; narration edits pending)
 
 From `script-ep4.md` (owner "Yes" to the draft). Narration `narration-ep4.txt` (10 lines, Achird; TTS not made yet).
 ~36-38 s. Rules: `docs/preflight-checklist.md`; no gore (the chakra = a ring of light, cut to white, no body ever);
