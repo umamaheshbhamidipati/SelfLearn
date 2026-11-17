@@ -349,3 +349,6 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - Flame check of the used clips (`review/flame-check.jpg`, `zoom-flame.jpg`): 06 Mohini PASS (lid on, no flame). 07 PASS (lid off only to pour, no flame). **04 Dhanvantari: no lid, a golden mist plume rises from the open mouth; may read as a flame.** Asked the owner whether to re-roll 04.
 - Rule added to `docs/preflight-checklist.md` and to the Must-be-true lists of shots 01, 04-07 in `shots-ep3.md`.
 - Next after 3:10 PM: animate s01_hook_lid_a (old clip -> clips/01_v1.mp4) and s05_asuras_a; motion prompts with no names; ≤50 credits total; rebuild.
+- 08:10 owner (via the main session): "you can use 10 credits for now". Flow balance read first: **200 credits, "Resets Dec 15 at 3:47 PM"** (pool refilled; not the 10 / 17 Nov 3:10 PM shown last night).
+- Clip 01 v2 from s01_hook_lid_a (Veo 3.1 Lite, 1 video, Approve once, 10 credits; motion prompt says lid stays on, no flame/wick/lamp): **PASS**: lid on for the whole clip, soft glow at the rim only, two hands/ten fingers, gold cuffs; splash at ~3 s like v1. Old clip kept as `clips/01_v1.mp4`. Balance ~190.
+- Asked the owner whether clip 05 can run now (balance already refilled) or after 3:10 PM.
