@@ -353,3 +353,7 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - Clip 01 v2 from s01_hook_lid_a (Veo 3.1 Lite, 1 video, Approve once, 10 credits; motion prompt says lid stays on, no flame/wick/lamp): **PASS**: lid on for the whole clip, soft glow at the rim only, two hands/ten fingers, gold cuffs; splash at ~3 s like v1. Old clip kept as `clips/01_v1.mp4`. Balance ~190.
 - Asked the owner whether clip 05 can run now (balance already refilled) or after 3:10 PM.
 - Owner (via the main session): "Keep 04 as is" (no re-roll). Clip 05 after the 3:10 PM reset, then one rebuild (after 15:35).
+
+## 17 Nov (15:12-15:20): clip 05 (owner: "Wait until 3:10 PM", from the remaining 40)
+- Clip 05 from s05_asuras_a (Veo 3.1 Lite, 1 video, Approve once, 10 credits; prompt with no names, lid on, no flame): **PASS**: exactly 4 men in maroon/bronze armour run to screen-left with clear steps and splashes, the leader holds the lidded pot over his head (one hand), no flame, Kurma + Mandara in the background. Used 0-3.08 s. Owner's 50 after the reset: 20 spent (01 v2 + 05), 30 left.
+- Flow download gotcha: a failed menu click leaves the previous file newest in ~/Downloads; check the file name before copying it into clips/.
