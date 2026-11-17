@@ -384,3 +384,23 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - 18 Nov (00:05) owner (via the main session): last line "పురాణం ప్రకారం… అదే గ్రహణం."; budget **Lean, 20 credits,
   max 40 with re-rolls**, Approve once per clip; narration: "I'll send changes" -> no TTS and no clips until the edits
   arrive. 0-credit stills that don't depend on the wording may be made now.
+
+## 18 Nov (23:45-00:07): Ep 4 stills, 0 credits (Nano Banana 2.1 in the Flow agent, project "Nov 11 - 21:22")
+- New agent session; refs s06_mohini_b, s09_rahu_c, vishnu_B uploaded with the input + DataTransfer drop on the
+  first tile's IMG (a drop on `main` did nothing). No credit prompt for any image. `media/ep4/stills/`, 768x1376.
+  | still | verdict |
+  |---|---|
+  | s02b_row_a | **PASS**: Mohini (blue saree, crown) pours, lid off, no flame; 3 young men, the moustached one in the middle gets the stream |
+  | s03_drop_a | **PASS** (note): same face; cup at his lips, a gold drop at the lip, faint glow at the throat; only one hand visible |
+  | s04a_surya_a | **PASS**: halo, gold armour, turns left; colour WARM = gold armour, skin natural |
+  | s04b_chandra_a | **PASS**: crescent crown, silver; looks left (surprise mild) |
+  | s05a_point_a | **PASS**: points FAR LEFT, mouth open; young Devas below |
+  | s05b_caught_a | **PASS**: startled, cup at lips, two Devas turn to him |
+  | s06_vishnu_a | **PASS**: four arms attached, navy, tallest crown; disc of light on the upper-right finger (small), conch, mace, lotus; ankle-deep in the surf |
+  | s07_ring_a | **PASS**: ring of light across the shore, no people (foreground foam a little beige) |
+  | s08_head_a | **PASS**: smoky face with crown, ember eyes; mysterious, no gore |
+  | s09_sun_a | **PASS**: sun centred, Rahu's face faint at the left |
+  | s10_diamond_a | **PASS**: centred total eclipse, diamond ring upper right, lower third plain |
+- Contact sheet `media/ep4/review/ep4-stills-sheet.jpg`. Flow download: a download toast swallows the next
+  right-click; one tile per batch with 1 s waits after each click worked.
+- Next: owner's narration edits → TTS (Achird) → clips 03 + 06 (Lean, 20 credits, max 40) → build after 15:35.
