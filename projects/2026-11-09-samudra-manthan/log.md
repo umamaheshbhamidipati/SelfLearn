@@ -342,3 +342,10 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - 23:42 rebuild v2 started with clip 03 (0-2.3 s). Clip 05 + final rebuild after the 17 Nov 3:10 PM reset (owner: up to 50 credits).
 - Build v2 (23:42-23:54) with clip 03: 36.93 s; L3 frames checked (`review/final2-L3.jpg`): lotus at her feet, caption on. `out/ep3-amrutham.mp4` (13 MB), `-phone.mp4` (5.9 MB), `-upload-10mb.mp4` (8.0 MB). Phone copy sent to the owner (app + notify-phone). Not posted.
 - **Next (17 Nov after 3:10 PM):** read the Flow balance; clip 05 from `stills/s05_asuras_a.jpg` (Asura general ref; motion prompt from shots-ep3.md with NO names: "the men"), Approve once, check 0-3.1 s; re-roll only inside the owner's 50; then `bash build_ep3.sh` (picks up clips/05.mp4 automatically, ~18 min), frame sheet, phone copy, notify. Caption/post text still needs the owner's approval.
+
+## 17 Nov (08:05): owner correction, hook kalasha (flame, no lid)
+- Owner (via the main session): shot 01 shows a lamp flame in the pot's mouth and no lid; chose "New clip, 10 credits" (from the 50 allowed after the 17 Nov reset, shared with clip 05).
+- New still `stills/s01_hook_lid_a.jpg` (Nano Banana, old hook still attached as reference; prompt adds "no flame, no fire, no wick, no lamp, not a diya"): **PASS**: domed lid on, soft glow around the lid rim + thin golden mist, two hands/ten fingers, yellow sleeves + gold cuffs, milk-white foam. 0 credits.
+- Flame check of the used clips (`review/flame-check.jpg`, `zoom-flame.jpg`): 06 Mohini PASS (lid on, no flame). 07 PASS (lid off only to pour, no flame). **04 Dhanvantari: no lid, a golden mist plume rises from the open mouth; may read as a flame.** Asked the owner whether to re-roll 04.
+- Rule added to `docs/preflight-checklist.md` and to the Must-be-true lists of shots 01, 04-07 in `shots-ep3.md`.
+- Next after 3:10 PM: animate s01_hook_lid_a (old clip -> clips/01_v1.mp4) and s05_asuras_a; motion prompts with no names; ≤50 credits total; rebuild.
