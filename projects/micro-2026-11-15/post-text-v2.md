@@ -70,3 +70,6 @@ Made with AI (Google Flow / Veo, Nano Banana); AI narration (Gemini TTS). No mus
     "Share to" personal FB off). Scheduled task `umaai-ig-post-lion` (one-time, 17 Nov 18:57 IST, Claude in Chrome)
     does lion and logs it. Tenali (18 Nov) and chandra (23 Nov) tasks were refused by the auto-mode classifier: owner
     to create them in the app (copy the lion task, change slug/date) or post those two by hand.
+- 17 Nov 19:12: lion Instagram posted **by hand** (https://www.instagram.com/reel/Df2iCCUCsX1/, collab invite to
+  @umamaheshbhamidipati, AI label on). The 18:57 scheduled task ran but failed at once: "You're out of usage credits"
+  (Claude plan usage, not Flow). Scheduled Claude tasks can fail this way; check after each one.
