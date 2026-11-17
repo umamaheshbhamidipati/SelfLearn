@@ -369,3 +369,15 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
   (Parijata), shimmer/m1 10300/0.07 (garland), riser/swell 30240/0.08 + pro_impact/swell 31970/0.1 (into the end card).
 - If Ep 3 is ever rebuilt, re-run the effects pass on the new files (timings hold while shot lengths don't change).
 - Nothing posted.
+
+## 17 Nov (23:40): Ep 4 "రాహువు" planned (0 credits, nothing generated)
+- Wrote `narration-ep4.txt` (10 lines, word for word from the owner-accepted `script-ep4.md`) and `shots-ep4.md`
+  (13 shots, prompts, Must-be-true lists). Media folders `media/ep4/`.
+- Cheaper than the draft's 150-180: **lean plan = 2 new clips (03 the drop, 06 the chakra) = 20 credits, at most
+  40 with one re-roll each**; reuse Ep 3 clips 09 (hook) and 07 (pouring), Mohini clip 06 tail for the dissolve;
+  everything else still push-ins; eclipse = ffmpeg black disc sliding over the sun still; chakra = cut to white.
+  Plus plan adds clips 05 (Surya points) and 08 (the head drifts) = 40, at most 60.
+- Asked the owner (main session + notify-phone): narration OK? lean or plus? and whether L10 should say
+  "పురాణం ప్రకారం…" (belief framing; preflight rule "belief-based moments narrated as belief").
+- Next after the OK: TTS (Achird; free-tier daily quota resets 1:30 PM IST), stills (0 credits) + contact sheet,
+  clips (Approve once per clip), `build_ep4.sh` outside 09:00-15:35, Earshot soft pass, phone + upload-10mb copies.
