@@ -34,4 +34,4 @@ peaking at 32.43 s + pro_impact/swell into the end card. Two levels sent to the 
 `media/ep3/sfx-test/ep3-sfx-soft-phone.mp4` (-15.9 LUFS, effects barely audible) and `...-medium-phone.mp4`
 (-16.0 LUFS, peak -4.0 dBFS). Original phone copy: -15.9 LUFS.
 **Verdict (17 Nov): owner chose the soft level for Ep 3. Default for future episodes: soft effects on silent still shots and into the end card.**
-clip 05 (timings move if shot lengths change).
+Applied as an audio-only pass after the build (video stream copied); re-run it if shot lengths change. Exact cues: Ep 3 `log.md`, 17 Nov 16:10.
