@@ -10,15 +10,15 @@ R=projects/2026-11-09-samudra-manthan; P=$R/media/ep4; P3=$R/media/ep3; A=$P/aud
 T=$(mktemp -d); mkdir -p "$O" "$P/sfx"; GAP=0.35; LEAD=0.15; WHITE=0.5; CARD=2.6
 V="scale=720:1280:force_original_aspect_ratio=increase,crop=720:1280,fps=24,format=yuv420p,setsar=1"
 ENC="-c:v libx264 -preset veryfast -crf 20 -c:a pcm_s16le -ar 48000 -ac 2"
-n=0; nxt(){ n=$((n+1)); printf '%s/a%02d.mkv' "$T" $n; }
+echo 0 > "$T/n"; nxt(){ local n=$(( $(cat "$T/n") + 1 )); echo $n > "$T/n"; printf '%s/a%02d.mkv' "$T" $n; }   # counter in a file: $(nxt) runs in a subshell
 clip(){ # file start dur   (keeps the clip's own sound)
   ffmpeg -v error -y -ss "$2" -t "$3" -i "$1" -map 0:v -map 0:a -vf "$V" -af apad -t "$3" $ENC "$(nxt)"; }
 push(){ # still dur [zoom-per-frame] [extra vf]
   local z=${3:-0.0008} x=${4:-}
   ffmpeg -v error -y -loop 1 -t "$2" -i "$S/$1.jpg" -f lavfi -t "$2" -i anullsrc=r=48000:cl=stereo \
-    -vf "scale=1440:-2,zoompan=z='1+$z*on':x='iw/2-iw/zoom/2':y='ih/2-ih/zoom/2':d=1:s=720x1290:fps=24,crop=720:1280,format=yuv420p,setsar=1$x" \
+    -vf "scale=1440:-2,zoompan=z='1+$z*on':x='iw/2-iw/zoom/2':y='ih/2-ih/zoom/2':d=1:s=720x1290:fps=24,crop=720:1280,format=yuv420p,setsar=1$x,format=yuv420p" \
     -map 0:v -map 1:a -af apad -t "$2" $ENC "$(nxt)"; }
-add(){ echo "$1 + $2" | bc -l; }; sub(){ echo "$1 - $2" | bc -l; }
+add(){ printf '%.4f' "$(echo "$1 + $2" | bc -l)"; }; sub(){ printf '%.4f' "$(echo "$1 - $2" | bc -l)"; }   # printf: bc drops the leading 0
 # line durations and start times
 for i in $(seq 1 10); do d[$i]=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$A/$(printf 'L%02d' $i).wav"); done
 t=$LEAD; for i in $(seq 1 10); do st[$i]=$t; s[$i]=$(add "${d[$i]}" $GAP); t=$(add "$t" "${s[$i]}"); [ $i = 7 ] && t=$(add "$t" $WHITE); done
@@ -27,12 +27,12 @@ D=$(printf '%.2f' "$(add "$(sub "$t" $GAP)" $CARD)"); echo "total $D s"
 L1=$(add $LEAD "${s[1]}");  clip "$P3/clips/09.mp4" 0 2.5;  push s09_rahu_c "$(sub "$L1" 2.5)"            # L1 hook: the sly glance
 clip "$P3/clips/07.mp4" 0 3.0;  push s02b_row_b "$(sub "${s[2]}" 3.0)"                                     # L2 Mohini pours; he sits between Surya and Chandra
 push s03_drop_a "$(sub "${s[3]}" 3.1)";  clip "$P/clips/03.mp4" 2.7 3.1                                  # L3 one drop; he swallows
-h=$(echo "${s[4]}/2" | bc -l); push s04a_surya_a "$h" 0.0015; push s04b_chandra_a "$(sub "${s[4]}" "$h")" 0.0015   # L4 Surya + Chandra recognise him
+h=$(printf '%.4f' "$(echo "${s[4]}/2" | bc -l)"); push s04a_surya_a "$h" 0.0015; push s04b_chandra_a "$(sub "${s[4]}" "$h")" 0.0015   # L4 Surya + Chandra recognise him
 push s05a_point_a 0.7 0.0015; push s05b_caught_a "$(sub "${s[5]}" 0.7)" 0.0015                           # L5 "He's an Asura!"
 # L6 Mohini dissolves into Vishnu (ep3 clip 06 tail, 0.5 s dissolve), then the disc spins and flies left (clean 0.4-3.2 s)
 l6=$(sub "${s[6]}" 0.5)
 ffmpeg -v error -y -ss 2.0 -t 1.0 -i "$P3/clips/06.mp4" -ss 0.4 -t "$l6" -i "$P/clips/06.mp4" -filter_complex \
-  "[0:v]$V[a];[1:v]$V[b];[a][b]xfade=transition=fade:duration=0.5:offset=0.5[v];[0:a]atrim=0:0.75,afade=t=out:st=0.25:d=0.5,apad=pad_dur=0[x];[1:a]adelay=500|500[y];[x][y]amix=inputs=2:normalize=0,apad[aud]" \
+  "[0:v]$V[a];[1:v]$V[b];[a][b]xfade=transition=fade:duration=0.5:offset=0.5,format=yuv420p[v];[0:a]atrim=0:0.75,afade=t=out:st=0.25:d=0.5,apad=pad_dur=0[x];[1:a]adelay=500|500[y];[x][y]amix=inputs=2:normalize=0,apad[aud]" \
   -map "[v]" -map "[aud]" -t "${s[6]}" $ENC "$(nxt)"
 L7=$(add "${s[7]}" $WHITE); push s07_ring_a "$L7" 0.0012 ",fade=t=out:st=$(sub "${s[7]}" 0.6):d=0.6:color=white"   # L7 ring of light, cut to white
 push s08_head_a "${s[8]}" 0.0006                                                                          # L8 the immortal head
@@ -43,6 +43,7 @@ ffmpeg -v error -y -loop 1 -t "$l9" -i "$S/s09_sun_a.jpg" -loop 1 -t "$l9" -i "$
   -filter_complex "[0:v]$V[bg];[bg][1:v]overlay=x='-170+(360+85)*min(t/($l9-0.3),1)':y=630-85:shortest=1,format=yuv420p[v]" \
   -map "[v]" -map 2:a -t "$l9" $ENC "$(nxt)"
 push s10_diamond_a "$(add "${s[10]}" $CARD)" 0.0005 ",fade=t=in:d=0.3"                                    # L10 + end card
+if [ -n "${SEGCHECK:-}" ]; then for g in "$T"/a*.mkv; do echo "$(basename $g) $(ffprobe -v error -show_entries stream=codec_type,duration,r_frame_rate,pix_fmt,width,height -of csv=p=0 $g | tr '\n' ' ')"; done; rm -rf "$T"; exit 0; fi
 # ---- sound effects (Earshot, soft; peak lands on the cut) ----
 E=~/.local/opt/earshot-venv/bin/earshot; fx=(); fi_=0
 cue(){ # id peak-time(s) cue-time(s) volume

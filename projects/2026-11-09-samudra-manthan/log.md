@@ -422,3 +422,11 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - `build_ep4.sh` written: soft Earshot effects mixed in the build (cues in the script), eclipse = ffmpeg disc over
   s09_sun_a, cut to white after L7, end card సముద్ర మథనం / సమాప్తం · ఓం నమో నారాయణాయ / UmaAI Studio (Brand style
   now Noto Serif Telugu, Spacing 0; end-card test render OK). Build started 00:30 (outside 09:00-15:35).
+- Build bugs fixed (00:26-00:35): `s09_rahu_c` copied into ep4/stills; bc's ".69" -> printf; segment counter
+  ran in a subshell (every segment overwrote a01; first build had 5.5 s of video); fade/xfade gave yuv444 -> format=yuv420p.
+  `SEGCHECK=1 bash build_ep4.sh` lists the segments and stops.
+- **Final build (00:35-00:49, 14 min):** 42.42 s, -16.5 LUFS, peak -0.8 dBFS, soft Earshot cues in the mix.
+  `out/ep4-rahu.mp4` (16.3 MB), `-phone.mp4` (7.1 MB, 720p tv-range), `-upload-10mb.mp4` (9.2 MB).
+  Frame sheet `review/final1-sheet.jpg`: captions on L1-L10, Surya+Chandra row on L2, drop clip, Mohini->Vishnu
+  dissolve, ring -> white, head, disc lands on the sun, diamond ring, end card సముద్ర మథనం / సమాప్తం · ఓం నమో నారాయణాయ / UmaAI Studio.
+- Phone copy sent to the owner. **Not posted**; post text needs the owner's OK. Credits: 30 spent, balance ~200.
