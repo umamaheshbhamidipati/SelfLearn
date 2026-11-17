@@ -404,3 +404,21 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - Contact sheet `media/ep4/review/ep4-stills-sheet.jpg`. Flow download: a download toast swallows the next
   right-click; one tile per batch with 1 s waits after each click worked.
 - Next: owner's narration edits → TTS (Achird) → clips 03 + 06 (Lean, 20 credits, max 40) → build after 15:35.
+
+## 18 Nov (00:10-00:30): Ep 4 narration final, TTS, Lean clips (owner via the main session)
+- Owner's final narration (L2, L4, L7, L8, L10 changed; "Yes better, it will do"): `narration-ep4.txt`; script/shots updated.
+- TTS Achird, 10 lines, no style prompt; two per-minute 429s, retried OK (not the daily quota). Raw in
+  `media/ep4/audio-draft/`; lead/tail silence trimmed to 0.05/0.12 s in `media/ep4/audio/` (speech 36.1 s; ~42.6 s total).
+- Flow balance before: **230 credits**, "Resets Dec 15 at 3:47 PM". Veo 3.1 Lite, agent asked "1 video, 10 credits"
+  each time, Approve clicked once per clip. **Spent 30 of the approved max 40** (03, 06, 03 re-roll). Balance ~200.
+  | clip | verdict (subagent, 3 fps) |
+  |---|---|
+  | 03_v1 (s03_drop_a) | FAIL: bright gold streak chin-to-chest (reads as a beam), drips continue, nose mark + cup flies off after 6 s |
+  | 03 re-roll ("NO glow", cup stays) | PARTIAL: drips 0.3-2.5 s; clean 2.7-5.8 s (eyes close, swallows, faint sheen only). L3 = push-in s03_drop_a 1.8 s + clip 2.7-5.8 |
+  | 06 (s06_vishnu_a) | PARTIAL: four arms throughout; disc spins up 0.4-2.5 s, leaves LEFT 2.7-3.3 s; hands swapped at frame 0 and a 2nd conch from 3.3 s. Used 0.4-3.2 |
+- New still s02b_row_b (0 credits; edit of row_a): the disguised man between Surya (gold armour, halo) and Chandra
+  (crescent crown) for the new L2 wording. PASS (Surya's face soft). Flow's agent box held only 2 references at once.
+- Lesson: "a faint gold glow slides down his throat" -> Veo draws a bright beam. Say "no glow, no light on his skin".
+- `build_ep4.sh` written: soft Earshot effects mixed in the build (cues in the script), eclipse = ffmpeg disc over
+  s09_sun_a, cut to white after L7, end card సముద్ర మథనం / సమాప్తం · ఓం నమో నారాయణాయ / UmaAI Studio (Brand style
+  now Noto Serif Telugu, Spacing 0; end-card test render OK). Build started 00:30 (outside 09:00-15:35).
