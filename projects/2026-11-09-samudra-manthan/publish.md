@@ -49,3 +49,10 @@
 - YouTube Short (public): https://youtube.com/shorts/u7Q2CiKrE6w . Playlist "భక్తి కథలు | Devotional Stories", AI = Yes, not made for kids, no paid promotion. Checks: no issues.
 - Facebook Page: https://www.facebook.com/reel/4592381670995089/ . AI label on, no boost.
 - Web gotchas: Instagram's hashtag autocomplete list covers the "Add collaborators" field; a click there picks a suggestion (it turned #AIvideo into #aivideó). Click inside the caption first to close the list, then check the caption text.
+
+## Ep 3 POSTED on all three (17 Nov 2026, ~18:25-18:32 IST, by Claude; owner approved the exact text in `ep3-post-text.md` and chose "Now, before lion")
+- File: `media/ep3/out/ep3-amrutham-upload-10mb.mp4` (36.9 s, soft Earshot effects, 8.2 MB).
+- Instagram (owner @umaaivideostudio, collaborator invite to @umamaheshbhamidipati: **owner to accept**): https://www.instagram.com/reel/Df1-yDdizqX/ . Crop Original, AI label on, personal FB share off. Cover = the lidded pot (no flame).
+- YouTube Short (public): https://youtube.com/shorts/HpcqIZdphGA . Playlist Devotional Stories, AI = Yes, not for kids, no paid promotion.
+- Facebook Page: https://www.facebook.com/reel/1155607140260021/ . AI label on, no boost.
+- Note: posted ~30 min before the lion reel (19:00 on all three); the owner chose that over the 6-hour spacing rule.
