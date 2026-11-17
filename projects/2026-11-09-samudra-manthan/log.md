@@ -352,3 +352,4 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - 08:10 owner (via the main session): "you can use 10 credits for now". Flow balance read first: **200 credits, "Resets Dec 15 at 3:47 PM"** (pool refilled; not the 10 / 17 Nov 3:10 PM shown last night).
 - Clip 01 v2 from s01_hook_lid_a (Veo 3.1 Lite, 1 video, Approve once, 10 credits; motion prompt says lid stays on, no flame/wick/lamp): **PASS**: lid on for the whole clip, soft glow at the rim only, two hands/ten fingers, gold cuffs; splash at ~3 s like v1. Old clip kept as `clips/01_v1.mp4`. Balance ~190.
 - Asked the owner whether clip 05 can run now (balance already refilled) or after 3:10 PM.
+- Owner (via the main session): "Keep 04 as is" (no re-roll). Clip 05 after the 3:10 PM reset, then one rebuild (after 15:35).
