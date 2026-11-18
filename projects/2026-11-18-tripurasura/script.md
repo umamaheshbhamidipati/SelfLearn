@@ -1,4 +1,4 @@
-# Script — త్రిపురాసుర సంహారం (3 episodes; plan 18 Nov 2026, NOT approved yet)
+# Script — త్రిపురాసుర సంహారం (3 episodes; plan 18 Nov 2026. Ep 1 narration APPROVED 18 Nov; owner decisions: preacher left out, arrow only (smile tradition in Ep 3's caption only), schedule Ep 1 Fri 20, Ep 2 Sun 22, Ep 3 Tue 24 Nov morning)
 
 Sources and verse numbers: `research.md` (Shiva Purana, Rudra Samhita, Yuddha Khanda ch 1-3, 8-10).
 Voice: Gemini TTS Achird, no style prompt (it does not obey tags; silences are cut in the edit). Soft Earshot
@@ -28,13 +28,13 @@ Narration of record: `narration-ep1.txt`. Shots: `shots-ep1.md`.
 
 | # | Telugu | Meaning | Picture |
 |---|---|---|---|
-| L1 | బంగారు పురం. వెండి పురం. ఇనుప పురం. | A city of gold. A city of silver. A city of iron. | the three cities stacked in the sky (hero clip) |
+| L1 | బంగారు, వెండి, ఇనుప పురాలు… వాటిని కూల్చాలంటే ఒకే ఒక్క బాణం! | Gold, silver and iron cities… to bring them down, only one single arrow! | the three cities stacked in the sky (hero clip) |
 | L2 | తారకాసురుని ముగ్గురు కుమారులు… తారకాక్షుడు, విద్యున్మాలి, కమలాక్షుడు. | Tarakasura's three sons… | the three brothers, colour-coded |
 | L3 | బ్రహ్మను గురించి ఘోర తపస్సు చేసి… అమరత్వం కోరారు. | They did fierce penance to Brahma and asked for immortality. | the three in tapas on a plateau |
 | L4 | "పుట్టినవారికి మరణం తప్పదు" అన్నాడు బ్రహ్మ. | "Whoever is born must die," said Brahma. | young four-faced Brahma on a lotus of light |
 | L5 | అప్పుడు వారు ఒక వింత వరం కోరారు. | Then they asked for a strange boon. | the eldest's sly smile |
 | L6 | మయుడు వారికోసం మూడు పురాలు నిర్మించాడు… స్వర్గంలో, ఆకాశంలో, భూమిపై. | Maya built three cities for them: in heaven, in the sky, on earth. | Maya's hands; the cities rise (clip) |
-| L7 | వెయ్యేళ్లకు ఒక్కసారి, పుష్యమి నక్షత్రం వేళ… ఆ మూడూ ఒకే వరుసలో కలుస్తాయి. | Once in a thousand years, under the Pushya (పుష్యమి) star, the three meet in one line. | the cities drifting into line under a star |
+| L7 | వెయ్యేళ్లకు ఒక్కసారి… పుష్యమి నక్షత్రం వేళ ఆ మూడూ ఒకే వరుసలోకి వస్తాయి. | Once in a thousand years, under the Pushya (పుష్యమి) star, the three meet in one line. | the cities drifting into line under a star |
 | L8 | "ఆ క్షణంలో… ఒకే ఒక్క బాణంతో మూడింటినీ ఛేదించినవాడే మమ్మల్ని చంపగలడు." | "Only he who pierces all three with one single arrow at that moment can kill us." | a thin line of light through three city silhouettes (a vision) |
 | L9 | అది అసాధ్యం అనుకున్నారు. వరగర్వంతో ముల్లోకాలనూ వేధించారు. | They thought it impossible. Proud of the boon, they tormented the three worlds. | the iron city's shadow over a heavenly palace; Devas look up (clip) |
 | L10 | ఆ ఒక్క బాణం వేయగలవాడు… ఒక్కడే. ఆయన ఎవరో… తర్వాతి భాగంలో. | Only One can loose that single arrow. Who He is… in the next part. | a silhouette on a snow peak, crescent moon; end card |

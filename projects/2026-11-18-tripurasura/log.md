@@ -49,3 +49,18 @@ One lesson (also add to `docs/lessons.md`):
 - Gotchas: clicking the send arrow while the agent is generating = Stop (cancelled the first s01). Send with JS
   (`aria-label="Start generation"`). Grid right-click menus open at varying offsets and every other right-click after
   a download is swallowed: Escape, wait 2 s, right-click, screenshot, then click.
+
+## 18 Nov (10:30-11:10): clip review, owner's later decisions, cover, post text
+- Clip review (subagent, 3 fps): **01 PARTIAL, clean 0.0-6.0 s** (cloud bank swells after 5.5 s; silver city drifts);
+  **06 FAIL** (lightning from 1.3 s, three new solid cities of a different design incl. copper, outlines stay = ~6 city
+  forms; clean 0.0-1.3 s); **09 FAIL** (the city does not move, no shadow sweep, camera creeps, doubled pillar at
+  3-4 s; best 2.5-4.5 s, Devas looking up).
+- Owner (via the main session, after the clips were made): wants to see the 3 motion prompts before credits are
+  spent. The clips had already been generated under the earlier "Lean 30, max 60" OK; re-rolls of 06/09 (20 more)
+  wait for the owner's OK on the prompts.
+- Owner: L1 → "బంగారు, వెండి, ఇనుప పురాలు… వాటిని కూల్చాలంటే ఒకే ఒక్క బాణం!", L7 → "వెయ్యేళ్లకు ఒక్కసారి…
+  పుష్యమి నక్షత్రం వేళ ఆ మూడూ ఒకే వరుసలోకి వస్తాయి."; narration approved. Smile tradition in Ep 3's caption only.
+  Schedule locked: Ep 1 Fri 20, Ep 2 Sun 22, Ep 3 Tue 24 Nov morning. Old L01 TTS deleted (L01, L04-L10 to record after
+  the quota reset ~13:35).
+- Cover `media/ep1/cover/cover-ep1.jpg`: clip 01 at 1.5 s + "ఒకే ఒక్క బాణం?" (Noto Serif Telugu, shaping checked).
+- Post text draft `ep1-post-text.md` (owner's opening + usual format), sent for approval.
