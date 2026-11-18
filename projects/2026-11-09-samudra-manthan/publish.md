@@ -56,3 +56,10 @@
 - YouTube Short (public): https://youtube.com/shorts/HpcqIZdphGA . Playlist Devotional Stories, AI = Yes, not for kids, no paid promotion.
 - Facebook Page: https://www.facebook.com/reel/1155607140260021/ . AI label on, no boost.
 - Note: posted ~30 min before the lion reel (19:00 on all three); the owner chose that over the 6-hour spacing rule.
+
+## Ep 4 (finale) POSTED on all three (18 Nov 2026, ~09:20-09:35 IST, by Claude; owner approved the exact text in `ep4-post-text.md`, "Post now")
+- File: `media/ep4/out/ep4-rahu-upload-10mb.mp4` (42.4 s, soft Earshot effects, 9.2 MB).
+- Instagram (owner @umaaivideostudio, collab invite to @umamaheshbhamidipati: **owner to accept**): https://www.instagram.com/reel/Df3kkJ-i41A/ . Crop Original, AI label on, personal FB share off. Caption checked equal to the approved text by JS (763 chars, ZWNJ kept).
+- YouTube Short (public): https://youtube.com/shorts/5FICAFs_IHI . Playlist Devotional Stories, AI = Yes, not for kids, no paid promotion.
+- Facebook Page: https://www.facebook.com/reel/1150497057947658/ (top of Business Suite Published list with the Ep 4 caption). AI label on, no boost.
+- Series complete: Ep 1 Kurma, Ep 2 Neelakantha, Ep 3 Amrutham, Ep 4 Rahu. Next idea in the growth plan: a 16:9 compilation for YouTube long-form.
