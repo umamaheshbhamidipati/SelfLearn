@@ -83,7 +83,7 @@ ffmpeg -y -v error -i $O/ep1-graded.mp4 -i $O/ep1-cut.mp4 -vf "ass=$C:shaping=co
   -c:v libx264 -preset veryfast -b:v 3M -maxrate 4M -bufsize 8M -color_range tv -c:a copy -shortest $F
 ffmpeg -y -v error -i $F -vf "scale=720:1280:flags=lanczos:out_range=tv,format=yuv420p" -c:v libx264 -profile:v main -preset veryfast \
   -b:v 1.3M -maxrate 1.8M -bufsize 3M -color_range tv -c:a aac -b:a 128k -movflags +faststart $O/ep1-moodu-puralu-phone.mp4
-cd $O; ffmpeg -y -v error -i ep1-moodu-puralu.mp4 -c:v libx264 -preset medium -b:v 1.6M -pass 1 -passlogfile ep1pass -an -f null /dev/null
-ffmpeg -y -v error -i ep1-moodu-puralu.mp4 -c:v libx264 -preset medium -b:v 1.6M -pass 2 -passlogfile ep1pass -pix_fmt yuv420p -color_range tv \
+cd $O; ffmpeg -y -v error -i ep1-moodu-puralu.mp4 -c:v libx264 -preset medium -b:v 1.5M -pass 1 -passlogfile ep1pass -an -f null /dev/null
+ffmpeg -y -v error -i ep1-moodu-puralu.mp4 -c:v libx264 -preset medium -b:v 1.5M -pass 2 -passlogfile ep1pass -pix_fmt yuv420p -color_range tv \
   -c:a aac -b:a 128k -movflags +faststart ep1-moodu-puralu-upload-10mb.mp4; rm -f ep1pass*
 echo EP1_FINAL_DONE
