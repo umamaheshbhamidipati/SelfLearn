@@ -1,0 +1,23 @@
+బంగారు పురం. వెండి పురం. ఇనుప పురం.
+తారకాసురుని ముగ్గురు కుమారులు… తారకాక్షుడు, విద్యున్మాలి, కమలాక్షుడు.
+బ్రహ్మను గురించి ఘోర తపస్సు చేసి… అమరత్వం కోరారు.
+"పుట్టినవారికి మరణం తప్పదు" అన్నాడు బ్రహ్మ.
+అప్పుడు వారు ఒక వింత వరం కోరారు.
+మయుడు వారికోసం మూడు పురాలు నిర్మించాడు… స్వర్గంలో, ఆకాశంలో, భూమిపై.
+వెయ్యేళ్లకు ఒక్కసారి, పుష్యమి నక్షత్రం వేళ… ఆ మూడూ ఒకే వరుసలో కలుస్తాయి.
+"ఆ క్షణంలో… ఒకే ఒక్క బాణంతో మూడింటినీ ఛేదించినవాడే మమ్మల్ని చంపగలడు."
+అది అసాధ్యం అనుకున్నారు. వరగర్వంతో ముల్లోకాలనూ వేధించారు.
+ఆ ఒక్క బాణం వేయగలవాడు… ఒక్కడే. ఆయన ఎవరో… తర్వాతి భాగంలో.
+
+# DRAFT 18 Nov, not approved. Lines 1-10 above are read by the build script (one line = one TTS file and one
+# caption): keep them first, one per line. English meanings:
+# L1  A city of gold. A city of silver. A city of iron.
+# L2  Tarakasura's three sons… Tarakaksha, Vidyunmali, Kamalaksha.
+# L3  They did fierce penance to Brahma… and asked for immortality.
+# L4  "Whoever is born must die," said Brahma.
+# L5  Then they asked for a strange boon.
+# L6  Maya built three cities for them… in heaven, in the sky, on earth.
+# L7  Once in a thousand years, under the Pushya (పుష్యమి) star… the three meet in one line.
+# L8  "At that moment… only he who pierces all three with one single arrow can kill us."
+# L9  They thought it impossible. Proud of the boon, they tormented the three worlds.
+# L10 Only One can loose that single arrow. Who He is… in the next part.
