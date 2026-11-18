@@ -430,3 +430,16 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
   Frame sheet `review/final1-sheet.jpg`: captions on L1-L10, Surya+Chandra row on L2, drop clip, Mohini->Vishnu
   dissolve, ring -> white, head, disc lands on the sun, diamond ring, end card సముద్ర మథనం / సమాప్తం · ఓం నమో నారాయణాయ / UmaAI Studio.
 - Phone copy sent to the owner. **Not posted**; post text needs the owner's OK. Credits: 30 spent, balance ~200.
+
+## 18 Nov (09:35-10:00): 16:9 compilation of Ep 1-4 prepared (side session; render after 15:35)
+- Inputs: Ep 1 master `ep1-kurma-voice-sfx.mp4` (same cut as the 10 MB YouTube copy, higher bitrate), Ep 2
+  `ep2-neelakantha.mp4` (full-range, converted to tv in the build), Ep 3 `ep3-amrutham.mp4`, Ep 4 `ep4-rahu.mp4`.
+- `build_compilation.sh`: 3 s title card (`title-compilation.ass`, Noto Serif Telugu, Spacing 0, on a blurred Ep 1
+  frame + the Ep 4 riser swell at 0.12) then the four episodes, each 608x1080 in the centre over a blurred,
+  darkened copy of itself; Flow watermark untouched. Audio 48 kHz stereo, whole track gained to -16 LUFS,
+  `alimiter` -1 dBFS `level=disabled`. Refuses to run 09:00-15:35 unless FORCE=1. Stages: audio, video, copies
+  (720p phone <10 MB, 1080p <=10 MB fallback), check (frame sheet, per-episode frame, LUFS).
+- Teasers kept: each episode ends on "తర్వాతి భాగంలో… <next>!" and the next chapter is exactly that story, so the
+  teaser does the job of a chapter card; trimming would cut the sound beds mid-fade. No extra chapter cards.
+- Length 167.4 s (2:47). Chapters 00:00 / 00:50 / 01:28 / 02:05. Text draft: `compilation-youtube-text.md` (not approved).
+- Render scheduled as systemd user timer `sm-compilation` at 15:40 (nice 19), log `media/compilation/build.log`.
