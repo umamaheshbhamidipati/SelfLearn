@@ -65,3 +65,5 @@ One lesson (also add to `docs/lessons.md`):
 - Cover `media/ep1/cover/cover-ep1.jpg`: clip 01 at 1.5 s + "ఒకే ఒక్క బాణం?" (Noto Serif Telugu, shaping checked).
 - Post text draft `ep1-post-text.md` (owner's opening + usual format), sent for approval.
 - 18 Nov 11:20 owner: "Use free zooms": no re-rolls; L6 = push-in on s06_maya_a, L9 = push-in on s09 + clip 09 2.5-4.5 s. **Ep 1 credits end at 30** (balance ~170). build_ep1.sh updated.
+- 18 Nov ~11:35 owner: re-roll 06 v2 + 09 v2 (20 credits, last try; fallback = free zoom) once the extra 50 credits show. Balance read **170** ("Resets Dec 15 at 3:47 PM"): extra 50 not there yet, waiting.
+- 18 Nov 13:44: TTS L01, L04-L10 done (Achird, no 429). Trimmed speech 43.2 s (L01 4.8 s); full cut ~50 s at 1.0x. Voice previews `media/ep1/review/voice/ep1-voice-x1.0.mp3` (46.7 s) and `-x1.08.mp3` (43.6 s). build_ep1.sh takes TEMPO=1.08. Asked the owner: 1.0 / 1.08 / 1.08 + shorter gaps / cut words. Default draft at 15:35 = 1.08.

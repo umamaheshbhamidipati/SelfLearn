@@ -6,7 +6,7 @@
 # Run OUTSIDE 09:00-15:35: bash projects/2026-11-18-tripurasura/build_ep1.sh   (SEGCHECK=1 = segments only)
 set -euo pipefail
 cd "$(dirname "$0")/../.."
-R=projects/2026-11-18-tripurasura; P=$R/media/ep1; AD=$P/audio-draft; A=$P/audio; O=$P/out; S=$P/stills; K=$P/clips
+R=projects/2026-11-18-tripurasura; P=$R/media/ep1; AD=$P/audio-draft; TEMPO=${TEMPO:-1.0}; A=$P/audio-t$TEMPO; O=$P/out; S=$P/stills; K=$P/clips
 T=$(mktemp -d); mkdir -p "$O" "$P/sfx" "$A"; GAP=0.35; LEAD=0.15; CARD=2.6
 # clean clip ranges: start and usable length (s); a slot longer than the usable part is filled with the clip's still
 # 18 Nov review: 01 clean 0-6.0 s; 06 FAIL (lightning from 1.3 s) -> still only; 09 FAIL, 2.5-4.5 s usable (Devas look up).
@@ -28,7 +28,7 @@ fit(){ # clipfile start usable slot still   -> clip for min(usable,slot), then t
   if lt "$3" "$4"; then clip "$1" "$2" "$3"; push "$5" "$(sub "$4" "$3")" 0.0006; else clip "$1" "$2" "$4"; fi; }
 # trim TTS lead/tail silence (once)
 for i in $(seq 1 10); do f=$(printf 'L%02d.wav' $i); [ -f "$A/$f" ] && continue
-  ffmpeg -v error -y -i "$AD/$f" -af "silenceremove=start_periods=1:start_threshold=-45dB,areverse,silenceremove=start_periods=1:start_threshold=-45dB,areverse,adelay=50|50,apad=pad_dur=0.12" -ar 48000 -ac 2 "$A/$f"; done
+  ffmpeg -v error -y -i "$AD/$f" -af "silenceremove=start_periods=1:start_threshold=-45dB,areverse,silenceremove=start_periods=1:start_threshold=-45dB,areverse,atempo=$TEMPO,adelay=50|50,apad=pad_dur=0.12" -ar 48000 -ac 2 "$A/$f"; done
 for i in $(seq 1 10); do d[$i]=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$A/$(printf 'L%02d' $i).wav"); done
 t=$LEAD; for i in $(seq 1 10); do st[$i]=$t; s[$i]=$(add "${d[$i]}" $GAP); t=$(add "$t" "${s[$i]}"); done
 D=$(printf '%.2f' "$(add "$(sub "$t" $GAP)" $CARD)"); echo "total $D s"; for i in $(seq 1 10); do echo "L$i ${st[$i]} +${s[$i]}"; done
