@@ -31,3 +31,21 @@ One lesson (also add to `docs/lessons.md`):
 - Waiting on the owner: narration OK? decisions 1-4? Lean (30) or Lean-min (20)? Then: TTS early in the day
   (Achird), stills (0 credits) + contact sheet, read the Flow balance, clips with Approve once per clip, build
   after 15:35.
+
+## 18 Nov (10:00-10:50): owner approvals, TTS partial, stills, clips (via the main session)
+- Owner (relayed by the parent session): Ep 1 narration "Approve as written"; preacher episode "Leave it out";
+  Ep 3 "Arrow only"; Ep 1 credits "Lean: 30, max 60" (clips 01, 06, 09, one Approve each, one re-roll each at most);
+  iron accepted; aim Ep 3 for Tue 24 Nov.
+- TTS (Achird): L1-L3 done (3.20, 6.00, 4.32 s raw) in `media/ep1/audio-draft/`; then HTTP 429 **daily** quota
+  (GenerateRequestsPerDayPerProjectPerModel-FreeTier = **10/day** for gemini-3.8-flash-tts; other sessions had used
+  7). Retry after ~13:35 IST for L4-L10.
+- Stills, 0 credits (Flow project "Nov 18 - 09:57", Nano Banana 2.1 in the agent): 10 made, then s02/s03/s04
+  regenerated with s01 + s02 attached (pillar palaces instead of the floating cities), s04 a third time
+  (s04_b Brahma came out feminine and illustrated). Picks: s01_a, s02_b, s03_b, s04_c, s05_a, s06_a, s07_a, s08_a,
+  s09_a, s10_a; all `color_check` OK; subagent check PASS (notes: s06 lines pale white not gold; s07 gold city
+  below silver = reads as drifting; s09 Devas walk rather than step back).
+- Flow balance before clips: **200**, "Resets Dec 15 at 3:47 PM". Clips 01 (s01), 06 (s06), 09 (s09): agent asked
+  "1 video, 10 credits" each time; Approve clicked once per clip. **Spent 30 of the approved max 60.**
+- Gotchas: clicking the send arrow while the agent is generating = Stop (cancelled the first s01). Send with JS
+  (`aria-label="Start generation"`). Grid right-click menus open at varying offsets and every other right-click after
+  a download is swallowed: Escape, wait 2 s, right-click, screenshot, then click.
