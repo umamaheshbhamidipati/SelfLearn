@@ -443,3 +443,12 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
   teaser does the job of a chapter card; trimming would cut the sound beds mid-fade. No extra chapter cards.
 - Length 167.4 s (2:47). Chapters 00:00 / 00:50 / 01:28 / 02:05. Text draft: `compilation-youtube-text.md` (not approved).
 - Render scheduled as systemd user timer `sm-compilation` at 15:40 (nice 19), log `media/compilation/build.log`.
+- **Built 15:40-16:40 (systemd timer, nice 19):** audio 1 min, video 33 min (2 fps), copies 25 min.
+  `media/compilation/samudra-manthan-full-16x9.mp4`: 1920x1080 tv-range yuv420p, 167.17 s, 69 MB, -16.0 LUFS,
+  peak -3.2 dBFS. Scene cuts at exactly 50.08 / 88.25 / 125.04 s (chapters right, A/V in sync). 4012 of 4018
+  planned frames: the last 0.25 s of Ep 4's end-card hold is cut (-shortest); harmless. Frame sheet
+  `media/compilation/review/sheet.jpg`: title card, every episode centred, Flow watermark visible, captions and end cards intact.
+  Phone copy 720p 9.0 MB; `-upload-10mb.mp4` 1080p 9.4 MB (380 kbps, soft).
+- Main session local_bb0b2ff7 not found, so the phone copy went by Telegram (sendVideo, UmaAI bot) and the
+  text + upload question via `notify-phone` (16:45). Waiting for the owner: text OK?, upload A (full 69 MB, owner picks
+  the file) or B (10 MB copy), publish time. Not uploaded.
