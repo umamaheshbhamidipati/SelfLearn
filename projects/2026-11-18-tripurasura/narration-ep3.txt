@@ -1,6 +1,6 @@
 వెయ్యేళ్ల క్షణం వచ్చింది. మూడు పురాలూ… ఒకే వరుసలోకి వచ్చాయి.
 కానీ మహాదేవుని బాణం కదలలేదు.
-"ముందు గణపతిని పూజించు" అని ఆకాశం నుండి ఒక వాణి వినిపించింది.
+"ముందు గణపతిని పూజించండి" అని ఆకాశం నుండి ఒక వాణి వినిపించింది.
 మహాదేవుడు విఘ్నేశ్వరుని పూజించాడు.
 ఒక్క బాణం… కోటి సూర్యుల కాంతితో దూసుకెళ్లింది.
 క్షణంలో… మూడు పురాలూ భస్మమయ్యాయి.
@@ -8,7 +8,7 @@
 ఆ విజయానికి గుర్తుగానే కార్తీక పౌర్ణమి నాడు దీపాలు వెలిగిస్తారని నమ్మకం.
 ఈ పౌర్ణమికి… మీ ఇంటి గుమ్మంలో ఒక దీపం వెలిగించండి. ఓం నమః శివాయ.
 
-# DRAFT 18 Nov, not approved. Lines 1-9 are read by the build script. Arrow only (owner, 18 Nov: no smile line).
+# APPROVED by the owner 18 Nov (L3: "పూజించండి"). Lines 1-9 are read by the build script. Arrow only (owner, 18 Nov: no smile line).
 # L1 The thousand-year moment has come. The three cities… have come into one line.
 # L2 But Mahadeva's arrow did not move.
 # L3 "First worship Ganapati," a voice was heard from the sky.

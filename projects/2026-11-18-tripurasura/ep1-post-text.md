@@ -1,4 +1,4 @@
-# Ep 1 post text (DRAFT 18 Nov, waiting for the owner's final OK; first lines = owner-approved opening)
+# Ep 1 post text (APPROVED by the owner 18 Nov 2026, via the main session; post Fri 20 Nov after a final confirm; paste exactly)
 
 Post: Fri 20 Nov, from @umaaivideostudio with the personal account as collaborator; then YouTube Short; then FB Page.
 Smile tradition: NOT here (Ep 3's caption only, owner 18 Nov).

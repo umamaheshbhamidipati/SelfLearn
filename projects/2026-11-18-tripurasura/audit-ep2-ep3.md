@@ -1,4 +1,4 @@
-# Ep 2 + Ep 3 narration audit (18 Nov 2026; drafts, not approved)
+# Ep 2 + Ep 3 narration audit (18 Nov 2026; narration APPROVED 18 Nov with Ep 3 L3 "పూజించండి"; decision 5 = SP golden chariot)
 
 SP = Shiva Purana, Rudra Samhita, Yuddha Khanda (Shastri translation; ch 8-10 read in full).
 OK / FLAG (owner decides). Length estimate: 9 lines each, about 32-36 s of speech (Ep 1's 10 lines ≈ 36 s).
@@ -29,7 +29,7 @@ text does. If it confuses, drop L7-L8 (−7 s) and end on the bow.
 |---|---|---|---|---|
 | 1 | వెయ్యేళ్ల క్షణం వచ్చింది. మూడు పురాలూ… ఒకే వరుసలోకి వచ్చాయి. | Cities "joined together" 10.8-9, 10.14 (row = popular image, as Ep 1) | "వచ్చింది / వచ్చాయి" repeats; alternative "…ఒకే వరుసలో నిలిచాయి" | OK (style option) |
 | 2 | కానీ మహాదేవుని బాణం కదలలేదు. | 10.1-6: Shiva stood ready but could not succeed until Ganesha was worshipped. "Did not move" is our image for that | Natural | OK |
-| 3 | "ముందు గణపతిని పూజించు" అని ఆకాశం నుండి ఒక వాణి వినిపించింది. | 10.5-6 a voice "from the firmament", speaker unnamed: matches. Our quote is a paraphrase | Natural ("ఆకాశవాణి" would be shorter but is also the radio's name) | OK |
+| 3 | "ముందు గణపతిని పూజించండి" (owner) అని ఆకాశం నుండి ఒక వాణి వినిపించింది. | 10.5-6 a voice "from the firmament", speaker unnamed: matches. Our quote is a paraphrase | Natural ("ఆకాశవాణి" would be shorter but is also the radio's name) | OK |
 | 4 | మహాదేవుడు విఘ్నేశ్వరుని పూజించాడు. | 10.7-9 | Natural | OK |
 | 5 | ఒక్క బాణం… కోటి సూర్యుల కాంతితో దూసుకెళ్లింది. | 10.25 "refulgence of countless suns"; "కోటి" = idiom for countless | Natural | OK |
 | 6 | క్షణంలో… మూడు పురాలూ భస్మమయ్యాయి. | 10.26-27 the arrow burnt the three; arrow only (owner) | Natural | OK |

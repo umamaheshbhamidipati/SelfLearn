@@ -6,8 +6,8 @@
 # Run OUTSIDE 09:00-15:35: bash projects/2026-11-18-tripurasura/build_ep1.sh   (SEGCHECK=1 = segments only)
 set -euo pipefail
 cd "$(dirname "$0")/../.."
-R=projects/2026-11-18-tripurasura; P=$R/media/ep1; AD=$P/audio-draft; TEMPO=${TEMPO:-1.0}; A=$P/audio-t$TEMPO; O=$P/out; S=$P/stills; K=$P/clips
-T=$(mktemp -d); mkdir -p "$O" "$P/sfx" "$A"; GAP=0.35; LEAD=0.15; CARD=2.6
+R=projects/2026-11-18-tripurasura; P=$R/media/ep1; AD=$P/audio-draft; TEMPO=${TEMPO:-1.08}; A=$P/audio-t$TEMPO; O=$P/out; S=$P/stills; K=$P/clips
+T=$(mktemp -d); mkdir -p "$O" "$P/sfx" "$A"; GAP=${GAP:-0.25}; LEAD=0.15; CARD=${CARD:-2.0}   # owner 18 Nov: option 3 (1.08x, 0.25 s gaps, 2.0 s card)
 # clean clip ranges: start and usable length (s); a slot longer than the usable part is filled with the clip's still
 # 18 Nov review: 01 clean 0-6.0 s; 06 FAIL (lightning from 1.3 s) -> still only; 09 FAIL, 2.5-4.5 s usable (Devas look up).
 # Owner: "Use free zooms" (no re-rolls; Ep 1 credits end at 30).

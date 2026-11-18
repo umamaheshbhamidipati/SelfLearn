@@ -8,7 +8,7 @@
 అప్పుడు విష్ణువే వృషభమై, రథాన్ని పైకెత్తి నిలిపాడు.
 వెయ్యేళ్ల క్షణం… దగ్గరపడుతోంది. చివరి భాగంలో.
 
-# DRAFT 18 Nov, not approved (owner approves narration before TTS). Lines 1-9 are read by the build script.
+# APPROVED by the owner 18 Nov (decision 5 = SP "బంగారు దివ్య రథం"). Lines 1-9 are read by the build script.
 # L1 For one arrow… the whole universe became a chariot.
 # L2 Unable to bear the Tripura Asuras' torment, the gods sought refuge in Mahadeva.
 # L3 A golden divine chariot. The Sun and the Moon are its wheels.
