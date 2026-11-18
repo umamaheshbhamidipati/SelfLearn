@@ -73,3 +73,6 @@ Made with AI (Google Flow / Veo, Nano Banana); AI narration (Gemini TTS). No mus
 - 17 Nov 19:12: lion Instagram posted **by hand** (https://www.instagram.com/reel/Df2iCCUCsX1/, collab invite to
   @umamaheshbhamidipati, AI label on). The 18:57 scheduled task ran but failed at once: "You're out of usage credits"
   (Claude plan usage, not Flow). Scheduled Claude tasks can fail this way; check after each one.
+- 18 Nov ~19:00: tenali Instagram posted by this session's 18:57 job (https://www.instagram.com/reel/Df4ngzUCIz_/), crop
+  Original, caption checked by JS against this file (equal), collab invite to @umamaheshbhamidipati, AI label on,
+  personal FB share off. Chandra Instagram (Mon 23 Nov 19:00) still has no task: post by hand when the owner says.
