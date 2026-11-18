@@ -64,3 +64,4 @@ One lesson (also add to `docs/lessons.md`):
   the quota reset ~13:35).
 - Cover `media/ep1/cover/cover-ep1.jpg`: clip 01 at 1.5 s + "ఒకే ఒక్క బాణం?" (Noto Serif Telugu, shaping checked).
 - Post text draft `ep1-post-text.md` (owner's opening + usual format), sent for approval.
+- 18 Nov 11:20 owner: "Use free zooms": no re-rolls; L6 = push-in on s06_maya_a, L9 = push-in on s09 + clip 09 2.5-4.5 s. **Ep 1 credits end at 30** (balance ~170). build_ep1.sh updated.

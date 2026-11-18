@@ -9,7 +9,9 @@ cd "$(dirname "$0")/../.."
 R=projects/2026-11-18-tripurasura; P=$R/media/ep1; AD=$P/audio-draft; A=$P/audio; O=$P/out; S=$P/stills; K=$P/clips
 T=$(mktemp -d); mkdir -p "$O" "$P/sfx" "$A"; GAP=0.35; LEAD=0.15; CARD=2.6
 # clean clip ranges: start and usable length (s); a slot longer than the usable part is filled with the clip's still
-C01S=${C01S:-0.0}; C01L=${C01L:-7.5}; C06S=${C06S:-0.0}; C06L=${C06L:-7.5}; C09S=${C09S:-0.0}; C09L=${C09L:-7.5}
+# 18 Nov review: 01 clean 0-6.0 s; 06 FAIL (lightning from 1.3 s) -> still only; 09 FAIL, 2.5-4.5 s usable (Devas look up).
+# Owner: "Use free zooms" (no re-rolls; Ep 1 credits end at 30).
+C01S=${C01S:-0.0}; C01L=${C01L:-6.0}; C09S=${C09S:-2.5}; C09L=${C09L:-2.0}
 V="scale=720:1280:force_original_aspect_ratio=increase,crop=720:1280,fps=24,format=yuv420p,setsar=1"
 ENC="-c:v libx264 -preset veryfast -crf 20 -c:a pcm_s16le -ar 48000 -ac 2"
 echo 0 > "$T/n"; nxt(){ local n=$(( $(cat "$T/n") + 1 )); echo $n > "$T/n"; printf '%s/a%02d.mkv' "$T" $n; }
@@ -36,10 +38,10 @@ push s02_brothers_b "${s[2]}"                                           # L2 Tar
 push s03_tapas_b "${s[3]}" 0.0006                                       # L3 tapas
 push s04_brahma_c "${s[4]}"                                             # L4 Brahma refuses
 push s05_smile_a "${s[5]}" 0.0015                                       # L5 a strange boon (sly smile)
-fit "$K/06.mp4" $C06S $C06L "${s[6]}" s06_maya_a                        # L6 Maya builds the cities
+push s06_maya_a "${s[6]}" 0.0010                                        # L6 Maya builds the cities (clip 06 failed)
 push s07_align_a "${s[7]}" 0.0006                                       # L7 once in a thousand years
 push s08_vision_a "${s[8]}" 0.0012                                      # L8 one single arrow
-fit "$K/09.mp4" $C09S $C09L "${s[9]}" s09_shadow_a                      # L9 tormented the worlds
+push s09_shadow_a "$(sub "${s[9]}" $C09L)" 0.0008; clip "$K/09.mp4" $C09S $C09L   # L9 tormented the worlds: still, then the Devas look up
 push s10_peak_a "$(add "${s[10]}" $CARD)" 0.0005 ",fade=t=in:d=0.3"    # L10 teaser + end card
 if [ -n "${SEGCHECK:-}" ]; then for g in "$T"/a*.mkv; do echo "$(basename $g) $(ffprobe -v error -show_entries format=duration -of csv=p=0 $g)"; done; rm -rf "$T"; exit 0; fi
 # ---- sound effects (Earshot, soft; peak lands on the cut) ----
