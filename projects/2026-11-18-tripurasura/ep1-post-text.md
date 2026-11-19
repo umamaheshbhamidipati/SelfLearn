@@ -1,6 +1,8 @@
 # Ep 1 post text (APPROVED by the owner 18 Nov 2026, via the main session; post Fri 20 Nov after a final confirm; paste exactly)
 
 Post: Fri 20 Nov, from @umaaivideostudio with the personal account as collaborator; then YouTube Short; then FB Page.
+**19 Nov: NO Instagram/Meta automation** (Instagram flagged @umaaivideostudio for "automated behavior", ~04:24). The owner posts Instagram by hand from the phone; Claude prepares only the upload file and this text. Do not open instagram.com or Meta Business Suite in Chrome (not even to read). Facebook Page posting on hold. YouTube + Flow unaffected.
+Upload file: `media/ep1/out/ep1-moodu-puralu-upload-10mb.mp4` (9.45 MB; phone copy `ep1-moodu-puralu-phone.mp4`, 8.1 MB). Cover: `media/ep1/cover/cover-ep1.jpg`.
 Smile tradition: NOT here (Ep 3's caption only, owner 18 Nov).
 
 ## Instagram + Facebook caption
