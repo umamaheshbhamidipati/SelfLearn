@@ -140,3 +140,10 @@ Also: set a YouTube Shorts cover (thumbnail frame) on every Short; none are set 
 Weekly Analyst step: add to the Sunday growth check a 3-line verdict ("more of / less of / try next") from
 `metrics.py report`, with the sample size stated. No percentage claims from a few hundred views.
 First test: the Ep 2 carousel from its existing stills (owner approves the slide text before posting).
+
+## AI disclaimer on the YouTube channel (19 Nov 2026)
+Owner approved; added to the UmaAI Studio channel description (Studio -> Customization -> Profile), reloaded and checked
+(844 characters). Our own wording, not copied from Om Temple Tales (the reference the owner sent):
+"⚠️ AI గమనిక: ఈ ఛానెల్‌లోని దృశ్యాలు, స్వరాలు AI (Google Flow / Veo, Gemini) తో రూపొందించినవి. ఇవి కళాత్మక చిత్రణలు మాత్రమే,
+నిజమైన ఫోటోలు గానీ దేవతలు, వ్యక్తులు, ప్రదేశాల యథార్థ చిత్రాలు గానీ కావు. కథలు పురాణాల ఆధారంగా చెప్పబడ్డాయి. అన్ని విశ్వాసాలను,
+సంప్రదాయాలను గౌరవిస్తాము. 🙏" + the English version. Facebook Page About: same text, by the owner by hand (Meta automation on hold).
