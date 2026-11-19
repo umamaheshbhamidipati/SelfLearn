@@ -472,3 +472,8 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
   first, then `trim=end_frame` (frame n = n/24 s, matching the audio atrim). Audio unchanged. v2 files moved to
   `media/compilation/v2-drift/`; v3 render started 16:08 (`sm-compilation-v3`, nice 19, video+phone copy+check).
   Lesson: trim VFR sources by time or after fps, never by decoded-frame count before fps.
+- **v3 (16:08-16:20, 12 min, video+phone+check):** 153.92 s, 3694 frames, 67 MB, -16.0 LUFS, peak -3.7 dBFS,
+  1920x1080 tv-range. Scene cuts exactly at 45.042 (Ep 2) and 79.208 (Ep 3); Ep 4 opens on the same Devas-row
+  still Ep 3 ends on (no scene cut), its first internal cut at 115.625 = 111.625 + 4.0 as in v1. Frames at each cut:
+  no teaser line or next-part card; Ep 2 ends on its నీలకంఠుడు card. Phone copy (8.3 MB) sent by Telegram 16:23.
+- 16:24 Studio upload dialog open in Chrome; owner asked (Telegram) to pick the full file via RDP. Not uploaded yet.
