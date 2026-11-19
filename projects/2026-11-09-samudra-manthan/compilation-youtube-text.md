@@ -1,4 +1,4 @@
-# YouTube text, Samudra Manthan full story (compilation, 16:9; drafted 18 Nov 2026, NOT yet approved)
+# YouTube text, Samudra Manthan full story (compilation, 16:9; drafted 18 Nov 2026, owner APPROVED 19 Nov ~10:25 "Text OK, publish now"; paste exactly)
 
 Regular video (not a Short). Playlist "భక్తి కథలు | Devotional Stories". AI use = Yes. Not made for kids. No paid promotion.
 File: `media/compilation/samudra-manthan-full-16x9.mp4` (v2, 154.1 s: next-part end cards and teasers removed, owner 19 Nov).
