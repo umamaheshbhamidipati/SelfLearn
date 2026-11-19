@@ -452,3 +452,13 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - Main session local_bb0b2ff7 not found, so the phone copy went by Telegram (sendVideo, UmaAI bot) and the
   text + upload question via `notify-phone` (16:45). Waiting for the owner: text OK?, upload A (full 69 MB, owner picks
   the file) or B (10 MB copy), publish time. Not uploaded.
+
+## 19 Nov (09:50-10:30): compilation v2 without next-part teasers (owner: "remove next episode title cards as it is a single episode")
+- `build_compilation.sh`: `CUT` keeps Ep 1 to frame 1009 (its end card starts at 42.17 s), Ep 2 to 820 (the
+  "తర్వాతి భాగం: అమృతం" line at 34.19 s; "ఓం నమః శివాయ" over its own title card stays), Ep 3 to 778 (end card at
+  32.43 s); Ep 4 whole (సమాప్తం card). Found from per-frame brightness and the audio level: voice ends 0.4-0.7 s
+  before each cut, the spoken teaser starts 0.2-0.5 s after. 0.2 s audio fade into each cut. Video now trimmed by
+  frame count (`trim=end_frame`), not by time (Ep 1's master starts at pts 0.04 s).
+- New length 154.1 s (2:34). Chapters 00:00 / 00:45 / 01:19 / 01:51 (updated in `compilation-youtube-text.md`).
+- v1 files moved to `media/compilation/v1-with-teasers/`. Render scheduled: systemd user timer `sm-compilation-v2`
+  at 15:40 (nice 19, all stages), log `media/compilation/build-v2.log`.
