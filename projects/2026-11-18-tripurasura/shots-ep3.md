@@ -5,7 +5,8 @@ Tamil smile tradition (owner, 18 Nov); the narration is arrow only.
 Structure: present-tense countdown, then the festival tie-in and a direct address (Shiva looks at the viewer).
 Rules as Ep 2. Fire is allowed only as the arrow's light, the burning cities (light and ash, no people) and the
 Karthika lamps (L8-L9); no lidded-pot issue here. Media: `media/ep3/...`.
-**Blocks:** Shiva, chariot, bow, arrow = `shots-ep2.md`; cities = Ep 1 `s01_cities_a`.
+**Blocks:** chariot, bow, arrow = `shots-ep2.md`; cities = Ep 1 `s01_cities_a`.
+**LOCKED REFERENCE: Shiva = `media/refs/shiva_A.jpg`** (same as Ep 2; rule 19 Nov). Attach it to s02, s04 and s07, plus the Ep 2 s09_draw still for the chariot and bow. Before animating clip D, 2-up check: the new still next to Ep 2's s09_draw and `shiva_A.jpg` (face, skin, crescent, serpent, two arms, colours); any difference = re-make the still.
 
 | # | Line | Shot | Must be true | Source | Credits |
 |---|---|---|---|---|---|
@@ -15,7 +16,7 @@ Karthika lamps (L8-L9); no lidded-pot issue here. Media: `media/ep3/...`.
 | 04 | L4 | Shiva lowers the bow and joins his palms before a small glowing form of Ganesha on a lotus of light | Shiva two arms, palms joined; Ganesha: elephant head, four arms, gentle, adult form (not a child), modak; light, no flame | NEW still s04_ganesha, push-in | 0 |
 | 05 | L5 | **HERO:** the arrow leaves the bow as a blinding streak of light across the sky toward the aligned cities | ONE arrow streak; bow stays in the hands; no body in the light | Ep 2 s09_draw → **clip D** | 10 |
 | 06 | L6 | the three cities flare white-gold and dissolve into falling ash and sparks, no people | no bodies, no faces, no blood; ash drifts down; cities = s01 | NEW still s06_ash, push-in + FX white flash 0.2 s + pro_impact/swell | 0 |
-| 07 | L7 "త్రిపురాంతకుడు" | Shiva close-up, calm, eyes to the viewer, third eye softly glowing | eyes look straight at the camera; Shiva block | NEW still s07_face (or Karthika `08.jpg` reused) | 0 |
+| 07 | L7 "త్రిపురాంతకుడు" | Shiva close-up, calm, eyes to the viewer, third eye softly glowing | eyes look straight at the camera; Shiva block | NEW still s07_face with `shiva_A.jpg` (NOT Karthika `08.jpg`: a different Shiva face) | 0 |
 | 08 | L8 | Shiva temple gopuram outlined with hundreds of lamps; a jwala thoranam arch of fire | young devotees only; flames steady | REUSE `projects/2026-11-08-karthika-deepam/media/stills/06.jpg` (+ 02.jpg ghat) | 0 |
 | 09 | L9 + end card | a young woman lights a diya at her doorstep (the "doorstep" line); end on Shiva blessing | doorstep visible; diya flame small; end card "ఓం నమః శివాయ" | REUSE Karthika `01.jpg` + `07.jpg` | 0 |
 

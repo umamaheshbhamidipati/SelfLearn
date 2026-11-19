@@ -5,15 +5,21 @@ Structure: build-up montage, one chariot part per line, cut on the beat; ends on
 Rules: `docs/preflight-checklist.md`; young adults only; **no deity names in Veo motion prompts**; no gore.
 Media: `media/ep2/{stills,clips,audio-draft,review,out}`.
 
+**LOCKED REFERENCES (rule 19 Nov, `docs/preflight-checklist.md` "Same character across a series"):** in `media/refs/`.
+- **Shiva = `media/refs/shiva_A.jpg`** (copy of Samudra Manthan `media/ep2/stills/s1_hook_a.jpg`, the Neelakantha face, so he matches that series too). Attach it to EVERY still with Shiva (Ep 2 s02, s07, s09; Ep 3 s02, s04, s07). Take the face, hair, crescent, blue serpent, rudraksha, tiger skin and skin tone from it; NOT the purple poison orb: hands hold only the bow, or are joined.
+- **Brahma = `media/refs/brahma_A.jpg`** (= Ep 1 `s04_brahma_c`). Attach to Ep 2 s04.
+- **Shiva's peak = `media/refs/peak_A.jpg`** (= Ep 1 `s10_peak_a`, the snowy peak with the trident, Ep 1's last shot). Attach to Ep 2 s02 so the mountain matches.
+- Ep 1 shows Shiva only as a distant silhouette, so the 2-up check for his face is against `shiva_A.jpg` and a frame of the Samudra Manthan Ep 2 clip; for Brahma against Ep 1 `s04_brahma_c`. Any difference in face, skin tone, crown/ornaments, number of arms or colours = re-make the still before animating.
+
 **SET (Ep 2):** "a vast cosmic battlefield sky at deep blue dusk above the same barren rocky plateau as Ep 1; stars,
 a faint violet nebula; the three floating cities tiny and far away on the horizon."
-**Shiva block:** use Samudra Manthan `media/ep2/stills/s1_hook_a.jpg` (Neelakantha) as the exact face reference:
+**Shiva block:** attach `media/refs/shiva_A.jpg` (locked) as the exact face reference:
 "divinely handsome young god (about 25), unmistakably masculine, flawless crisp luminous skin with a faint
 silver-blue glow, softly glowing third eye, long dark matted hair piled high with a luminous crescent moon,
 a serpent of pure blue light at his neck, rudraksha of glowing crystal, tiger-skin wrap, two arms".
 **Chariot block:** "a colossal golden divine chariot, its RIGHT wheel a blazing sun disc with 12 spokes of light, its
 LEFT wheel a silver full moon with 16 spokes, floating on clouds; four horses of white light pull it."
-**Brahma:** `media/ep1/stills/s04_brahma_c.jpg` as the exact reference (masculine, black beards, four faces).
+**Brahma:** attach `media/refs/brahma_A.jpg` (locked, = Ep 1 s04_brahma_c) as the exact reference (masculine, black beards, four faces).
 
 | # | Line | Shot | Must be true | Source | Credits |
 |---|---|---|---|---|---|
