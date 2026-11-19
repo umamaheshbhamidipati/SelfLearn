@@ -462,3 +462,5 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
 - New length 154.1 s (2:34). Chapters 00:00 / 00:45 / 01:19 / 01:51 (updated in `compilation-youtube-text.md`).
 - v1 files moved to `media/compilation/v1-with-teasers/`. Render scheduled: systemd user timer `sm-compilation-v2`
   at 15:40 (nice 19, all stages), log `media/compilation/build-v2.log`.
+- 19 Nov 10:20: owner picked upload **A** (full-quality file; owner selects it in Studio's file dialog, Claude fills
+  the rest). Upload waits for the v2 render (15:40), its checks, and the owner's OK on the text and publish time.
