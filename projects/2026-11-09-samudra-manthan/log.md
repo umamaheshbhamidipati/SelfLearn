@@ -464,5 +464,5 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
   at 15:40 (nice 19, all stages), log `media/compilation/build-v2.log`.
 - 19 Nov 10:20: owner picked upload **A** (full-quality file; owner selects it in Studio's file dialog, Claude fills
   the rest). Upload waits for the v2 render (15:40), its checks, and the owner's OK on the text and publish time.
-- 19 Nov ~10:25: owner approved the v2 text exactly as in `compilation-youtube-text.md`, "publish now" (= public
+- 19 Nov ~10:21: owner approved the v2 text exactly as in `compilation-youtube-text.md`, "publish now" (= public
   as soon as the upload is done; no schedule). Upload after the 15:40 v2 render is checked.
