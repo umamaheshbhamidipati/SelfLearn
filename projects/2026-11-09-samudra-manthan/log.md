@@ -466,3 +466,9 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
   the rest). Upload waits for the v2 render (15:40), its checks, and the owner's OK on the text and publish time.
 - 19 Nov ~10:21: owner approved the v2 text exactly as in `compilation-youtube-text.md`, "publish now" (= public
   as soon as the upload is done; no schedule). Upload after the 15:40 v2 render is checked.
+- 19 Nov 16:00 v2 render checked: **A/V drift**. The masters are slightly VFR (avg 23.87-23.96 fps; Ep 1 starts at
+  pts 0.041), and v2 did `trim=end_frame` BEFORE `fps=24`, so fps padded the gaps and each episode's picture ran long:
+  Ep 2 starts +2 frames, Ep 3 ~+0.3 s, Ep 4 ~+0.4 s behind its audio and the chapter times. Fix: `setpts,fps=24`
+  first, then `trim=end_frame` (frame n = n/24 s, matching the audio atrim). Audio unchanged. v2 files moved to
+  `media/compilation/v2-drift/`; v3 render started 16:08 (`sm-compilation-v3`, nice 19, video+phone copy+check).
+  Lesson: trim VFR sources by time or after fps, never by decoded-frame count before fps.

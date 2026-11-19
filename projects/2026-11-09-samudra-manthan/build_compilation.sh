@@ -57,7 +57,7 @@ if stage video; then
   in=(-loop 1 -framerate $FPS -t $TITLE -i "$O/title-plate.png"); fc=""
   fc+="[0:v]format=yuv420p,$BG,lutyuv=y='16+(val-16)*0.7',ass=title-compilation.ass,fade=t=in:d=0.5,trim=0:$TITLE,setpts=PTS-STARTPTS,format=yuv420p[v0];"
   for i in 0 1 2 3; do in+=(-i "${EP[$i]}"); k=$((i+1))
-    fc+="[$k:v]trim=end_frame=${nfr[$i]},setpts=PTS-STARTPTS,fps=$FPS,scale=in_range=${RANGE[$i]}:out_range=tv,format=yuv420p,split[b$k][f$k];"
+    fc+="[$k:v]setpts=PTS-STARTPTS,fps=$FPS,trim=end_frame=${nfr[$i]},scale=in_range=${RANGE[$i]}:out_range=tv,format=yuv420p,split[b$k][f$k];"
     fc+="[b$k]$BG[bb$k];[f$k]$FG[ff$k];[bb$k][ff$k]overlay=656:0,format=yuv420p[v$k];"; done
   fc+="[v0][v1][v2][v3][v4]concat=n=5:v=1:a=0[v]"
   in+=(-i "$O/audio-final.wav"); ai=$(( ${#EP[@]} + 1 ))
