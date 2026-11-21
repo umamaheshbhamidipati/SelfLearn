@@ -10,7 +10,7 @@ Owner approves every merge, publish and spend.
 | E1 | Karthika Deepam | Save/share call-to-action in the caption | A "save / share with family" line produces the first saves (baseline 0 saves on both Diwali posts) | Saves > 0 on Instagram at 7 days | planned (post Mon 16 Nov) | |
 | E2 | Karthika Deepam | AI narrator (Achird) instead of the owner's voice | Full narration holds viewers longer than the Diwali reels' short voice-over | Instagram avg watch > 4 s (Lakshmi reel) | planned | |
 
-| E6 | Tripurasura Ep 3 (Tue 24 Nov) | A follow ask: end-card line + caption line + pinned comment (one bundled variable; Ep 1 and Ep 2 of the same series have none) | Viewers who finish a series don't know there is more; asking turns a few of them into followers (21 Nov: 99%+ of IG views are non-followers, Tenali 23,846 views gave 2 follows and 2 profile visits) | Instagram follows per 1,000 views at 7 days: Ep 3 at least 2x the average of Ep 1 and Ep 2, and at least 5 follows. Otherwise inconclusive | planned 21 Nov (wording waits for the owner) | |
+| E6 | Tripurasura Ep 3 (Tue 24 Nov) | A follow ask: end-card line + caption line + pinned comment (one bundled variable; Ep 1 and Ep 2 of the same series have none) | Viewers who finish a series don't know there is more; asking turns a few of them into followers (21 Nov: 99%+ of IG views are non-followers, Tenali 23,846 views gave 2 follows and 2 profile visits) | Instagram follows per 1,000 views at 7 days: Ep 3 at least 2x the average of Ep 1 and Ep 2, and at least 5 follows. Otherwise inconclusive | planned 21 Nov; wording owner APPROVED 21 Nov ("Approve as is") | |
 
 Confounds, stated honestly: Karthika also has a new grade (`rose`), 1080p output and a different story, so E1 and E2
 can only be read as hints, not proof. Next video: change one thing only.
@@ -30,7 +30,7 @@ Tenali 0.08 (2 / 23,846), SM Ep 4 0.52 (3 / 5,770), Lion 0 (0 / 226), SM Ep 3 3.
 Profile visits are tiny too (Tenali: 2), so people are not even tapping the name. Account: 23 followers on 21 Nov.
 
 Control: Tripurasura Ep 1 and Ep 2 (same series, look, narrator and length; no follow ask). Test: Ep 3, the finale.
-Changes on Ep 3 only (proposed wording; owner approves before the build):
+Changes on Ep 3 only (wording owner APPROVED 21 Nov, "Approve as is"; use exactly):
 1. End card: a new line under "UmaAI Studio": `ఫాలో అవ్వండి · మరిన్ని కథలు వస్తున్నాయి`
 2. Caption, line before the save line: `👉 ఇలాంటి మరిన్ని కథల కోసం @umaaivideostudio ని ఫాలో అవ్వండి.`
 3. Pinned comment, posted by the owner by hand: `భాగం 1, 2 ప్రొఫైల్‌లో ఉన్నాయి 👆 తర్వాతి కథ కోసం ఫాలో అవ్వండి 🙏`
