@@ -133,3 +133,4 @@ One lesson (also add to `docs/lessons.md`):
   only, Telugu shaping OK. Pre-flight **PASS**. Sent to the owner with `ep2-post-text.md`; waiting for approval. Not posted.
 
 - 21 Nov 09:14: Ep 2 cover made (owner approved video + text "Approve as is"): clip A frame at 1.5 s + "విశ్వమే రథం!", Ep 1 style, `media/ep2/cover/cover-ep2.jpg` 1080x1920; plus 16:9 `thumb-ep2-1280x720.jpg` (full frame on blurred fill, watermark kept). Shaping checked. Nothing posted.
+- 21 Nov: Ep 2 YouTube Short uploaded and SCHEDULED for Sun 22 Nov 06:00 IST: https://youtube.com/shorts/dqwr_p-hxvI (owner: "Schedule it now"). Approved text pasted exactly; cover-ep2.jpg; playlists Tripurasura Samharam + Devotional Stories; AI = yes; not for kids. Checks: no issues. Instagram: owner by hand. FB: owner's call.
