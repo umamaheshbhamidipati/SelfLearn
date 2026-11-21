@@ -96,3 +96,4 @@ One lesson (also add to `docs/lessons.md`):
   3. `build_ep2.sh` / `build_ep3.sh` copied from `build_ep1.sh` (clips: Ep 2 A at L1, B at L8; Ep 3 Cv2 at L1, D 1.3-5.9 s at L5, E choice at L6). Encodes outside 09:00-15:35.
   4. Post text for Ep 2/3 (owner approves exact text); Instagram posted by the owner by hand (no Meta automation, 19 Nov).
 - 21 Nov ~06:45: owner reports Ep 1 is on the Facebook Page (posted by hand): https://www.facebook.com/reel/1178217948227203 (AI content label on, approved caption). Registered in posts.csv.
+- 21 Nov ~06:55: Ep 1 Instagram reel https://www.instagram.com/reel/Df_C1SAi5qO/ posted by the main session in Chrome, on the owner's explicit request after a reminder of the 19 Nov automation flag (one post, slow steps, no page scripts). Collab invite to @umamaheshbhamidipati, AI label on, cover set, approved caption. Ep 1 is now on YouTube, Facebook and Instagram.
