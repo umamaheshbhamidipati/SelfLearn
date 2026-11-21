@@ -484,3 +484,9 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
   Frames at 76.0/77.1/78.5/79.1 = the held Shiva shot, 79.25 = Ep 3's kalasha: no card. Chapters unchanged
   (0:45 / 1:19 / 1:51). v3 kept in `media/compilation/v3-card/`. The hold frame has no "ఓం నమః శివాయ" caption (the
   caption was burned in over the card); the chant is heard.
+- **21 Nov ~06:40: compilation PUBLIC https://youtu.be/VQNsLVvbIM0** (owner: "File selected, go ahead and publish"). The
+  compilation session uploaded v4 and filled the details, then was stopped while still private; the main session finished
+  it: description checked = approved text (1017 chars, chapters 0:00/0:45/1:19/1:51), playlist Devotional Stories, AI =
+  yes, not for kids, no paid promotion. Thumbnail (owner: "image should be wedding one"): `media/compilation/thumb-wedding.jpg`,
+  1280x720, the Ep 3 wedding still (Lakshmi garlands Vishnu) over a blurred copy, "సముద్ర మథనం / పూర్తి కథ · 4 భాగాలు"
+  (Noto Serif Telugu Bold, `thumb.ass`).
