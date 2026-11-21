@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Noto Serif Telugu,62,&H00FFFFFF,&H00FFFFFF,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,1,4,3,2,70,70,440,1
+Style: Title,Noto Serif Telugu,130,&H006AC8F5,&H006AC8F5,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,1,5,6,5,0,0,0,1
+Style: Sub,Noto Serif Telugu,78,&H00E8F0F5,&H00E8F0F5,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,1,3,4,5,0,0,0,1
+Style: Brand,Noto Serif Telugu,40,&H00C8E6F3,&H00C8E6F3,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,1,3,4,5,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:05.03,Cap,,0,0,0,,బంగారు, వెండి, ఇనుప పురాలు… వాటిని కూల్చాలంటే ఒకే ఒక్క బాణం!
+Dialogue: 0,0:00:05.03,0:00:10.56,Cap,,0,0,0,,తారకాసురుని ముగ్గురు కుమారులు… తారకాక్షుడు, విద్యున్మాలి, కమలాక్షుడు.
+Dialogue: 0,0:00:10.56,0:00:14.43,Cap,,0,0,0,,బ్రహ్మను గురించి ఘోర తపస్సు చేసి… అమరత్వం కోరారు.
+Dialogue: 0,0:00:14.43,0:00:17.12,Cap,,0,0,0,,"పుట్టినవారికి మరణం తప్పదు" అన్నాడు బ్రహ్మ.
+Dialogue: 0,0:00:17.12,0:00:19.66,Cap,,0,0,0,,అప్పుడు వారు ఒక వింత వరం కోరారు.
+Dialogue: 0,0:00:19.66,0:00:25.05,Cap,,0,0,0,,మయుడు వారికోసం మూడు పురాలు నిర్మించాడు… స్వర్గంలో, ఆకాశంలో, భూమిపై.
+Dialogue: 0,0:00:25.05,0:00:30.48,Cap,,0,0,0,,వెయ్యేళ్లకు ఒక్కసారి… పుష్యమి నక్షత్రం వేళ ఆ మూడూ ఒకే వరుసలోకి వస్తాయి.
+Dialogue: 0,0:00:30.48,0:00:36.16,Cap,,0,0,0,,"ఆ క్షణంలో… ఒకే ఒక్క బాణంతో మూడింటినీ ఛేదించినవాడే మమ్మల్ని చంపగలడు."
+Dialogue: 0,0:00:36.16,0:00:40.56,Cap,,0,0,0,,అది అసాధ్యం అనుకున్నారు. వరగర్వంతో ముల్లోకాలనూ వేధించారు.
+Dialogue: 0,0:00:40.56,0:00:44.44,Cap,,0,0,0,,ఆ ఒక్క బాణం వేయగలవాడు… ఒక్కడే. ఆయన ఎవరో… తర్వాతి భాగంలో.
+Dialogue: 0,0:00:44.49,0:00:46.19,Title,,0,0,0,,{\pos(540,1330)\fs110\fad(400,0)}త్రిపురాసుర సంహారం
+Dialogue: 0,0:00:44.49,0:00:46.19,Sub,,0,0,0,,{\pos(540,1480)\fs60\fad(400,0)}భాగం 1 · తర్వాతి భాగం: దివ్య రథం
+Dialogue: 0,0:00:44.49,0:00:46.19,Brand,,0,0,0,,{\pos(540,1600)\fad(400,0)}UmaAI Studio

@@ -23,8 +23,9 @@ Made with AI (Google Flow / Veo, Nano Banana); AI narration (Gemini TTS); sound 
 ## YouTube
 Title: త్రిపురాసుర సంహారం 1: మూడు పురాలు | Tripurasura #shorts
 Description: the caption above with the last line replaced by
-#shorts #Tripurasura #KarthikaPournami #LordShiva #TeluguDevotional
-Altered or synthetic content: YES. Playlist: త్రిపురాసుర సంహారం.
+#shorts #Tripurasura #KarthikaPournami #LordShiva #TeluguDevotional #Tripurantaka #ShivaPurana #KarthikaMasam #Mahadev #HinduMythology #TeluguBhakti #TeluguStories #AIvideo
+(8 hashtags added by the owner's request, 21 Nov; YouTube ignores all hashtags above 15)
+Altered or synthetic content: YES. Playlists: త్రిపురాసుర సంహారం | Tripurasura Samharam (created 21 Nov, oldest first) + భక్తి కథలు | Devotional Stories (owner, 21 Nov).
 
 ## Cover
 Frame from clip 01 (blue sky, three cities) + "ఒకే ఒక్క బాణం?" (owner, 18 Nov): `media/ep1/cover/cover-ep1.jpg`.
