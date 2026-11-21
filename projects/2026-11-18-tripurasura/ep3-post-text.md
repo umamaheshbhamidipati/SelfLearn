@@ -5,10 +5,11 @@ Post: Tue 24 Nov morning. Instagram from @umaaivideostudio (personal account as 
 Upload file: `media/ep3/out/ep3-oka-banam-upload-10mb.mp4`; phone copy `ep3-oka-banam-phone.mp4`.
 E6 follow ask (owner APPROVED 21 Nov, `docs/experiments.md` "E6 detail"): end-card line + the 👉 caption line below. Ep 3 only.
 Pinned comment (owner, by hand): భాగం 1, 2 ప్రొఫైల్‌లో ఉన్నాయి 👆 తర్వాతి కథ కోసం ఫాలో అవ్వండి 🙏
+Ganapati question (owner APPROVED 21 Nov, "Do both"): the agra-puja line is in the caption; ready reply for comments asking why Shiva worships his own son (owner posts by hand): గణపతికి అగ్రపూజ వరం ఇచ్చింది శివుడే. అందుకే తాను కూడా ముందు గణపతిని పూజించాడు 🙏
 Smile tradition: in the caption only, as the Tamil Shaiva tradition (owner 18 Nov); the narration is arrow only.
 
 ## Instagram + Facebook caption
-వెయ్యేళ్ల క్షణం వచ్చింది… మూడు పురాలూ ఒకే వరుసలో! కానీ గణపతిని పూజించిన తర్వాతే మహాదేవుని ఒక్క బాణం కదిలింది. క్షణంలో త్రిపురాలు భస్మం! 🔱🔥
+వెయ్యేళ్ల క్షణం వచ్చింది… మూడు పురాలూ ఒకే వరుసలో! కానీ గణపతిని పూజించిన తర్వాతే మహాదేవుని ఒక్క బాణం కదిలింది. అగ్రపూజ వరం ఇచ్చింది స్వయంగా శివుడే; తాను పెట్టిన నియమాన్ని తానే పాటించాడు. క్షణంలో త్రిపురాలు భస్మం! 🔱🔥
 
 అందుకే శివుడు త్రిపురాంతకుడు. ఆ విజయానికి గుర్తుగా కార్తీక పౌర్ణమి నాడు దీపాలు వెలిగిస్తారని నమ్మకం. తమిళ శైవ సంప్రదాయంలో అయితే మహాదేవుడు చిరునవ్వుతోనే త్రిపురాలను దహించాడని చెబుతారు. శివపురాణం (రుద్రసంహిత, యుద్ధఖండం) లోని కథ.
 
@@ -18,7 +19,7 @@ Smile tradition: in the caption only, as the Tamil Shaiva tradition (owner 18 No
 
 🔖 సేవ్ చేసుకోండి, కుటుంబంతో షేర్ చేయండి.
 
-Tripurasura Samharam, Part 3 (finale): the thousand-year moment comes and the three cities stand in one line, but Mahadeva's arrow moves only after Ganapati is worshipped. One arrow with the light of countless suns turns the three cities to ash, and Shiva becomes Tripurantaka. Lamps on Karthika Pournami are believed to mark that victory. (In the Tamil Shaiva tradition, he burns the cities with a smile.) From the Shiva Purana. Happy Karthika Pournami!
+Tripurasura Samharam, Part 3 (finale): the thousand-year moment comes and the three cities stand in one line, but Mahadeva's arrow moves only after Ganapati is worshipped. Shiva himself had given Ganapati the boon of first worship, so even he honours it. One arrow with the light of countless suns turns the three cities to ash, and Shiva becomes Tripurantaka. Lamps on Karthika Pournami are believed to mark that victory. (In the Tamil Shaiva tradition, he burns the cities with a smile.) From the Shiva Purana. Happy Karthika Pournami!
 
 Made with AI (Google Flow / Veo, Nano Banana); AI narration (Gemini TTS); sound effects: Earshot. No music.
 
