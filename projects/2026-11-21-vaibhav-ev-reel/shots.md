@@ -20,6 +20,7 @@ curly black hair, thick moustache and short beard, darker skin, plain green work
 | 03 | 6–10 | REAL shop front with signage | ఇప్పుడు వచ్చేసింది మన వైభవ్ ఎలక్ట్రిక్ మొబిలిటీ! | slow push-in to the sign | photo to save |
 | 04 | 10–13 | REAL battery/charger repair (landscape: blurred-fill 9:16, crop the knee bottom-right) | బ్యాటరీ • చార్జర్ రిపేర్ | pan left→right | photo to save |
 | 05 | 13–16 | REAL hub-motor repair in the shop | మోటార్ • కంట్రోలర్ రిపేర్ | push-in on the technician | photo to save |
+| 05b | (alt) | REAL wiring repair on a yellow scooter (4th photo). Has phone-app heart/sparkle stickers: crop to the man + handlebar to lose most; never AI-edit his photo | కంట్రోలర్ & వైరింగ్ రిపేర్ | push-in | photo to save |
 | 06 | 16–19 | REAL shop front, zoom on the "Multi-brand" sign panel | ఏ కంపెనీ స్కూటర్ అయినా సర్వీసింగ్! | push-in | photo to save |
 | 07 | 19–22 | AI s06_ride: rider rides off happy, helmet | నమ్మకమైన స్పేర్ పార్ట్స్ — తక్కువ ధరలో! | slow pan | to download |
 | 08 | 22–26 | end card: logo, address, phone | VAIBHAV ELECTRIC MOBILITY / నాయుడుపేట సర్కిల్, కలవొడ్డు రోడ్, ఖమ్మం / 📞 74166 09872 | hold | ffmpeg |
