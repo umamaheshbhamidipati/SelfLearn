@@ -35,4 +35,6 @@ Note: the YouTube handle is @UmaAIVideoStudio; the line above keeps the approved
 Altered or synthetic content: YES. Not made for kids. Playlists: త్రిపురాసుర సంహారం | Tripurasura Samharam + భక్తి కథలు | Devotional Stories.
 
 ## Cover
-Proposed (made after the owner approves the cut): a frame of clip D (the arrow of light) + "ఒక్క బాణం!" (Noto Serif Telugu, Ep 1/2 style).
+Made 21 Nov (owner approves separately): clip D at 3.3 s (arrow of light on the drawn bow) + "ఒక్క బాణం!" (Noto Serif Telugu, Ep 1/2 style;
+at y=1700, below the horses): `media/ep3/cover/cover-ep3.jpg` (1080x1920). Optional 16:9 `media/ep3/cover/thumb-ep3-1280x720.jpg`
+(whole 9:16 frame on a blurred fill, watermark kept; title + "త్రిపురాసుర సంహారం భాగం 3").

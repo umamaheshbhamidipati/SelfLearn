@@ -153,3 +153,5 @@ One lesson (also add to `docs/lessons.md`):
   overlap; Veo watermark whole on clips (no crop); young adults only.
 - `ep3-post-text.md` drafted with the E6 lines (IG ఫాలో, YouTube సబ్‌స్క్రైబ్) and the smile tradition in the caption only. Waits for
   the owner's word-for-word approval. Cover proposed: clip D frame + "ఒక్క బాణం!" after approval. Nothing posted.
+
+- 21 Nov ~17:30: Ep 3 cover made after the owner approved video + text (d6bc4ff): clip D 3.3 s + "ఒక్క బాణం!" at y=1700 (y=1440 would sit on the horses), `media/ep3/cover/cover-ep3.jpg`; 16:9 `thumb-ep3-1280x720.jpg`. Pre-flight PASS (sizes, Telugu shaping, no overlap, watermark corner untouched). Waits for the owner's cover OK. Nothing posted.
