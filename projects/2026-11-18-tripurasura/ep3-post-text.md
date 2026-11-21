@@ -36,5 +36,5 @@ Altered or synthetic content: YES. Not made for kids. Playlists: త్రిప
 
 ## Cover
 Made 21 Nov (owner approves separately): clip D at 3.3 s (arrow of light on the drawn bow) + "ఒక్క బాణం!" (Noto Serif Telugu, Ep 1/2 style;
-at y=1700, below the horses): `media/ep3/cover/cover-ep3.jpg` (1080x1920). Optional 16:9 `media/ep3/cover/thumb-ep3-1280x720.jpg`
+title moved up 21 Nov on the owner's "Yes, move it up": fs160 at (300,345) in the open sky left of the bow tip, inside the IG grid 3:4 crop y 240-1680): `media/ep3/cover/cover-ep3.jpg` (1080x1920). Optional 16:9 `media/ep3/cover/thumb-ep3-1280x720.jpg`
 (whole 9:16 frame on a blurred fill, watermark kept; title + "త్రిపురాసుర సంహారం భాగం 3").

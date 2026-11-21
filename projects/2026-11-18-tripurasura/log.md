@@ -155,3 +155,4 @@ One lesson (also add to `docs/lessons.md`):
   the owner's word-for-word approval. Cover proposed: clip D frame + "ఒక్క బాణం!" after approval. Nothing posted.
 
 - 21 Nov ~17:30: Ep 3 cover made after the owner approved video + text (d6bc4ff): clip D 3.3 s + "ఒక్క బాణం!" at y=1700 (y=1440 would sit on the horses), `media/ep3/cover/cover-ep3.jpg`; 16:9 `thumb-ep3-1280x720.jpg`. Pre-flight PASS (sizes, Telugu shaping, no overlap, watermark corner untouched). Waits for the owner's cover OK. Nothing posted.
+- 21 Nov: Ep 3 cover title moved up (owner "Yes, move it up"): y=1700 fell outside the IG profile-grid 3:4 crop (y 240-1680) and under the reel UI. Now fs160 at (300,345), open sky left of the bow tip; ~60 px inside the crop top; clear of bow tip, string, face and watermark corner. Thumbnail unchanged. Nothing posted.
