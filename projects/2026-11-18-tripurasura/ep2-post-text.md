@@ -1,4 +1,4 @@
-# Ep 2 post text (DRAFT 21 Nov 2026, waiting for the owner's word-for-word approval; post Sun 22 Nov)
+# Ep 2 post text (drafted 21 Nov 2026; owner APPROVED 21 Nov "Approve as is": video + text word for word; post Sun 22 Nov; paste exactly)
 
 Post: Sun 22 Nov. Instagram from @umaaivideostudio (personal account as collaborator) **by the owner, by hand** (no
 Instagram/Meta automation unless the owner explicitly asks, as for Ep 1); YouTube Short; FB Page as the owner decides.
