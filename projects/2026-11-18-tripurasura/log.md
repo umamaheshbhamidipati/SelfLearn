@@ -121,3 +121,13 @@ One lesson (also add to `docs/lessons.md`):
   B whole slot (L8), push-ins elsewhere; end card "భాగం 2 · చివరి భాగం: ఒక్క బాణం". Total **37.6 s**. Full encode
   started 07:42 (before 09:00).
 - Post text draft `ep2-post-text.md` (Ep 1 pattern), for the owner's word-for-word approval.
+- Ep 3 stills (Gemini, 0 credits) → `media/ep3/stills/`: **s02_wait_a PASS** (shiva_A + Ep 2 s09_draw attached; same
+  drawn-bow pose as Ep 2 s09, which links the episodes; the frown is not readable at this size), **s04_ganesha_a PASS**
+  (palms joined, bow lowered, adult four-armed Ganesha on a lotus of light, modak). s07_face: Gemini answered "Limit
+  reached… resets Nov 21 at 11:14 AM" (the Gemini app's daily image limit; ~13 images today). s03_voice and s07_face
+  after 11:14.
+- 21 Nov 07:38-07:55: **Ep 2 built** (16m52s): 37.6 s, -16.3 LUFS, LRA 1.8; no black/frozen frames (blackdetect 0.3 s,
+  freezedetect 1.5 s: none). Phone copy `media/ep2/out/ep2-divya-ratham-phone.mp4` (720x1280, 6.6 MB), upload copy
+  `ep2-divya-ratham-upload-10mb.mp4` (7.7 MB). Frame sheet (1 per 2 s): every line captioned, end card
+  "త్రిపురాసుర సంహారం / భాగం 2 · చివరి భాగం: ఒక్క బాణం / UmaAI Studio", Veo watermark whole on A/B, young adults
+  only, Telugu shaping OK. Pre-flight **PASS**. Sent to the owner with `ep2-post-text.md`; waiting for approval. Not posted.
