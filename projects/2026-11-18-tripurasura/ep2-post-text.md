@@ -27,4 +27,5 @@ Description: the caption above with the last line replaced by
 Altered or synthetic content: YES. Not made for kids. Playlists: త్రిపురాసుర సంహారం | Tripurasura Samharam + భక్తి కథలు | Devotional Stories.
 
 ## Cover
-Proposed: a frame of clip A (the golden chariot) + "విశ్వమే రథం!" (Noto Serif Telugu), made after the owner approves the cut.
+Clip A at 1.5 s (golden chariot) + "విశ్వమే రథం!" (Noto Serif Telugu, same style as Ep 1): `media/ep2/cover/cover-ep2.jpg` (1080x1920).
+Optional 16:9 thumbnail `media/ep2/cover/thumb-ep2-1280x720.jpg` (whole 9:16 frame on a blurred fill, so the watermark stays; title + "త్రిపురాసుర సంహారం భాగం 2").

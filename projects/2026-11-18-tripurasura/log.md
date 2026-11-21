@@ -131,3 +131,5 @@ One lesson (also add to `docs/lessons.md`):
   `ep2-divya-ratham-upload-10mb.mp4` (7.7 MB). Frame sheet (1 per 2 s): every line captioned, end card
   "త్రిపురాసుర సంహారం / భాగం 2 · చివరి భాగం: ఒక్క బాణం / UmaAI Studio", Veo watermark whole on A/B, young adults
   only, Telugu shaping OK. Pre-flight **PASS**. Sent to the owner with `ep2-post-text.md`; waiting for approval. Not posted.
+
+- 21 Nov 09:14: Ep 2 cover made (owner approved video + text "Approve as is"): clip A frame at 1.5 s + "విశ్వమే రథం!", Ep 1 style, `media/ep2/cover/cover-ep2.jpg` 1080x1920; plus 16:9 `thumb-ep2-1280x720.jpg` (full frame on blurred fill, watermark kept). Shaping checked. Nothing posted.
