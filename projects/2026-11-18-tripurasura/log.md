@@ -97,3 +97,27 @@ One lesson (also add to `docs/lessons.md`):
   4. Post text for Ep 2/3 (owner approves exact text); Instagram posted by the owner by hand (no Meta automation, 19 Nov).
 - 21 Nov ~06:45: owner reports Ep 1 is on the Facebook Page (posted by hand): https://www.facebook.com/reel/1178217948227203 (AI content label on, approved caption). Registered in posts.csv.
 - 21 Nov ~06:55: Ep 1 Instagram reel https://www.instagram.com/reel/Df_C1SAi5qO/ posted by the main session in Chrome, on the owner's explicit request after a reminder of the 19 Nov automation flag (one post, slow steps, no page scripts). Collab invite to @umamaheshbhamidipati, AI label on, cover set, approved caption. Ep 1 is now on YouTube, Facebook and Instagram.
+
+## 21 Nov (06:57-): Ep 2/3 cut session (fresh session; owner: "Start, use E v2")
+- TTS Ep 2 (Achird, `scripts/tts.sh`, no style): L01-L09 done in `media/ep2/audio-draft/` (raw 3.9-5.1 s each, 39 s total).
+  One per-minute 429 after L04 (retried after a pause). Gemini 3.5 Flash transcription of the 9 lines: every line
+  present, no English, no noises. Ep 3: L01-L02 done (`media/ep3/audio-draft/`), then the **daily** 429 (10/day for
+  gemini-3.8-flash-tts; "retry in 6h26m" at ~07:10 = ~13:35 IST). L03-L09 after the reset.
+- Ep 2 stills, 0 credits, **Gemini app (gemini.google.com, Create image, 9:16)** in the owner's Chrome, refs attached
+  through the hidden file input (open Upload & tools first, then the inputs exist). → `media/ep2/stills/`:
+  - s02_plea_a FAIL (Shiva's skin blue-grey; ref is warm natural) → **s02_plea_b PASS** (2-up vs shiva_A: face, crescent,
+    third eye, serpent, tiger skin, skin tone; 4 Devas with joined palms on the snow, peak + trident as peak_A).
+  - s04_brahma_reins_a/b/c FAIL (only 3 horses; Gemini kept copying the attached frame's layout) → **s04_brahma_reins_d
+    PASS** (brahma_A only attached; four horses abreast, Brahma crown/black beards/four arms, lotus + book, reins).
+  - **s05_bow_a PASS** (s09_draw_a attached for the bow: one rocky gold bow, serpent string, hoods top, tail bottom).
+  - **s06_arrow_a PASS** (one arrow, small flame tip, navy core, no figure).
+  - s07_kneel_a FAIL (Shiva tiny, horses read as two) → **s07_kneel_b PASS** (face = shiva_A, four horses, front legs folded).
+  - s03 = no still: L3 uses clip A 4.0-7.9 s (a push-in on a clip frame would crop the Veo watermark).
+  - All `color_check` OK. Gemini stills carry the small sparkle mark bottom-right (shiva_A has it too); push-ins crop
+    the corners slightly, as in Ep 1.
+  - Gotcha: blind clicks on the Gemini start page hit a suggestion chip and opened a "Victorian detective" Deep Research
+    chat (plan only, not started); left in the owner's history.
+- `build_ep2.sh` (from build_ep1.sh; option 3: 1.08x, 0.25 s gaps, 2.0 s card): A 0-4.0 s (L1), A 4.0-7.9 s (L3),
+  B whole slot (L8), push-ins elsewhere; end card "భాగం 2 · చివరి భాగం: ఒక్క బాణం". Total **37.6 s**. Full encode
+  started 07:42 (before 09:00).
+- Post text draft `ep2-post-text.md` (Ep 1 pattern), for the owner's word-for-word approval.
