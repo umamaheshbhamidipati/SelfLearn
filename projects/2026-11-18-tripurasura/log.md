@@ -139,3 +139,17 @@ One lesson (also add to `docs/lessons.md`):
   1. End card: extra Brand-style line under "UmaAI Studio" (pos 540,1600): `{\pos(540,1665)\fad(400,0)}ఫాలో అవ్వండి · మరిన్ని కథలు వస్తున్నాయి`; check on the frame sheet that it overlaps nothing.
   2. IG/FB caption, line just before the 🔖 save line: `👉 ఇలాంటి మరిన్ని కథల కోసం @umaaivideostudio ని ఫాలో అవ్వండి.`
   3. YouTube description: the same line with `సబ్‌స్క్రైబ్ చేయండి` in place of `ఫాలో అవ్వండి`. Pinned comment = owner by hand.
+
+## 21 Nov (16:19-17:00): Ep 3 built (owner go-ahead via the main session, 16:19)
+- TTS L03-L09 (Achird, 25 s pauses, no 429). Transcription (gemini-3.5-flash-lite; 3.5-flash was overloaded): all 9 lines present.
+- Stills (Gemini, 0 credits, 9:16): s03_voice_a (golden rays through split clouds; no figure, text or face) PASS;
+  s07_face_a with shiva_A attached: 2-up vs shiva_A PASS (face, crescent, blue serpent, rudraksha, tiger skin, eyes to camera, third eye).
+  Reused: Ep 1 s07_align (fallback), Karthika 06 gopuram + 02 ghat (L8), 01 doorstep (L9), 07 Shiva blessing (end card) as k*.jpg.
+- build_ep3.sh: Cv2 2.0 s (L1), D 1.3 s (L5), Ev2 0-4.0 s (L6, white flash in); new `hold` = clip + frozen last frame if a line is
+  longer than the clip (not needed this time: every slot was shorter). E6 end-card line at y=1665 under "UmaAI Studio".
+  Build 16:27-16:46 (19 m). Outputs `media/ep3/out/ep3-oka-banam{,-phone,-upload-10mb}.mp4` (13.4 / 6.0 / 7.1 MB).
+- Pre-flight PASS: 34.46 s, 1080x1920, -16.2 LUFS, LRA 2.4; no black/freeze; colour check OK (R/B 0.65); cuts within
+  1-2 frames of each line start; captions on every line; end card: title, "భాగం 3 · ఓం నమః శివాయ", UmaAI Studio, E6 line, no
+  overlap; Veo watermark whole on clips (no crop); young adults only.
+- `ep3-post-text.md` drafted with the E6 lines (IG ఫాలో, YouTube సబ్‌స్క్రైబ్) and the smile tradition in the caption only. Waits for
+  the owner's word-for-word approval. Cover proposed: clip D frame + "ఒక్క బాణం!" after approval. Nothing posted.

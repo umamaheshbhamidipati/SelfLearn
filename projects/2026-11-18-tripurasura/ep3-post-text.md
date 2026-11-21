@@ -1,0 +1,37 @@
+# Ep 3 post text (DRAFT 21 Nov 2026; waits for the owner's word-for-word approval; post Tue 24 Nov morning, Karthika Pournami)
+
+Post: Tue 24 Nov morning. Instagram from @umaaivideostudio (personal account as collaborator) **by the owner, by hand**
+(no Instagram/Meta automation unless the owner explicitly asks); YouTube Short; FB Page as the owner decides.
+Upload file: `media/ep3/out/ep3-oka-banam-upload-10mb.mp4`; phone copy `ep3-oka-banam-phone.mp4`.
+E6 follow ask (owner APPROVED 21 Nov, `docs/experiments.md` "E6 detail"): end-card line + the 👉 caption line below. Ep 3 only.
+Pinned comment (owner, by hand): భాగం 1, 2 ప్రొఫైల్‌లో ఉన్నాయి 👆 తర్వాతి కథ కోసం ఫాలో అవ్వండి 🙏
+Smile tradition: in the caption only, as the Tamil Shaiva tradition (owner 18 Nov); the narration is arrow only.
+
+## Instagram + Facebook caption
+వెయ్యేళ్ల క్షణం వచ్చింది… మూడు పురాలూ ఒకే వరుసలో! కానీ గణపతిని పూజించిన తర్వాతే మహాదేవుని ఒక్క బాణం కదిలింది. క్షణంలో త్రిపురాలు భస్మం! 🔱🔥
+
+అందుకే శివుడు త్రిపురాంతకుడు. ఆ విజయానికి గుర్తుగా కార్తీక పౌర్ణమి నాడు దీపాలు వెలిగిస్తారని నమ్మకం. తమిళ శైవ సంప్రదాయంలో అయితే మహాదేవుడు చిరునవ్వుతోనే త్రిపురాలను దహించాడని చెబుతారు. శివపురాణం (రుద్రసంహిత, యుద్ధఖండం) లోని కథ.
+
+త్రిపురాసుర సంహారం, భాగం 3 (చివరి భాగం): ఒక్క బాణం. ఈ పౌర్ణమికి మీ ఇంటి గుమ్మంలో ఒక దీపం వెలిగించండి. 🪔 ఓం నమః శివాయ.
+
+👉 ఇలాంటి మరిన్ని కథల కోసం @umaaivideostudio ని ఫాలో అవ్వండి.
+
+🔖 సేవ్ చేసుకోండి, కుటుంబంతో షేర్ చేయండి.
+
+Tripurasura Samharam, Part 3 (finale): the thousand-year moment comes and the three cities stand in one line, but Mahadeva's arrow moves only after Ganapati is worshipped. One arrow with the light of countless suns turns the three cities to ash, and Shiva becomes Tripurantaka. Lamps on Karthika Pournami are believed to mark that victory. (In the Tamil Shaiva tradition, he burns the cities with a smile.) From the Shiva Purana. Happy Karthika Pournami!
+
+Made with AI (Google Flow / Veo, Nano Banana); AI narration (Gemini TTS); sound effects: Earshot. No music.
+
+#Tripurasura #KarthikaPournami #LordShiva #TeluguDevotional #AIvideo
+
+## YouTube
+Title: త్రిపురాసుర సంహారం 3: ఒక్క బాణం | Tripurasura #shorts
+Description: the caption above, with the 👉 line replaced by
+👉 ఇలాంటి మరిన్ని కథల కోసం @umaaivideostudio ని సబ్‌స్క్రైబ్ చేయండి.
+and the last line replaced by
+#shorts #Tripurasura #KarthikaPournami #LordShiva #TeluguDevotional #Tripurantaka #ShivaPurana #KarthikaMasam #Mahadev #HinduMythology #TeluguBhakti #TeluguStories #AIvideo
+Note: the YouTube handle is @UmaAIVideoStudio; the line above keeps the approved text exactly (@umaaivideostudio), which YouTube links case-insensitively.
+Altered or synthetic content: YES. Not made for kids. Playlists: త్రిపురాసుర సంహారం | Tripurasura Samharam + భక్తి కథలు | Devotional Stories.
+
+## Cover
+Proposed (made after the owner approves the cut): a frame of clip D (the arrow of light) + "ఒక్క బాణం!" (Noto Serif Telugu, Ep 1/2 style).
