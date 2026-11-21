@@ -1,4 +1,4 @@
-# Ep 3 post text (DRAFT 21 Nov 2026; waits for the owner's word-for-word approval; post Tue 24 Nov morning, Karthika Pournami)
+# Ep 3 post text (owner APPROVED 21 Nov 2026, "Approve as is": video + this text, word for word; post Tue 24 Nov morning, Karthika Pournami)
 
 Post: Tue 24 Nov morning. Instagram from @umaaivideostudio (personal account as collaborator) **by the owner, by hand**
 (no Instagram/Meta automation unless the owner explicitly asks); YouTube Short; FB Page as the owner decides.
