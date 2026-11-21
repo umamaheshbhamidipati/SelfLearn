@@ -17,6 +17,7 @@ EP=("$M/ep1/out/ep1-kurma-voice-sfx.mp4" "$M/ep2/out/ep2-neelakantha.mp4"
 RANGE=(tv pc tv tv)            # Ep 2's master is full-range (yuvj420p); converted to tv here
 TITLE=3.0; FPS=24; TARGET=-16
 CUT=(1009 820 778 0)           # 0 = whole episode. Frame = first frame of Ep1 end card (42.17 s), Ep2 'తర్వాతి భాగం' line (34.19 s), Ep3 end card (32.43 s); voice ends >=0.4 s before, teaser starts >=0.2 s after
+HOLD=(0 762 0 0)               # >0: picture stops at this frame and its last frame is held to CUT (Ep 2: the Shiva shot holds over "ఓం నమః శివాయ" instead of the నీలకంఠుడు card at 31.75 s; owner 21 Nov)
 FO=(0.2 0.2 0.2 0.05)          # audio fade-out at each episode's end (s)
 SWELL=$M/ep4/sfx/riser_swell.wav
 OUT=$O/samudra-manthan-full-16x9.mp4
@@ -57,7 +58,8 @@ if stage video; then
   in=(-loop 1 -framerate $FPS -t $TITLE -i "$O/title-plate.png"); fc=""
   fc+="[0:v]format=yuv420p,$BG,lutyuv=y='16+(val-16)*0.7',ass=title-compilation.ass,fade=t=in:d=0.5,trim=0:$TITLE,setpts=PTS-STARTPTS,format=yuv420p[v0];"
   for i in 0 1 2 3; do in+=(-i "${EP[$i]}"); k=$((i+1))
-    fc+="[$k:v]setpts=PTS-STARTPTS,fps=$FPS,trim=end_frame=${nfr[$i]},scale=in_range=${RANGE[$i]}:out_range=tv,format=yuv420p,split[b$k][f$k];"
+    if [ "${HOLD[$i]}" -gt 0 ]; then tr="trim=end_frame=${HOLD[$i]},tpad=stop_mode=clone:stop=$(( ${nfr[$i]} - ${HOLD[$i]} ))"; else tr="trim=end_frame=${nfr[$i]}"; fi
+    fc+="[$k:v]setpts=PTS-STARTPTS,fps=$FPS,$tr,scale=in_range=${RANGE[$i]}:out_range=tv,format=yuv420p,split[b$k][f$k];"
     fc+="[b$k]$BG[bb$k];[f$k]$FG[ff$k];[bb$k][ff$k]overlay=656:0,format=yuv420p[v$k];"; done
   fc+="[v0][v1][v2][v3][v4]concat=n=5:v=1:a=0[v]"
   in+=(-i "$O/audio-final.wav"); ai=$(( ${#EP[@]} + 1 ))

@@ -477,3 +477,10 @@ NOT blowing, pointed end facing away"). Next reset: animate s1_conch_a and s6_co
   still Ep 3 ends on (no scene cut), its first internal cut at 115.625 = 111.625 + 4.0 as in v1. Frames at each cut:
   no teaser line or next-part card; Ep 2 ends on its నీలకంఠుడు card. Phone copy (8.3 MB) sent by Telegram 16:23.
 - 16:24 Studio upload dialog open in Chrome; owner asked (Telegram) to pick the full file via RDP. Not uploaded yet.
+- **21 Nov v4 (owner: "1:16-1:18 why title card is shown" → "Keep chant, drop card"):** `HOLD=(0 762 0 0)`: Ep 2's
+  picture stops at frame 762 (where its నీలకంఠుడు card faded in, 31.75 s) and the last Shiva frame (meditating, Devas
+  bowing) is held (`tpad=stop_mode=clone`) to frame 820 while "ఓం నమః శివాయ" plays (76.9-78.2 s, -13..-22 dB RMS).
+  Audio unchanged. Built 05:50-06:14 (video + phone copy + check): 153.92 s, 66 MB, -16.0 LUFS, peak -3.7 dBFS.
+  Frames at 76.0/77.1/78.5/79.1 = the held Shiva shot, 79.25 = Ep 3's kalasha: no card. Chapters unchanged
+  (0:45 / 1:19 / 1:51). v3 kept in `media/compilation/v3-card/`. The hold frame has no "ఓం నమః శివాయ" caption (the
+  caption was burned in over the card); the chant is heard.
