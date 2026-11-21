@@ -104,3 +104,7 @@ Reading against the "15–30 s reels" claim (artgrowthclub post the owner sent):
 but it also differs in subject (moral story, not mythology), hook and thumbnail. **Inconclusive**; worth one test (a ≤30 s cut).
 - Instagram (owner OK 21 Nov, slow clicks): **Tenali reel 23,846 views** (18,074 viewers, 99.6% non-followers), 715 likes,
   25 shares, 7 saves (first saves above 0), but only 2 follows. Chrome disconnected after this one; other reels not read yet.
+- Instagram, rest of the read (slow clicks): SM Ep 4 **5,770 views** (99.8% non-followers), 80 likes, 8 saves, 4 shares, 3 follows;
+  SM Ep 3 1,472 views, 3 saves, 5 follows; SM Ep 2 244 views, 1 follow; Lion 226 views, 1 save. Grid also shows Tripurasura Ep 1 at 1,629 (day 0, not logged).
+  Instagram now out-reaches YouTube on every story (Tenali 23.8K vs 4.2K; SM Ep 4 5.8K vs 119). Reach is almost all non-followers,
+  but follows stay tiny (2-5 per reel; account at 23 followers). Problem to solve next: turning viewers into followers.
