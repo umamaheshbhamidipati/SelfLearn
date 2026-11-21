@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Hook,Noto Sans Telugu,84,&H00FFFFFF,&H00FFFFFF,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,1,6,4,8,60,60,130,1
+Style: Box,Noto Sans Telugu,72,&H00FFFFFF,&H00FFFFFF,&H00208A1E,&H00208A1E,-1,0,0,0,100,100,0,0,3,18,0,2,60,60,300,1
+Style: AI,Noto Sans,40,&H00FFFFFF,&H00FFFFFF,&H00101010,&H80000000,0,0,0,0,100,100,0,0,1,2,1,7,40,40,60,1
+Style: Name,Noto Sans,112,&H00803A0D,&H00803A0D,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,40,40,800,1
+Style: Info,Noto Sans Telugu,64,&H00303030,&H00303030,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,60,60,1090,1
+Style: Phone,Noto Sans Telugu,96,&H00FFFFFF,&H00FFFFFF,&H001E1EC8,&H001E1EC8,-1,0,0,0,100,100,0,0,3,24,0,8,60,60,1380,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.00,AI,,0,0,0,,AI-generated image
+Dialogue: 0,0:00:00.00,0:00:03.00,Hook,,0,0,0,,{\fad(0,150)}మీ EV స్కూటర్\Nఆగిపోయిందా?
+Dialogue: 0,0:00:03.00,0:00:06.00,Hook,,0,0,0,,{\fad(150,150)}సర్వీసింగ్ కోసం\Nఎక్కడెక్కడో వెతుకుతున్నారా?
+Dialogue: 0,0:00:06.00,0:00:10.00,Box,,0,0,0,,{\fad(150,150)}ఇప్పుడు వచ్చేసింది మన\N{\c&H0018E6F5&}వైభవ్ ఎలక్ట్రిక్ మొబిలిటీ!
+Dialogue: 0,0:00:10.00,0:00:13.00,Box,,0,0,0,,{\fad(150,150)}బ్యాటరీ • చార్జర్ రిపేర్
+Dialogue: 0,0:00:13.00,0:00:16.00,Box,,0,0,0,,{\fad(150,150)}మోటార్ రిపేర్
+Dialogue: 0,0:00:16.00,0:00:19.00,Box,,0,0,0,,{\fad(150,150)}కంట్రోలర్ & వైరింగ్ రిపేర్
+Dialogue: 0,0:00:19.00,0:00:22.00,Box,,0,0,0,,{\fad(150,150)}ఏ కంపెనీ స్కూటర్ అయినా\Nసర్వీసింగ్ చేయబడును!
+Dialogue: 0,@END@,@FIN@,Name,,0,0,0,,{\fad(200,0)}VAIBHAV\NELECTRIC MOBILITY
+Dialogue: 0,@END@,@FIN@,Info,,0,0,0,,{\fad(200,0)}EV సర్వీస్ & సేల్స్\Nనాయుడుపేట సర్కిల్, కలవొడ్డు రోడ్, ఖమ్మం
+Dialogue: 0,@END@,@FIN@,Phone,,0,0,0,,{\fad(200,0)}కాల్: 74166 09872

@@ -34,3 +34,14 @@
 | Likes / comments | | |
 
 One lesson (also add to `docs/lessons.md`):
+
+## 21 Nov ~22:00: first full cut (images only, 0 credits)
+- Client's 4 real photos saved by the owner to `media/ref/1-4.jpeg`. `build.sh` + `reel.ass` → `media/out/vaibhav-ev-reel.mp4`
+  (26 s, 1080x1920, 24 fps, muted; build 2m17s on the laptop).
+- Order: AI s01 dead scooter → AI s02 phone (both labelled "AI-generated image"; zoom anchored bottom-right so the Gemini
+  sparkle stays) → real shop front → battery/charger (blurred fill, knee cropped) → hub motor → wiring (heart stickers
+  still faintly visible) → signboard brands close-up (soft, low-res) → logo end card (name, Telugu address, కాల్: 74166 09872).
+- Fixes after the contact sheet: hook text moved up off the rider's head; end-card text larger; 📞 emoji had no glyph → "కాల్:".
+- s06_ride (rider riding off, helmet) is made in Gemini but Chrome would not save it (full-size downloads stalled after 3,
+  also from the image viewer). Owner can download it by hand to `media/stills/s06_ride_a.png`; `build.sh` adds it automatically.
+- Next: owner/friend review → music in Instagram's audio library at posting (or a royalty-free track) → friend posts.
