@@ -102,3 +102,5 @@ Nine readings added (since published, Studio lags ~2 days). Stayed-to-watch / av
 Median stayed 46.6% (target 40%); median views 110 (gate 1000). Too few posts to judge.
 Reading against the "15–30 s reels" claim (artgrowthclub post the owner sent): the shortest story (Tenali, 31 s) did best,
 but it also differs in subject (moral story, not mythology), hook and thumbnail. **Inconclusive**; worth one test (a ≤30 s cut).
+- Instagram (owner OK 21 Nov, slow clicks): **Tenali reel 23,846 views** (18,074 viewers, 99.6% non-followers), 715 likes,
+  25 shares, 7 saves (first saves above 0), but only 2 follows. Chrome disconnected after this one; other reels not read yet.
