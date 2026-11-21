@@ -95,3 +95,4 @@ One lesson (also add to `docs/lessons.md`):
   2. Remaining stills (0 credits; attach `media/refs/shiva_A.jpg` / `brahma_A.jpg` / `peak_A.jpg` per shots files, 2-up check): Ep 2 s02_plea, s03 (clip A frame ok), s04_brahma_reins, s05_bow, s06_arrow, s07_kneel; Ep 3 s02_wait, s03_voice, s04_ganesha, s06_ash (or clip E), s07_face; Ep 3 s08/s09 reuse Karthika stills.
   3. `build_ep2.sh` / `build_ep3.sh` copied from `build_ep1.sh` (clips: Ep 2 A at L1, B at L8; Ep 3 Cv2 at L1, D 1.3-5.9 s at L5, E choice at L6). Encodes outside 09:00-15:35.
   4. Post text for Ep 2/3 (owner approves exact text); Instagram posted by the owner by hand (no Meta automation, 19 Nov).
+- 21 Nov ~06:45: owner reports Ep 1 is on the Facebook Page (posted by hand): https://www.facebook.com/reel/1178217948227203 (AI content label on, approved caption). Registered in posts.csv.
