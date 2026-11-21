@@ -92,3 +92,13 @@ subscribers gained per Short (YouTube), average watch time (Instagram desktop do
 - Saves are still 0 on both Instagram reels. The two AI reels (365, 496 views) sit inside the range of the
   earlier reels on the same account (268 to 783 on the reels grid).
 - Missed readings stay missed (7 listed by `metrics.py due`). Next due: 28-day readings on 3 and 5 Dec.
+
+## 21 Nov 2026 — YouTube Studio read (owner asked "take control of chrome and check"; Instagram not read: no IG automation)
+Nine readings added (since published, Studio lags ~2 days). Stayed-to-watch / avg view duration / subs:
+- Tenali (0:31) 3d: views 4.2K (rounded), **74.5% stayed**, 0:28 avg (92%), +16 subs, 122 likes. Shorts feed 2.6K of 2.8K 48h views.
+- Samudra Manthan Ep 3 3d: ~1.1K, 61.4%, 0:23 (62%), +5. Ep 4 3d: 119, 48.1%, 0:34 (80%). Ep 2 5d: 101, 30.8%, 0:22 (57%). Ep 1 5d: **3 views** (feed never picked it up).
+- Karthika deepam 5d: ~1.2K, 46.6%, 0:14 (68%), +2. Lion 3d: 14 views, 16.7%.
+- Diwali Lakshmi 16d: 284, 24.8%. Happy Diwali 14d: 135, 50.5%.
+Median stayed 46.6% (target 40%); median views 110 (gate 1000). Too few posts to judge.
+Reading against the "15–30 s reels" claim (artgrowthclub post the owner sent): the shortest story (Tenali, 31 s) did best,
+but it also differs in subject (moral story, not mythology), hook and thumbnail. **Inconclusive**; worth one test (a ≤30 s cut).
