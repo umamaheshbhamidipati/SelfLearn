@@ -134,3 +134,8 @@ One lesson (also add to `docs/lessons.md`):
 
 - 21 Nov 09:14: Ep 2 cover made (owner approved video + text "Approve as is"): clip A frame at 1.5 s + "విశ్వమే రథం!", Ep 1 style, `media/ep2/cover/cover-ep2.jpg` 1080x1920; plus 16:9 `thumb-ep2-1280x720.jpg` (full frame on blurred fill, watermark kept). Shaping checked. Nothing posted.
 - 21 Nov: Ep 2 YouTube Short uploaded and SCHEDULED for Sun 22 Nov 06:00 IST: https://youtube.com/shorts/dqwr_p-hxvI (owner: "Schedule it now"). Approved text pasted exactly; cover-ep2.jpg; playlists Tripurasura Samharam + Devotional Stories; AI = yes; not for kids. Checks: no issues. Instagram: owner by hand. FB: owner's call.
+
+- 21 Nov: E6 follow ask, Ep 3 ONLY (owner "Approve as is"; spec docs/experiments.md "E6 detail", 8a65d87). Ep 1/2 unchanged. To apply when writing build_ep3.sh / ep3-post-text.md:
+  1. End card: extra Brand-style line under "UmaAI Studio" (pos 540,1600): `{\pos(540,1665)\fad(400,0)}ఫాలో అవ్వండి · మరిన్ని కథలు వస్తున్నాయి`; check on the frame sheet that it overlaps nothing.
+  2. IG/FB caption, line just before the 🔖 save line: `👉 ఇలాంటి మరిన్ని కథల కోసం @umaaivideostudio ని ఫాలో అవ్వండి.`
+  3. YouTube description: the same line with `సబ్‌స్క్రైబ్ చేయండి` in place of `ఫాలో అవ్వండి`. Pinned comment = owner by hand.
