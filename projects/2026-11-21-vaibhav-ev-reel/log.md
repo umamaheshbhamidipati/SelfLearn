@@ -55,3 +55,9 @@ One lesson (also add to `docs/lessons.md`):
 - `build.sh` now: trim voice silence → `timeline.py` (shot lengths = line + 0.45 s; L7 spread over the brands sign and
   the services board; end card ≥ 4 s) → segments → voice track by adelay → captions + AAC. 31.3 s, voice -16.3 LUFS.
 - If `media/stills/s06_ride_a.png` exists, shot 08 uses the riding still instead of the services board.
+
+## 22 Nov 07:30: owner "you missed some voices"
+- Missing = L6 (wiring shot) and L8 (end card). TTS retried at 07:29: still HTTP 429 (daily quota, resets ~13:35 IST).
+- `finish-voice.sh` added: records missing lines (retries every 10 min, up to 4 h), waits until 15:36, runs `build.sh`,
+  sends `notify-phone`. Scheduling it with `systemd-run --user --on-calendar` was blocked by the permission check:
+  owner to run it, or ask a session after 13:35.
