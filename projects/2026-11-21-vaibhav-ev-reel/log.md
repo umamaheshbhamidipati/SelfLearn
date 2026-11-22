@@ -61,3 +61,7 @@ One lesson (also add to `docs/lessons.md`):
 - `finish-voice.sh` added: records missing lines (retries every 10 min, up to 4 h), waits until 15:36, runs `build.sh`,
   sends `notify-phone`. Scheduling it with `systemd-run --user --on-calendar` was blocked by the permission check:
   owner to run it, or ask a session after 13:35.
+
+## 22 Nov 13:47: all 8 voice lines
+- L6 + L8 recorded (Achird) after the quota reset. L8 now ends "ఇప్పుడే కాల్ చేయండి: ఏడు నాలుగు ఒకటి ఆరు ఆరు... సున్నా తొమ్మిది ఎనిమిది ఏడు రెండు" (owner: number in Telugu words).
+- Rebuilt (Sunday, no market, nice 10): 36.9 s; end card 10.5 s to fit the spoken address + number. Not yet listened to by Claude: owner to check pronunciation.
