@@ -26,7 +26,7 @@ shots = [
     ("06_wiring", "L6", 2.6, "Box",  r"కంట్రోలర్ & వైరింగ్ రిపేర్"),
     ("07_brands", "L7", 4.0, "Box",  r"ఏ కంపెనీ స్కూటర్ అయినా\Nసర్వీసింగ్!"),
     ("08_ride" if ride else "08_board", None, 0, "Box", r"నాణ్యమైన స్పేర్ పార్ట్స్\Nతక్కువ ధరలో!"),
-    ("09_end",    "L8", 3.5, None, None),
+    ("09_end",    "L8", 8.0, None, None),   # address + "call now" + the number spoken digit by digit
 ]
 
 t, rows, events, delays = 0.0, [], [], []
