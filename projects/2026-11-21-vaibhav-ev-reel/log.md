@@ -45,3 +45,13 @@ One lesson (also add to `docs/lessons.md`):
 - s06_ride (rider riding off, helmet) is made in Gemini but Chrome would not save it (full-size downloads stalled after 3,
   also from the image viewer). Owner can download it by hand to `media/stills/s06_ride_a.png`; `build.sh` adds it automatically.
 - Next: owner/friend review → music in Instagram's audio library at posting (or a royalty-free track) → friend posts.
+
+## 22 Nov ~00:30: smooth zoom + Telugu voice
+- Owner: "video is sometimes vibrating". zoompan rounds to whole pixels → replaced with `perspective` (sub-pixel, cubic,
+  smoothstep ease 1.00→1.06). Checked first vs last frame: clean push-in, no distortion.
+- Owner: add the Telugu voice we use for reels → Achird via `scripts/tts.sh`, lines in `narration.txt`.
+  L1-L5 and L7 done; **L6 and L8 failed: free TTS quota (10/day for gemini-3.8-flash-tts) used up; resets ~13:35 IST.**
+  After the reset: `scripts/tts.sh` L6 and L8 (loop in log 21 Nov style, `</dev/null`), then `./build.sh` (auto-retimes).
+- `build.sh` now: trim voice silence → `timeline.py` (shot lengths = line + 0.45 s; L7 spread over the brands sign and
+  the services board; end card ≥ 4 s) → segments → voice track by adelay → captions + AAC. 31.3 s, voice -16.3 LUFS.
+- If `media/stills/s06_ride_a.png` exists, shot 08 uses the riding still instead of the services board.
