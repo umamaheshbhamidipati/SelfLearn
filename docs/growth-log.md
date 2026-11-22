@@ -108,3 +108,47 @@ but it also differs in subject (moral story, not mythology), hook and thumbnail.
   SM Ep 3 1,472 views, 3 saves, 5 follows; SM Ep 2 244 views, 1 follow; Lion 226 views, 1 save. Grid also shows Tripurasura Ep 1 at 1,629 (day 0, not logged).
   Instagram now out-reaches YouTube on every story (Tenali 23.8K vs 4.2K; SM Ep 4 5.8K vs 119). Reach is almost all non-followers,
   but follows stay tiny (2-5 per reel; account at 23 followers). Problem to solve next: turning viewers into followers.
+
+## 2026-11-22 (weekly growth check, scheduled, about 10:05 IST)
+
+YouTube Studio read in Chrome (read-only). **Instagram and Facebook not read:** since the 19 Nov automation flag each
+Meta session needs the owner's own OK, and this scheduled run had no one to ask. Two rows added to `docs/metrics.csv`
+(Tripurasura Ep 1 and the Samudra Manthan long-form, both 1d). The other 25 readings `metrics.py due` lists were not taken:
+most YouTube ones were read yesterday (21 Nov), and the Instagram/Facebook ones need the owner.
+
+| UmaAI Studio (YouTube) | 2026-11-22 | Change |
+|---|---|---|
+| Total subscribers | **43** | 10 on 15 Nov → +33 in a week |
+| Views, last 28 days | 8.0K | 425 on 15 Nov |
+| Watch time, last 28 days | 31.3 h | 1.2 h on 15 Nov |
+| Subscribers, last 28 days | +36 | |
+| 48-hour views | 4,205 | |
+| Traffic, 28 days | Suggested 83%, other YouTube features 6%, external 6% | Shorts feed now dominates |
+| Audience | 99% new viewers; top group male 25–34 | |
+| Channel page | Diya avatar and banner both show; 43 subscribers, 17 videos | |
+
+| Post | Age | Views | Stayed / swiped | Avg view duration | Subs | Likes | Other |
+|---|---|---|---|---|---|---|---|
+| Tripurasura Ep 1 (Short) | 1d | 1,302 | **63.5% / 36.5%** | not shown | +2 | 23 | 5.4 watch h; Shorts feed 1.2K |
+| Samudra Manthan full (16:9, 2:34) | 1d | 58 | — | 0:53 (34%) | 0 | | **4.0K impressions, CTR 1.0%** |
+| Tripurasura Ep 2 (Short) | first 4 h | 1.5K | | 65% viewed | | 48 | not logged (not a due reading) |
+
+- The Tripurasura series starts strong on YouTube: Ep 1 has 63.5% stayed (second only to Tenali's 74.5%) and Ep 2 passed
+  1.5K views in its first 4 hours, faster than any earlier Short. Two posts, so a hint, not a pattern.
+- Subscribers still trail views: Ep 1 turned 1,302 views into 2 subscribers (1.5 per 1,000). The E6 follow ask on Ep 3 (Tue 24 Nov)
+  is the test for this.
+- The long-form compilation is not being clicked: YouTube showed it 4,000 times and 1% clicked. Day 1 only.
+- No experiment is 7 days old yet. E1/E2 (Karthika) reach day 7 tomorrow, but their metrics are Instagram ones and
+  `docs/posts.csv` has no Instagram post for Karthika, so they may not be readable (see `docs/experiments.md`).
+
+### 3 improvements
+
+1. **Get the Instagram readings E6 needs, without automation.** E6 is judged on Instagram follows per 1,000 views at 7 days for
+   Tripurasura Ep 1, 2 and 3 (28 Nov, 29 Nov, 1 Dec). Either the owner sends phone screenshots of each reel's insights on those days,
+   or gives a per-session OK for a slow read. Without them the first designed experiment has no verdict.
+2. **Fix the long-form thumbnail before judging long-form.** CTR 1.0% on 4.0K impressions means the picture/title is not chosen, whatever
+   the video holds (0:53 average). The owner can try one swap in Studio (big Telugu text "సముద్ర మథనం · పూర్తి కథ" on a single close face)
+   and compare CTR at 7 days; no new long-form until that reading.
+3. **Point Tripurasura viewers at the series.** The series is pulling Shorts-feed traffic (Ep 2: 1.5K in 4 h). On YouTube, set each
+   Tripurasura Short's related video to the next episode (Ep 1 → Ep 2, Ep 2 → Ep 3 once public) so the 63% who stay have a one-tap path
+   to the next part; read Ep 1's subscribers at 3d (24 Nov) against today's +2.

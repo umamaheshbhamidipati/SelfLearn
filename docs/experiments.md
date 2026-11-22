@@ -22,6 +22,12 @@ a song added in the app while YouTube has library music baked in. So Karthika di
 "hint only / inconclusive", and the two platforms must not be compared with each other. E3-E5 (`docs/niche-and-hooks-research.md`)
 are the first experiments designed with one variable; register them here when their videos are planned.
 
+**Check 22 Nov (weekly growth check): no verdicts yet.** No experiment's video is 7 days old (Karthika posted 16 Nov: day 6).
+E1 and E2 are measured on Instagram, but `docs/posts.csv` has no Instagram post for Karthika (YouTube and Facebook only; the
+15-16 Nov lesson says the Instagram one went out from the personal account with a song). Owner to confirm whether it exists and
+its link; if it does not, E1/E2 have no reading and stay **inconclusive (not measured)**. E6 needs Instagram 7d readings on
+28 Nov, 29 Nov and 1 Dec.
+
 Template for new rows: ID, video, variable, hypothesis, metric + threshold, status, verdict (keep / revert / inconclusive).
 
 ## E6 detail (planned 21 Nov 2026): the follow ask

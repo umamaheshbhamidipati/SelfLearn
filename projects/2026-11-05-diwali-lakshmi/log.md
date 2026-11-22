@@ -27,12 +27,15 @@
 
 | Metric | Instagram | YouTube Shorts |
 |---|---|---|
-| Views | | |
-| **Average watch time** (main metric; baseline 0:02) | | |
-| % views from non-followers | | |
-| **Shares** | | |
-| **Saves** | | |
-| Follows / subscribers gained | | |
-| Likes / comments | | |
+| Views | 365 (10d) | 284 (16d) |
+| **Average watch time** (main metric; baseline 0:02) | 0:04 (3d; not shown on desktop later) | 0:24, 80% viewed (16d) |
+| % views from non-followers | 64.4% (10d) | — (stayed 24.8%, swiped 75.2%, 16d) |
+| **Shares** | 1 (10d) | not read |
+| **Saves** | 0 (10d) | — (YouTube does not show saves) |
+| Follows / subscribers gained | 1 (10d) | 4 (16d) |
+| Likes / comments | 14 / 0 (10d) | 18 / — (16d) |
+
+Filled 22 Nov by the weekly check from `docs/metrics.csv`. The 7-day readings were missed; these are the nearest later readings,
+labelled with their real age.
 
 One lesson (also add to `docs/lessons.md`):
