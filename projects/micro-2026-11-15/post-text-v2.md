@@ -76,3 +76,6 @@ Made with AI (Google Flow / Veo, Nano Banana); AI narration (Gemini TTS). No mus
 - 18 Nov ~19:00: tenali Instagram posted by this session's 18:57 job (https://www.instagram.com/reel/Df4ngzUCIz_/), crop
   Original, caption checked by JS against this file (equal), collab invite to @umamaheshbhamidipati, AI label on,
   personal FB share off. Chandra Instagram (Mon 23 Nov 19:00) still has no task: post by hand when the owner says.
+- 23 Nov ~23:40: chandra Instagram posted in Chrome on the owner's explicit request (https://www.instagram.com/reel/DgF_MNOCV81/),
+  collab invite sent, AI label on. Missed at 19:00 (no task, no reminder). Owner reports the **Facebook** scheduled post
+  (1496232362379473) did not appear: not checked (Meta hold); owner to look in Business Suite -> Content before any re-upload.
