@@ -79,3 +79,4 @@ Made with AI (Google Flow / Veo, Nano Banana); AI narration (Gemini TTS). No mus
 - 23 Nov ~23:40: chandra Instagram posted in Chrome on the owner's explicit request (https://www.instagram.com/reel/DgF_MNOCV81/),
   collab invite sent, AI label on. Missed at 19:00 (no task, no reminder). Owner reports the **Facebook** scheduled post
   (1496232362379473) did not appear: not checked (Meta hold); owner to look in Business Suite -> Content before any re-upload.
+- 23 Nov ~23:45 correction: chandra Facebook IS live (https://www.facebook.com/reel/1662587738577718, 172 views, AI label). It sits 5th in the Reels tab, between Samudra Ep 3 and tenali, not first; probably ordered by upload date (16 Nov). Do not re-upload.
