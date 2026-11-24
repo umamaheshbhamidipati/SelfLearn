@@ -45,3 +45,10 @@ Confounds: Ep 3 is the finale (finales may draw fans of Ep 1-2) and posts on Kar
 Using a rate (per 1,000 views) handles reach; the finale effect cannot be separated. Expect "inconclusive" unless the gap is large.
 If it is a hint: repeat on the next two reels before making it a rule (three references + our own test).
 Reading: `metrics.py add` 7d rows for tripurasura-ep1/ep2/ep3 instagram, with follows and profile activity in notes.
+
+## Idea (25 Nov 2026): Seedance 2.5 vs Veo on hard shots
+Owner bought Higgsfield Lite Annual (100 credits/month, ~7 Seedance 2.5 clips; `docs/finance.csv`). Not started.
+Plan: pick one shot type Veo keeps failing (fast action, or the same face across clips), generate it in both, and compare
+cost per usable clip (Flow: 10 credits per 8 s Veo 3.1 Lite clip, ~1.5-2 tries). Higgsfield's fair-use rule forbids
+automation tools, so the owner generates there by hand (no Claude in Chrome driving), or the owner OKs the risk first.
+Higgsfield credits expire monthly: use them each month or the test costs more than it shows.
