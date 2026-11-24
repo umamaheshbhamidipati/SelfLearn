@@ -49,6 +49,10 @@ Reading: `metrics.py add` 7d rows for tripurasura-ep1/ep2/ep3 instagram, with fo
 ## Idea (25 Nov 2026): Seedance 2.5 vs Veo on hard shots
 Owner bought Higgsfield Lite Annual (100 credits/month, ~7 Seedance 2.5 clips; `docs/finance.csv`). Not started.
 Plan: pick one shot type Veo keeps failing (fast action, or the same face across clips), generate it in both, and compare
-cost per usable clip (Flow: 10 credits per 8 s Veo 3.1 Lite clip, ~1.5-2 tries). Higgsfield's fair-use rule forbids
-automation tools, so the owner generates there by hand (no Claude in Chrome driving), or the owner OKs the risk first.
+cost per usable clip (Flow: 10 credits per 8 s Veo 3.1 Lite clip, ~1.5-2 tries). 25 Nov: the owner connected Higgsfield's
+official connector (MCP) to Claude, so generation goes through that, not browser clicks (their fair-use automation rule is
+about the website; their 'Unlimited' gens do not work over MCP, so MCP spends credits). Same approval rule as Flow: the owner
+approves each batch (clips, model, credits) before Claude generates. Seedance 2.5 over MCP: 9:16, 4-30 s, start_image +
+up to 30 image references (feed our Nano Banana character stills), and a cheap 480p 'draft' mode to test before finalizing.
+Credit cost per clip is not shown in the catalog: read the balance before and after the first clip.
 Higgsfield credits expire monthly: use them each month or the test costs more than it shows.
