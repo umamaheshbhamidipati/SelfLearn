@@ -40,7 +40,7 @@ NOT a human face." Ref: `media/refs/garuda_B.jpg` (garuda_A, a human face, is re
 white-silver crown of woven light and crystal, four arms (a disc of light, a white conch, a mace, a lotus), yellow
 silk dhoti and sash, celestial jewellery with floating pieces, calm eyes."
 
-**VAIKUNTHA SET:** "a celestial palace hall of white marble and light above the clouds, pale gold pillars, soft blue sky."
+**VAIKUNTHA SET (owner correction 25 Nov: "Vishnu doesn't live in palace, he live in Vaikuntam"):** "Vaikuntha, the divine realm beyond the sky: an endless shining ocean of milky light, glowing lotuses floating on it, soft golden and pale-blue light, luminous clouds; NO palace, NO building, NO walls, NO pillars, NO marble hall, NO throne room." Vishnu sits on a large glowing lotus seat, not a throne.
 
 ## Shot table
 

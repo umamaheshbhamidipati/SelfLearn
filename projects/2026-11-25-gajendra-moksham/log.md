@@ -47,3 +47,11 @@
    approve", stop at 200 total, 720p only. Send the owner s1-01_c for the Seedance test (`seedance-1-01.md`).
 5. TTS (Achird) after narration OK; cut Ep 1 after 15:35 (copy Tripurasura `build_ep1.sh`); post text for approval.
    Target: Ep 1 for approval Sat 28 Nov, post Mon 30 Nov 06:00; Ep 2 for Thu 3 Dec.
+
+### 25 Nov: owner "Stills OK, fix 3" (stills sheet v1 approved; redo s2-02, s1-02, s2-07). s1-04 kept as is.
+Narration + script decisions (lotus timing, Pothana/Lakshmi line) NOT answered yet.
+
+## 25 Nov: owner correction on Vaikuntha
+- Owner: "Vishnu doesn't live in palace, he live in Vaikuntam". The VAIKUNTHA SET in `shots.md` was a marble palace hall: now
+  Vaikuntha as a divine realm (ocean of milky light, floating glowing lotuses, luminous clouds), no building/walls/pillars/throne;
+  Vishnu on a glowing lotus seat. **Redo s2-03 and s2-04** (0 credits) along with s2-02, s1-02, s2-07. Added to the preflight checklist.
