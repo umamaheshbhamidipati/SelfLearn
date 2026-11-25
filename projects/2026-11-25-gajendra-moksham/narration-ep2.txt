@@ -1,19 +1,19 @@
 ఒక్క ఏనుగు పిలుపు… వైకుంఠాన్నే కదిలించింది!
 గజేంద్రుడు మనసంతా ఆ పరమాత్ముడిపై నిలిపి ప్రార్థించాడు.
 "నా బలం పోయింది… నువ్వే దిక్కు. నన్ను కాపాడు!"
-వైకుంఠంలో శ్రీమహావిష్ణువు… లక్ష్మీదేవితో కూర్చుని ఉన్నాడు.
-ఆ పిలుపు వినగానే… ఒక్కసారిగా లేచాడు.
+వైకుంఠంలో శ్రీమహావిష్ణువు… ఆదిశేషుడిపై యోగనిద్రలో ఉన్నాడు. పాదాల చెంత లక్ష్మీదేవి.
+ఆ పిలుపు వినగానే… కళ్ళు తెరిచి, ఒక్కసారిగా లేచాడు.
 పోతన గారు చెప్పినట్లు… లక్ష్మీదేవికి కూడా చెప్పకుండా, గరుడుని ఎక్కాడు.
 భక్తుడి కోసం… మేఘాలను చీల్చుకుంటూ దూసుకొచ్చాడు.
 సరస్సు పైకి రాగానే… చేతిలో సుదర్శన చక్రం వెలిగింది.
 ఆ చక్రం… ఆయన చేతినుంచి దూసుకెళ్లింది! తర్వాతి భాగంలో… మోక్షం.
 
-# APPROVED by the owner 25 Nov ("Narration OK as is"). Lines 1-9 are read by the build script.
+# APPROVED by the owner 25 Nov ("Narration OK as is"); L4/L5 replaced 26 Nov ("Use the new L4 and L5 lines"). Lines 1-9 are read by the build script.
 # L1 One elephant's call… moved Vaikuntha itself!
 # L2 Gajendra fixed his whole mind on the Supreme and prayed. (8.3.2-29)
 # L3 "My strength is gone… You are my only refuge. Save me!" (our words, not Pothana's poem)
-# L4 In Vaikuntha, Sri Maha Vishnu… sat with Goddess Lakshmi.
-# L5 The moment he heard the call… he rose at once.
+# L4 In Vaikuntha, Sri Maha Vishnu… lay in yoga nidra on Adishesha, Goddess Lakshmi at his feet. (owner, 26 Nov: Anantashayana image, not Pothana's scene)
+# L5 The moment he heard the call… he opened his eyes and rose at once.
 # L6 As Pothana tells it… without a word even to Lakshmi, he mounted Garuda. (Pothana, not the Sanskrit)
 # L7 For his devotee… he came racing, tearing through the clouds. (8.3.31)
 # L8 As he reached above the lake… the Sudarshana chakra blazed in his hand. (8.3.31)

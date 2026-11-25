@@ -40,7 +40,9 @@ NOT a human face." Ref: `media/refs/garuda_B.jpg` (garuda_A, a human face, is re
 white-silver crown of woven light and crystal, four arms (a disc of light, a white conch, a mace, a lotus), yellow
 silk dhoti and sash, celestial jewellery with floating pieces, calm eyes."
 
-**VAIKUNTHA SET (owner correction 25 Nov: "Vishnu doesn't live in palace, he live in Vaikuntam"):** "Vaikuntha, the divine realm beyond the sky: an endless shining ocean of milky light, glowing lotuses floating on it, soft golden and pale-blue light, luminous clouds; NO palace, NO building, NO walls, NO pillars, NO marble hall, NO throne room." Vishnu sits on a large glowing lotus seat, not a throne.
+**VAIKUNTHA SET (owner correction 25 Nov: "Vishnu doesn't live in palace, he live in Vaikuntam"):** "Vaikuntha, the divine realm beyond the sky: an endless shining ocean of milky light, glowing lotuses floating on it, soft golden and pale-blue light, luminous clouds; NO palace, NO building, NO walls, NO pillars, NO marble hall, NO throne room." Vishnu sits on a large glowing lotus seat, not a throne. (SUPERSEDED 26 Nov: see ANANTASHAYANA SET.)
+
+**ANANTASHAYANA SET (owner correction 26 Nov: "Vishnu will be on Sesha nag ... he will be sleeping, godess lakshmi will be near his feet"; replaces the lotus-seat version, s2-03_b/s2-04_b NOT approved):** "the cosmic ocean of milk, calm milky-white waves, soft golden and pale-blue light, luminous clouds; a giant coiled celestial serpent with ONE body and exactly FIVE hoods spread like a canopy; NO palace, NO building, NO pillars, NO throne." Vishnu reclines on the serpent's coils in yogic sleep (eyes gently closed, serene), head toward one side, one hand supporting his head; the woman in the red saree sits at his feet, seen from behind or in profile with her face turned away. Count the hoods: five.
 
 ## Shot table
 
@@ -57,8 +59,8 @@ silk dhoti and sash, celestial jewellery with floating pieces, calm eyes."
 | 1-09 | E1 card | End card: గజేంద్ర మోక్షం · భాగం 1 · తర్వాతి భాగం: శరణు | Z 0 | reuse s1-08 | Telugu font Noto Serif Telugu, spacing 0, test-render first |
 | 2-01 | E2 L1 | HOOK: a golden beam from the sky onto the raised trunk | V 10 | s2-01 | beam from above onto the trunk; Gajendra = ref; water level as 1-07/1-08 |
 | 2-02 | E2 L2-L3 | The prayer: elephant face, eyes closed, soft light on his forehead | Z 0 | s2-02 | eyes closed; gold plate + bells as ref; light soft, no flare |
-| 2-03 | E2 L4 | Vaikuntha: Vishnu seated, Lakshmi beside him seen from behind | Z 0 | s2-03 | Vishnu = vishnu_C (2-up check); four arms; Lakshmi back only (red saree, gold border, dark hair), NO face; no serpent bed unless planned |
-| 2-04 | E2 L5 | Vishnu rises suddenly, turns toward the sound | V 20 | s2-03 or s2-04 | same face/crown start to end; four arms attached; one clear motion |
+| 2-03 | E2 L4 | Anantashayana: Vishnu asleep on the five-hooded serpent on the milk ocean, Lakshmi at his feet (s2-03_c) | Z 0 | s2-03 | Vishnu = vishnu_C (2-up check); four arms; Lakshmi back only (red saree, gold border, dark hair), face turned away; exactly FIVE hoods, ONE serpent body; no building |
+| 2-04 | E2 L5 | He wakes: eyes open, head turns toward the cry, sits up a little (start s2-03_c or s2-04_c); serpent completely still, exactly five hoods, ONE body; fallback free zoom | V 20 | s2-03 or s2-04 | same face/crown start to end; four arms attached; one clear motion |
 | 2-05 | E2 L6 | Garuda swoops in, Vishnu on his back, flying through clouds | V 20 (fallback Z) | s2-05 | Garuda = garuda_B with a TRUE EAGLE HEAD and beak, not a human face; Vishnu = vishnu_C, seated astride Garuda's back/shoulders (not floating beside him); one Garuda, one Vishnu |
 | 2-06 | E2 L7 | Fast flight over the earth, clouds tearing past | V 10 | s2-06 | small figure of Garuda + rider or POV only; no faces needed |
 | 2-07 | E2 L8 | Above the lake, the chakra lights up in his raised hand | V 20 | s2-07 | chakra GRIPPED/balanced on a raised fingertip, faces camera like a clock face; "rotates in place, flat disc, NO sparks"; Vishnu = ref |

@@ -151,3 +151,10 @@ NEXT (owner requests, 26 Nov, quoted from the main session):
    draft post text for word-for-word approval. Nothing posted or scheduled before the owner approves. (Ep 1 posts Mon 30 Nov 06:00.)
 4. "send me the Ep 2 cut when ready": same for Ep 2 (needs 2-04). Due Thu 3 Dec.
 5. Add the chakra coin-spin lesson to docs/lessons.md and the prompts.md fix table.
+
+## 26 Nov: owner correction (relayed by the main session, quoted): "Vishnu will be on Sesha nag, can you check he will be sleeping, godess lakshmi will be near his feet, take reference from internet"
+- s2-03_b / s2-04_b (lotus seat on the ocean) NOT approved. Redo as ANANTASHAYANA SET (shots.md, stills-prompts.md): reclining on
+  the five-hooded serpent on the milk ocean, asleep; Lakshmi at his feet, face turned away. s2-04_c = eyes open, head lifted.
+- 2-04 clip: small motion only (eyes open, head turns, sits up); serpent completely still, exactly five hoods, ONE body; if Veo
+  breaks the serpent → free zoom.
+- **Do NOT record Ep 2 TTS** until the owner confirms new L4/L5 wording (main session is asking).

@@ -30,3 +30,9 @@ massive adult body."
 | s2-05 | VISHNU, GARUDA | Wide shot in a blue sky full of clouds: the winged young man (attached ref) flies with huge golden wings spread, and the sky-blue four-armed god (attached ref) SITS ASTRIDE his shoulders/back, one hand on his shoulder; exactly one flier, one rider |
 | s2-06 | GARUDA (tiny) | Very high aerial view over green earth and rivers, a tiny golden winged figure with a rider racing through torn clouds toward a mountain lake; motion streaks in the clouds |
 | s2-07 | VISHNU, GAJENDRA (small) | Low angle from the lake: the sky-blue four-armed god above the lotus lake on the winged man's back, his upper right arm raised high, a glowing flat golden disc of light balanced upright on his raised fingertip, facing the camera like a clock face; far below, the white elephant in the water lifts ONE pink lotus in his trunk toward him |
+
+## 26 Nov redo: ANANTASHAYANA SET (owner correction; s2-03_b/s2-04_b lotus-on-ocean NOT approved)
+| Still | Refs | Shot line |
+|---|---|---|
+| s2-03_c | VISHNU | ANANTASHAYANA SET. VISHNU block. He reclines on the coils of a giant celestial serpent floating on the cosmic ocean of milk, in yogic sleep, eyes gently closed, serene; head toward the left, one hand supporting his head; the serpent's FIVE hoods spread like a canopy over his head (exactly five hoods, one serpent body); the woman in the red silk saree sits at his feet, seen from behind, face turned away |
+| s2-04_c | VISHNU | Same set and framing: he has just opened his eyes and lifted his head and upper body from the coils, looking sharply toward the camera-left as if hearing a cry; the serpent unchanged (five hoods, one body); the woman at his feet, face turned away |
