@@ -136,3 +136,18 @@ NEXT: (1) owner decisions: 2-07 as a free zoom? 1-04 slowed or still redo? (2) V
   "milky light": OK by me, owner to decide.
 - 2-up `media/stills/2up-vaikuntha.jpg` sent to the owner for OK. 2-04 clip (max 20 credits, start s2-03_b) waits on that OK.
 - s2-03_a / s2-04_a (palace) stay rejected.
+- 26 Nov ~00:18: small 2-up `2up-vaikuntha-small.jpg` re-sent with PASS/FAIL lines (s2-03_b PASS, s2-04_b PASS) per the owner's
+  "send me the Vaikuntha stills when ready".
+
+## STATE 26 Nov ~00:20 (this session stops here; context long)
+Clips ready: 1-01 (0-5), 1-02, 1-03, **1-04_slow** (5 s), 1-06 (0-4), 1-07 (2-7.9), 2-01 (1.5-7.9), 2-05 (0-4.7), 2-06 (0-2.6),
+**2-07_zoom** (6 s), 2-08 (0-3.7). Missing: 2-04 (waits on the owner's OK of s2-03_b/s2-04_b; max 20 credits, start s2-03_b).
+Veo credits: 150/200 used, 50 left. Seedance 1-01: still with the owner.
+
+NEXT (owner requests, 26 Nov, quoted from the main session):
+1. On the owner's OK of the Vaikuntha 2-up: make the 2-04 clip (one Approve, 10 credits; at most one re-roll = 20 total).
+2. TTS (Achird) of the approved Ep 1 and Ep 2 narration; Ep 1 cut **encode only after 15:35 IST**; preflight PASS/FAIL.
+3. "send me the Ep 1 cut when ready": after preflight PASS, SendUserFile (proactive) the phone copy + short PASS/FAIL summary +
+   draft post text for word-for-word approval. Nothing posted or scheduled before the owner approves. (Ep 1 posts Mon 30 Nov 06:00.)
+4. "send me the Ep 2 cut when ready": same for Ep 2 (needs 2-04). Due Thu 3 Dec.
+5. Add the chakra coin-spin lesson to docs/lessons.md and the prompts.md fix table.
