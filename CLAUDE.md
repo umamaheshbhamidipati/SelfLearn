@@ -12,7 +12,7 @@ ten perfect plans.
 | Job | Tool | Notes |
 |---|---|---|
 | Ideas, scripts, shot lists, Flow prompts, titles, descriptions | Claude | This repo |
-| Video clips | Google Flow (Veo) | **Paid Flow PLUS plan, ₹399/month (`docs/finance.csv`). One credit pool, resets on the 15th; no daily +50 (seen 10 Nov).** Plan from the balance Flow shows. Manual, in the browser only |
+| Video clips | Google Flow (Veo) | **Paid Flow PLUS plan, ₹399/month (`docs/finance.csv`). 200/month (resets the 15th) + 50/day per owner (25 Nov; daily part not fully confirmed). Spending rules: `docs/credit-plan.md`.** Plan from the balance Flow shows. Manual, in the browser only |
 | Stills: thumbnails, character reference images | Nano Banana (in Flow / Gemini app) | Feed the reference image back into Flow for consistent characters |
 | Voiceover (optional) | ElevenLabs free tier | Check the free tier's commercial-use terms before monetising |
 | Editing | ffmpeg (`scripts/`); hand edits in Instagram's Edits app (phone) or Kdenlive (new PC). CapCut is blocked in India: phone only, optional polish, via the `capcut-mobile` skill with the owner's VPN connected (owner rule, 14 Nov 2026); never for the main cut | ffmpeg 8.0.1 installed 2026-11-05 |
