@@ -158,3 +158,10 @@ NEXT (owner requests, 26 Nov, quoted from the main session):
 - 2-04 clip: small motion only (eyes open, head turns, sits up); serpent completely still, exactly five hoods, ONE body; if Veo
   breaks the serpent → free zoom.
 - **Do NOT record Ep 2 TTS** until the owner confirms new L4/L5 wording (main session is asking).
+- 26 Nov ~00:20-00:27 redo (0 credits, Nano Banana 2.1, 9:16, x1): **s2-03_c** (ref vishnu_C) PASS: reclining asleep on the coils,
+  exactly 5 hoods, one body, woman at his feet face turned away, milk ocean, no building. **s2-04_c** (refs s2-03_c + vishnu_C)
+  PASS with note: eyes open, sitting up, 5 hoods, same set; faces the camera (not a sharp left turn) and gained a flower garland
+  that s2-03_c lacks. 2-up `media/stills/2up-anantashayana.jpg` sent to the owner. s2-03_b/s2-04_b (lotus seat) rejected.
+- 2-04 clip waits on the owner's OK. Plan: start s2-03_c, small motion (eyes open, head turns left, sits up a little), "the
+  serpent stays completely still, exactly five hoods, ONE body"; max 20 credits; if the serpent breaks → free zoom s2-03_c→s2-04_c.
+- NEXT item 1 now refers to s2-03_c/s2-04_c (not _b). Ep 2 TTS on hold until the owner confirms L4/L5 wording.
