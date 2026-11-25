@@ -128,3 +128,25 @@ disc in the whole clip, no copy appears. The rider stays seated on the flier's b
 fireworks, no explosion. Camera holds, then whips down following the disc. Natural colours, no orange cast. Sound: a
 sharp rising whoosh, a deep hum moving away, wind. No music, no speech.
 ```
+
+## Re-rolls (25 Nov)
+
+### 1-03 v2 (start s1-03_a). Fixes v1: camera reframed after 3.5 s, calves shifted, spray stopped
+```
+Motion: STATIC CAMERA, the framing never changes. The white elephant at the front takes two slow heavy steps forward in the knee-deep water, legs splashing, grounded; for the WHOLE clip he keeps spraying a fan of glittering water from his raised trunk tip over the herd, again and again; the grey elephants behind him stay in the same places, the same number of animals the whole clip, flapping their ears and swaying gently. Nothing appears or disappears; no floating or sliding. Keep the white elephant identical: gold forehead plate, hanging bells, gold-ringed tusks, one trunk, two tusks. Natural colours, no orange cast. Sound: splashing water, elephants rumbling softly, one happy trumpet, birds. No music, no speech.
+```
+
+### 1-04 v2 (start s1-04_a). Fixes v1: crocodile jaws broke the surface at 1-1.7 s; elephant sat upright like a dog
+```
+Motion: the white elephant stays STANDING on all four legs the whole clip, never sits; he leans his weight backward and pulls hard again and again, straining, his head and trunk thrown up, as if something under the water holds his hind leg; the water around his hind legs churns and foams white. NOTHING breaks the surface: no crocodile, no jaws, no head, no tail is ever visible above the water, only churning white foam and at most a dark blur deep under the water. One trunk, two tusks; gold plate and bells as in the first frame. No blood. Static camera with a slight handheld shake. Natural colours, no orange cast. Sound: churning, heavy splashing water, the elephant's strained trumpet and deep groans. No music, no speech.
+```
+
+### 2-07 v2 (start s2-07_e). Fix v1: "rotates in place" was read as a COIN SPIN about a vertical axis (edge-on slivers)
+```
+Motion: the sky-blue four-armed rider holds his upper right arm raised and still. The golden disc of light on his fingertip stays a perfect full CIRCLE facing the camera like a clock on a wall for the whole clip; it turns only IN ITS OWN FLAT PLANE like a wheel seen head-on or the hands of a clock, its golden spokes sweeping round; it NEVER flips, never turns sideways, never shows its edge, never becomes an oval or a thin line. Its glow brightens softly; NO sparks, no flare, no fireworks. The flier's golden wings beat slowly; far below, the white elephant lifts ONE pink lotus in his trunk. Same face and crown; four arms attached. Slow push-in from below. Natural colours, no orange cast, no morphing. Sound: a deep steady hum, slow wing beats, wind, gentle water below. No music, no speech.
+```
+
+### 2-08 v2 (start s2-07_e; fallback = free zoom). Fix v1: edge-on disc, firework flash, figures tumbled out
+```
+Motion: the golden disc of light on the raised fingertip stays a full CIRCLE facing the camera, turning only in its own flat plane like a wheel; after two seconds it leaves the fingertip and glides smoothly DOWN and away toward the lake below, growing smaller, a soft golden trail behind it; after it leaves the fingertip the hand is EMPTY, open and raised, the same hand; exactly ONE disc in the whole clip. The rider and the flier stay in place in the frame, calm, wings beating slowly; nobody falls or tumbles. No flash, no explosion, no sparks, no fireworks. Static camera. Natural colours, no orange cast. Sound: a soft rising whoosh, a deep hum moving away, wind. No music, no speech.
+```

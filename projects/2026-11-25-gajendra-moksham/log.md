@@ -10,8 +10,17 @@
 | 25 Nov 10:43 | 1-04 | Veo 3.1 Lite 720p | 10 | 170 → 160 | PARTIAL: usable 2.5-5.5 s (croc jaws visible above splash 1-1.7 s = FAIL there; then sits upright like a dog) | start s1-04_a |
 | 25 Nov 10:44 | 1-06 | Veo 3.1 Lite 720p | 10 | 160 → 150 | PARTIAL: usable 0-4 s (fast time-lapse; peak drifts toward twin peaks by end; moon fades ~6 s) | start s1-06_a |
 | 25 Nov 10:45 | 1-07 | Veo 3.1 Lite 720p | 10 | 150 → 140 | PARTIAL: usable 2-7.9 s (glitch 0.7-1.7 s: ear folds, pink blob near trunk; eye sharp, ornament OK) | start s1-07_a |
+| 25 Nov 10:56 | 2-01 | Veo 3.1 Lite 720p | 10 | 140 → 130 | PARTIAL: usable 1.5-7.9 s (small star glint at trunk tip 0.3-1.2 s; slight pink warmth late) | start s2-01_b |
+| 25 Nov 10:57 | 2-05 | Veo 3.1 Lite 720p | 10 | 130 → 120 | PARTIAL: usable 0-4.7 s (eagle head + rider astride OK; after ~5 s head turns lion/bear-like, legs dissolve) | start s2-05_a |
+| 25 Nov 10:58 | 2-06 | Veo 3.1 Lite 720p | 10 | 120 → 110 | PARTIAL: usable 0-2.6 s (from 2.7 s a second small flier appears) | start s2-06_a |
+| 25 Nov 10:59 | 2-07 | Veo 3.1 Lite 720p | 10 | 110 → 100 | **FAIL**: disc spins like a coin about a vertical axis and goes edge-on again and again; faint sparks at the end. Arms, elephant + lotus OK | start s2-07_e |
+| 25 Nov 11:00 | 2-08 | Veo 3.1 Lite 720p | 10 | 100 → 90 | **FAIL**: disc edge-on by 0.7 s, never flies to the lake; flash + firework sparks 2.3 s; figures tumble out of frame | start s2-07_e |
+| 25 Nov ~11:03 | 1-03 v2 | Veo 3.1 Lite 720p | 10 | 90 → 80 | **PASS**: usable 0-6.3 s (spray from trunk tip, herd count steady; after 6.3 s he turns, framing shifts). Now `1-03.mp4`; v1 in `old/1-03_v1.mp4` | static camera, spray whole clip, herd fixed (`motion-prompts.md` re-rolls) |
+| 25 Nov ~11:04 | 1-04 v2 | Veo 3.1 Lite 720p | 10 | 80 → 70 | **FAIL**: sits dog-like on haunches throughout; dark crocodile-like body visible low left nearly every frame. `old/1-04_v2.mp4`. v1 (2.5-5.5 s) stays `1-04.mp4` | "STANDING, never sits; NOTHING breaks the surface". Cause = the still s1-04_a reads as sitting |
+| 25 Nov ~11:05 | 2-07 v2 | Veo 3.1 Lite 720p | 10 | 70 → 60 | **FAIL**: usable 0-1.3 s only; disc goes edge-on/elliptical again from 1.3 s; elephant turns, lotus moves. `old/2-07_v2.mp4` (v1 `old/2-07_v1.mp4`) | "turns only IN ITS OWN FLAT PLANE like a wheel ... never shows its edge": did not help |
+| 25 Nov ~11:06 | 2-08 v2 | Veo 3.1 Lite 720p | 10 | 60 → 50 | **PARTIAL**: usable 0-3.7 s (one disc leaves the hand, hand empty, flies toward the lake, same figures; a golden flame-like trail streaks past the wing: check by eye). Now `2-08.mp4`; v1 `old/2-08_v1.mp4` | "glides smoothly DOWN ... hand EMPTY ... no flash"; static camera |
 
-**Veo used:** 60 / 200 (Ep 1 first tries; balance read 140 at 10:53). **Seedance used:** 0 / 30.
+**Veo used:** 150 / 200 (Ep 1: 80 of 100; Ep 2: 70 of 100). **Flow balance read 50 at ~11:12** (200 at 10:35). Times marked ~ are approximate (downloads landed 10:48-11:11). **Seedance used:** 0 / 30.
 
 ## Sessions
 
@@ -80,3 +89,30 @@ Narration + script decisions (lotus timing, Pothana/Lakshmi line) NOT answered y
 - Downloads: the row's Download button saves the 720p mp4 straight to ~/Downloads, but slowly (up to ~1 min, queued; repeat clicks give duplicates: cmp, then delete).
 - Review (subagent, 3 fps): elephant reads grey rather than the ref's silver-white in all clips (check against gajendra_B myself before re-rolling; may be the grade). Seedance 1-01 still and steps sent to the owner 10:30.
 - Flow "typed" text can lose its start if a menu is open: read the prompt box back (length) before generating.
+
+## STATE 25 Nov ~11:15 (Veo session stopped here; 150 of 200 spent, 50 left in the pool)
+
+Usable clips in `media/clips/` (old tries in `old/`):
+| Shot | File | Usable | Note |
+|---|---|---|---|
+| 1-01 | 1-01.mp4 | 0-5 s | hook OK; croc grey-brown. Seedance test with the owner (sent 10:30) |
+| 1-02 | 1-02.mp4 | 0-7.9 s | PASS |
+| 1-03 | 1-03.mp4 (v2) | 0-6.3 s | PASS |
+| 1-04 | 1-04.mp4 (v1) | 2.5-5.5 s | 3 s only; line 4 runs ~5 s: slow it (setpts) or hold, or redo the still (it reads as sitting) before any re-roll |
+| 1-06 | 1-06.mp4 | 0-4 s | OK for line 6 |
+| 1-07 | 1-07.mp4 | 2-7.9 s | OK |
+| 2-01 | 2-01.mp4 | 1.5-7.9 s | OK |
+| 2-04 | none | | **blocked**: s2-03_a/s2-04_a are the rejected palace stills. Redo with the VAIKUNTHA SET (0 credits), 2-up to the owner, then 20 credits are kept for it |
+| 2-05 | 2-05.mp4 | 0-4.7 s | OK (head turns lion-like after 5 s: trim) |
+| 2-06 | 2-06.mp4 | 0-2.6 s | short; a second flier appears at 2.7 s. Use 2.6 s or a free zoom on s2-06_a |
+| 2-07 | none | | **FAIL x2** (budget 20 spent). Veo spins the disc like a coin whatever the wording. Proposal for the owner: free zoom on s2-07_e (disc face-on) with a glow pulse in ffmpeg (0 credits) |
+| 2-08 | 2-08.mp4 (v2) | 0-3.7 s | check the golden trail by eye before the cut |
+
+Credits left this week: 50 (Ep 1 20, Ep 2 30 of which 20 for 2-04). Nothing else generated; no 1080p.
+Lesson to add to `docs/lessons.md` / prompts.md fix table: "rotates in place" AND "turns in its own flat plane like a wheel" both gave a
+coin spin (edge-on) in Veo 3.1 Lite from a face-on still (2-07, 2-08, 25 Nov); for a face-on chakra use a still + ffmpeg glow/rotate.
+1-07 downloads: Chrome saved 21 identical copies of 1-07 (moved out of ~/Downloads to the session scratchpad, nothing deleted).
+
+NEXT: (1) owner decisions: 2-07 as a free zoom? 1-04 slowed or still redo? (2) Vaikuntha stills s2-03/s2-04 redo + 2-up, then 2-04 clip.
+(3) TTS Achird of the approved narration, Ep 1 cut after 15:35 IST, preflight PASS/FAIL, post text for word-for-word approval.
+(4) Seedance 1-01 clip from the owner: log credits + verdict vs Veo 1-01.
