@@ -165,3 +165,7 @@ NEXT (owner requests, 26 Nov, quoted from the main session):
 - 2-04 clip waits on the owner's OK. Plan: start s2-03_c, small motion (eyes open, head turns left, sits up a little), "the
   serpent stays completely still, exactly five hoods, ONE body"; max 20 credits; if the serpent breaks → free zoom s2-03_c→s2-04_c.
 - NEXT item 1 now refers to s2-03_c/s2-04_c (not _b). Ep 2 TTS on hold until the owner confirms L4/L5 wording.
+- 26 Nov ~00:35: owner approved the new Ep 2 L4/L5 ("Use the new L4 and L5 lines", 7625787). **Ep 2 TTS unblocked.** L4 is longer
+  (~6-7 s est.): 2-03 is a free zoom on s2-03_c, so stretch it to L4's measured TTS length. L5 "కళ్ళు తెరిచి, ఒక్కసారిగా లేచాడు"
+  matches the 2-04 plan (eyes open, sits up). publish.md is still the blank template (no post text yet), so nothing to update;
+  when writing the Ep 2 post text, describe the scene as Vishnu on Adishesha in yoga nidra, Lakshmi at his feet (no palace).
