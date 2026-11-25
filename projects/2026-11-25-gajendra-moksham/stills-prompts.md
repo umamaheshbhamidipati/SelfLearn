@@ -5,7 +5,7 @@ Flow project "Nov 25 - 08:07" (flow.google.com/project/d783e6a3-85bd-4a9a-8b0d-7
 Every prompt = COLOUR + the shot line + the blocks it names (text in `shots.md`) + "Vertical 9:16, full frame edge to
 edge, no black bars, no text, no logos, no watermark."
 Refs: GAJENDRA = `media/refs/gajendra_B.jpg` (locked; `gajendra_A` was calf-like), CROC = `croc_A.jpg`,
-GARUDA = `garuda_A.jpg`, VISHNU = `vishnu_C.jpg` (uploaded in the Flow project as "vishnu_C.jpg").
+GARUDA = `garuda_B.jpg` (eagle head, owner 25 Nov; garuda_A rejected), VISHNU = `vishnu_C.jpg` (uploaded in the Flow project as "vishnu_C.jpg").
 
 COLOUR: "Ultra-detailed cinematic still, NEUTRAL natural colour balance, true-to-life colours, no orange or pink cast,
 cool neutral light with a thin warm rim light, razor-sharp focus, shallow depth of field."

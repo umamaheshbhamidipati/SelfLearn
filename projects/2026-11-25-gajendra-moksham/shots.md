@@ -8,7 +8,7 @@ no gore, no blood; every motion prompt ends with a "Sound:" line + "No music, no
 Media: `media/{refs,stills,clips,clips/old,ep1,ep2,out}`. Stills named `s<shot>_<letter>.jpg` (e.g. `s1-03_a.jpg`).
 
 ## Locked refs (new, this series; add to `docs/characters.md` after the owner's OK)
-- `media/refs/gajendra_A.jpg`, `media/refs/croc_A.jpg`, `media/refs/garuda_A.jpg`.
+- `media/refs/gajendra_B.jpg` (gajendra_A rejected: calf-like), `media/refs/croc_A.jpg`, `media/refs/garuda_B.jpg` (eagle head; owner 25 Nov).
 - Vishnu = `projects/2026-11-09-samudra-manthan/media/refs/vishnu_C.jpg` (attach to every Vishnu still; 2-up check).
 - Lakshmi: NOT locked: from behind or far away only.
 
@@ -30,9 +30,11 @@ crocodile anatomy: one head, four legs, one tail; no blood."
 
 **HERD:** "a herd of about eight grey elephants (cows and two calves), smaller than the white bull, plain, no ornaments."
 
-**GARUDA:** "a divinely handsome young man (about 25) with sharp eagle-like features (a strong hooked nose, piercing
-golden eyes), golden-bronze skin, a crest of golden feathers in his hair under a small crown of light, two arms,
-huge golden wings with white-tipped feathers growing from his shoulders, red silk dhoti, celestial jewellery of light."
+**GARUDA (owner, 25 Nov: "Garuda should have eagle face"):** "Garuda, the divine eagle: a TRUE EAGLE HEAD AND FACE
+(golden-brown feathered eagle head, strong hooked golden beak, fierce eagle eyes, a crest of golden feathers, a small
+crown of woven light and crystal) on a young, athletic adult human body with golden-bronze skin and exactly two arms,
+huge golden wings with white-tipped feathers growing from his shoulders, red silk dhoti, celestial jewellery of light;
+NOT a human face." Ref: `media/refs/garuda_B.jpg` (garuda_A, a human face, is rejected).
 
 **VISHNU (= vishnu_C):** "a divinely handsome young god (about 25), sky-blue skin, flawless luminous, a tall
 white-silver crown of woven light and crystal, four arms (a disc of light, a white conch, a mace, a lotus), yellow
@@ -57,7 +59,7 @@ silk dhoti and sash, celestial jewellery with floating pieces, calm eyes."
 | 2-02 | E2 L2-L3 | The prayer: elephant face, eyes closed, soft light on his forehead | Z 0 | s2-02 | eyes closed; gold plate + bells as ref; light soft, no flare |
 | 2-03 | E2 L4 | Vaikuntha: Vishnu seated, Lakshmi beside him seen from behind | Z 0 | s2-03 | Vishnu = vishnu_C (2-up check); four arms; Lakshmi back only (red saree, gold border, dark hair), NO face; no serpent bed unless planned |
 | 2-04 | E2 L5 | Vishnu rises suddenly, turns toward the sound | V 20 | s2-03 or s2-04 | same face/crown start to end; four arms attached; one clear motion |
-| 2-05 | E2 L6 | Garuda swoops in, Vishnu on his back, flying through clouds | V 20 (fallback Z) | s2-05 | Garuda = ref; Vishnu = vishnu_C, seated astride Garuda's back/shoulders (not floating beside him); one Garuda, one Vishnu |
+| 2-05 | E2 L6 | Garuda swoops in, Vishnu on his back, flying through clouds | V 20 (fallback Z) | s2-05 | Garuda = garuda_B with a TRUE EAGLE HEAD and beak, not a human face; Vishnu = vishnu_C, seated astride Garuda's back/shoulders (not floating beside him); one Garuda, one Vishnu |
 | 2-06 | E2 L7 | Fast flight over the earth, clouds tearing past | V 10 | s2-06 | small figure of Garuda + rider or POV only; no faces needed |
 | 2-07 | E2 L8 | Above the lake, the chakra lights up in his raised hand | V 20 | s2-07 | chakra GRIPPED/balanced on a raised fingertip, faces camera like a clock face; "rotates in place, flat disc, NO sparks"; Vishnu = ref |
 | 2-08 | E2 L9 | The chakra flies from his hand (cliffhanger) | V 20 (fallback Z) | s2-07 | only ONE chakra (no duplicate left in the hand); hand stays the same; no fireworks |
