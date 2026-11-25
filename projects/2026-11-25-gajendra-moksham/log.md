@@ -60,5 +60,7 @@ Narration + script decisions (lotus timing, Pothana/Lakshmi line) NOT answered y
   s2-07_d rejected (disc an ellipse). Raw copies left in ~/Downloads (*_raw.jpeg): delete only with the owner's OK.
 - Disc wording that worked (add to prompts.md fix table): "like a COIN STANDING ON ITS EDGE … perfect full CIRCLE,
   like the full moon or a round clock on a wall … as tall as it is wide … NOT a horizontal spinning plate".
-- Final stills: s1-01_c, s1-02_b, s1-03_a, s1-04_a, s1-05_a, s1-06_a, s1-07_a, s1-08_a, s2-01_b, s2-02_b, s2-03_a,
-  s2-04_a, s2-05_a, s2-06_a, s2-07_e. Next: see "NEXT" above (steps 3-5) in a fresh session.
+- Final stills: s1-01_c, s1-02_b, s1-03_a, s1-04_a, s1-05_a, s1-06_a, s1-07_a, s1-08_a, s2-01_b, s2-02_b, s2-05_a,
+  s2-06_a, s2-07_e. **NOT final: s2-03_a and s2-04_a** (palace arches/pillars/throne, checked by the main session 25 Nov;
+  owner: "Check images generate, it's like some palace"). Redo both with the new VAIKUNTHA SET (0 credits) and send the owner a
+  2-up before any clip. Next: see "NEXT" above (steps 3-5) in a fresh session.
