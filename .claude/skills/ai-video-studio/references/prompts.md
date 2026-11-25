@@ -95,3 +95,4 @@ Mark "AI content" (Instagram label).
 
 | Halahala shot with the poison in Shiva's palm (Ep 2, 14 Nov) | Owner: the Halahala is never touched; Shiva gathers it in a **conch (shankha)** and drinks from the conch. Prompt: "holds a white conch brimming with dark-violet smoke; the smoke stays inside the conch and never touches his skin". |
 | Conch at the lips looked like blowing a shankha (Ep 2, 14 Nov) | Say "drinks from the conch used as a cup: wide opening tipped to his lips, pointed end facing away, NOT blowing the conch". |
+| Disc/chakra came out as a flat tilted ellipse in stills (s2-07, 25 Nov, 3 tries) | "like a COIN STANDING ON ITS EDGE, a perfect full CIRCLE like the full moon or a round clock on a wall, as tall as it is wide, upright on the raised fingertip, NOT a horizontal spinning plate" (worked on the 2nd try) |

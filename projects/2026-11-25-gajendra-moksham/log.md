@@ -55,3 +55,10 @@ Narration + script decisions (lotus timing, Pothana/Lakshmi line) NOT answered y
 - Owner: "Vishnu doesn't live in palace, he live in Vaikuntam". The VAIKUNTHA SET in `shots.md` was a marble palace hall: now
   Vaikuntha as a divine realm (ocean of milky light, floating glowing lotuses, luminous clouds), no building/walls/pillars/throne;
   Vishnu on a glowing lotus seat. **Redo s2-03 and s2-04** (0 credits) along with s2-02, s1-02, s2-07. Added to the preflight checklist.
+- Fixes done (0 credits), sheet `media/stills/contact-sheet-fix1.jpg` sent: **s2-02_b** (chest-deep, eyes closed),
+  **s1-02_b** (three peaks), **s2-07_e** (disc face-on; elephant younger-looking and knee-deep: watch in the clip).
+  s2-07_d rejected (disc an ellipse). Raw copies left in ~/Downloads (*_raw.jpeg): delete only with the owner's OK.
+- Disc wording that worked (add to prompts.md fix table): "like a COIN STANDING ON ITS EDGE … perfect full CIRCLE,
+  like the full moon or a round clock on a wall … as tall as it is wide … NOT a horizontal spinning plate".
+- Final stills: s1-01_c, s1-02_b, s1-03_a, s1-04_a, s1-05_a, s1-06_a, s1-07_a, s1-08_a, s2-01_b, s2-02_b, s2-03_a,
+  s2-04_a, s2-05_a, s2-06_a, s2-07_e. Next: see "NEXT" above (steps 3-5) in a fresh session.
