@@ -1,0 +1,20 @@
+నీటిలోంచి ఒక్కసారిగా… మొసలి నోరు గజరాజు కాలిని పట్టేసింది!
+పాలసముద్రం మధ్యలో త్రికూట పర్వతం… అక్కడ వరుణుని ఉద్యానంలో ఒక అందమైన సరస్సు.
+ఏనుగుల రాజు గజేంద్రుడు తన గుంపుతో వచ్చి… తొండంతో నీళ్లు చల్లుతూ ఆడుకున్నాడు.
+అప్పుడే ఒక బలమైన మొసలి అతని కాలు పట్టుకుంది. ఎంత లాగినా వదలలేదు.
+తోటి ఏనుగులు వెనకనుంచి లాగాయి… కానీ కాపాడలేకపోయాయి.
+ఆ పోరాటం… వెయ్యి సంవత్సరాలు సాగింది.
+నీటిలో మొసలి బలం పెరిగింది… గజరాజు బలం తగ్గిపోయింది.
+తన బలం గానీ, తనవాళ్లు గానీ… ఎవరూ కాపాడలేరని అర్థమైంది.
+అప్పుడు ఆకాశం వైపు చూసి… పరమాత్ముడిని తలచుకున్నాడు. తర్వాతి భాగంలో… శరణు.
+
+# DRAFT 25 Nov, NOT approved. Lines 1-9 are read by the build script (one line = one TTS file + one caption).
+# L1 Suddenly from the water… a crocodile's jaws seized the elephant king's leg! (8.2.27)
+# L2 In the middle of the Milk Ocean, Mount Trikuta… there, in Varuna's garden, a beautiful lake. (8.2.1, 9-19)
+# L3 Gajendra, king of elephants, came with his herd… and played, spraying water with his trunk. (8.2.20-26)
+# L4 Just then a mighty crocodile caught his leg. However hard he pulled, it would not let go. (8.2.27)
+# L5 The other elephants pulled from behind… but could not save him. (8.2.28)
+# L6 That struggle… went on for a thousand years. (8.2.29)
+# L7 In the water the crocodile grew stronger… the elephant king grew weaker. (8.2.30)
+# L8 Neither his strength nor his own family… could save him, he understood. (8.2.31-32)
+# L9 Then, looking to the sky… he called on the Supreme One. Next part… Surrender. (8.2.33)
