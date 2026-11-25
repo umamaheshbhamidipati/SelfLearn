@@ -4,8 +4,14 @@
 
 | Date | Shot | Tool | Credits | Pool before → after | Result | What I changed |
 |---|---|---|---|---|---|---|
+| 25 Nov 10:40 | 1-01 | Veo 3.1 Lite 720p | 10 | 200 → 190 | PARTIAL: usable 0-5 s (jaws on hind leg early; after ~5 s croc slides under belly/front legs). Croc grey-brown, not near-black | start s1-01_c, prompt = seedance-1-01.md |
+| 25 Nov 10:41 | 1-02 | Veo 3.1 Lite 720p | 10 | 190 → 180 | PASS: usable 0-7.9 s (three peaks hold, no animals; lake blue-teal) | start s1-02_b |
+| 25 Nov 10:42 | 1-03 | Veo 3.1 Lite 720p | 10 | 180 → 170 | PARTIAL: usable 0-3.5 s (spray from trunk; later reframe, calves shift, spray stops) | start s1-03_a |
+| 25 Nov 10:43 | 1-04 | Veo 3.1 Lite 720p | 10 | 170 → 160 | PARTIAL: usable 2.5-5.5 s (croc jaws visible above splash 1-1.7 s = FAIL there; then sits upright like a dog) | start s1-04_a |
+| 25 Nov 10:44 | 1-06 | Veo 3.1 Lite 720p | 10 | 160 → 150 | PARTIAL: usable 0-4 s (fast time-lapse; peak drifts toward twin peaks by end; moon fades ~6 s) | start s1-06_a |
+| 25 Nov 10:45 | 1-07 | Veo 3.1 Lite 720p | 10 | 150 → 140 | PARTIAL: usable 2-7.9 s (glitch 0.7-1.7 s: ear folds, pink blob near trunk; eye sharp, ornament OK) | start s1-07_a |
 
-**Veo used:** 0 / 200. **Seedance used:** 0 / 30.
+**Veo used:** 60 / 200 (Ep 1 first tries; balance read 140 at 10:53). **Seedance used:** 0 / 30.
 
 ## Sessions
 
@@ -66,3 +72,11 @@ Narration + script decisions (lotus timing, Pothana/Lakshmi line) NOT answered y
   2-up before any clip. Next: see "NEXT" above (steps 3-5) in a fresh session.
 - Owner 25 Nov: **"Narration OK as is"** (Ep 1 + Ep 2), with the lotus moved to Ep 2 (s1-08 empty trunk, lotus in
   s2-07) and the Pothana/Lakshmi line kept. Next: TTS (Achird) early in the day, then NEXT steps 3-5, fresh session.
+
+## 25 Nov 10:30- Veo clips, Ep 1 first tries (60 credits)
+- **Flow balance 10:35: 200**, "Resets Dec 15 at 3:47 PM" (no daily +50 visible). After 6 clips: **140** (read 10:53).
+- Prompts: `motion-prompts.md`. Direct prompt bar, Video, **Frames** (start frame), Veo 3.1 - Lite, 9:16, x1, 720p, "Generating will use 10 credits" read before every click; one click per clip.
+- How-to (new): the Start-frame picker's "Upload media" opens a native file dialog. Fix: in JS, patch `HTMLInputElement.prototype.click` to capture the file input (append it to body), then `file_upload` the local still into it. Uploads keep their file name (`s1-03_a.jpg`), so the right still is certain.
+- Downloads: the row's Download button saves the 720p mp4 straight to ~/Downloads, but slowly (up to ~1 min, queued; repeat clicks give duplicates: cmp, then delete).
+- Review (subagent, 3 fps): elephant reads grey rather than the ref's silver-white in all clips (check against gajendra_B myself before re-rolling; may be the grade). Seedance 1-01 still and steps sent to the owner 10:30.
+- Flow "typed" text can lose its start if a menu is open: read the prompt box back (length) before generating.
