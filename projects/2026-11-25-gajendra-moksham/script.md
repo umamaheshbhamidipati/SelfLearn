@@ -1,4 +1,4 @@
-# Script — గజేంద్ర మోక్షం (Ep 1-2 drafts, 25 Nov 2026; NOT approved)
+# Script — గజేంద్ర మోక్షం (Ep 1-2, 25 Nov 2026; narration APPROVED 25 Nov; decisions 1-3 accepted as recommended: lotus in Ep 2 (s2-07), Pothana line kept)
 
 Narration of record: `narration-ep1.txt`, `narration-ep2.txt` (9 lines each, ~35 s with Achird at 1.08x).
 Shots: `shots.md`. Sources: `research.md`. Voice: Gemini TTS Achird (as Tripurasura), soft Earshot effects, no music.

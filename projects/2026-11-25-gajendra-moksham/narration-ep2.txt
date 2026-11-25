@@ -8,7 +8,7 @@
 సరస్సు పైకి రాగానే… చేతిలో సుదర్శన చక్రం వెలిగింది.
 ఆ చక్రం… ఆయన చేతినుంచి దూసుకెళ్లింది! తర్వాతి భాగంలో… మోక్షం.
 
-# DRAFT 25 Nov, NOT approved. Lines 1-9 are read by the build script.
+# APPROVED by the owner 25 Nov ("Narration OK as is"). Lines 1-9 are read by the build script.
 # L1 One elephant's call… moved Vaikuntha itself!
 # L2 Gajendra fixed his whole mind on the Supreme and prayed. (8.3.2-29)
 # L3 "My strength is gone… You are my only refuge. Save me!" (our words, not Pothana's poem)

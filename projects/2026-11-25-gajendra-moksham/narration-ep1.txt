@@ -8,7 +8,7 @@
 తన బలం గానీ, తనవాళ్లు గానీ… ఎవరూ కాపాడలేరని అర్థమైంది.
 అప్పుడు ఆకాశం వైపు చూసి… పరమాత్ముడిని తలచుకున్నాడు. తర్వాతి భాగంలో… శరణు.
 
-# DRAFT 25 Nov, NOT approved. Lines 1-9 are read by the build script (one line = one TTS file + one caption).
+# APPROVED by the owner 25 Nov ("Narration OK as is"). Lines 1-9 are read by the build script (one line = one TTS file + one caption).
 # L1 Suddenly from the water… a crocodile's jaws seized the elephant king's leg! (8.2.27)
 # L2 In the middle of the Milk Ocean, Mount Trikuta… there, in Varuna's garden, a beautiful lake. (8.2.1, 9-19)
 # L3 Gajendra, king of elephants, came with his herd… and played, spraying water with his trunk. (8.2.20-26)

@@ -64,3 +64,5 @@ Narration + script decisions (lotus timing, Pothana/Lakshmi line) NOT answered y
   s2-06_a, s2-07_e. **NOT final: s2-03_a and s2-04_a** (palace arches/pillars/throne, checked by the main session 25 Nov;
   owner: "Check images generate, it's like some palace"). Redo both with the new VAIKUNTHA SET (0 credits) and send the owner a
   2-up before any clip. Next: see "NEXT" above (steps 3-5) in a fresh session.
+- Owner 25 Nov: **"Narration OK as is"** (Ep 1 + Ep 2), with the lotus moved to Ep 2 (s1-08 empty trunk, lotus in
+  s2-07) and the Pothana/Lakshmi line kept. Next: TTS (Achird) early in the day, then NEXT steps 3-5, fresh session.
