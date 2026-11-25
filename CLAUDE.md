@@ -101,9 +101,9 @@ tally in `docs/reference-patterns.md`. A pattern needs three references and our 
   - Routine build, render and logging steps do not need the largest model; suggest Sonnet for them.
 - **No media in git.** Clips, audio and images stay in `media/` (gitignored). Back them up with
   `scripts/backup.sh` (rclone → `gdrive:SelfLearn/`). Commit the text (briefs, prompts, logs).
-- **Flow is driven only through Claude in Chrome**, in the owner's signed-in browser. The owner
-  approves each batch in chat (which clips, how many credits); Claude then clicks Approve once per
-  clip in that batch and never "Always approve". Anything beyond the approved batch needs a new OK. No unofficial APIs or CLIs
+- **Flow is driven only through Claude in Chrome**, in the owner's signed-in browser. Since 25 Nov the
+  owner approves **once a week**: the exact shot list plus a hard credit cap per tool (`docs/credit-plan.md`).
+  Claude then clicks Approve once per clip in that list, stops at the cap, and never "Always approve". Anything beyond the approved batch needs a new OK. No unofficial APIs or CLIs
   (e.g. gflow-cli) and no headless bots on the Google account: account risk.
 - **Never hide, crop out or blur the Flow/AI watermark.** Label AI content on YouTube and Instagram.
 - **No copyrighted characters, logos, real people's likeness or music** in prompts or edits.

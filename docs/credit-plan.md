@@ -45,10 +45,10 @@ daily credits are fine.
 About 150 daily credits a week go to the two episodes; the monthly 200 covers re-rolls that run over.
 A rest week each month (`docs/weekly-rhythm.md`) uses no credits.
 
-**One change from today's practice, owner's decision:** today the owner approves each small batch in chat.
-The cycle above asks for one approval per week: an exact shot list with a hard credit cap. I would still click
+**Approval rule (owner, 25 Nov: "Yes, weekly cap"):** one approval per week: an exact shot list with a hard
+credit cap per tool, replacing per-batch approvals. I would still click
 Approve once per clip in Flow, never "Always approve", stop at the cap, and ask again for anything outside the
-list. Until the owner agrees, the per-batch approval stays.
+list.
 
 ## Higgsfield 100/month: where it goes
 
