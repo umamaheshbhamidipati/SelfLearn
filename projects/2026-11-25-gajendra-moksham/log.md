@@ -116,3 +116,23 @@ coin spin (edge-on) in Veo 3.1 Lite from a face-on still (2-07, 2-08, 25 Nov); f
 NEXT: (1) owner decisions: 2-07 as a free zoom? 1-04 slowed or still redo? (2) Vaikuntha stills s2-03/s2-04 redo + 2-up, then 2-04 clip.
 (3) TTS Achird of the approved narration, Ep 1 cut after 15:35 IST, preflight PASS/FAIL, post text for word-for-word approval.
 (4) Seedance 1-01 clip from the owner: log credits + verdict vs Veo 1-01.
+
+## 26 Nov ~00:10: owner decisions (relayed by the main session, quoted): "Free zoom for 2-07, slow 1-04"
+- 2-07: no more Veo. Free zoom on s2-07_e (disc face-on) + ffmpeg glow pulse, 0 credits →
+  `media/clips/2-07_zoom.mp4` (6.0 s, 720x1280 24 fps, push-in 1.00→1.10 centred on the rider, gold radial glow on the
+  disc at still px (270,186), alpha 0.10-0.70 pulsing every 1.5 s; silent audio track).
+- 1-04: no still redo, no re-roll. Usable 2.5-5.5 s of v1 slowed 0.6x (setpts 5/3 + minterpolate mci, atempo 0.6) →
+  `media/clips/1-04_slow.mp4` (5.0 s, fits line 4). Original 1-04.mp4 kept.
+- Credits unchanged: 150/200 used, 50 left (20 kept for 2-04 after the Vaikuntha still redo + owner 2-up).
+- Review (subagent, 3 fps): **2-07_zoom PASS 0-6 s** (glow centred on the disc, soft pulse ~3 cycles, smooth zoom, nothing
+  cropped). **1-04_slow PARTIAL 0-5 s**: no interpolation artefacts, no croc above water, one trunk/two tusks, but the elephant
+  still reads as sitting on its haunches (from the still s1-04_a). Accepted under the owner's "slow 1-04, no redo" decision.
+
+## 26 Nov ~00:15: Vaikuntha stills redone (0 credits; Nano Banana 2.1, 9:16, x1, "0 credits"; ref vishnu_C attached)
+- Prompts = stills-prompts.md s2-03/s2-04 + the VAIKUNTHA SET block + "NO architecture of any kind" (no deity names).
+- **s2-03_b**: seated on a glowing lotus seat on an ocean of light, the woman in the red saree in the foreground left, back only. No building.
+- **s2-04_b**: standing, risen from the lotus seat; the woman small behind, back to camera. No building. Head turn is slight
+  (faces near camera); the 2-04 motion prompt adds the sharp turn. Background reads as a bright sea + clouds rather than pure
+  "milky light": OK by me, owner to decide.
+- 2-up `media/stills/2up-vaikuntha.jpg` sent to the owner for OK. 2-04 clip (max 20 credits, start s2-03_b) waits on that OK.
+- s2-03_a / s2-04_a (palace) stay rejected.
