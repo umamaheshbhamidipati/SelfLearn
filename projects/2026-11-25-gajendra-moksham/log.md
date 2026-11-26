@@ -169,3 +169,11 @@ NEXT (owner requests, 26 Nov, quoted from the main session):
   (~6-7 s est.): 2-03 is a free zoom on s2-03_c, so stretch it to L4's measured TTS length. L5 "కళ్ళు తెరిచి, ఒక్కసారిగా లేచాడు"
   matches the 2-04 plan (eyes open, sits up). publish.md is still the blank template (no post text yet), so nothing to update;
   when writing the Ep 2 post text, describe the scene as Vishnu on Adishesha in yoga nidra, Lakshmi at his feet (no palace).
+
+## 26 Nov ~00:40: CREDITS PAUSED (owner, relayed by the main session, quoted): "we can pause our credits for UmaAI studio"
+- No Flow (Veo) and no Higgsfield generations until the owner says otherwise, including 2-04. Veo stays at 150/200 used.
+- 2-04 = 0-credit fallback `media/clips/2-04_zoom.mp4` (5.0 s, 720x1280 24 fps, silent track): push-in 1.00→1.06 on s2-03_c
+  (asleep), 0.6 s crossfade at 2.0 s into s2-04_c (awake, sitting up), push-in continues. Checked on a 6-frame sheet: smooth,
+  serpent intact (five hoods, from the stills), no building. If L5's TTS runs longer, re-render with a longer -t.
+- Everything at 0 credits continues: TTS (Ep 1 + Ep 2), Ep 1 / Ep 2 cuts after 15:35 IST, previews + post text to the owner.
+- Ep 2 clip set is now complete: 2-01, 2-03 (zoom on s2-03_c, to render at L4 length), 2-04_zoom, 2-05, 2-06, 2-07_zoom, 2-08.
