@@ -52,3 +52,11 @@ Narration total 148.2 s; with ~0.4 s gaps and an end card ≈ 2:35.
 - 16:9 1920x1080 as supplied, or 9:16 1080x1920 with blurred fill.
 - Slow zoom/pan per image, short crossfades, glitch effect for the disappearing room, narration joined with
   small gaps, loudness ~-16 LUFS. Encodes after 15:35 IST only (Kite bot).
+
+## Timer boxes (x,y,w,h on 1600x900; subagent review 26 Nov), for a possible overlay
+
+img02 556,116,488,176 · img03 564,174,438,206 · img04 970,300,586,264 (glitchy, blurred) · img05 828,244,562,204 ·
+img06 536,84,524,292 · img07 884,248,468,248 · img08 524,190,546,210 · img09 568,110,466,234 ·
+img10 576,184,448,184 (glow to ~510-1060 x 160-390) · img11 548,136,526,272 · img12 558,104,486,278 ·
+img14 508,120,586,300 · img16 786,242,638,236 (+ progress bar) · img17 630,188,612,200. None on img01, 13, 15.
+No watermarks or stray text; no bad hands/faces. Glitch frames: img04, img08, img09, img10.
