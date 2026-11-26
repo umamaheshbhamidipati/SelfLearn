@@ -26,3 +26,15 @@
   scripted "2… 1." blackout. Glitch, phone and end-card shots checked on a frame sheet.
 - Full encode scheduled: `systemd-run --user` timer `shashi-render` at 15:36 → `media/out/the-last-view-16x9.mp4` +
   `the-last-view-preview-540p.mp4` (log `media/work/render.log`).
+
+### Render + preview (26 Nov, 15:36-15:55)
+
+- Full encode 15:36-15:50 (~14 min, x264 medium crf 19): `media/out/the-last-view-16x9.mp4`, 1920x1080 25 fps, 157.6 s,
+  145 MB; preview `the-last-view-preview-540p.mp4` 10.7 MB.
+- PASS/FAIL: length 2:37.6 PASS; black frames only on the title card (0-2.2 s) and the scripted "2… 1." blackout
+  (133.1-135.4 s) PASS; audio/video same length, narration at the planned starts PASS; captions readable (white, black
+  outline, ~63 px) PASS; loudness -16.5 LUFS, true peak -1.3 dBFS PASS. Only freeze = the static end card (150.8 s on).
+- Preview sent to the owner by Telegram (`send-preview.sh`, UmaAI bot) + notify-phone note with defaults and known
+  issues; also via SendUserFile. Credits: 0. Nothing posted anywhere.
+- Open: owner's changes (9:16 version, music, timer overlay, credit line). Hand Shashi the 1080p file (145 MB: too big for
+  WhatsApp as video; send as a document or re-encode smaller if needed).
