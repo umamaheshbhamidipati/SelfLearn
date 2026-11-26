@@ -177,3 +177,11 @@ NEXT (owner requests, 26 Nov, quoted from the main session):
   serpent intact (five hoods, from the stills), no building. If L5's TTS runs longer, re-render with a longer -t.
 - Everything at 0 credits continues: TTS (Ep 1 + Ep 2), Ep 1 / Ep 2 cuts after 15:35 IST, previews + post text to the owner.
 - Ep 2 clip set is now complete: 2-01, 2-03 (zoom on s2-03_c, to render at L4 length), 2-04_zoom, 2-05, 2-06, 2-07_zoom, 2-08.
+
+## 26 Nov ~00:45: delivery of the cuts (owner, relayed by the main session, quoted): "Keep it free, send me the preview in telegram, going to office"
+For EACH of Ep 1 and Ep 2, once the cut (encode after 15:35 IST, 0 credits) passes preflight:
+1. Telegram sendVideo of the phone copy (<50 MB) via the UmaAI bot: `UMAAI_TELEGRAM_BOT_TOKEN` / `UMAAI_TELEGRAM_CHAT_ID` from
+   `~/code/SelfLearn/.env` (load with `set -a; . .env; set +a`, never print them).
+2. `~/.local/bin/notify-phone` with the PASS/FAIL summary + the draft post text for word-for-word approval.
+3. SendUserFile the same phone copy (proactive).
+The owner replies in the Claude app, not the bot. Nothing is posted or scheduled before approval. Credits stay paused.
