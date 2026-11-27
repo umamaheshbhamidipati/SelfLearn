@@ -185,3 +185,23 @@ For EACH of Ep 1 and Ep 2, once the cut (encode after 15:35 IST, 0 credits) pass
 2. `~/.local/bin/notify-phone` with the PASS/FAIL summary + the draft post text for word-for-word approval.
 3. SendUserFile the same phone copy (proactive).
 The owner replies in the Claude app, not the bot. Nothing is posted or scheduled before approval. Credits stay paused.
+
+## 27 Nov ~17:45-18:20: Ep 1 cut + preview sent (0 credits; side session started by the main session)
+- TTS: Gemini `gemini-3.8-flash-tts`, voice Achird, free tier, one WAV per line in `media/ep{1,2}/audio-draft/`.
+  **Ep 1 L1-L9 done; Ep 2 L1-L4 done; Ep 2 L5-L9 NOT done.** The free tier allows 3 requests/min AND 10/day
+  (`generate_content_free_tier_requests, limit: 10`); 13 lines went through before the daily limit hit. Resets at midnight
+  Pacific (~13:30 IST). Lesson: one episode's 9 lines nearly fills a day's free TTS; voice one episode per day.
+- `build.sh <ep>` (new, from Tripurasura build_ep1.sh): TEMPO 1.08, GAP 0.25, card 2.0 s; clip sound -11 dB + low bed
+  looped from 1-02 (Ep 1) / 2-06 (Ep 2). **No music, no SFX.** Rose grade 1080x1920, captions `captions-ep1.ass`.
+  Ep 2 map is written (2-01, 2-02 still, 2-03 = s2-03_c zoom at L4 length, 2-04_zoom held, 2-05, 2-06 + s2-06_a,
+  2-07_zoom held, 2-08 0-3.7 held under the card) but not rendered yet.
+- Ep 1: 44.6 s, `media/out/ep1-gajendra.mp4` (16 MB) + `ep1-gajendra-phone.mp4` (7.2 MB). Render took 12 min.
+  color_check OK (R/B 0.92). Preflight (my contact sheet + subagent at 3 fps, 134 frames): PASS. Notes: 1-04
+  elephant sits up (accepted 26 Nov); one frame at 16.0 s shows the L3 caption on the L4 shot; Veo watermark visible
+  (L3, L7), not cropped; elephant reads grey rather than silver-white in 1-08; end card 2 s by design.
+- Draft post text for Ep 1 + Ep 2 in `publish.md` (Ep 2: Vishnu on Adishesha in yoga nidra, Lakshmi at his feet; AI label).
+- Sent 27 Nov ~18:15: Telegram sendVideo (ok), notify-phone with PASS summary + Ep 1 post text for word-for-word approval,
+  SendUserFile. Nothing posted or scheduled.
+
+NEXT: (1) Sat 28 Nov after ~13:30 IST: Ep 2 TTS L5-L9 (`scripts/tts.sh`, 25 s apart), then `bash build.sh 2` after 15:35,
+preflight, Telegram + notify-phone + SendUserFile as for Ep 1. (2) Owner's word-for-word OK of the Ep 1 text before Mon 30 Nov.

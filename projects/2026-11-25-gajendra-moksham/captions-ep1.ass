@@ -1,0 +1,27 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Noto Serif Telugu,62,&H00FFFFFF,&H00FFFFFF,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,1,4,3,2,70,70,440,1
+Style: Title,Noto Serif Telugu,130,&H006AC8F5,&H006AC8F5,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,1,5,6,5,0,0,0,1
+Style: Sub,Noto Serif Telugu,78,&H00E8F0F5,&H00E8F0F5,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,1,3,4,5,0,0,0,1
+Style: Brand,Noto Serif Telugu,40,&H00C8E6F3,&H00C8E6F3,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,1,3,4,5,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:04.18,Cap,,0,0,0,,నీటిలోంచి ఒక్కసారిగా… మొసలి నోరు గజరాజు కాలిని పట్టేసింది!
+Dialogue: 0,0:00:04.18,0:00:10.26,Cap,,0,0,0,,పాలసముద్రం మధ్యలో త్రికూట పర్వతం… అక్కడ వరుణుని ఉద్యానంలో ఒక అందమైన సరస్సు.
+Dialogue: 0,0:00:10.26,0:00:16.13,Cap,,0,0,0,,ఏనుగుల రాజు గజేంద్రుడు తన గుంపుతో వచ్చి… తొండంతో నీళ్లు చల్లుతూ ఆడుకున్నాడు.
+Dialogue: 0,0:00:16.13,0:00:21.81,Cap,,0,0,0,,అప్పుడే ఒక బలమైన మొసలి అతని కాలు పట్టుకుంది. ఎంత లాగినా వదలలేదు.
+Dialogue: 0,0:00:21.81,0:00:25.57,Cap,,0,0,0,,తోటి ఏనుగులు వెనకనుంచి లాగాయి… కానీ కాపాడలేకపోయాయి.
+Dialogue: 0,0:00:25.57,0:00:28.25,Cap,,0,0,0,,ఆ పోరాటం… వెయ్యి సంవత్సరాలు సాగింది.
+Dialogue: 0,0:00:28.25,0:00:32.22,Cap,,0,0,0,,నీటిలో మొసలి బలం పెరిగింది… గజరాజు బలం తగ్గిపోయింది.
+Dialogue: 0,0:00:32.22,0:00:36.63,Cap,,0,0,0,,తన బలం గానీ, తనవాళ్లు గానీ… ఎవరూ కాపాడలేరని అర్థమైంది.
+Dialogue: 0,0:00:36.63,0:00:42.82,Cap,,0,0,0,,అప్పుడు ఆకాశం వైపు చూసి… పరమాత్ముడిని తలచుకున్నాడు. తర్వాతి భాగంలో… శరణు.
+Dialogue: 0,0:00:42.87,0:00:44.57,Title,,0,0,0,,{\pos(540,1330)\fs110\fad(400,0)}గజేంద్ర మోక్షం
+Dialogue: 0,0:00:42.87,0:00:44.57,Sub,,0,0,0,,{\pos(540,1480)\fs60\fad(400,0)}భాగం 1 · తర్వాతి భాగం: శరణు
+Dialogue: 0,0:00:42.87,0:00:44.57,Brand,,0,0,0,,{\pos(540,1600)\fad(400,0)}UmaAI Studio
