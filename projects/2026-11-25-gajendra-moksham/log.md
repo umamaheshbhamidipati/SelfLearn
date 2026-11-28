@@ -205,3 +205,11 @@ The owner replies in the Claude app, not the bot. Nothing is posted or scheduled
 
 NEXT: (1) Sat 28 Nov after ~13:30 IST: Ep 2 TTS L5-L9 (`scripts/tts.sh`, 25 s apart), then `bash build.sh 2` after 15:35,
 preflight, Telegram + notify-phone + SendUserFile as for Ep 1. (2) Owner's word-for-word OK of the Ep 1 text before Mon 30 Nov.
+
+## 28 Nov ~08:10: Ep 1 post text APPROVED (owner, in the main session, quoted): "approve, and change the caption line too"
+- Owner feedback first (quoted): "EP1 is shaking and last title say gajendra moksham, but in telugu it says Sharanu". Fixes sent to
+  the cuts session: smooth the still push-ins; end card = "గజేంద్ర మోక్షం / భాగం 1: పట్టు / తర్వాతి భాగం గురువారం".
+- Caption line changed to "గజేంద్ర మోక్షం, భాగం 1. తర్వాతి భాగం గురువారం." (publish.md).
+- YouTube: title "గజేంద్ర మోక్షం 1: మొసలి పట్టు | Gajendra Moksham #shorts", description = caption with the long hashtag
+  line, altered/synthetic YES, not for kids, both playlists, scheduled Mon 30 Nov 06:00 IST, after the fixed render passes.
+  Instagram + Facebook: the owner posts by hand.

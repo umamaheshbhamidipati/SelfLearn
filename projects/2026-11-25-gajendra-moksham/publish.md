@@ -43,11 +43,12 @@ Instagram is posted **by the owner, by hand** (no Instagram/Meta automation). Fi
 (upload) / `ep1-gajendra-phone.mp4` (preview); same for ep2. Voice: Gemini TTS (Achird). Music: none (clips' own Veo sound only).
 
 ## Ep 1 (post Mon 30 Nov), Instagram + Facebook caption
+APPROVED by the owner 28 Nov ("approve, and change the caption line too"): caption, YouTube title/description/settings below, YouTube scheduled Mon 30 Nov 06:00 IST once the fixed render (no shake, new end card) passes.
 నీటిలోంచి ఒక్కసారిగా… మొసలి నోరు గజరాజు కాలిని పట్టేసింది! వెయ్యి సంవత్సరాల పోరాటం మొదలైంది. 🐘🌊
 
 త్రికూట పర్వతం దగ్గరి సరస్సులో ఆడుకుంటున్న గజేంద్రుడిని ఒక బలమైన మొసలి పట్టుకుంది. తోటి ఏనుగులు, తన బలం… ఏవీ కాపాడలేకపోయాయి. అప్పుడు అతను ఆకాశం వైపు చూశాడు… శ్రీమద్భాగవతం (అష్టమ స్కంధం) లోని కథ.
 
-గజేంద్ర మోక్షం, భాగం 1. తర్వాతి భాగం: శరణు (గురువారం). 🪔
+గజేంద్ర మోక్షం, భాగం 1. తర్వాతి భాగం గురువారం. 🪔
 
 🔖 సేవ్ చేసుకోండి, కుటుంబంతో షేర్ చేయండి.
 
