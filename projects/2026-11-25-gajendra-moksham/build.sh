@@ -48,7 +48,7 @@ if [ "$EP" = 1 ]; then
   fit "$K/1-07.mp4" 2.0 5.9 "${s[7]}" s1-07_a                  # L7 weaker: the eye
   push s1-08_a "$(add "$(add "${s[8]}" "${s[9]}")" $CARD)" 0.0004   # L8-L9 trunk to the sky + end card (free zoom)
 else
-  BED=$K/2-06.mp4; TITLE="గజేంద్ర మోక్షం"; SUB="భాగం 2 · తర్వాతి భాగం: మోక్షం"; NEXT=""; F=$O/ep2-gajendra   # TODO: same card pattern as Ep 1 (owner 28 Nov)
+  BED=$K/2-06.mp4; TITLE="గజేంద్ర మోక్షం"; SUB="భాగం 2: శరణు"; NEXT="చివరి భాగం త్వరలో"; F=$O/ep2-gajendra
   fit "$K/2-01.mp4" 1.5 6.4 "$(add $LEAD "${s[1]}")" s2-01_b   # L1 hook: beam onto the trunk
   push s2-02_b "$(add "${s[2]}" "${s[3]}")" 0.0004             # L2-L3 the prayer (free zoom)
   push s2-03_c "${s[4]}" 0.0004                                # L4 Anantashayana, asleep (free zoom, L4 length)
