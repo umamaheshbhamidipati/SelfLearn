@@ -213,3 +213,14 @@ preflight, Telegram + notify-phone + SendUserFile as for Ep 1. (2) Owner's word-
 - YouTube: title "గజేంద్ర మోక్షం 1: మొసలి పట్టు | Gajendra Moksham #shorts", description = caption with the long hashtag
   line, altered/synthetic YES, not for kids, both playlists, scheduled Mon 30 Nov 06:00 IST, after the fixed render passes.
   Instagram + Facebook: the owner posts by hand.
+
+## 28 Nov ~08:00-08:40: Ep 1 v2 (owner feedback, relayed by the main session: "EP1 is shaking and last title say gajendra moksham, but in telugu it says Sharanu")
+- Shake fix: `push()` in build.sh now pre-scales the still once to 2880x5120 (4x) and runs zoompan there, then lanczos
+  down to 720x1280, so zoompan's whole-pixel steps are 1/4 px. Measured (subagent, vidstabdetect 24 fps): still push-ins
+  ≤0.1 px jitter, monotonic; Veo clips ≤0.5 px except 1-07 (gentle Veo drift) and 1-04_slow (isolated 1.7 px
+  minterpolate steps, rms 0.16). Render 23 min.
+- End card: "గజేంద్ర మోక్షం" / "భాగం 1: పట్టు" / small "తర్వాతి భాగం గురువారం" / UmaAI Studio (no Sharanu on the card;
+  L9 narration still says "తర్వాతి భాగంలో… శరణు"). Checked on a frame: shaped, not clipped.
+  Ep 2 card in build.sh still has the old pattern (TODO marked there).
+- Re-sent 28 Nov ~08:40: Telegram sendVideo ok (token now via curl -K stdin, not argv), notify-phone, SendUserFile.
+- Upload file for YouTube: `media/out/ep1-gajendra.mp4` (1080x1920, 44.6 s, 16 MB). Nothing uploaded or scheduled by this session.

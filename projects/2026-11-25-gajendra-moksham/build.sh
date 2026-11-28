@@ -18,9 +18,12 @@ clip(){ # file start dur   (keeps the clip's own sound)
 hold(){ # file start usable slot  -> clip, then its last frame held (for the ffmpeg zoom clips)
   ffmpeg -v error -y -ss "$2" -t "$3" -i "$1" -map 0:v -map 0:a -vf "$V,tpad=stop_mode=clone:stop_duration=20" -af apad -t "$4" $ENC "$(nxt)"; }
 push(){ # still dur [zoom-per-frame]   slow centred push-in on a still, silent track
-  local z=${3:-0.0005}
-  ffmpeg -v error -y -loop 1 -t "$2" -i "$S/$1.jpg" -f lavfi -t "$2" -i anullsrc=r=48000:cl=stereo \
-    -vf "scale=1440:-2,zoompan=z='1+$z*on':x='iw/2-iw/zoom/2':y='ih/2-ih/zoom/2':d=1:s=720x1290:fps=24,crop=720:1280,format=yuv420p,setsar=1" \
+  # anti-shake (owner 28 Nov "EP1 is shaking"): pre-scale the still once to 4x the output width so zoompan's
+  # whole-pixel x/y/crop steps are 1/4 px at 720 wide, then lanczos down.
+  local z=${3:-0.0005} big="$T/big_$1.png"
+  [ -f "$big" ] || ffmpeg -v error -y -i "$S/$1.jpg" -vf "scale=2880:5120:force_original_aspect_ratio=increase:flags=lanczos,crop=2880:5120" "$big"
+  ffmpeg -v error -y -framerate 24 -loop 1 -t "$2" -i "$big" -f lavfi -t "$2" -i anullsrc=r=48000:cl=stereo \
+    -vf "zoompan=z='1+$z*on':x='iw/2-iw/zoom/2':y='ih/2-ih/zoom/2':d=1:s=2880x5120:fps=24,scale=720:1280:flags=lanczos,format=yuv420p,setsar=1" \
     -map 0:v -map 1:a -af apad -t "$2" $ENC "$(nxt)"; }
 add(){ printf '%.4f' "$(echo "$1 + $2" | bc -l)"; }; sub(){ printf '%.4f' "$(echo "$1 - $2" | bc -l)"; }
 lt(){ [ "$(echo "$1 < $2" | bc -l)" = 1 ]; }
@@ -35,7 +38,7 @@ D=$(printf '%.2f' "$(add "$(sub "$t" $GAP)" $CARD)"); echo "total $D s"; for i i
 [ -n "${SEGCHECK:-}" ] && { rm -rf "$T"; exit 0; }
 # ---- picture, line by line (usable ranges from the 25-26 Nov reviews in log.md) ----
 if [ "$EP" = 1 ]; then
-  BED=$K/1-02.mp4; TITLE="గజేంద్ర మోక్షం"; SUB="భాగం 1 · తర్వాతి భాగం: శరణు"; F=$O/ep1-gajendra
+  BED=$K/1-02.mp4; TITLE="గజేంద్ర మోక్షం"; SUB="భాగం 1: పట్టు"; NEXT="తర్వాతి భాగం గురువారం"; F=$O/ep1-gajendra
   fit "$K/1-01.mp4" 0 5.0 "$(add $LEAD "${s[1]}")" s1-01_c     # L1 hook: jaws on the leg
   fit "$K/1-02.mp4" 0 7.9 "${s[2]}" s1-02_b                    # L2 Trikuta, the lake
   fit "$K/1-03.mp4" 0 6.3 "${s[3]}" s1-03_a                    # L3 herd plays, trunk spray
@@ -45,7 +48,7 @@ if [ "$EP" = 1 ]; then
   fit "$K/1-07.mp4" 2.0 5.9 "${s[7]}" s1-07_a                  # L7 weaker: the eye
   push s1-08_a "$(add "$(add "${s[8]}" "${s[9]}")" $CARD)" 0.0004   # L8-L9 trunk to the sky + end card (free zoom)
 else
-  BED=$K/2-06.mp4; TITLE="గజేంద్ర మోక్షం"; SUB="భాగం 2 · తర్వాతి భాగం: మోక్షం"; F=$O/ep2-gajendra
+  BED=$K/2-06.mp4; TITLE="గజేంద్ర మోక్షం"; SUB="భాగం 2 · తర్వాతి భాగం: మోక్షం"; NEXT=""; F=$O/ep2-gajendra   # TODO: same card pattern as Ep 1 (owner 28 Nov)
   fit "$K/2-01.mp4" 1.5 6.4 "$(add $LEAD "${s[1]}")" s2-01_b   # L1 hook: beam onto the trunk
   push s2-02_b "$(add "${s[2]}" "${s[3]}")" 0.0004             # L2-L3 the prayer (free zoom)
   push s2-03_c "${s[4]}" 0.0004                                # L4 Anantashayana, asleep (free zoom, L4 length)
@@ -67,7 +70,8 @@ for i in $(seq 1 $N); do idx=$((nseg+1+k)); ms=$(printf '%.0f' "$(echo "${st[$i]
 E1=$(add "${st[$N]}" "$(add "${d[$N]}" 0.3)")
 { echo "Dialogue: 0,$(ts "$E1"),$(ts "$D"),Title,,0,0,0,,{\\pos(540,1330)\\fs110\\fad(400,0)}$TITLE"
   echo "Dialogue: 0,$(ts "$E1"),$(ts "$D"),Sub,,0,0,0,,{\\pos(540,1480)\\fs60\\fad(400,0)}$SUB"
-  echo "Dialogue: 0,$(ts "$E1"),$(ts "$D"),Brand,,0,0,0,,{\\pos(540,1600)\\fad(400,0)}UmaAI Studio"; } >> $C
+  [ -n "$NEXT" ] && echo "Dialogue: 0,$(ts "$E1"),$(ts "$D"),Sub,,0,0,0,,{\\pos(540,1580)\\fs46\\fad(400,0)}$NEXT"
+  echo "Dialogue: 0,$(ts "$E1"),$(ts "$D"),Brand,,0,0,0,,{\\pos(540,1670)\\fad(400,0)}UmaAI Studio"; } >> $C
 ffmpeg -v error -y $in -stream_loop -1 -i "$BED" $vin -filter_complex \
   "${fc}concat=n=$nseg:v=1:a=1[v][ca];[$nseg:a]atrim=0:$D,asetpts=N/SR/TB,volume=-24dB[bed];[ca]volume=-11dB[cl];${vf}${mix}amix=inputs=$k:normalize=0[vo];[vo][cl][bed]amix=inputs=3:normalize=0:duration=longest,afade=t=out:st=$(sub "$D" 1.2):d=1.2,alimiter=limit=0.84:level=disabled,loudnorm=I=-16:TP=-1.5[a]" \
   -map "[v]" -map "[a]" -c:v libx264 -preset veryfast -crf 16 -c:a aac -b:a 160k -t "$D" "$F-cut.mp4"
