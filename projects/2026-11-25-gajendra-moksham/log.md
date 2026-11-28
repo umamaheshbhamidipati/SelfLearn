@@ -232,3 +232,17 @@ preflight, Telegram + notify-phone + SendUserFile as for Ep 1. (2) Owner's word-
 - Title/description exactly as approved; altered or synthetic = Yes; not made for kids; playlists "భక్తి కథలు | Devotional
   Stories" + new "గజేంద్ర మోక్షం | Gajendra Moksham" (public, created 28 Nov). Initial check: copyright + guidelines no issues.
 - On Mon 30 Nov register it: `scripts/metrics.py post`. Instagram + Facebook: the owner posts by hand.
+
+## 28 Nov 15:32-16:20: Ep 2 cut + preview sent (0 credits; owner "finish Ep 2 after 3:30", relayed by the main session)
+- TTS Ep 2 L5-L9 (Achird, free tier, after the daily reset): 3.7 / 4.9 / 3.6 / 4.0 / 5.6 s.
+- `bash build.sh 2` with the 4x anti-shake push(): 40.96 s, `media/out/ep2-gajendra.mp4` + `ep2-gajendra-phone.mp4`
+  (7.3 MB). Render 19 min. End card: గజేంద్ర మోక్షం / భాగం 2: శరణు / చివరి భాగం త్వరలో / UmaAI Studio (no date for Ep 3
+  while credits are paused). color_check OK (R/B 0.93). No music.
+- Preflight (my contact sheet + subagent, 123 frames at 3 fps): PASS. Five hoods, one serpent body, no building;
+  four arms; Garuda eagle head; Lakshmi face turned away; one chakra; push-ins 0 px jitter; captions shaped; AI/Veo marks
+  visible. Notes sent to the owner: from ~35 s the flying chakra reads as a plain golden disc (2-08); the far Garuda in
+  2-06 (27-30 s) looks more bird-like than in the close shots. Eyes-closed in L2-L3 not checked at full size.
+- Sent 28 Nov ~16:15: Telegram sendVideo ok, notify-phone (PASS summary + Ep 2 draft post text for word-for-word
+  approval), SendUserFile. Nothing uploaded or scheduled.
+
+NEXT: owner's word-for-word OK of the Ep 2 text (post Thu 3 Dec); then the main session schedules it.
