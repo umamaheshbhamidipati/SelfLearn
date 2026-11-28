@@ -224,3 +224,11 @@ preflight, Telegram + notify-phone + SendUserFile as for Ep 1. (2) Owner's word-
   Ep 2 card in build.sh still has the old pattern (TODO marked there).
 - Re-sent 28 Nov ~08:40: Telegram sendVideo ok (token now via curl -K stdin, not argv), notify-phone, SendUserFile.
 - Upload file for YouTube: `media/out/ep1-gajendra.mp4` (1080x1920, 44.6 s, 16 MB). Nothing uploaded or scheduled by this session.
+
+## 28 Nov ~09:05: Ep 1 SCHEDULED on YouTube (main session, owner-approved text)
+- Brand channel UmaAI Studio, https://youtube.com/shorts/P4l2jH4p31k, public on Mon 30 Nov 2026 06:00 (GMT+05:30); private until then.
+- Upload file: `media/out/ep1-gajendra-yt.mp4` = v2 (`ep1-gajendra.mp4`) re-encoded to HEVC 1.55 Mbps, 7.9 MB, because the
+  browser upload tool takes <10 MB (v2 itself is h264 2.7 Mbps, so little is lost). 1080x1920, 0:45.
+- Title/description exactly as approved; altered or synthetic = Yes; not made for kids; playlists "భక్తి కథలు | Devotional
+  Stories" + new "గజేంద్ర మోక్షం | Gajendra Moksham" (public, created 28 Nov). Initial check: copyright + guidelines no issues.
+- On Mon 30 Nov register it: `scripts/metrics.py post`. Instagram + Facebook: the owner posts by hand.
