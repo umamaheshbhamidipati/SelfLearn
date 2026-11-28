@@ -17,13 +17,13 @@ clip(){ # file start dur   (keeps the clip's own sound)
   ffmpeg -v error -y -ss "$2" -t "$3" -i "$1" -map 0:v -map 0:a -vf "$V" -af apad -t "$3" $ENC "$(nxt)"; }
 hold(){ # file start usable slot  -> clip, then its last frame held (for the ffmpeg zoom clips)
   ffmpeg -v error -y -ss "$2" -t "$3" -i "$1" -map 0:v -map 0:a -vf "$V,tpad=stop_mode=clone:stop_duration=20" -af apad -t "$4" $ENC "$(nxt)"; }
-push(){ # still dur [zoom-per-frame]   slow centred push-in on a still, silent track
+push(){ # still dur [zoom-per-frame] [zoom expr]   slow centred push-in (or the given zoom expr) on a still, silent track
   # anti-shake (owner 28 Nov "EP1 is shaking"): pre-scale the still once to 4x the output width so zoompan's
   # whole-pixel x/y/crop steps are 1/4 px at 720 wide, then lanczos down.
-  local z=${3:-0.0005} big="$T/big_$1.png"
+  local z=${3:-0.0005} big="$T/big_$1.png"; local ze=${4:-1+$z*on}
   [ -f "$big" ] || ffmpeg -v error -y -i "$S/$1.jpg" -vf "scale=2880:5120:force_original_aspect_ratio=increase:flags=lanczos,crop=2880:5120" "$big"
   ffmpeg -v error -y -framerate 24 -loop 1 -t "$2" -i "$big" -f lavfi -t "$2" -i anullsrc=r=48000:cl=stereo \
-    -vf "zoompan=z='1+$z*on':x='iw/2-iw/zoom/2':y='ih/2-ih/zoom/2':d=1:s=2880x5120:fps=24,scale=720:1280:flags=lanczos,format=yuv420p,setsar=1" \
+    -vf "zoompan=z='$ze':x='iw/2-iw/zoom/2':y='ih/2-ih/zoom/2':d=1:s=2880x5120:fps=24,scale=720:1280:flags=lanczos,format=yuv420p,setsar=1" \
     -map 0:v -map 1:a -af apad -t "$2" $ENC "$(nxt)"; }
 add(){ printf '%.4f' "$(echo "$1 + $2" | bc -l)"; }; sub(){ printf '%.4f' "$(echo "$1 - $2" | bc -l)"; }
 lt(){ [ "$(echo "$1 < $2" | bc -l)" = 1 ]; }
@@ -54,7 +54,8 @@ else
   push s2-03_c "${s[4]}" 0.0004                                # L4 Anantashayana, asleep (free zoom, L4 length)
   hold "$K/2-04_zoom.mp4" 0 5.0 "${s[5]}"                      # L5 eyes open, rises (free zoom + crossfade)
   fit "$K/2-05.mp4" 0 4.7 "${s[6]}" s2-05_a                    # L6 mounts Garuda
-  fit "$K/2-06.mp4" 0 2.6 "${s[7]}" s2-06_a                    # L7 tearing through the clouds
+  push s2-05_a "${s[7]}" 0 'max(1,1.25-0.003*on)'             # L7 through the clouds: slow pull-out on the 2-05 still.
+  # (owner 28 Nov: the 2-06 rider "looks like a lady"; s2-06_a has the same rider, no blue skin/crown, so neither is used)
   hold "$K/2-07_zoom.mp4" 0 6.0 "${s[8]}"                      # L8 chakra blazes (free zoom + glow)
   hold "$K/2-08.mp4" 0 3.7 "$(add "${s[9]}" $CARD)"            # L9 chakra flies + end card on its last clean frame
 fi
