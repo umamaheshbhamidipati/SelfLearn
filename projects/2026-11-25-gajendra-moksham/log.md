@@ -246,3 +246,12 @@ preflight, Telegram + notify-phone + SendUserFile as for Ep 1. (2) Owner's word-
   approval), SendUserFile. Nothing uploaded or scheduled.
 
 NEXT: owner's word-for-word OK of the Ep 2 text (post Thu 3 Dec); then the main session schedules it.
+
+## 28 Nov ~16:00-16:30: Ep 2 v2 (owner, relayed by the main session: "when vishnu is flying on the eagle it looks like a lady")
+- The 2-06 rider (L7, 27-29.6 s) is seen from behind: dark hair, light-blue cloth, no blue skin or crown. Still s2-06_a has
+  the SAME rider (full-res crop checked), so a zoom on it was rejected. L7 is now a slow pull-out (1.25→1.0) on s2-05_a
+  (front view: blue skin, crown, four arms on eagle-headed Garuda). `push()` takes an optional zoom expression.
+  2-06 audio stays only as the low bed. Lesson: a small rider seen from behind loses every identity cue (skin, crown); check
+  far shots for "who is this" before using them.
+- Re-rendered (23 min): 40.96 s, `media/out/ep2-gajendra.mp4` (16 MB) + phone copy. L7 strip checked: Vishnu clear, smooth.
+- Re-sent ~16:30: Telegram ok, notify-phone (one line), SendUserFile. Nothing uploaded or scheduled.
